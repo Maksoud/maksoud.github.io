@@ -12,7 +12,7 @@ git config --global gc.auto 0
 git add .
 
 :: Commit changes with a message
-git commit -m "Atualização automática de notas"
+git commit -m "Atualizacao automatica de notas"
 
 :: Push changes to the remote repository
 git push origin main
