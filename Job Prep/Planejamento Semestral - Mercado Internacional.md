@@ -2,15 +2,15 @@
 
 **Semana 1-2: Autoavaliação e Definição de Metas**
 
-- **Autoavaliação:** Revise suas habilidades técnicas e comportamentais, experiências e interesses. Identifique suas forças e áreas de melhoria.
+- **Autoavaliação:** Revise suas habilidades, experiências e interesses. Identifique suas forças e áreas de melhoria.
 - **Definição de Metas:** Estabeleça metas claras para a transição internacional (ex: cargos desejados, empresas-alvo).
 - **Pesquisa de Mercado:** Identifique as exigências comuns das vagas de product owner, data analyst e scrum master em empresas internacionais.
 - **Plano de Desenvolvimento Individual (PDI):** Crie um PDI baseado nos gaps identificados e nas metas estabelecidas.
 
-**Semana 3-4: Aperfeiçoamento de Inglês para Negócios**
+**Semana 3-4: Aperfeiçoamento de Inglês**
 
 - **Avaliação de Proficiência:** Faça um teste de proficiência em inglês (ex: TOEFL, IELTS) para identificar seu nível atual.
-- **Aulas de Inglês para Negócios:** Inscreva-se em cursos focados em habilidades específicas (ex: inglês para negócios, inglês técnico).
+- **Aulas de Inglês:** Inscreva-se em cursos focados em habilidades específicas (ex: inglês para negócios, inglês técnico).
 - **Prática Diária:** Dedique pelo menos 1 hora por dia para leitura, escrita, escuta e fala em inglês. Use aplicativos como Duolingo, Italki, ou participe de grupos de conversação.
 
 ### **Mês 02**
