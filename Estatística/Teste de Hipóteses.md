@@ -36,30 +36,20 @@ O teste de hipóteses é uma metodologia estatística usada para tomar decisões
 **Problema:** Suponha que a média populacional de uma característica seja 50. Uma amostra de 30 elementos tem uma média de 52 e um desvio padrão de 5. Queremos testar se a média populacional é diferente de 50 ao nível de significância de 0.05.
 
 1. **Formular as Hipóteses**
-    
     - H0:
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/1ccf7e25-9b87-4a73-bdb1-ba81abd68a7a/Untitled.png)
+   ![[42.png]]
     
     - H1:
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/0148fd3e-c4e4-40fe-92b0-37954fd847fa/Untitled.png)
+    ![[43.png]]
     
 2. **Escolher o Nível de Significância (α)**
-    
     - α = 0.05
 3. **Calcular a Estatística de Teste**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/1812eb56-ae04-4a29-b77f-15c032d6e52a/Untitled.png)
-    
+    ![[44.png]]
 4. **Determinar o Valor-P**
-    
     - Usando uma tabela \( t \) ou software estatístico, encontramos que para (formula em imagem) e 29 graus de liberdade, o valor-p é aproximadamente 0.036.
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/eb09bd64-74b1-49a8-9a6a-d09cc501520c/Untitled.png)
-        
+        ![[45.png]]
 5. **Tomar uma Decisão**
-    
     - Como o valor-p (0.036) < α (0.05), rejeitamos H0.
 
 Portanto, há evidências suficientes para sugerir que a média populacional é diferente de 50.
@@ -75,27 +65,18 @@ Portanto, há evidências suficientes para sugerir que a média populacional é 
 | Total    | 50        | 50        | 100   |
 
 1. **Formular as Hipóteses**
-    
     - H0: Não há associação entre gênero e preferência de produto.
     - H1: Há associação entre gênero e preferência de produto.
 2. **Escolher o Nível de Significância (α)**
-    
     - α = 0.05
 3. **Calcular a Estatística de Teste** $𝜒2$
-    
     - Calcular as frequências esperadas:
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/acfcf321-1245-4204-baa9-b1f45aea1444/Untitled.png)
-        
+        ![[46.png]]
     - Calcular $𝜒2$:
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/4314edb8-6760-4234-aaea-8f4a749ae82b/Untitled.png)
-        
+        ![[47.png]]
 4. **Determinar o Valor-P**
-    
     - Com 1 grau de liberdade (df = (r-1)(c-1) = 1), usando uma tabela $𝜒2$ ou software estatístico, encontramos que o valor-p é muito pequeno (< 0.001).
 5. **Tomar uma Decisão**
-    
     - Como o valor-p < α (0.05), rejeitamos H0.
 
 Portanto, há evidências suficientes para sugerir que há uma associação entre gênero e preferência de produto.

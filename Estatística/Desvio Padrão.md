@@ -3,12 +3,10 @@ O desvio padrão é uma medida estatística que quantifica a quantidade de varia
 ## Fórmula do Desvio Padrão
 
 Para uma população:
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/20d00bca-67ea-452f-b488-23b193e95b79/Untitled.png)
+![[maksoud.github.io/Estatística/imgs/1.png]]
 
 Para uma amostra:
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/45c16bd5-0b12-43c4-a4a5-5392bd333945/Untitled.png)
+![[maksoud.github.io/Estatística/imgs/2.png]]
 
 Onde:
 
@@ -23,46 +21,35 @@ Onde:
 ## Passo a Passo para Calcular o Desvio Padrão
 
 1. **Calcule a média (média aritmética):**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/14487a07-7f73-4376-8c99-4fedf52aee65/Untitled.png)
+    ![[maksoud.github.io/Estatística/imgs/3.png]]
     
 2. **Subtraia a média de cada valor individual para encontrar a diferença:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/3e02bca8-57c8-4c05-823a-730c2cc74ea2/Untitled.png)
+    ![[maksoud.github.io/Estatística/imgs/4.png]]
     
 3. **Eleve cada diferença ao quadrado:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/790d2364-1b99-4079-b50a-5b91f0a6c934/Untitled.png)
+    ![[5 1.png]]
     
 4. **Calcule a média das diferenças ao quadrado (para a população, divida pelo número total de observações; para a amostra, divida pelo número total de observações menos um):**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/ec3f5570-20f4-4317-b1a2-063f1f9719a5/Untitled.png)
+    ![[maksoud.github.io/Estatística/imgs/6.png]]
     
 5. **Encontre a raiz quadrada da média das diferenças ao quadrado para obter o desvio padrão:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/757aa67f-241f-4607-ba87-b2de68f13cf7/Untitled.png)
-    
+    ![[maksoud.github.io/Estatística/imgs/7.png]]
 
 ## Exemplo Prático
 
 Vamos calcular o desvio padrão de um pequeno conjunto de dados de amostra: 4, 8, 6, 5, 3.
 
 1. **Calcular a média:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/b35a1eda-91e4-4eb0-aeb0-d6ffbfa6ca9b/Untitled.png)
+    ![[maksoud.github.io/Estatística/imgs/8.png]]
     
 2. **Subtrair a média de cada valor e elevar ao quadrado:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/2e57bed2-b192-4cfa-9664-9631337237e2/Untitled.png)
+   ![[maksoud.github.io/Estatística/imgs/9.png]]
     
 3. **Calcular a média das diferenças ao quadrado:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/f31704b4-2c11-4f7a-9260-d5bc3b2a2e2d/Untitled.png)
+    ![[maksoud.github.io/Estatística/imgs/10.png]]
     
 4. **Calcular a raiz quadrada da média das diferenças ao quadrado:**
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/e14f139c-40c3-4b5c-ae62-235044c905e4/Untitled.png)
-    
+    ![[maksoud.github.io/Estatística/imgs/11.png]]
 
 Portanto, o desvio padrão da amostra é aproximadamente 1.92.
 

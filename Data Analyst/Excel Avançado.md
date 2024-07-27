@@ -227,33 +227,13 @@ Como Cientista de Dados, é essencial conhecer as principais fórmulas do Excel 
 
 Imagine que você tem uma lista de produtos e quer aplicar filtros avançados:
 
-Produto
-
----
-
-DataAnalyzer
-
----
-
-BigDataTool
-
----
-
-Metadata
-
----
-
-DataQuest
-
----
-
-Info?Tool
-
----
-
-Simple*Star
-
----
+* Produto
+* DataAnalyzer
+* BigDataTool
+* Metadata
+* DataQuest
+* Info?Tool
+* Simple*Star
 
 1. **Filtrar produtos que contêm "Data" em qualquer parte do nome:**
     - **Critério:** **`Data*`**

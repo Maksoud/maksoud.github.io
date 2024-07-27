@@ -1,0 +1,61 @@
+[https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftecnicas-avancadas-de-scrum%3Ftrk%3Dshare_ent_url%26shareId%3DTlVL01%252BIQhiy%252FdiX29KE4A%253D%253D](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftecnicas-avancadas-de-scrum%3Ftrk%3Dshare_ent_url%26shareId%3DTlVL01%252BIQhiy%252FdiX29KE4A%253D%253D)
+
+### Introdução à liderança servidora
+
+Quando você selecionar uma linha na transcrição, será direcionado à seção equivalente no vídeo.
+
+Muito se fala em liderança servidora nos últimos anos. O interessante é que, assim como o Scrum, ela promove uma reviravolta nos conceitos tradicionais de gestão. A liderança servidora é uma filosofia que se concentra em assegurar que as maiores necessidades dos outros sejam atendidas primeiro. Ao adotar a liderança servidora, estamos dando à equipe a chance de trabalhar com autonomia. Dessa forma, a equipe realmente se importa com o trabalho que faz.
+
+Então, vamos ver como a liderança servidora é diferente e o que isso significa. A liderança de projetos tradicional é voltada ao gerenciamento. Gerenciar significa direcionar ou controlar. O interessante é que, no gerenciamento, falta uma palavra-chave: o conceito de liderança. Na liderança, o foco é dar orientação e direcionamento. Com certeza você já sentiu a diferença entre um gerente e um líder. Eu já.
+
+Eu tinha um gerente que dizia com clareza o que eu precisava fazer, quando e como. Por outro lado, nunca me explicava a importância daquilo. Era simplesmente a minha lista do dia. Isso não me dava espaço para crescer, aprender ou me importar com meu trabalho. Era muito insatisfatório. Eu não tinha mais interesse no resultado. Aliás, quando algo dava errado, nunca era minha culpa, porque a ideia não era minha. Eu perdi a capacidade de contribuir de verdade.
+
+O estilo do meu ex-gerente se chama “comando e controle”. O objetivo é comandar as pessoas e controlar suas ações. Esse estilo reflete a crença de que não dá para confiar nas pessoas, e elas nunca vão cumprir com seus compromissos. Na liderança servidora, a crença é totalmente diferente. Os líderes servidores acreditam que as pessoas sempre querem contribuir para um objetivo maior. Quando definimos uma visão para as pessoas e as ajudamos a entender a importância delas para concretizá-la, elas dão o melhor de si todo dia.
+
+Porém, vai além de definir a visão e os objetivos. Em última análise, as equipes e seus membros precisam de três coisas para terem envolvimento total no trabalho e prosperarem. A primeira é autonomia, a necessidade das pessoas de se autodirigirem. Meu ex-gerente não me dava nenhuma liberdade de me autodirigir quanto ao que fazer. Em seguida, vem o domínio, que é o desejo intrínseco de melhorar no que fazemos todo dia. Meu gerente também não me dava espaço para dominar as tarefas, pois me dizia como fazê-las. Então, vem o propósito, que significa que acreditamos estar trabalhando para um ideal ou bem maior. Meu gerente não soube me mostrar por que aquilo que eu fazia era importante.
+
+Para conhecer melhor a pesquisa por trás disso, confira este vídeo sobre o trabalho de Dan Pink. Na Gestão Ágil e no Scrum, nos concentramos em proporcionar autonomia, domínio e propósito às equipes. Fazemos isso pela liderança servidora. O ScrumMaster é o principal líder servidor da equipe. Quando dizemos que o ScrumMaster se concentra no bem-estar da equipe, isso indica suas competências de liderança.
+
+Ser um líder servidor significa capacitar a equipe. Ele orienta na retaguarda, usando a abordagem do Scrum como limites de segurança. Parece contraproducente, mas, na verdade, ele capacita a equipe a se autodirigir ao assumir compromissos. Ele comunica a visão e o propósito e mantém a equipe focada em cada iteração, eliminando obstáculos e deixando a equipe livre para dominar o trabalho que está fazendo.
+
+O delicado equilíbrio do líder servidor pode ser complexo. O ScrumMaster precisa aplicar os limites do Scrum sem eliminar a capacidade de auto-organização da equipe. Para isso, ele usa as habilidades interpessoais de persuasão, empatia, escuta e negociação. Para mim, a característica fundamental do ScrumMaster e do líder servidor é a humildade. Ele precisa estar disposto a fazer perguntas e admitir que não sabe. Sobretudo, ele deve se pautar na confiança. Deve confiar que a equipe vai dar o melhor de si e responsabilizar as pessoas, avaliando o desempenho e os resultados da equipe.
+
+Pense no ScrumMaster como o principal líder servidor. É a pessoa que capacita e permite grandes resultados enquanto avalia e orienta. Parece um desafio, e é mesmo. Os grandes ScrumMasters gastam muito tempo aprimorando suas habilidades. Com tempo e paciência, você também chega lá.
+
+### Gerencie os estágios de formação e turbulência da equipe
+
+Quando você selecionar uma linha na transcrição, será direcionado à seção equivalente no vídeo.
+
+Desde que Bruce Tuckman estudou as características das equipes, existe um modelo padrão para os estágios de desenvolvimento dos grupos. Esses estágios ocorrem quer sejam grupos que trabalham em cascata, com gestão ágil ou em organizações voluntárias. São comportamentos humanos básicos. Os estágios são: formação, turbulência, normalização e desempenho. Vamos falar dos dois primeiros, pois as equipes precisam de mais liderança para atravessar esses estágios.
+
+A formação é quando a equipe está se conhecendo. Todos na equipe permanecem muito focados em si mesmos. Cada um sabe quem é e o que pode oferecer, mas talvez não entenda muito além disso. Todos ficam um pouco tensos. É normal. Para acelerar esse estágio, o líder precisa prever possíveis dúvidas que os membros talvez ainda não queiram perguntar. Conforme a equipe se forma, precisamos repetir o propósito e a visão com frequência. Assim, a equipe integra essas ideias à sua estrutura de crenças.
+
+Outros assuntos e dúvidas importantes na equipe são: quem são os outros membros? Qual é nosso trabalho? Como devemos abordá-lo? E quais procedimentos usamos para fazer o trabalho? Como líder, promova conversas individuais com cada membro da equipe. Isso gera relacionamentos de confiança e serve de base para futuras interações. Promova também conversas que ajudem os membros da equipe a se conhecerem. Nessas sessões, fazemos apresentações, estabelecemos normas para a equipe e a ajudamos a definir os critérios de sucesso. Também é o momento de enfatizar a responsabilidade compartilhada da equipe por alcançar o sucesso. Além disso, a motivamos a se auto-organizar, enquanto nos comprometemos a apoiar seus esforços.
+
+Geralmente, durante a formação, os membros da equipe não estão muito dispostos a conversas difíceis, que poderiam gerar conflitos. Eles se atêm a assuntos neutros para manter a harmonia. Contudo, para avançar ao próximo estágio de desenvolvimento, eles devem amadurecer até que seja seguro desafiarem uns aos outros. A disposição para discordar de questões importantes conduz ao próximo estágio de desenvolvimento: a turbulência.
+
+Embora nem toda equipe atravesse esse estágio, muitas o enfrentam, então prepare-se. Tive algumas equipes que atravessaram essa fase com rapidez e tranquilidade, enquanto outras pareciam ficar presas nela por muito tempo. A turbulência pode assumir muitas formas, mas as principais características são questionar os conhecimentos, habilidades e competências dos colegas e criticar decisões do PO ou do ScrumMaster. Para que a equipe avance, os conflitos e desavenças precisam ser resolvidos antes que se agravem. Evitar conflitos prejudica a equipe em longo prazo, por isso é melhor enfrentá-los abertamente.
+
+A turbulência ocorre basicamente porque, na formação, a equipe era um grupo de indivíduos isolados. Nesse estágio, eles estão reconhecendo que dependem uns dos outros para ter sucesso, começando a formar uma equipe de verdade. A função do líder é ajudá-los nesse processo. Precisamos mantê-los firmes no propósito da equipe e lembrá-los das normas de interação. Devemos usar todas as habilidades de facilitação e resolução de conflitos para ajudar os membros da equipe a resolver as diferenças. O objetivo é ajudá-los a valorizar as habilidades especiais de cada um para que eles obtenham sucesso e comecem a se sentir uma equipe.
+
+Por fim, estabeleça limites simples para a equipe. Primeiro, mantenha as metas visíveis e claras. Em seguida, use as normas da equipe como orientação para as interações diárias. Por fim, adote medidas de sucesso para manter o foco no trabalho em grupo. Esses limites são neutros e foram definidos por consenso durante a formação. São os grandes aliados para que a equipe atravesse a turbulência rapidamente. Ao usar essas ferramentas, estamos preparando-a para o sucesso nos estágios posteriores do desenvolvimento da equipe.
+
+### Como conduzir uma equipe da normalização ao desempenho
+
+Quando você selecionar uma linha na transcrição, será direcionado à seção equivalente no vídeo.
+
+Depois de liderar a equipe nos estágios de formação e turbulência, começamos a ver a luz no fim do túnel quando ela entra na normalização. A resolução de conflitos na fase de turbulência gera proximidade e confiança entre os membros da equipe na normalização. Ainda podem surgir conflitos ocasionais, mas são raros. Podemos identificar o estágio de normalização quando vemos que todos na equipe assumem responsabilidade pessoal pelo trabalho e pelas interações mútuas. Os membros da equipe assimilaram sua interdependência e compartilham a mesma motivação para o sucesso.
+
+O perigo nessa fase é quando a equipe gosta tanto dessa harmonia que evita fazer sugestões controversas. Podemos livrá-la dessa armadilha orientando os líderes a incentivar o brainstorming sempre que possível. Então, ao ver a equipe assumindo riscos e avaliando abordagens diferentes, reconheça e elogie esses comportamentos. Isso ajuda a equipe a criar confiança em sua capacidade de fazer avaliações e tomar decisões por conta própria.
+
+Para o líder de uma equipe em normalização, o foco passa a ser orientá-la rumo à melhoria. Devemos incentivá-la a fazer perguntas sobre qualidade, como “quais são os atuais defeitos do produto e como podemos evitá-los no futuro?” ou “como podemos ter mais eficiência ao entregar valor ao cliente?” e “o que mais podemos oferecer aos clientes para deixá-los muito satisfeitos?”. Essas perguntas ajudam a impulsionar a equipe rumo ao estágio de desempenho.
+
+Nessa fase, a equipe é praticamente autônoma e requer pouca orientação. Os membros têm muita lealdade entre si e interagem quase como uma família. É normal que haja conflitos, mas a equipe tem ferramentas para resolvê-los de forma rápida e amigável. Conforme a equipe adentra o modo de alto desempenho, podemos ajudar os membros a se tornarem líderes servidores de outras equipes da empresa. Essa capacidade de orientar outras equipes faz com que eles se sintam parte de um todo maior. Isso os mantém humildes, em vez de se acharem melhores que as outras equipes. Seu papel como líder é ajudá-los a enxergar a equipe como uma engrenagem importante no grande mecanismo da empresa.
+
+Cabe ressaltar que, quando a equipe demonstra alto desempenho, nem sempre ela continua assim. Aliás, os quatro estágios do desenvolvimento da equipe são instáveis. Circunstâncias variáveis, como a inclusão de novos membros ou a mudança de processos, podem fazer a equipe regressar a um estágio anterior. Precisamos monitorar a equipe enquanto ela estiver junta, para identificar seu estágio atual. Assim, sempre podemos tomar medidas adequadas para orientá-la rumo ao alto desempenho.
+
+**Kelley O'Connell**
+
+Kelley é instrutora de Gestão Ágil, inovadora de processos e gerente de projetos, atualmente na CSG International.
+
+É diretora de carteira de operações da CSG, mas também inovadora de projetos e processos, apaixonada pela maneira como as pessoas, os processos e a inovação se unem e formam a arte empresarial. Atuando como agilista e gerente de projetos/programas há quase 20 anos, Kelley sabe avaliar e transformar situações únicas em resultados de sucesso com criatividade. Kelley vem trabalhando como instrutora e coach em Gestão Ágil, liderando equipes de operações e desenvolvimento de software em meio a iniciativas multimilionárias.

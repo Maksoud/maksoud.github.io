@@ -5,8 +5,7 @@ A média, também conhecida como média aritmética, é uma medida de tendência
 ### **Fórmula**
 
 Para um conjunto de dados 𝑥1,𝑥2,…,𝑥𝑛:
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/841573b6-4c76-4425-a611-1b87b21d254f/Untitled.png)
+![[12.png]]
 
 Onde:
 
@@ -19,11 +18,8 @@ Onde:
 Considere o conjunto de dados: 4, 8, 6, 5, 3.
 
 1. Calcule a soma dos valores: 4+8+6+5+3=26
-    
 2. Divida a soma pelo número de valores:
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/c7825855-b369-4fa2-b317-4dda4f61ab02/Untitled.png)
-    
+    ![[13.png]]
 
 Portanto, a média aritmética é 5.2.
 
@@ -57,13 +53,9 @@ Portanto, a mediana é 8.
 Conjunto de dados: 3, 5, 7, 8, 12, 14.
 
 1. Ordene os valores: 3, 5, 7, 8, 12, 14.
-    
 2. Encontre os dois valores centrais: 7 e 8.
-    
 3. Calcule a média dos valores centrais:
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/2f92a157-0922-4379-91f1-9ea3774d2bd7/Untitled.png)
-    
+    ![[14.png]]
 
 Portanto, a mediana é 7.5.
 
@@ -84,11 +76,8 @@ Portanto, a mediana é 7.5.
 Considere um conjunto de salários em uma pequena empresa: 30.000, 32.000, 35.000, 40.000, 1.000.000.
 
 1. Calcule a média:
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/5f87f891-d521-436f-ad78-2a28166ef674/Untitled.png)
-    
+    ![[15.png]]
 2. Note que a média (227.400) é muito maior que a maioria dos salários devido ao outlier (1.000.000).
-    
 
 ## **Exemplo de Mediana Resistente a Outliers**
 

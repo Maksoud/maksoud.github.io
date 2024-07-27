@@ -7,8 +7,7 @@ Um intervalo de confiança é uma faixa de valores, derivada de dados amostrais,
 ## **Fórmula do Intervalo de Confiança para a Média**
 
 Para uma média amostral, o intervalo de confiança pode ser calculado da seguinte forma:
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/b325de84-4243-4d8c-a9be-888ba501b2da/Untitled.png)
+![[38.png]]
 
 Onde:
 
@@ -27,9 +26,7 @@ Suponha que temos uma amostra de 100 estudantes com uma média de pontuação de
 2. **Desvio padrão (𝜎)**: 10
 3. **Tamanho da amostra (𝑛)**: 100
 4. **Nível de confiança**: 95% (correspondente a _Zα_/2 = 1.96)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/9c06a623-fc2b-4a5a-9f2e-702b568247f3/Untitled.png)
-
+![[39.png]]
 Portanto, estamos 95% confiantes de que a média da população está entre 73.04 e 76.96.
 ## **Exemplo 2: Intervalo de Confiança para a Média com Desvio Padrão Desconhecido**
 
@@ -41,9 +38,7 @@ Suponha que temos uma amostra de 25 pacientes com uma média de pressão arteria
 2. **Desvio padrão amostral (𝑠)**: 15
 3. **Tamanho da amostra (𝑛)**: 25
 4. **Nível de confiança**: 95% (correspondente a _tα_/2,_n_−1 = 2.064 para 24 graus de liberdade)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/e959b3c4-4443-4d95-bc70-950ec81cc0aa/Untitled.png)
-
+![[40.png]]
 Portanto, estamos 95% confiantes de que a média da população está entre 113.808 e 126.192.
 ## **Importância do Intervalo de Confiança**
 
@@ -63,16 +58,10 @@ Portanto, estamos 95% confiantes de que a média da população está entre 113.
 Suponha que em uma pesquisa com 200 pessoas, 120 disseram preferir o produto A. Queremos calcular um intervalo de confiança de 95% para a proporção de toda a população que prefere o produto A.
 
 1. **Proporção amostral (𝑝^)**: 200120=0.6
-    
     120200=0.6
-    
 2. **Tamanho da amostra (𝑛)**: 200
-    
 3. **Nível de confiança**: 95% (correspondente a _Zα_/2 = 1.96)
-    
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d60bff0-fe0b-4ea2-8172-325712f68e66/52f12727-e2ff-48f5-995b-9246f16efddc/Untitled.png)
-
+![[41.png]]
 Portanto, estamos 95% confiantes de que a proporção da população que prefere o produto A está entre 53.21% e 66.79%.
 ## **Conclusão**
 
