@@ -263,34 +263,3 @@ Resolver problemas de maneira eficaz muitas vezes exige pensar fora da caixa, pr
 5. **Prática e Repetição**: Resolva problemas de maneira contínua, buscando sempre formas de aprimorar seu processo. Cada problema resolvido é uma oportunidade de aprendizagem que fortalece suas habilidades para lidar com desafios futuros.
 
 Ao desenvolver essas competências, você será capaz de se destacar na resolução de problemas, contribuindo para o sucesso da empresa e de sua equipe. Isso não só melhora a eficiência operacional, mas também demonstra sua capacidade de lidar com adversidades e promover inovação dentro da organização.
-
-----------------------
-### **Avaliação de Perfil**
-
-- Grande capacidade de questionar e criticar
-- Grande capacidade de adaptação
-- Possui foco em questões urgentes
-- Gosta de desafios
-- Necessário melhorar a escuta ativa, de forma a conseguir formar um contexto mais imparcial para o planejamento de ações
-- Aperfeiçoar transparência na linha de raciocínio
-- Dificuldades em desenvolver relacionamento com partes externas
-- Liderar é mobilizar partes internas e externas para um objetivo em comum
-- Gosta de se envolver, de participar e de contribuir com as ações e problemas de toda a equipe
-- Procura ser incansável na busca por soluções e gosta de documentar e apresentar alternativas baseadas em dados
-- Possui forte direcionamento para ação
-
-#### **Pontos Fortes**
-
-- Documentação
-- Raciocínio estruturado
-- Foco
-- Espírito de equipe
-- Questionador
-- Contribui significativamente com os resultados da gerência, independente de onde está
-- Liderança
-
-#### **Oportunidades de Melhorias**
-
-- Evitar misturar assuntos pessoais e profissionais
-- Aperfeiçoar pensamento estratégico
-- Desenvolver habilidades políticas
