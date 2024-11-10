@@ -40,3 +40,5 @@ Existem outras técnicas e filosofias semelhantes ao ikigai em diversas culturas
 - **Logoterapia:** Desenvolvida pelo psiquiatra austríaco Viktor Frankl, a logoterapia é uma abordagem terapêutica que se concentra na busca de sentido na vida como uma força motivadora primária.
 - **Hygge:** Um conceito dinamarquês que envolve criar uma atmosfera de aconchego e bem-estar, valorizando as pequenas coisas que trazem felicidade.
 - **Filosofia Estoica:** Originada na Grécia Antiga, essa filosofia ensina a aceitar as coisas que não podemos controlar e focar no desenvolvimento pessoal e na virtude.
+
+[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)

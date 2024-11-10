@@ -28,3 +28,4 @@ Mensure o tempo que você vai levar para responder as questões e o seu número 
 
 Não desanime se o seu desempenho reduzir em novos testes, entenda que diferentes tópicos estão sendo abordados nos testes. Identifique-os para focar os seus estudos neles. É possível que você esteja com maior dificuldade de compreensão nesses itens e precise de uma nova revisão, até mesmo com um material diferente do que já foi utilizado, experimentando diferentes abordagens do mesmo conteúdo estudado.
 
+[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
