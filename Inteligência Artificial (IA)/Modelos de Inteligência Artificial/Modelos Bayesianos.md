@@ -1,3 +1,5 @@
+[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
 **Modelos Bayesianos** são uma abordagem de aprendizado de máquina baseada no **Teorema de Bayes**, uma fórmula que permite calcular a **probabilidade condicional** de um evento com base em informações anteriores ou dados observados. Esses modelos são amplamente usados para tarefas onde a **incerteza** é uma parte fundamental do problema, e é necessário incorporar conhecimento prévio (ou "prior") no processo de inferência.
 
 ### O Teorema de Bayes

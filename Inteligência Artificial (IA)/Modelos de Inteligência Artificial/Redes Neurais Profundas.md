@@ -1,3 +1,5 @@
+[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
 **Redes Neurais Profundas (Deep Neural Networks - DNNs)** são uma classe de redes neurais que possuem **múltiplas camadas ocultas** entre a camada de entrada e a camada de saída. Elas são chamadas de "profundas" devido ao grande número de camadas, em contraste com as redes neurais "rasas" que possuem apenas uma ou poucas camadas ocultas.
 
 Essas redes se tornaram fundamentais para o **aprendizado profundo (deep learning)**, que tem impulsionado grandes avanços em diversas áreas da inteligência artificial, como reconhecimento de voz, visão computacional, processamento de linguagem natural, entre outras.

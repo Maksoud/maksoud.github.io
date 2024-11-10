@@ -1,3 +1,5 @@
+[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
 As **Redes Neurais Convolucionais (Convolutional Neural Networks - CNNs)** são um tipo especial de redes neurais projetadas para processar e analisar dados com estrutura de grade, como imagens, vídeos ou dados de séries temporais. Elas são amplamente utilizadas em **visão computacional** e outras aplicações que envolvem análise de dados espaciais.
 
 ### Estrutura e Funcionamento das CNNs

@@ -1,3 +1,5 @@
+[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
 **Árvores de Decisão** e **Florestas Aleatórias** são métodos populares de aprendizado supervisionado usados para tarefas de **classificação** e **regressão**. Elas se destacam por sua capacidade de interpretar dados complexos de forma intuitiva e robusta, e são amplamente utilizadas em muitos campos, como **ciências de dados**, **diagnósticos médicos**, e **análise financeira**.
 
 ### 1. **Árvores de Decisão (Decision Trees)**

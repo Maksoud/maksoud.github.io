@@ -1,3 +1,5 @@
+[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
 As **Redes Neurais Recorrentes (Recurrent Neural Networks - RNNs)** são um tipo de rede neural projetada para lidar com **dados sequenciais** ou **temporais**, o que as torna ideais para tarefas que envolvem séries temporais, como processamento de linguagem natural, tradução de texto, e previsão de séries temporais.
 
 ### Diferença das RNNs para Redes Neurais Tradicionais

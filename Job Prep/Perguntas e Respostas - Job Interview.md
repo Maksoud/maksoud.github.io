@@ -45,3 +45,4 @@
 **Algo que não discutimos?** 
 - **Dica:** Não diga “não”! Antes da entrevista, pense nos 2 ou 3 principais pontos que você quer comunicar ao longo da entrevista. 
 **Resposta:** Use esse tempo para reiterar esses pontos.
+

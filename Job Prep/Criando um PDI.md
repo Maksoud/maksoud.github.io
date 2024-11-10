@@ -1,3 +1,6 @@
+## [Sumário](<https://maksoud.github.io/Sumário>)
+
+
 Um Plano de Desenvolvimento Individual (PDI) é uma ferramenta estratégica que ajuda a orientar seu crescimento profissional e pessoal, focando em metas específicas e no desenvolvimento de habilidades. Aqui está um guia passo a passo para criar um PDI eficaz:
 
 ### Passo 1: Autoavaliação
@@ -111,3 +114,5 @@ Um Plano de Desenvolvimento Individual (PDI) é uma ferramenta estratégica que 
     - Buscar feedback de mentores e supervisores a cada três meses
 
 Criar um PDI detalhado e seguir este plano de forma disciplinada irá ajudá-lo a alcançar suas metas de carreira internacional, garantindo que você esteja bem preparado para as oportunidades que surgirem.
+
+[link de compartilhamento](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)

@@ -1,3 +1,5 @@
+[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
 Um **modelo discriminativo** é um tipo de modelo de aprendizado de máquina que se concentra em **distinguir entre diferentes classes** de dados com base em características observáveis, em vez de tentar modelar a distribuição conjunta dos dados. O objetivo principal de um modelo discriminativo é aprender a probabilidade condicional \( P(Y | X) \), ou seja, a probabilidade de que a classe \( Y \) seja a correta, dado o exemplo de dados \( X \).
 
 ### Diferença entre Modelos Discriminativos e Generativos

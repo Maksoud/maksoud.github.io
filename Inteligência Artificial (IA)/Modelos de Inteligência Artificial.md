@@ -1,4 +1,6 @@
-#### **Modelos Generativos (Generative Models):**
+## [Sumário](<https://maksoud.github.io/Sumário>)
+
+#### **[Modelo Generativo](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Modelo%20Generativo) (Generative Models):**
 
 - **Definição:** Modelos que aprendem a modelar a distribuição de dados e são capazes de gerar novos exemplos semelhantes aos dados de treinamento.
 - **Exemplos:** Redes Geradoras Adversárias (GANs), Modelos Variacionais de Autoencoder (VAE), GPT (Generative Pre-trained Transformer).
@@ -12,7 +14,7 @@ Esses modelos tentam **modelar a distribuição conjunta** entre os dados de ent
 
 Um exemplo intuitivo seria um modelo que, após ser treinado em um grande conjunto de dados de imagens de gatos, é capaz de gerar imagens realistas de gatos que não existem no mundo real, mas que parecem seguir o padrão dos gatos no conjunto de dados de treinamento.
 
-#### **Modelos Discriminativos (Discriminative Models):**
+#### **[Modelo Discriminativo](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Modelo%20Discriminativo) (Discriminative Models):**
 
 - **Definição:** Modelos que aprendem a distinguir entre diferentes classes de dados com base nas características presentes nos dados.
 - **Exemplos:** Regressão Logística, Redes Neurais Convolucionais (CNN), Support Vector Machines (SVMs).
@@ -31,7 +33,7 @@ O foco está em aprender **fronteiras de decisão** que separam os dados de dife
 
 Por exemplo, ao usar um modelo discriminativo para classificar imagens de gatos e cachorros, o modelo não tenta aprender como imagens de gatos ou cachorros são geradas. Em vez disso, ele simplesmente aprende a distinguir características visuais que são típicas de gatos ou cachorros e usa essas informações para classificar corretamente novas imagens.
 
-#### **Redes Neurais Convolucionais (Convolutional Neural Networks - CNNs):**
+#### **[Redes Neurais Convolucionais](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Redes%20Neurais%20Convolucionais) (Convolutional Neural Networks - CNNs):**
 
 - **Definição:** Redes neurais projetadas para processar dados que têm um grid-like topology, como imagens, utilizando operações de convolução.
 - **Exemplos:** LeNet, AlexNet, ResNet.
@@ -39,14 +41,14 @@ Por exemplo, ao usar um modelo discriminativo para classificar imagens de gatos 
 
 São um tipo específico de rede neural projetada para processar dados com uma estrutura em grade, como imagens. As CNNs são especialmente eficazes em **tarefas de visão computacional**, como **classificação de imagens**, **detecção de objetos**, e **segmentação semântica**, porque conseguem capturar características espaciais e de padrões locais dos dados.
 
-#### **Redes Neurais Recorrentes (Recurrent Neural Networks - RNNs):**
+#### **[Redes Neurais Recorrentes](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Redes%20Neurais%20Recorrentes) (Recurrent Neural Networks - RNNs):**
 
 - **Definição:** Redes que têm conexões recorrentes permitindo que as informações passadas afetem o processamento atual, úteis para dados sequenciais.
 - **Exemplos:** LSTMs (Long Short-Term Memory), GRUs (Gated Recurrent Units).
 - **Aplicações:** Processamento de linguagem natural (PLN), previsão de séries temporais, tradução automática.
 
 São um tipo de rede neural projetada para lidar com **dados sequenciais**, onde há uma dependência temporal ou sequencial entre as entradas. Ao contrário das redes neurais tradicionais (como as CNNs), que assumem que todas as entradas são independentes, as RNNs têm a capacidade de **relembrar** informações de entradas anteriores e usá-las para influenciar a saída atual.
-#### **Modelos Bayesianos:**
+#### **[Modelos Bayesianos](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Modelos%20Bayesianos):**
 
 - **Definição:** Modelos que utilizam a estatística bayesiana para inferência, considerando probabilidades condicionais.
 - **Exemplos:** Redes Bayesianas, Classificador Naive Bayes.
@@ -62,7 +64,7 @@ O Teorema de Bayes é a base dos modelos bayesianos. Ele define a relação entr
 
 Em um modelo bayesiano, você começa com uma **distribuição a priori**, que representa suas crenças sobre a variável de interesse antes de ver os dados. Conforme novos dados são observados, essa crença é atualizada para uma **distribuição a posteriori**, utilizando o Teorema de Bayes. Esse processo de **atualização contínua das crenças** é uma das principais características dos modelos bayesianos.
 
-#### **Transformers:**
+#### **[Transformers](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Transformers):**
 
 - **Definição:** Modelos baseados em uma arquitetura de atenção que captura relacionamentos entre palavras ou elementos de dados de forma mais eficaz.
 - **Exemplos:** BERT (Bidirectional Encoder Representations from Transformers), T5, GPT.
@@ -76,21 +78,21 @@ A principal inovação dos Transformers é o uso do mecanismo de **atenção** (
 
 A arquitetura do Transformer é composta de dois blocos principais: **Codificador (Encoder)** e **Decodificador (Decoder)**. Embora a arquitetura completa do Transformer seja usada em tarefas de tradução automática, apenas o codificador é suficiente para muitas outras tarefas (como no BERT, que usa somente a parte do codificador).
 
-#### **Máquinas de Vetores de Suporte (Support Vector Machines - SVM):**
+#### **[Máquinas de Vetores de Suporte](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Máquinas%20de%20Vetores%20de%20Suporte%20(Support%20Vector%20Machines%20-%20SVM)) (Support Vector Machines - SVM):**
 
 - **Definição:** Algoritmos de classificação que encontram o hiperplano de separação ideal entre classes.
 - **Aplicações:** Classificação de texto, reconhecimento de padrões, bioinformática.
 
 São um poderoso algoritmo de aprendizado supervisionado, amplamente utilizado em problemas de **classificação** e **regressão**. O SVM é particularmente eficaz em tarefas de **classificação binária**, mas também pode ser estendido para problemas multiclasse. Ele se destaca por sua capacidade de encontrar a **fronteira de decisão** ideal que separa diferentes classes de dados com **máxima margem**.
 
-#### **Redes Geradoras Adversárias (Generative Adversarial Networks - GANs):**
+#### **[Redes Geradoras Adversárias](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Redes%20Geradoras%20Adversárias) (Generative Adversarial Networks - GANs):**
 
 - **Definição:** Um tipo de modelo generativo composto por duas redes (geradora e discriminadora) que competem entre si para melhorar a qualidade dos dados gerados.
 - **Aplicações:** Geração de imagens realistas, criação de dados sintéticos, arte gerada por IA.
 
 São um tipo de modelo generativo que usa duas redes neurais que competem entre si em um processo chamado de **aprendizado adversarial**. Esse conceito foi introduzido por Ian Goodfellow e seus colegas em 2014, e as GANs rapidamente se tornaram uma das técnicas mais importantes em **aprendizado profundo** (deep learning) para a geração de novos dados a partir de um conjunto de dados existente.
 
-#### **Árvores de Decisão e Florestas Aleatórias (Decision Trees and Random Forests):**
+#### **[Árvores de Decisão e Florestas Aleatórias](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Árvores%20de%20Decisão%20e%20Florestas%20Aleatórias%20(Decision%20Trees%20and%20Random%20Forests)) (Decision Trees and Random Forests):**
 
 - **Definição:** Métodos baseados em árvores de decisão para classificação e regressão. Florestas aleatórias combinam várias árvores para melhorar a precisão.
 - **Aplicações:** Diagnóstico de doenças, análise de crédito, detecção de fraudes.
@@ -105,7 +107,7 @@ Uma **árvore de decisão** é um modelo de aprendizado baseado em uma estrutura
 
 As **florestas aleatórias** são uma extensão das árvores de decisão e têm como objetivo melhorar o desempenho e a robustez dos modelos. Elas são um exemplo de um algoritmo de **ensemble**, o que significa que combinam vários modelos (neste caso, várias árvores de decisão) para tomar decisões mais precisas e robustas.
 
-#### **Redes Neurais Profundas (Deep Neural Networks - DNN):**
+#### **[Redes Neurais Profundas](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Redes%20Neurais%20Profundas) (Deep Neural Networks - DNN):**
 
 - **Definição:** Redes com múltiplas camadas ocultas que aprendem representações complexas dos dados.
 - **Exemplos:** Redes multicamadas (MLP), CNNs, RNNs.
@@ -127,3 +129,5 @@ O processo de aprendizado em uma DNN é chamado de **treinamento supervisionado*
     - A **retropropagação** é o processo pelo qual os pesos da rede são ajustados para minimizar o erro da função de perda. Ela usa o **gradiente descendente** para atualizar os pesos, propagando o erro da camada de saída para trás, ajustando os pesos de cada camada intermediária.
 
 Esse processo é repetido várias vezes até que o modelo alcance um erro aceitável nos dados de treinamento.
+
+[link de compartilhamento](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
