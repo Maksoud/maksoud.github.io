@@ -1,3 +1,5 @@
+## [Sumário](<https://maksoud.github.io/Sumário>)
+
 ### Como Compreender Seu Papel Transforma Resultados
 
 Em grandes corporações, as atividades são frequentemente fragmentadas entre setores e equipes, cada uma com responsabilidades específicas que, somadas, formam o todo da organização. Essa divisão de tarefas, embora essencial para a operação eficiente, pode fazer com que profissionais percam a visão completa do impacto de seu trabalho. Entender o valor do seu papel dentro desse sistema é fundamental, pois permite uma conexão direta entre suas tarefas diárias e o sucesso da empresa.

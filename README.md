@@ -1,6 +1,9 @@
 ## Disclaimer
 
 Este repositório foi criado para armazenar material dos meus estudos, seja criado por mim ou copiado das minhas pesquisas pessoais, ou seja, é de ==uso pessoal==. Ele contém tanto conteúdo proprietário quanto informações encontradas através de IA e sites na web. O repositório é ==público== para facilitar o acesso às informações nele contidas. No entanto, **não sou responsável pela propagação ou divulgação de qualquer conteúdo proprietário que possa estar aqui.**
+
+## [Sumário](<https://maksoud.github.io/Sumário>)
+
 ### O que é o formato .md?
 >O formato de marcação `.md`, conhecido como Markdown, é uma linguagem de marcação leve e fácil de ler e escrever. Ele é usado para formatar texto simples, permitindo a criação de documentos estruturados, como artigos, documentação, e README files, que podem ser convertidos para HTML. Markdown usa símbolos simples (por exemplo, `#` para títulos, `*` para listas) para definir a estrutura e a formatação do texto.
 
