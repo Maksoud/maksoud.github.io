@@ -6,6 +6,7 @@
 * [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
 * [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
+* [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 
 ### Finanças
 
