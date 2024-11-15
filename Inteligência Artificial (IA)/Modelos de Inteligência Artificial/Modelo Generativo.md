@@ -1,4 +1,6 @@
-[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
+# Modelo Generativo
 
 Um **modelo generativo** é um tipo de modelo de aprendizado de máquina projetado para **gerar novos exemplos de dados** que seguem a mesma distribuição do conjunto de dados de treinamento. Em vez de simplesmente classificar ou fazer previsões sobre os dados (como um modelo discriminativo), o objetivo principal dos modelos generativos é **aprender a distribuição dos dados** e, em seguida, **amostrar novos dados** dessa distribuição.
 

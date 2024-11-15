@@ -1,4 +1,5 @@
-## [Sumário](<https://maksoud.github.io/Sumário>)
+### [Sumário](<https://maksoud.github.io/Sumário>)
+# O Poder da Ação
 ### Planejar é Importante, Executar é Essencial
 
 Vivemos em um mundo onde o planejamento muitas vezes recebe uma atenção desproporcional, enquanto a execução, que é o verdadeiro motor dos resultados, fica em segundo plano. Embora o planejamento seja crucial para orientar nossos esforços, é a ação que transforma ideias em conquistas. Sem ela, até os melhores planos são apenas palavras no papel.

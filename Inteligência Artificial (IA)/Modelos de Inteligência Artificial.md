@@ -1,4 +1,6 @@
-## [Sumário](<https://maksoud.github.io/Sumário>)
+### [Sumário](<https://maksoud.github.io/Sumário>)
+
+# Modelos de Inteligência Artificial
 
 #### **[Modelo Generativo](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Modelo%20Generativo) (Generative Models):**
 

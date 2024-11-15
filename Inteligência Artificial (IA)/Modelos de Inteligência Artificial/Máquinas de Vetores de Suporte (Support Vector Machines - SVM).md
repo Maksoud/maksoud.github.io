@@ -1,4 +1,6 @@
-[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
+# Máquinas de Vetores de Suporte (Support Vector Machines - SVM)
 
 As **Máquinas de Vetores de Suporte (SVM - Support Vector Machines)** são um poderoso algoritmo de aprendizado supervisionado, amplamente utilizado em problemas de **classificação** e **regressão**. O SVM é particularmente eficaz em tarefas de **classificação binária**, mas também pode ser estendido para problemas multiclasse. Ele se destaca por sua capacidade de encontrar a **fronteira de decisão** ideal que separa diferentes classes de dados com **máxima margem**.
 

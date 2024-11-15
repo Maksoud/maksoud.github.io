@@ -1,4 +1,6 @@
-## [Sumário](<https://maksoud.github.io/Sumário>)
+### [Sumário](<https://maksoud.github.io/Sumário>)
+
+# Guia de Uso e Configuração de um Modelo PROMPT
 
 Um modelo PROMPT (ou instrução de entrada) é uma maneira de interagir com modelos de linguagem, como o GPT, fornecendo instruções específicas para gerar textos úteis e relevantes. No contexto de marketing digital, isso pode ser utilizado para criar conteúdo, ideias de campanha, textos publicitários, e muito mais.
 

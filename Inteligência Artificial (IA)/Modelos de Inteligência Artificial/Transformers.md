@@ -1,4 +1,6 @@
-[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
+# Transformers
 
 **Transformers** são uma arquitetura de redes neurais que revolucionou o campo do **processamento de linguagem natural (PLN)** e, mais recentemente, também **visão computacional**. Introduzida no artigo "Attention is All You Need" (2017), pelos pesquisadores da Google, a arquitetura de Transformers se destacou por resolver várias limitações das redes neurais recorrentes (RNNs), como LSTMs e GRUs, no que diz respeito à eficiência e à capacidade de lidar com dependências de longo alcance em sequências.
 

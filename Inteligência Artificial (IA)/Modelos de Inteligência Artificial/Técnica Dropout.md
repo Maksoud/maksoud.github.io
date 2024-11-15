@@ -1,4 +1,6 @@
-[Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
+# Técnica Dropout
 
 A técnica **Dropout** é uma abordagem usada em redes neurais profundas para **prevenir o overfitting** (sobreajuste) durante o treinamento. Foi introduzida por Geoffrey Hinton e seus colaboradores em 2012 e se tornou uma das estratégias mais eficazes para regularizar redes neurais, melhorando sua **generalização** em novos dados.
 

@@ -1,4 +1,5 @@
-## [Sumário](<https://maksoud.github.io/Sumário>)
+### [Sumário](<https://maksoud.github.io/Sumário>)
+# Método Hard de Estudos
 
 Esse método vai te apoiar na fixação do conteúdo aprendido em uma vídeo aula. Te ajudando na compreensão rápida do conteúdo e na memorização das informações aprendidas.
 
