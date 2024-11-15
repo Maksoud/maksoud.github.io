@@ -100,3 +100,7 @@ Para lidar com esses problemas, várias técnicas foram desenvolvidas, como o us
 ### Conclusão
 
 As **Redes Geradoras Adversárias (GANs)** são uma poderosa técnica de aprendizado profundo para gerar novos dados realistas. Elas têm uma ampla gama de aplicações, desde geração de imagens até super-resolução e transferência de estilo. Embora enfrentem desafios como o treinamento instável, as GANs continuam a evoluir com novas variantes e técnicas para superar essas limitações.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

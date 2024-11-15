@@ -87,3 +87,7 @@ Desde a introdução dos Transformers, muitos modelos de PLN de última geraçã
 ### Conclusão
 
 Os Transformers são uma arquitetura revolucionária em aprendizado profundo, especialmente no processamento de linguagem natural, mas também em outros domínios. Sua capacidade de capturar dependências de longo alcance e de processar sequências de maneira paralela os torna uma escolha poderosa para muitas tarefas. Desde sua introdução, eles foram adotados em diversos modelos e são hoje uma das bases mais importantes para avanços na inteligência artificial.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

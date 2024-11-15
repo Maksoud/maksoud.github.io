@@ -269,3 +269,7 @@ Resolver problemas de maneira eficaz muitas vezes exige pensar fora da caixa, pr
 Ao desenvolver essas competências, você será capaz de se destacar na resolução de problemas, contribuindo para o sucesso da empresa e de sua equipe. Isso não só melhora a eficiência operacional, mas também demonstra sua capacidade de lidar com adversidades e promover inovação dentro da organização.
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Alta%20Performance%2C%20Produtividade%20e%20Liderança>)
+
+<sup><sub>
+Renée Maksoud - setembro de 2024
+</sub></sup>

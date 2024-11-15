@@ -73,3 +73,7 @@ As RNNs, especialmente suas variantes como LSTMs e GRUs, são amplamente utiliza
 Embora as RNNs e suas variantes tenham desempenhado um papel importante em muitas tarefas, elas têm algumas limitações, especialmente em **paralelização** e **treinamento de dependências muito longas**. Devido a isso, arquiteturas mais recentes, como os **Transformers**, têm substituído as RNNs em muitas aplicações de ponta, já que os Transformers conseguem modelar dependências de longo alcance de maneira mais eficiente, utilizando o mecanismo de **atenção**.
 
 As RNNs ainda são uma tecnologia fundamental em IA, especialmente para tarefas sequenciais, e continuam a ser uma ferramenta poderosa, especialmente em combinação com outras técnicas de aprendizado profundo.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

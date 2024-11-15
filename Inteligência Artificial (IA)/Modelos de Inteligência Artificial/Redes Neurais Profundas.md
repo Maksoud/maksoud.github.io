@@ -120,3 +120,7 @@ As DNNs estão no centro de muitos dos avanços mais significativos em inteligê
 ### Conclusão
 
 As **Redes Neurais Profundas** são uma tecnologia fundamental no aprendizado profundo, oferecendo uma maneira poderosa de modelar e processar dados complexos. Elas se tornaram a base de muitos dos avanços mais significativos em inteligência artificial nos últimos anos, permitindo conquistas impressionantes em áreas como visão computacional, processamento de linguagem natural, e reconhecimento de fala. No entanto, elas exigem grandes quantidades de dados e poder computacional, o que representa um desafio em muitos contextos.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

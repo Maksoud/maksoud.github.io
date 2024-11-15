@@ -77,3 +77,7 @@ As **florestas aleatórias** são uma extensão das árvores de decisão e têm 
 - **Florestas Aleatórias** são uma versão mais robusta e precisa, corrigindo muitas das limitações das árvores de decisão individuais ao combinar várias árvores em um modelo ensemble.
 
 Esses modelos continuam sendo amplamente utilizados em várias indústrias devido à sua capacidade de lidar com dados complexos e fornecer predições confiáveis.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

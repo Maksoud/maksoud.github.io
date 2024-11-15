@@ -46,3 +46,7 @@ Existem outras técnicas e filosofias semelhantes ao ikigai em diversas culturas
 - **Filosofia Estoica:** Originada na Grécia Antiga, essa filosofia ensina a aceitar as coisas que não podemos controlar e focar no desenvolvimento pessoal e na virtude.
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

@@ -79,3 +79,7 @@ Um modelo PROMPT (ou instrução de entrada) é uma maneira de interagir com mod
 Configurar um modelo PROMPT para marketing digital envolve definir claramente seus objetivos, fornecer contexto suficiente, ser específico em suas instruções e, se possível, incluir exemplos ou estruturas. Com essas orientações, o GPT pode gerar conteúdo relevante e eficaz para suas campanhas de marketing digital.
 
 [link de compartilhamento](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Guia%20de%20Uso%20e%20Configuração%20de%20um%20Modelo%20PROMPT>)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

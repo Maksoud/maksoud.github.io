@@ -133,3 +133,7 @@ O processo de aprendizado em uma DNN é chamado de **treinamento supervisionado*
 Esse processo é repetido várias vezes até que o modelo alcance um erro aceitável nos dados de treinamento.
 
 [link de compartilhamento](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

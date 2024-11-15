@@ -78,3 +78,7 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 ### Conclusão
 
 **Dropout** é uma técnica poderosa e simples para melhorar a **generalização** de redes neurais profundas, combatendo o **overfitting**. Ele funciona desativando aleatoriamente neurônios durante o treinamento, obrigando a rede a aprender representações mais robustas. Embora tenha algumas limitações, especialmente em termos de custo computacional e sua aplicação em redes menores, é amplamente utilizado em redes totalmente conectadas e em muitas arquiteturas de aprendizado profundo.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

@@ -88,3 +88,7 @@ Os **modelos bayesianos** usam essa relação para atualizar as probabilidades �
 4. **Sistemas de Recomendação:** Utilizado para modelar preferências de usuários com base em históricos de compras ou interações anteriores.
 
 Em resumo, os **modelos bayesianos** são ferramentas poderosas em aprendizado de máquina, especialmente quando há incerteza nos dados e onde o conhecimento prévio pode ser utilizado para aprimorar a inferência. Eles fornecem uma abordagem matemática rigorosa para atualizar crenças com base em novas evidências, tornando-os úteis em várias áreas como diagnóstico, previsão, e tomada de decisão.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

@@ -65,3 +65,7 @@ As CNNs são amplamente utilizadas em várias aplicações, incluindo:
 4. **ResNet (2015):** Introduziu a ideia de **conexões residuais**, permitindo que redes extremamente profundas fossem treinadas de forma eficiente.
 
 As CNNs continuam sendo uma das principais ferramentas para tarefas relacionadas a imagens, vídeos e sinais, impulsionando avanços significativos em áreas como carros autônomos, diagnósticos médicos por imagem e realidade aumentada.
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>
