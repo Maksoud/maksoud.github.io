@@ -41,9 +41,19 @@ Uma boa metodologia de estudos inclui um planejamento claro, com metas específi
 
 O equilíbrio entre planejamento e ação é essencial. Planejar demais sem agir pode levar à estagnação, enquanto agir sem planejar pode resultar em esforços desperdiçados. Encontre o meio-termo que funcione para você.
 
+#### 6. A Importância da Revisão Espaçada
+
+A revisão espaçada é uma técnica poderosa que potencializa a memorização ao distribuir as revisões do conteúdo em intervalos regulares e progressivamente maiores. Baseada no "efeito de espaçamento", ela aumenta significativamente a retenção de informações, sendo mais eficaz do que revisar todo o conteúdo de uma só vez de forma intensiva.
+
+Essa prática combate a "curva do esquecimento", fenômeno em que informações são gradualmente apagadas da memória com o passar do tempo. Ao revisar estrategicamente antes que o conteúdo seja completamente esquecido, reforçam-se as conexões neurais, consolidando as informações na memória de longo prazo e reduzindo o esforço necessário para lembrar.
+
+Para aplicar a técnica, é possível revisar um conceito aprendido hoje no dia seguinte, depois em três dias, uma semana, e assim por diante. Essa abordagem, além de melhorar a retenção, aumenta a eficiência do estudo ao focar no que realmente precisa ser reforçado. Também ajuda a reduzir o estresse, pois promove confiança e preparo contínuo, e desenvolve consistência, criando um hábito de estudo estruturado e produtivo.
+
+Adotar a revisão espaçada transforma a maneira de estudar, tornando o processo mais planejado e eficaz, e preparando você para qualquer desafio de aprendizado.
+
 ### Conclusão
 
-A metodologia de estudos ideal combina um ambiente propício, uma rotina consistente, objetivos claros, saúde física e mental, e um planejamento estratégico com execução disciplinada. O aprendizado não é apenas um destino, mas uma jornada que exige paciência, prática, consistência e adaptação.
+A metodologia de estudos ideal combina um ambiente propício, uma rotina consistente, objetivos claros, saúde física e mental, e um planejamento estratégico com execução disciplinada e revisões regulares. O aprendizado não é apenas um destino, mas uma jornada que exige paciência, prática, consistência e adaptação.
 
 Coloque essas estratégias em prática e observe como seus estudos se tornam mais produtivos, eficientes e, acima de tudo, prazerosos. Afinal, aprender é uma das experiências mais enriquecedoras que podemos viver e dessa forma você aumentará suas chances de conquista.
 
