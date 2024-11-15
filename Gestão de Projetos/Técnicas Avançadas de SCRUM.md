@@ -1,4 +1,4 @@
-[https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftecnicas-avancadas-de-scrum%3Ftrk%3Dshare_ent_url%26shareId%3DTlVL01%252BIQhiy%252FdiX29KE4A%253D%253D](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftecnicas-avancadas-de-scrum%3Ftrk%3Dshare_ent_url%26shareId%3DTlVL01%252BIQhiy%252FdiX29KE4A%253D%253D)
+[Técnicas Avançadas de SCRUM - LinkedIn Cursos](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftecnicas-avancadas-de-scrum%3Ftrk%3Dshare_ent_url%26shareId%3DTlVL01%252BIQhiy%252FdiX29KE4A%253D%253D)
 
 ### Introdução à liderança servidora
 

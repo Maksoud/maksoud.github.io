@@ -1,3 +1,7 @@
+### [Sumário](<https://maksoud.github.io/Sumário>)
+
+# Certificação CSPO
+
 O curso preparatório CSPO (Certified Scrum Product Owner) é projetado para capacitar profissionais a desempenharem eficazmente o papel de Product Owner em equipes que utilizam a metodologia Scrum. Este curso fornece um entendimento profundo das responsabilidades do Product Owner, das práticas de gerenciamento de produtos e de como maximizar o valor entregue por uma equipe Scrum.
 
 ### **Objetivos do Curso:**
@@ -17,29 +21,35 @@ O conteúdo do curso preparatório CSPO é abrangente e cobre várias áreas ess
     - Papéis e responsabilidades no Scrum (Product Owner, Scrum Master, Equipe de Desenvolvimento)
     - Artefatos do Scrum (Product Backlog, Sprint Backlog, Incremento)
     - Eventos do Scrum (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective)
+
 2. **O Papel do Product Owner:**
     - Responsabilidades do Product Owner
     - Habilidades e características desejáveis
     - Como ser um líder de produto eficaz
+
 3. **Gerenciamento do Product Backlog:**
     - Criação e manutenção do Product Backlog
     - Técnicas de refinamento e detalhamento dos itens do backlog
     - Escrever histórias de usuário eficazes
     - Critérios de aceitação e definição de pronto (Definition of Done)
+
 4. **Priorização e Planejamento:**
     - Técnicas de priorização (MoSCoW, Kano, WSJF)
     - Planejamento de releases e roadmaps de produtos
     - Gerenciamento de expectativas de stakeholders
     - Equilíbrio entre valor de negócio e esforço de desenvolvimento
+
 5. **Maximizando o Valor do Produto:**
     - Identificação e entrega de valor ao cliente
     - Estratégias de feedback contínuo e melhoria do produto
     - Métricas e KPIs para medir o sucesso do produto
+
 6. **Interação com Stakeholders e a Equipe:**
     - Facilitação de reuniões e workshops
     - Técnicas de comunicação e negociação
     - Construção de relacionamentos sólidos com stakeholders
     - Colaboração eficaz com a equipe de desenvolvimento
+
 7. **Preparação para o Exame CSPO:**
     - Estrutura e formato do exame
     - Exemplos de perguntas de exame e práticas recomendadas
@@ -69,3 +79,9 @@ Para obter a certificação CSPO, o participante deve completar o curso aprovado
 - **Networking:** O curso oferece oportunidades para conectar-se com outros profissionais e especialistas da área.
 
 Ao concluir o curso preparatório CSPO, você estará bem equipado para assumir a função de Product Owner em uma equipe Scrum, contribuindo de maneira significativa para o sucesso do produto e da organização.
+
+[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

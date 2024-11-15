@@ -15,3 +15,7 @@
     - A capacidade de se adaptar a mudanças é crucial em um ambiente de desenvolvimento ágil. Um plano inicial é útil, mas a flexibilidade para responder a novas informações e mudanças de requisitos é mais valiosa para o sucesso do projeto.
 
 [link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%204%20valores%20do%20Manifesto%20Ágil>)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>
