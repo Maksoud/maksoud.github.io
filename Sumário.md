@@ -29,6 +29,11 @@
 	* [Técnica Dropout](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Técnica%20Dropout)
 	* [Árvores de Decisão e Florestas Aleatórias](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Árvores%20de%20Decisão%20e%20Florestas%20Aleatórias%20(Decision%20Trees%20and%20Random%20Forests))
 
+### Gestão de Projetos
+
+* [Os 4 valores do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%204%20valores%20do%20Manifesto%20Ágil>)
+* [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20Princípios%20do%20Manifesto%20Ágil>)
+
 ### Desenvolvimento de Carreiras
 
 * [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
