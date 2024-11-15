@@ -36,3 +36,7 @@ Uma excelente maneira de encontrar oportunidades de aprimoramento no seu dia a d
 Esse exercício pode ser expandido para atividades relacionadas ao trabalho dos colegas, onde você poderá observar oportunidades de melhoria nos processos adjacentes. No entanto, é essencial abordar essas sugestões com cautela e sensibilidade. A ideia é colaborar e ajudar a tornar as rotinas mais eficientes, e não apontar falhas. Ao sugerir melhorias, deixe claro que o objetivo é facilitar o trabalho em equipe e beneficiar todos. Quando for conversar com os gestores sobre essas sugestões, valorize as contribuições dos colegas, destacando que se trata de uma iniciativa colaborativa. Assim, você não apenas reforça a proatividade, mas também constrói um ambiente de confiança e reconhecimento mútuo, ganhando apoio tanto dos colegas quanto da liderança.
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
+
+<sup><sub>
+Renée Maksoud - novembro de 2024
+</sub></sup>

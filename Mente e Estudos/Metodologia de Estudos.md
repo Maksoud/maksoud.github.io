@@ -58,3 +58,7 @@ A metodologia de estudos ideal combina um ambiente propício, uma rotina consist
 Coloque essas estratégias em prática e observe como seus estudos se tornam mais produtivos, eficientes e, acima de tudo, prazerosos. Afinal, aprender é uma das experiências mais enriquecedoras que podemos viver e dessa forma você aumentará suas chances de conquista.
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
+
+<sup><sub>
+Renée Maksoud - novembro de 2024
+</sub></sup>
