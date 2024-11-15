@@ -32,7 +32,7 @@
 ### Gestão de Projetos
 
 * [Os 4 valores do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%204%20valores%20do%20Manifesto%20Ágil>)
-* [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20Princípios%20do%20Manifesto%20Ágil>)
+* [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>)
 
 ### Desenvolvimento de Carreiras
 
