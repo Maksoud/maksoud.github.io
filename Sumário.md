@@ -6,8 +6,8 @@
 * [Necessidade vs Desejo](<https://maksoud.github.io/Mente%20e%20Estudos/Necessidade%20vs%20Desejo>)
 * [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
+* [A Importância de Não se Comparar](<https://maksoud.github.io/Mente%20e%20Estudos/A%20importância%20de%20Não%20se%20Comparar>)
 * [Seja um Produtor](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
-* [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
@@ -38,8 +38,9 @@
 * [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>)
 * [Certificação CSPO](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
 
-### Desenvolvimento de Carreiras
+### Desenvolvimento Profissional e Carreira
 
 * [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
 * [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
-* [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Job%20Prep/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
+* [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
+* [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Mente%20e%20Estudos/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
