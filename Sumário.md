@@ -39,3 +39,4 @@
 ### Desenvolvimento de Carreiras
 
 * [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
+* [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Job%20Prep/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
