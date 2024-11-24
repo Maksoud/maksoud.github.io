@@ -15,7 +15,7 @@
 ### Finanças
 
 * [10 Regras de Ouro para Começar a Mudar a Mentalidade](<https://maksoud.github.io/Finanças/10%20Regras%20de%20Ouro%20para%20Começar%20a%20Mudar%20a%20Mentalidade>)
-* [Como se Organizar Financeiramente de Maneira Estratégica](<https://maksoud.github.io/Finanças/Como%20%se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
+* [Como se Organizar Financeiramente de Maneira Estratégica](<https://maksoud.github.io/Finanças/Como%20se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
 
 ### Inteligência Artificial
 

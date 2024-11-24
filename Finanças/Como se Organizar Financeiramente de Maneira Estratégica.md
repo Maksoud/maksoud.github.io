@@ -61,7 +61,7 @@ Organizar suas finanças é um processo contínuo que exige disciplina, planejam
 
 O caminho pode ser desafiador, mas cada pequeno passo em direção ao controle financeiro é um avanço em direção à independência. Comece hoje, com o que você tem, e siga em frente com determinação. Ao adotar essa mentalidade, você estará não apenas planejando sua aposentadoria, mas também conquistando liberdade financeira e autonomia para desfrutar dessa fase da vida com tranquilidade.
 
-[link de compartilhamento](<https://maksoud.github.io/Finanças/Como%20%se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
+[link de compartilhamento](<https://maksoud.github.io/Finanças/Como%20se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024
