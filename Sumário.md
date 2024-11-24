@@ -12,10 +12,20 @@
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
 
+
 ### Finanças
 
 * [10 Regras de Ouro para Começar a Mudar a Mentalidade](<https://maksoud.github.io/Finanças/10%20Regras%20de%20Ouro%20para%20Começar%20a%20Mudar%20a%20Mentalidade>)
 * [Como se Organizar Financeiramente de Maneira Estratégica](<https://maksoud.github.io/Finanças/Como%20se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
+
+
+### Desenvolvimento Profissional e Carreira
+
+* [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
+* [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
+* [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
+* [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Mente%20e%20Estudos/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
+
 
 ### Inteligência Artificial
 
@@ -33,15 +43,9 @@
 	* [Técnica Dropout](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Técnica%20Dropout)
 	* [Árvores de Decisão e Florestas Aleatórias](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Árvores%20de%20Decisão%20e%20Florestas%20Aleatórias%20(Decision%20Trees%20and%20Random%20Forests))
 
+
 ### Gestão de Projetos
 
 * [Os 4 valores do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%204%20valores%20do%20Manifesto%20Ágil>)
 * [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>)
 * [Certificação CSPO](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
-
-### Desenvolvimento Profissional e Carreira
-
-* [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
-* [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
-* [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
-* [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Mente%20e%20Estudos/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
