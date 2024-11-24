@@ -6,7 +6,7 @@
 * [Necessidade vs Desejo](<https://maksoud.github.io/Mente%20e%20Estudos/Necessidade%20vs%20Desejo>)
 * [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
-* [A Importância de Não se Comparar](<https://maksoud.github.io/Mente%20e%20Estudos/A%20importância%20de%20Não%20se%20Comparar>)
+* [A Importância de Não se Comparar](<https://maksoud.github.io/Mente%20e%20Estudos/A%20importância%20de%20não%20se%20comparar>)
 * [Seja um Produtor](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
