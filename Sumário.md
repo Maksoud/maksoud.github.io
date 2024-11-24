@@ -3,6 +3,7 @@
 
 * [Alta Performance, Produtividade e Liderança](<https://maksoud.github.io/Mente%20e%20Estudos/Alta%20Performance%2C%20Produtividade%20e%20Liderança>)
 * [Aprendizado Contínuo](<https://maksoud.github.io/Mente%20e%20Estudos/Aprendizado%20Contínuo>)
+* [Necessidade vs Desejo](<https://maksoud.github.io/Mente%20e%20Estudos/Necessidade%20vs%20Desejo>)
 * [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
 * [Seja um Produtor](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
