@@ -2,7 +2,6 @@
 ### Mente e Estudos
 
 * [Alta Performance, Produtividade e Liderança](<https://maksoud.github.io/Mente%20e%20Estudos/Alta%20Performance%2C%20Produtividade%20e%20Liderança>)
-* [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Mente%20e%20Estudos/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
 * [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
 * [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
@@ -39,4 +38,5 @@
 ### Desenvolvimento de Carreiras
 
 * [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
+* [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
 * [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Job%20Prep/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)

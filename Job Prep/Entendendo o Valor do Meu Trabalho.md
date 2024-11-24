@@ -34,7 +34,7 @@ Essa valorização do trabalho de cada um estimula o reconhecimento mútuo dentr
 
 Com esse entendimento claro sobre o impacto de seu trabalho, cada profissional se torna mais engajado não só com suas responsabilidades, mas também com o desenvolvimento da empresa como um todo. Isso gera um ciclo virtuoso em que, ao perceber a importância de seu papel, o colaborador se empenha ainda mais para entregar o seu melhor, gerando resultados que reforçam sua autoestima e, ao mesmo tempo, favorecem o sucesso coletivo. A longo prazo, esse tipo de cultura fortalece a empresa como um todo, criando uma base sólida de comprometimento e excelência.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
+[link de compartilhamento](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024
