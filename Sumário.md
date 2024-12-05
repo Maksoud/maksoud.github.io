@@ -25,6 +25,7 @@
 * [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
 * [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
 * [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Mente%20e%20Estudos/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
+* [Manter-se Competitivo no Mercado](<https://maksoud.github.io/Mente%20e%20Estudos/|Manter-se%20Competitivo%20no%20Mercado>)
 
 
 ### Inteligência Artificial
