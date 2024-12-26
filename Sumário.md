@@ -11,6 +11,7 @@
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
+* [Encontrando uma Paixão](<https://maksoud.github.io/Mente%20e%20Estudos/Encontrando%20uma%20Paixão>)
 
 
 ### Finanças
