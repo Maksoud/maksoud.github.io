@@ -71,9 +71,9 @@ Mapas mentais são diagramas que ajudam a representar visualmente informações 
 
 No canal do Youtube [Asimov Academy](<https://www.youtube.com/@AsimovAcademy>) o autor explica sobre o método e apresenta como isso tornou os seus estudos mais produtivos. Veja aqui o link do [vídeo](<https://youtu.be/aPoo0tT4wmw?si=WVcbOFu0iHP2uS3C>)
 
-Nesse link você encontrar o link para comprar o livro [Como escrever boas notas](<https://www.amazon.com.br/Como-escrever-boas-notas-aprendizado/dp/6587408648>) Uma técnica simples para melhorar a escrita, o aprendizado e o raciocínio vendido na Amazon em sua versão PT-BR. Caso esteja procurando a versão em inglês, o título é [How to Take Smart Notes](<https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5>) One Simple Technique to Boost Writing, Learning and Thinking.
+Há também um livro que aborda sobre o método. O link do livro [Como escrever boas notas](<https://www.amazon.com.br/Como-escrever-boas-notas-aprendizado/dp/6587408648>) Uma técnica simples para melhorar a escrita, o aprendizado e o raciocínio, é vendido na Amazon em sua versão PT-BR. Caso esteja procurando a versão em inglês, o título é [How to Take Smart Notes](<https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5>) One Simple Technique to Boost Writing, Learning and Thinking.
 
-Outro canal do Youtube que recomendo é o [SejaUmaPessoaMelhor](https://www.youtube.com/@sejaumapessoamelhor) onde o autor apresenta a ideia de maneira ilustrativa para melhor compreensão do público. O vídeo aborda [COMO FAZER ANOTAÇÕES EFICIENTES](<https://youtu.be/wERtXzsc088?si=zqTEmjY0gOHSW2PN>) apresentando 5 métodos diferentes que poderão te ajudar a aprender de maneira mais eficaz.
+Outro canal do Youtube que recomendo é o [SejaUmaPessoaMelhor](https://www.youtube.com/@sejaumapessoamelhor) onde o autor apresenta a ideia de maneira ilustrativa para melhor compreensão. O vídeo aborda [COMO FAZER ANOTAÇÕES EFICIENTES](<https://youtu.be/wERtXzsc088?si=zqTEmjY0gOHSW2PN>), apresentando 5 métodos diferentes que poderão te ajudar a aprender de maneira mais eficaz.
 
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
