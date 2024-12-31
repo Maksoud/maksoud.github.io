@@ -1,17 +1,15 @@
 
 ### Mente e Estudos
 
-* [Alta Performance, Produtividade e Liderança](<https://maksoud.github.io/Mente%20e%20Estudos/Alta%20Performance%2C%20Produtividade%20e%20Liderança>)
 * [Aprendizado Contínuo](<https://maksoud.github.io/Mente%20e%20Estudos/Aprendizado%20Contínuo>)
 * [Necessidade vs Desejo](<https://maksoud.github.io/Mente%20e%20Estudos/Necessidade%20vs%20Desejo>)
 * [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
 * [A Importância de Não se Comparar](<https://maksoud.github.io/Mente%20e%20Estudos/A%20importância%20de%20não%20se%20comparar>)
 * [Seja um Produtor](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
-* [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
-* [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
 * [Encontrando uma Paixão](<https://maksoud.github.io/Mente%20e%20Estudos/Encontrando%20uma%20Paixão>)
+* [O método Zettelkasten](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
 
 
 ### Finanças
@@ -23,10 +21,13 @@
 ### Desenvolvimento Profissional e Carreira
 
 * [Criando um PDI](<https://maksoud.github.io/Job%20Prep/Criando%20um%20PDI>)
+* [Alta Performance, Produtividade e Liderança](<https://maksoud.github.io/Mente%20e%20Estudos/Alta%20Performance%2C%20Produtividade%20e%20Liderança>)
 * [Entendendo o Valor do Meu Trabalho](<https://maksoud.github.io/Job%20Prep/Entendendo%20o%20Valor%20do%20Meu%20Trabalho>)
 * [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
 * [A Importância de Qualificar as Atividades no Ambiente de Trabalho](<https://maksoud.github.io/Mente%20e%20Estudos/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
 * [Manter-se Competitivo no Mercado](<https://maksoud.github.io/Mente%20e%20Estudos/Manter-se%20Competitivo%20no%20Mercado>)
+* [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
+* [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
 
 
 ### Inteligência Artificial
