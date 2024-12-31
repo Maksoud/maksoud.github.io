@@ -1,12 +1,5 @@
 ### [Sumário](<https://maksoud.github.io/Sumário>)
 
-# O método Zettelkasten
-
-- [O livro que MUDOU a forma como eu ESTUDO e PENSO - O método Zettelkasten](<https://youtu.be/aPoo0tT4wmw?si=WVcbOFu0iHP2uS3C>)
-- [Como escrever boas notas: Uma técnica simples para melhorar a escrita, o aprendizado e o raciocínio](<https://www.amazon.com.br/Como-escrever-boas-notas-aprendizado/dp/6587408648>)
-- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](<https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5>)
-- [How to make efficient notes](<https://youtu.be/wERtXzsc088?si=zqTEmjY0gOHSW2PN>)
-
 # Quem foi Niklas Luhmann?
  
 Niklas Luhmann (1927–1998) foi um sociólogo alemão renomado por sua teoria dos sistemas sociais e por sua impressionante produtividade acadêmica, que resultou em mais de 70 livros e quase 400 artigos científicos. Um dos principais fatores que contribuíram para essa produtividade foi o uso do método Zettelkasten, um sistema inovador de organização de notas que ele desenvolveu.
@@ -65,6 +58,14 @@ Mapas mentais são diagramas que ajudam a representar visualmente informações 
 
 ###### **Método do Fluxo de Anotações**
 É uma técnica de estudo e tomada de notas que se baseia na ideia de registrar informações de forma espontânea, dinâmica e interligada, com o objetivo de refletir o processo de pensamento contínuo e não-linear. Ele se inspira em conceitos da psicologia, especialmente o **fluxo** (ou **state of flow**) descrito pelo psicólogo Mihály Csíkszentmihályi, que se refere a um estado mental em que a pessoa está completamente imersa e engajada em uma atividade. Esse método, ao invés de seguir um formato rígido e estruturado (como anotações lineares ou mapas mentais), permite que as ideias fluam livremente, criando um registro mais natural do raciocínio e da aprendizagem. A principal característica do método do fluxo é a ausência de uma organização estrita, o que ajuda o estudante a conectar ideias de maneira mais livre e criativa.
+
+# Fonte de Conhecimento
+
+No canal do Youtube [Asimov Academy](<https://www.youtube.com/@AsimovAcademy>) o autor explica sobre o método e apresenta como isso tornou os seus estudos mais produtivos. Veja aqui o link do [vídeo](<https://youtu.be/aPoo0tT4wmw?si=WVcbOFu0iHP2uS3C>)
+
+Nesse link você encontrar o link para comprar o livro [Como escrever boas notas](<https://www.amazon.com.br/Como-escrever-boas-notas-aprendizado/dp/6587408648>) Uma técnica simples para melhorar a escrita, o aprendizado e o raciocínio vendido na Amazon em sua versão PT-BR. Caso esteja procurando a versão em inglês, o título é [How to Take Smart Notes](<https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5>) One Simple Technique to Boost Writing, Learning and Thinking.
+
+Outro canal do Youtube que recomendo é o [SejaUmaPessoaMelhor](https://www.youtube.com/@sejaumapessoamelhor) onde o autor apresenta a ideia de maneira ilustrativa para melhor compreensão do público. O vídeo aborda [COMO FAZER ANOTAÇÕES EFICIENTES](<https://youtu.be/wERtXzsc088?si=zqTEmjY0gOHSW2PN>) apresentando 5 métodos diferentes que poderão te ajudar a aprender de maneira mais eficaz.
 
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
