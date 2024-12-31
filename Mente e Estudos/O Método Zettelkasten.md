@@ -36,7 +36,7 @@ Atualmente, o método Zettelkasten continua a influenciar práticas de tomada de
 
 ### **Princípios Básicos do Método Zettelkasten**
 
-![[Método Zettelkasten.png]]
+![[imgs/Método Zettelkasten.png]]
 
 1. **Notas Atômicas**
     - As notas no Zettelkasten devem ser pequenas, independentes e conter uma ideia única ou um conceito completo. Cada nota (ou "Zettel") deve ser autocontida, ou seja, quando você lê uma nota, deve ser capaz de entender o conceito nela contido sem precisar de mais informações externas.
