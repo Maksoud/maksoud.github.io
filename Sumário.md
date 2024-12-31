@@ -9,7 +9,7 @@
 * [Seja um Produtor](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
 * [Encontrando uma Paixão](<https://maksoud.github.io/Mente%20e%20Estudos/Encontrando%20uma%20Paixão>)
-* [O método Zettelkasten](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
+* [O Método Zettelkasten](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
 
 
 ### Finanças
