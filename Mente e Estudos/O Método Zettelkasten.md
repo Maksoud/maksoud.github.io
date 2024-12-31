@@ -1,5 +1,13 @@
 ### [Sumário](<https://maksoud.github.io/Sumário>)
 
+# O Método Zettelkasten
+
+No mundo acelerado de hoje, onde a sobrecarga de informações e a necessidade de aprender de forma eficiente são desafios constantes, encontrar um método de estudo que realmente transforme a maneira como adquirimos e retemos conhecimento é algo crucial. 
+
+O **Método Zettelkasten**, criado pelo sociólogo alemão **Niklas Luhmann**, oferece uma abordagem inovadora e altamente eficaz para o aprendizado profundo e a organização do conhecimento. Este método, que se traduz como "caixa de anotações", não apenas incentiva a tomada de notas de forma estruturada e interconectada, mas também promove um processo ativo de reflexão, conexão e expansão do conhecimento. 
+
+Neste artigo, exploraremos como esse método pode revolucionar a forma como você estuda, proporcionando uma base sólida para aprender novas habilidades e absorver conhecimento de maneira mais eficaz.
+
 # Quem foi Niklas Luhmann?
  
 Niklas Luhmann (1927–1998) foi um sociólogo alemão renomado por sua teoria dos sistemas sociais e por sua impressionante produtividade acadêmica, que resultou em mais de 70 livros e quase 400 artigos científicos. Um dos principais fatores que contribuíram para essa produtividade foi o uso do método Zettelkasten, um sistema inovador de organização de notas que ele desenvolveu.
@@ -59,7 +67,7 @@ Mapas mentais são diagramas que ajudam a representar visualmente informações 
 ###### **Método do Fluxo de Anotações**
 É uma técnica de estudo e tomada de notas que se baseia na ideia de registrar informações de forma espontânea, dinâmica e interligada, com o objetivo de refletir o processo de pensamento contínuo e não-linear. Ele se inspira em conceitos da psicologia, especialmente o **fluxo** (ou **state of flow**) descrito pelo psicólogo Mihály Csíkszentmihályi, que se refere a um estado mental em que a pessoa está completamente imersa e engajada em uma atividade. Esse método, ao invés de seguir um formato rígido e estruturado (como anotações lineares ou mapas mentais), permite que as ideias fluam livremente, criando um registro mais natural do raciocínio e da aprendizagem. A principal característica do método do fluxo é a ausência de uma organização estrita, o que ajuda o estudante a conectar ideias de maneira mais livre e criativa.
 
-# Fonte de Conhecimento
+# Fonte de Inspiração
 
 No canal do Youtube [Asimov Academy](<https://www.youtube.com/@AsimovAcademy>) o autor explica sobre o método e apresenta como isso tornou os seus estudos mais produtivos. Veja aqui o link do [vídeo](<https://youtu.be/aPoo0tT4wmw?si=WVcbOFu0iHP2uS3C>)
 
