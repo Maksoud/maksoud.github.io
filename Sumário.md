@@ -11,6 +11,7 @@
 * [Encontrando uma Paixão](<https://maksoud.github.io/Mente%20e%20Estudos/Encontrando%20uma%20Paixão>)
 * [O Método Zettelkasten](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
 * [Conselhos para uma vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conselhos%20para%20uma%20vida>)
+* [Ser humano no mundo corporativo](<https://maksoud.github.io/Mente%20e%20Estudos/Ser%20humano%20no%20mundo%20corporativo>)
 
 
 ### Finanças
