@@ -10,6 +10,7 @@
 * [Metodologia de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Metodologia%20de%20Estudos>)
 * [Encontrando uma Paixão](<https://maksoud.github.io/Mente%20e%20Estudos/Encontrando%20uma%20Paixão>)
 * [O Método Zettelkasten](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
+* [Conselhos para uma vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conselhos%20para%20uma%20vida>)
 
 
 ### Finanças
