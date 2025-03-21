@@ -59,3 +59,10 @@ A criação de valor deve ser **planejada, validada e medida** ao longo de todo 
 Criar produtos digitais relevantes vai muito além de desenvolver uma solução funcional. Exige sensibilidade para entender o que é valor para cada parte envolvida, disciplina para aplicar boas práticas de gestão de projetos e clareza para manter uma comunicação constante e significativa com todos os stakeholders.
 
 Ao alinhar propósito, valor e execução, o produto deixa de ser apenas uma entrega e se transforma em uma **solução estratégica, capaz de impulsionar o negócio e gerar impacto real nas pessoas e seus processos**.
+
+
+[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>)
+
+<sup><sub>
+Renée Maksoud - março de 2025
+</sub></sup>
