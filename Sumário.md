@@ -56,3 +56,4 @@
 * [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>)
 * [Certificação CSPO](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
 * [Metodologia Ágil - Lean](<https://maksoud.github.io/Gestão%20de%20Projetos/Metodologia%20Ágil%20-%20Lean>)
+* [Processo de criação de valor de produtos digitais]
