@@ -1,5 +1,5 @@
 ### [Sumário](<https://maksoud.github.io/Sumário>)
-## **Como Aumentar sua Renda e Multiplicar seu Dinheiro nos Próximos 3 Anos**
+## **Encontrando Oportunidades: Como Aumentar sua Renda e Multiplicar seu Dinheiro nos Próximos 3 Anos**
 
 A busca por estabilidade financeira e liberdade econômica é um desejo comum, mas poucos compreendem que a verdadeira transformação começa com a capacidade de **identificar oportunidades, criar valor e multiplicar resultados ao longo do tempo**.
 
@@ -25,7 +25,7 @@ A criação de uma nova fonte de renda começa com um olhar para dentro: suas ha
 Imagine o seguinte cenário: um gerente de empresa precisa entregar uma apresentação até o final de semana. Ele tem todos os dados espalhados em papéis e planilhas, mas não tem domínio técnico para organizá-los de forma clara. Você, por outro lado, tem tempo e conhecimento suficientes para resolver isso em poucas horas. Para ele, é um problema sério. Para você, é uma tarefa simples — e bem remunerada.
 
 A chave está em **ofertar seu serviço com segurança, clareza e responsabilidade**. Quando você transmite confiança e profissionalismo, o cliente sente que pode contar com você. Evite mencionar que está apenas começando ou tentando “fazer uma renda extra” — isso pode gerar insegurança. Seja transparente e verdadeiro, mas destaque suas capacidades e sua vontade de entregar um bom resultado.
-# "Com boa fé, comprometimento e uma comunicação honesta, o caminho se abre. Grandes oportunidades costumam surgir das pequenas entregas bem feitas."
+# *"Com boa fé, comprometimento e uma comunicação honesta, o caminho se abre. Grandes oportunidades costumam surgir das pequenas entregas bem feitas."*
 
 #### **Ideias práticas e acessíveis para gerar renda:**
 
@@ -143,7 +143,7 @@ Promessas do tipo:
 - “Essa oportunidade é secreta, só para poucos.”
 
 **Desconfie. Proteja o que você conquistou.** Muitos investidores iniciantes comprometem todo o esforço de anos por não saber diferenciar investimento de aposta. 
-# **"A multiplicação do dinheiro é real, mas ela acontece com estratégia, conhecimento, paciência e constância."**
+# *"A multiplicação do dinheiro é real, mas ela acontece com estratégia, conhecimento, paciência e constância."*
 
 #### **Meta de longo prazo (3 anos): construir uma base de renda passiva**
 
@@ -164,7 +164,7 @@ Como já dizia o Coelho no País das Maravilhas:
 > _“Pra quem não sabe para onde quer ir, qualquer caminho serve.”_
 
 Essa frase resume um dos maiores perigos na vida financeira: caminhar sem rumo. Sem metas bem definidas, sem marcos claros de progresso, **você pode até se movimentar… mas não avança de verdade**.
-# **Metas são bússolas, não correntes**
+# *"Metas são bússolas, não correntes."*
 
 Metas não servem para te aprisionar — servem para **guiar** suas ações, **focar sua energia** e permitir que você **mensure suas conquistas**. Sem metas, qualquer esforço parece pouco, qualquer resultado parece insuficiente, e o desânimo vem mais rápido do que deveria.
 
@@ -205,7 +205,7 @@ Essa abordagem tira o peso do fracasso e coloca o foco na evolução. E isso mud
 #### **Crie um sistema, não só um sonho**
 
 Metas são importantes. Mas mais importante ainda é criar **um sistema de pequenas ações consistentes** que te levem até elas. 
-# **Ter metas sem um plano de ação é como colocar o destino no GPS e desligar o carro.**
+# *"Ter metas sem um plano de ação é como colocar o destino no GPS e desligar o carro."*
 
 Então:
 
@@ -240,7 +240,7 @@ Buscar excelência na entrega deve ser um valor constante. Aprimorar seu serviç
 - Use as críticas como filtro: veja o que é construtivo, ignore o que for mal-intencionado.
 - Não mude seu posicionamento a cada feedback. Tenha um norte claro, e ajuste o percurso com equilíbrio.
 
-# **Crescimento é consistência, não perfeição**
+# *"Crescimento é consistência, não perfeição."*
 
 O grande diferencial está em continuar fazendo o que precisa ser feito — com disciplina, humildade para aprender e coragem para seguir em frente, mesmo quando os resultados demoram a aparecer.
 
