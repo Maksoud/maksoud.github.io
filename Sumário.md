@@ -2,7 +2,7 @@
 
 ### Produtos Digitais
 
-* [Criando Seu Negócio na Internet](<https://maksoud.github.io/Finanças/Criando%20Seu%20Negócio%20na%20Internet>)
+* [Criando Seu Negócio na Internet](<https://maksoud.github.io/Produtos%20Digitais/Criando%20Seu%20Negócio%20na%20Internet>)
 * [Prospecção de Clientes]
 * [Abordagem de Clientes e Técnicas de Persuasão]
 * [Linguagem não Técnica para Apresentação]
