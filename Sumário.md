@@ -8,6 +8,7 @@
 * [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
 * [Wordpress - Criando Conteúdo com o Elementor PRO]
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
+* [Agendamento de Tarefas no Linux com CRONTAB]
 * [SEO - Como Melhorar a Visualização do Seu Site]
 * [Criando uma API de Serviços (webservice) - Avançado]
 * [Criando um aplicativo Android com WebViewer - Avançado]
