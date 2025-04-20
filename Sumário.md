@@ -3,11 +3,7 @@
 ### Produtos Digitais
 
 * [Criando Seu Negócio na Internet](<https://maksoud.github.io/Produtos%20Digitais/Criando%20Seu%20Negócio%20na%20Internet>)
-* [Prospecção de Clientes]
-* [Abordagem de Clientes e Técnicas de Persuasão]
-* [Linguagem não Técnica para Apresentação]
-* [Entendendo e Solucionando o Problema do Seu Cliente]
-* [Registrando um Domínio BR]
+* [Registrando um Domínio (.com.br)](<https://maksoud.github.io/Produtos%20Digitais/Registrando%20um%20Dom%C3%ADnio%20BR>)
 * [Hospedando um Site - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
 * [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
 * [Wordpress - Criando Conteúdo com o Elementor PRO]
@@ -15,6 +11,10 @@
 * [SEO - Como Melhorar a Visualização do Seu Site]
 * [Criando uma API de Serviços (webservice) - Avançado]
 * [Criando um aplicativo Android com WebViewer - Avançado]
+* [Prospecção de Clientes]
+* [Abordagem de Clientes e Técnicas de Persuasão]
+* [Linguagem não Técnica para Apresentação]
+* [Entendendo e Solucionando o Problema do Seu Cliente]
 
 
 ### Mente e Estudos
