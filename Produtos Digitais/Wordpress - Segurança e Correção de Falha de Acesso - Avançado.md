@@ -123,7 +123,6 @@ Agora nós vamos criar o arquivo. Navegue até a raiz do diretório que está in
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 RewriteBase /
 RewriteRule ^index\.php$ - [L]
 
@@ -160,7 +159,7 @@ sudo chmod 775 .htaccess
 
 > Para realizar alterações e atualizações no ambiente administrativo do seu Wordpress, é necessário realizar a alteração dessas restrições de acesso dos arquivos e pastas. Não esqueça de configurar novamente após a atualização, garantindo a segurança do seu ambiente.
 
-> Para aplicar as configurações realizadas é preciso reiniciar o seu servidor Apache. Para isso, digite o comando `sudo service apache2 restart`. 
+> Para aplicar as configurações realizadas é preciso reiniciar o seu servidor Apache. Para isso, digite o comando `sudo systemctl restart apache2`. 
 
 ---
 ### Corrigindo possíveis falhas de encontrar páginas no Wordpress
