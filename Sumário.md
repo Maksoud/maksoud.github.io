@@ -8,7 +8,7 @@
 * [Linguagem não Técnica para Apresentação]
 * [Entendendo e Solucionando o Problema do Seu Cliente]
 * [Registrando um Domínio BR]
-* [Hospedando um Site - Avançado]
+* [Hospedando um Site - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
 * [Wordpress - Configurações e Boas Práticas]
 * [Wordpress - Criando Conteúdo com o Elementor PRO]
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
