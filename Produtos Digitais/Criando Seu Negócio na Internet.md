@@ -209,7 +209,7 @@ Construir um negócio sólido na internet é possível — e você está no cami
 Agora sim, você está pronto para transformar seu conhecimento em uma fonte de renda online contínua e escalável.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Finanças/Criando%20Seu%20Negócio%20na%20Internet>)
+[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Criando%20Seu%20Negócio%20na%20Internet>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

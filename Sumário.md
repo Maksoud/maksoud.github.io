@@ -1,4 +1,22 @@
 
+
+### Produtos Digitais
+
+* [Criando Seu Negócio na Internet](<https://maksoud.github.io/Finanças/Criando%20Seu%20Negócio%20na%20Internet>)
+* [Prospecção de Clientes]
+* [Abordagem de Clientes e Técnicas de Persuasão]
+* [Linguagem não Técnica para Apresentação]
+* [Entendendo e Solucionando o Problema do Seu Cliente]
+* [Registrando um Domínio BR]
+* [Hospedando um Site - Avançado]
+* [Wordpress - Configurações e Boas Práticas]
+* [Wordpress - Criando Conteúdo com o Elementor PRO]
+* [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
+* [SEO - Como Melhorar a Visualização do Seu Site]
+* [Criando uma API de Serviços (webservice) - Avançado]
+* [Criando um aplicativo Android com WebViewer - Avançado]
+
+
 ### Mente e Estudos
 
 * [Aprendizado Contínuo](<https://maksoud.github.io/Mente%20e%20Estudos/Aprendizado%20Contínuo>)
@@ -20,7 +38,6 @@
 * [10 Regras de Ouro para Começar a Mudar a Mentalidade](<https://maksoud.github.io/Finanças/10%20Regras%20de%20Ouro%20para%20Começar%20a%20Mudar%20a%20Mentalidade>)
 * [Como se Organizar Financeiramente de Maneira Estratégica](<https://maksoud.github.io/Finanças/Como%20se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
 * [Encontrando Oportunidades](<https://maksoud.github.io/Finanças/Encontrando%20oportunidades>)
-* [Criando Seu Negócio na Internet](<https://maksoud.github.io/Finanças/Criando%20Seu%20Negócio%20na%20Internet>)
 
 
 ### Desenvolvimento Profissional e Carreira
