@@ -160,6 +160,8 @@ sudo chmod 775 .htaccess
 
 > Para realizar alterações e atualizações no ambiente administrativo do seu Wordpress, é necessário realizar a alteração dessas restrições de acesso dos arquivos e pastas. Não esqueça de configurar novamente após a atualização, garantindo a segurança do seu ambiente.
 
+> Para aplicar as configurações realizadas é preciso reiniciar o seu servidor Apache. Para isso, digite o comando `sudo service apache2 restart`. 
+
 ---
 ### Corrigindo possíveis falhas de encontrar páginas no Wordpress
 
