@@ -12,8 +12,8 @@
 * [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
 * [Criando uma API de Serviços (webservice) - Avançado]
 * [Criando um aplicativo Android com WebViewer - Avançado]
-* [Prospecção de Clientes]
-* [Abordagem de Clientes e Técnicas de Persuasão]
+* [Prospecção de Clientes - Conversão de Leads]
+* [Abordagem de Clientes e Técnicas de Persuasão - Criação de Copyrights]
 * [Linguagem não Técnica para Apresentação]
 * [Entendendo e Solucionando o Problema do Seu Cliente]
 
