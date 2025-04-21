@@ -4,6 +4,7 @@
 
 Nesse artigo eu vou apresentar uma possível solução para a falha *"The requested URL was not found on this server"*. Esse artigo também irá apresentar soluções de segurança dos seus arquivos, ajudando a prevenir invasões e alterações dos seus arquivos na sua instalação do **Wordpress**,
 
+---
 ### Alterando o seu arquivo de acessos
 
 Vamos configurar o **Apache2** para garantir a segurança dos seus arquivos. Para isso, abra o arquivo **"/etc/apache2/apache2.conf"** e altere o seu conteúdo como mostrado abaixo:  
@@ -73,8 +74,6 @@ Vamos configurar o **Apache2** para garantir a segurança dos seus arquivos. Par
 - **`Require all granted`**: Concede acesso a qualquer visitante.
 - **`Require all denied`**: **Nega acesso total** a esse diretório para qualquer visitante.
 
-### Importância:
-
 Esse é o **diretório onde seu WordPress está instalado** (ex: `/var/www/html/`). Essa configuração garante que:
 
 - O Apache vai **ler o `.htaccess`** (que o WordPress usa para redirecionamentos, rewrites etc.);
@@ -111,7 +110,6 @@ Header always set Permissions-Policy "geolocation=(), microphone=()"
 > `sudo a2enmod headers`
 
 ---
-
 ### Criando o arquivo **`.htaccess`**
 
 Esse arquivo fica oculto, por isso o "." no início do seu nome. Ele é responsável por informar ao seu servidor sobre o comportamento de acesso dos diretórios e precisamos alterá-lo ou criá-lo para corrigir a falha e aprimorar a segurança do seu site. Para isso, siga as instruções conforme descrito nos passos a seguir.
