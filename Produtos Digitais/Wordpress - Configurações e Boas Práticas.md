@@ -71,11 +71,11 @@ Uma forma de realizar essa alteração é através do plugin **WPS Hide Login** 
 - Considere combinar essa prática com **2FA** e **limitação de tentativas de login**.
 
 ---
-## Plugins Recomendados
+## 7. Plugins Recomendados
 
 Nessa seção eu apresento uma lista de plugins recomendados que utilizo para aprimorar a segurança do site **WordPress**, assim como alguns plugins que irão aprimorar a sua criação de sites.
 
-#### All-In-One Security (AIOS) (Segurança)
+#### 7.1 All-In-One Security (AIOS) (Segurança)
 
 [All-in-One Security (AIOS)](<https://br.wordpress.org/plugins/all-in-one-wp-security-and-firewall/>) é um plugin essencial para proteger sites WordPress, oferecendo recursos avançados de segurança de forma simples e eficiente.
 
@@ -83,7 +83,7 @@ Com ele, você protege seu site contra **ataques de força bruta**, **bloqueia b
 
 Tudo isso com uma interface intuitiva e diversas funções gratuitas, tornando-o uma solução indispensável para quem quer manter o WordPress seguro sem complicação.
 
-#### Google Authenticator (Segurança)
+#### 7.2 Google Authenticator (Segurança)
 
 O plugin [Google Authenticator](<https://br.wordpress.org/plugins/google-authenticator/>) é um plugin de segurança para WordPress que adiciona **autenticação de dois fatores (2FA)** usando o app Google Authenticator no celular.
 
@@ -93,7 +93,7 @@ Com ele, mesmo que alguém descubra sua senha, **não conseguirá acessar seu si
 
 Ideal para quem busca **reforçar a segurança do login no WordPress** com uma solução prática e confiável.
 
-#### Login Lockdown (Segurança)
+#### 7.3 Login Lockdown (Segurança)
 
 [Login Lockdown](<https://wordpress.org/plugins/login-lockdown/>) é um plugin de segurança para WordPress que protege seu site contra **ataques de força bruta**, bloqueando automaticamente IPs após várias tentativas de login falhas.
 
@@ -101,7 +101,7 @@ Com recursos como **bloqueio por país**, **log detalhado de tentativas**, **int
 
 Simples de configurar, o plugin é ideal para quem quer **impedir acessos não autorizados** e manter o controle total sobre quem tenta invadir o site.
 
-#### Font Awesome
+#### 7.4 Font Awesome
 
 A forma oficial [Font Awesome](<https://br.wordpress.org/plugins/font-awesome/>) e mais prática de adicionar ícones ao seu site WordPress, seja na versão **Free** ou **Pro**.
 
@@ -109,7 +109,7 @@ Com ele, você pode usar ícones modernos e personalizados em **posts, páginas 
 
 Ideal para quem deseja **melhorar o visual e a comunicação visual do site** com ícones profissionais e atualizados.
 
-#### Advanced Custom Fields PRO
+#### 7.5 Advanced Custom Fields PRO
 
 O [Advanced Custom Fields](<https://www.advancedcustomfields.com/>) é um plugin indispensável para desenvolvedores WordPress que desejam **personalizar a experiência de edição** no painel do site.
 
@@ -117,7 +117,7 @@ Com ele, é possível **criar e gerenciar campos personalizados** com facilidade
 
 Os campos podem ser exibidos em qualquer template do tema com funções práticas e intuitivas, tornando o ACF uma solução poderosa e flexível para **sites dinâmicos e bem estruturados**.
 
-#### Elementor Pro
+#### 7.6 Elementor Pro
 
 O [Elementor Pro](<https://elementor.com/pro/>) é um dos construtores de páginas mais poderosos para WordPress, ideal para quem deseja criar **sites personalizados, modernos e profissionais** sem escrever uma linha de código.
 
@@ -125,7 +125,7 @@ Com recursos como **widgets avançados de portfólio**, **cabeçalhos e rodapés
 
 Perfeito para quem quer transformar ideias em sites visualmente incríveis, mantendo a **identidade da marca** e a **experiência do usuário** em destaque.
 
-#### WP Image Zoom
+#### 7.7 WP Image Zoom
 
 O [WP Image Zoom](<https://br.wordpress.org/plugins/wp-image-zoooom/>) é um plugin de WordPress que permite adicionar um **efeito de lupa interativo** nas imagens do seu site, realçando detalhes e melhorando a experiência visual do usuário.
 
@@ -134,7 +134,7 @@ Com **diversos tipos de zoom**, efeitos de animação e fade, além de **alta pe
 Compatível com **WooCommerce**, páginas e posts, é uma excelente ferramenta para quem busca **valorizar o conteúdo visual** e potencialmente **aumentar as conversões** no site.
 
 ---
-## Alerta de falta de módulo **imagick** no WordPress
+## Extra: Alerta de falta de módulo **imagick** no WordPress
 
 O módulo **Imagick** é essencial para o processamento avançado de imagens no WordPress. Sua ausência pode afetar funcionalidades como redimensionamento, compressão e manipulação de imagens em plugins e temas.
 
