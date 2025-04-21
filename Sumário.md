@@ -5,11 +5,11 @@
 * [Criando Seu Negócio na Internet](<https://maksoud.github.io/Produtos%20Digitais/Criando%20Seu%20Negócio%20na%20Internet>)
 * [Registrando um Domínio (.com.br)](<https://maksoud.github.io/Produtos%20Digitais/Registrando%20um%20Dom%C3%ADnio%20BR>)
 * [Hospedando um Site - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
+* [Agendamento de Tarefas no Linux com CRONTAB](<https://maksoud.github.io/Produtos%20Digitais/Agendamento%20de%20Tarefas%20no%20Linux%20com%20CRONTAB>)
 * [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
-* [Wordpress - Criando Conteúdo com o Elementor PRO]
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
-* [Agendamento de Tarefas no Linux com CRONTAB]
-* [SEO - Como Melhorar a Visualização do Seu Site]
+* [Wordpress - Criando Conteúdo com o Elementor PRO]
+* [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
 * [Criando uma API de Serviços (webservice) - Avançado]
 * [Criando um aplicativo Android com WebViewer - Avançado]
 * [Prospecção de Clientes]
