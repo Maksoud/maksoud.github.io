@@ -133,6 +133,36 @@ Com **diversos tipos de zoom**, efeitos de animação e fade, além de **alta pe
 
 Compatível com **WooCommerce**, páginas e posts, é uma excelente ferramenta para quem busca **valorizar o conteúdo visual** e potencialmente **aumentar as conversões** no site.
 
+#### 7.8 Wordfence
+
+Quando falamos de segurança em WordPress, um dos plugins mais robustos e indispensáveis é o [**Wordfence**](https://br.wordpress.org/plugins/wordfence/). Ele oferece uma **camada poderosa de proteção contra ataques**, monitoramento em tempo real e ferramentas essenciais para blindar o seu site contra invasões.
+
+Combinado com boas práticas de segurança, o Wordfence pode proteger até os pontos mais vulneráveis do WordPress.
+
+#### Boas práticas recomendadas com o uso do Wordfence (e além)
+
+- **Altere o prefixo padrão das tabelas do banco de dados** (`wp_`) para dificultar ataques automatizados de injeção SQL.
+- **Mude a URL de login padrão (`/wp-admin`)** para algo único e imprevisível.
+- **Altere o ID do primeiro usuário administrador (ID 1)**, que costuma ser o alvo primário em ataques de força bruta.
+- **Ative o uso obrigatório de SSL (HTTPS)** para todas as áreas do site, especialmente o painel de login.
+- **Implemente reCAPTCHA em todos os formulários**, inclusive de login e comentários, para bloquear robôs e ataques automatizados.
+- **Desabilite o login por nome de usuário**, permitindo apenas via e-mail, uma prática simples que dificulta ataques de força bruta.
+- **Exija o uso de senhas fortes** para todos os usuários, especialmente administradores e editores.
+- **Utilize uma CDN (Content Delivery Network)** para cache de arquivos estáticos — melhora a segurança, a performance e economiza banda.
+- **Implemente cache de banco de dados com Redis**, se possível, para reduzir a carga do servidor e acelerar o carregamento.
+- **Instale apenas plugins confiáveis**, testados por você ou com ampla reputação. Evite plugins desconhecidos ou abandonados.
+- **Ao desenvolver seus próprios plugins**, siga práticas de segurança como:
+    - Escapar e sanitizar entradas (`esc_html()`, `sanitize_text_field()`, etc.)
+    - Usar `prepare()` nas consultas SQL para evitar injeções
+    - Validar permissões antes de executar ações sensíveis
+
+---
+### 8. E o mais importante: backups sempre em dia
+
+Mesmo com todas as camadas de segurança aplicadas, nenhuma proteção é infalível. Por isso, **manter backups regulares e automatizados** do seu banco de dados e arquivos é essencial para garantir a recuperação do site em caso de invasão, erro humano ou falha no servidor.
+
+> 🛠️ Dica: combine o **Wordfence** com plugins de backup como **UpdraftPlus** ou **All-in-One WP Migration** para uma estratégia de segurança completa.
+
 ---
 ## Extra: Alerta de falta de módulo **imagick** no WordPress
 
