@@ -14,7 +14,7 @@
 * [Criando um aplicativo Android com WebViewer - Avançado]
 * [Prospecção de Clientes](<https://maksoud.github.io/Produtos%20Digitais/Prospec%C3%A7%C3%A3o%20de%20Clientes>)
 * [Abordagem de Clientes e Técnicas de Persuasão](<https://maksoud.github.io/Produtos%20Digitais/Abordagem%20de%20Clientes%20e%20T%C3%A9cnicas%20de%20Persuas%C3%A3o>)
-* [Linguagem não Técnica para Apresentação]
+* [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
 * [Entendendo e Solucionando o Problema do Seu Cliente]
 
 
