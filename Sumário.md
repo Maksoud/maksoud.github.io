@@ -13,7 +13,7 @@
 * [Criando uma API de Serviços (webservice) - Avançado]
 * [Criando um aplicativo Android com WebViewer - Avançado]
 * [Prospecção de Clientes - Conversão de Leads]
-* [Abordagem de Clientes e Técnicas de Persuasão - Criação de Copyrights]
+* [Abordagem de Clientes e Técnicas de Persuasão](<https://maksoud.github.io/Produtos%20Digitais/Abordagem%20de%20Clientes%20e%20T%C3%A9cnicas%20de%20Persuas%C3%A3o>)
 * [Linguagem não Técnica para Apresentação]
 * [Entendendo e Solucionando o Problema do Seu Cliente]
 
