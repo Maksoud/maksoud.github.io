@@ -11,7 +11,7 @@ O Elementor PRO é um dos construtores de páginas mais populares e completos pa
 
 O Elementor oferece um editor _drag-and-drop_ (arrastar e soltar) onde todas as alterações são visualizadas instantaneamente, tornando o processo de design muito mais intuitivo.
 
-![[https://github.com/Maksoud/maksoud.github.io/blob/b5ca83f62817da53ac2c2809ac5f1a7dcf5aa1b1/Produtos%20Digitais/imgs/Elementor%20Pro%206.png?raw=true]]
+![Elementor Pro 6](https://maksoud.github.io//Produtos%20Digitais/imgs/Elementor%20Pro%206.png)
 ### 2. **Widgets Avançados**
 
 A versão PRO inclui widgets poderosos como:
@@ -22,29 +22,29 @@ A versão PRO inclui widgets poderosos como:
 - Contadores e barras de progresso
 - Integração com ferramentas de marketing como Mailchimp, ActiveCampaign e Zapier
 
-![[https://github.com/Maksoud/maksoud.github.io/blob/b5ca83f62817da53ac2c2809ac5f1a7dcf5aa1b1/Produtos%20Digitais/imgs/Elementor%20Pro%203.png?raw=true]]
+![Elementor Pro 3](https://maksoud.github.io//Produtos%20Digitais/imgs/Elementor%20Pro%203.png)
 ### 3. **Templates e Kits Prontos**
 
 Possui uma vasta biblioteca de **templates prontos** e kits de sites completos. Ideal para acelerar o processo de criação sem comprometer a qualidade visual.
 
-![[https://github.com/Maksoud/maksoud.github.io/blob/b5ca83f62817da53ac2c2809ac5f1a7dcf5aa1b1/Produtos%20Digitais/imgs/Elementor%20Pro%205.png?raw=true]]
+![Elementor Pro 5](https://maksoud.github.io//Produtos%20Digitais/imgs/Elementor%20Pro%205.png)
 
 ### 4. **Theme Builder (Construtor de Temas)**
 
 Permite personalizar **cabeçalho**, **rodapé**, **páginas de blog**, **páginas de produto** e mais — criando temas personalizados do zero, sem codificação.
 
-![[https://github.com/Maksoud/maksoud.github.io/blob/b5ca83f62817da53ac2c2809ac5f1a7dcf5aa1b1/Produtos%20Digitais/imgs/Elementor%20Pro%201.png?raw=true]]
+![Elementor Pro 1](https://maksoud.github.io//Produtos%20Digitais/imgs/Elementor%20Pro%201.png)
 
 ### 5. **Responsividade Garantida**
 
 Você pode adaptar sua página para **desktop, tablet e mobile**, ajustando espaçamentos, tamanhos e visibilidade com facilidade.
 
-![[https://github.com/Maksoud/maksoud.github.io/blob/b5ca83f62817da53ac2c2809ac5f1a7dcf5aa1b1/Produtos%20Digitais/imgs/Elementor%20Pro%202.png?raw=true]]
+![Elementor Pro 2](https://maksoud.github.io//Produtos%20Digitais/imgs/Elementor%20Pro%202.png)
 ### 6. **Alta Performance**
 
 Apesar de todas as funcionalidades, o Elementor PRO mantém um bom desempenho e compatibilidade com os principais temas e plugins.
 
-![[https://github.com/Maksoud/maksoud.github.io/blob/b5ca83f62817da53ac2c2809ac5f1a7dcf5aa1b1/Produtos%20Digitais/imgs/Elementor%20Pro%204.png?raw=true]]
+![Elementor Pro 4](https://maksoud.github.io//Produtos%20Digitais/imgs/Elementor%20Pro%204.png)
 
 ---
 ## **Como Criar uma Landing Page com o Elementor PRO – Passo a Passo**
