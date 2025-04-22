@@ -18,7 +18,6 @@ Durante a conversa com um possível cliente para criação de site, pergunte:
 Essas perguntas ajudam a criar um direcionamento claro e mostram que você está interessado em entregar um **resultado**, não apenas um produto.
 
 ---
-
 ## **2. Técnicas de Persuasão: Use Gatilhos Mentais com Intenção**
 
 Gatilhos mentais são estímulos psicológicos que influenciam decisões. Os mais poderosos para serviços digitais são:
@@ -33,7 +32,6 @@ No seu próprio site ou landing page, use frases como:
 	_“Agende seu diagnóstico gratuito e descubra como seu site pode atrair mais clientes.”_
 
 ---
-
 ## **3. Criação de Copyrights Estratégicos: Escrevendo para vender, não apenas informar**
 
 Copywriting vai muito além de “escrever bonito”. Um bom copy transforma benefícios em palavras que **resolvem dores reais** do cliente.
@@ -53,7 +51,6 @@ Copywriting vai muito além de “escrever bonito”. Um bom copy transforma ben
     _“Solicite seu orçamento gratuito hoje mesmo e ganhe uma análise de SEO!”_
 
 ---
-
 ## **4. Pós Abordagem: Crie um ciclo de confiança**
 
 Após o primeiro contato ou envio da proposta, mantenha o relacionamento com toques sutis, como:
