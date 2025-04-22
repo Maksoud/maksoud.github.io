@@ -10,12 +10,11 @@
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
 * [Wordpress - Criando Conteúdo com o Elementor PRO]
 * [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
-* [Criando uma API de Serviços (webservice) - Avançado]
+* [Como a Criação de uma API Pode Solucionar Problemas - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
 * [Criando um aplicativo Android com WebViewer - Avançado]
 * [Prospecção de Clientes](<https://maksoud.github.io/Produtos%20Digitais/Prospec%C3%A7%C3%A3o%20de%20Clientes>)
 * [Abordagem de Clientes e Técnicas de Persuasão](<https://maksoud.github.io/Produtos%20Digitais/Abordagem%20de%20Clientes%20e%20T%C3%A9cnicas%20de%20Persuas%C3%A3o>)
 * [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
-* [Entendendo e Solucionando o Problema do Seu Cliente]
 
 
 ### Mente e Estudos
