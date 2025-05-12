@@ -212,8 +212,7 @@ Se um cliente não se interessou pela criação de uma landing page, talvez ele 
 
 A verdadeira venda começa **antes da entrega**. Uma abordagem bem-feita, combinada com **persuasão genuína** e **copywriting estratégico**, é o que diferencia um profissional comum de alguém que **inspira confiança e desejo desde o primeiro contato**.
 
-Lembre-se: você não está apenas vendendo um site, uma landing page ou um serviço técnico.
-Você está oferecendo **uma solução digital capaz de transformar a presença online de um pequeno negócio**.
+Lembre-se: você não está apenas vendendo um site, uma landing page ou um serviço técnico. Você está oferecendo **uma solução digital capaz de transformar a presença online de um pequeno negócio**.
 
 E essa transformação começa **na forma como você conversa, escreve e se posiciona**.
 

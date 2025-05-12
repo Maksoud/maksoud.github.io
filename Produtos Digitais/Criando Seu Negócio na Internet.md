@@ -18,7 +18,7 @@ Trabalhar por conta própria exige organização. Para manter o crescimento de f
 - **Desenvolvimento de projetos**: dedique blocos mais longos e sem interrupções para a construção dos sites, páginas ou serviços que você oferece. Aqui, técnicas como Pomodoro e time blocking são fundamentais.
 - **Planejamento e inovação**: reserve tempo, ao menos quinzenalmente, para pensar em novos serviços, melhorias no processo e análise de resultados. Essa visão estratégica é essencial para o crescimento sustentável.
 
-Utilize ferramentas como **Google Agenda**, **Trello**, **Notion** ou **ClickUp** para organizar suas tarefas, distribuir a carga de trabalho ao longo da semana e garantir que todas as áreas do seu negócio recebam atenção equilibrada.
+Utilize ferramentas como [Google Agenda](<https://calendar.google.com/>), [Trello](<https://trello.com/>), [Notion](<https://www.notion.com/>) ou [ClickUp](<https://clickup.com/>) para organizar suas tarefas, distribuir a carga de trabalho ao longo da semana e garantir que todas as áreas do seu negócio recebam atenção equilibrada.
 
 ---
 #### 2. Criando sua Marca
@@ -104,7 +104,7 @@ O WordPress é uma das ferramentas mais poderosas e acessíveis para quem está 
 ---
 #### 4. Divulgando seus Serviços: O Poder dos Anúncios Online
 
-Com sua estrutura pronta, é hora de fazer o mundo saber que você existe. A internet oferece diversas formas de alcançar seu público, e entre as mais eficientes estão as plataformas de anúncios pagos como o **Google Ads (anteriormente AdWords)** e o **Facebook Ads (incluindo Instagram)**.
+Com sua estrutura pronta, é hora de fazer o mundo saber que você existe. A internet oferece diversas formas de alcançar seu público, e entre as mais eficientes estão as plataformas de anúncios pagos como o [Google Ads](<https://ads.google.com/home/>) **(anteriormente AdWords)** e o [Facebook Ads](<https://www.facebook.com/business/ads>) **(incluindo Instagram)**.
 
 Essas ferramentas permitem que você **alcance exatamente o tipo de cliente que deseja**, com segmentações por localização, idade, interesses, comportamento e até palavras-chave específicas que as pessoas buscam.
 
@@ -123,6 +123,8 @@ No artigo [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://makso
 - Segmentação detalhada para alcançar empreendedores, pequenos comércios, profissionais liberais, entre outros perfis ideais para seus serviços.
 
 > Dica prática: comece com um orçamento pequeno (R$10 a R$20 por dia), teste diferentes criativos (imagens, textos e chamadas para ação) e acompanhe os resultados para entender o que gera mais retorno.
+
+Assista no YouTube esse vídeo que compara as plataformas [Google Ads vs Facebook Ads: Onde investir para ter mais resultado?](<https://youtu.be/Y4kZEy5xRQQ?si=6B_3NcdeQOwfKePA>)
 
 Esses anúncios também podem direcionar os visitantes diretamente para sua landing page, onde o formulário ou botão de WhatsApp já está pronto para captar leads e gerar oportunidades reais.
 
