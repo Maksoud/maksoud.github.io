@@ -1,9 +1,9 @@
 @echo off
 :: Define the path to your repository
-set REPO_PATH="C:\Users\renee\OneDrive\Documentos\Obsidian Vault\maksoud.github.io"
+:: set REPO_PATH="C:\Users\renee\OneDrive\Documentos\Obsidian Vault\maksoud.github.io"
 
 :: Navigate to the repository directory
-cd /d %REPO_PATH%
+:: cd /d %REPO_PATH%
 
 :: Fix the Git configuration error
 git config --global gc.auto 0
