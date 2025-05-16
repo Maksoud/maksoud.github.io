@@ -17,6 +17,12 @@
 * [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
 
 
+
+### Vendas e Negócios
+- [Desbloqueie sua Mentalidade de Vendas](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2FDesbloqueie%20sua%20Mentalidade%20de%20Vendas>)
+
+
+
 ### Mente e Estudos
 
 * [Aprendizado Contínuo](<https://maksoud.github.io/Mente%20e%20Estudos/Aprendizado%20Contínuo>)
