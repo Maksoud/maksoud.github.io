@@ -20,6 +20,7 @@
 
 ### Vendas e Negócios
 - [Desbloqueie sua Mentalidade de Vendas](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2FDesbloqueie%20sua%20Mentalidade%20de%20Vendas>)
+- [7 Passos para Vender Bem Presencialmente](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2F7%20Passos%20para%20Vender%20Bem%20Presencialmente)
 
 
 
