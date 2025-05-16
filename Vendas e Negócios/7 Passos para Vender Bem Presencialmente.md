@@ -74,7 +74,7 @@ E agora é a sua vez.
 Se você está cansado de ouvir “depois eu vejo”, quer parar de ser apenas simpático e **começar a ser efetivo**, **esse é o seu momento**.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2F7%20Passos%20para%20Vender%20Bem%20Presencialmente)
+[link de compartilhamento](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2F7%20Passos%20para%20Vender%20Bem%20Presencialmente>)
 
 <sup><sub>
 Renée Maksoud - maio de 2025
