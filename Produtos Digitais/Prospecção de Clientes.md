@@ -6,7 +6,6 @@ A prospecção de clientes mudou. Se antes dependíamos apenas de indicações o
 
 Mas atrair não é o suficiente. O segredo está em **converter esse interesse em ação** — uma venda, um orçamento, um agendamento. E é aí que entra a **landing page bem estruturada**, aliada a técnicas de persuasão e nutrição de relacionamento.
 
----
 ## **1. Entenda o Ciclo: Da Prospecção à Conversão**
 
 Prospecção de clientes não é sobre “jogar anúncios e esperar”. É um processo estratégico em quatro etapas que formam um ciclo contínuo:
@@ -32,7 +31,6 @@ Depois de captar o contato, você envia uma sequência por e-mail ou WhatsApp mo
 
 **Resultado:** você educa o lead, constrói confiança e aumenta as chances de fechar a venda.
 
----
 ## **2. Como Criar uma Landing Page que Converte**
 
 Uma landing page eficaz é direta, estratégica e totalmente voltada para a conversão. Cada elemento tem um papel específico para levar o visitante a uma ação, sem distrações.
@@ -74,7 +72,6 @@ Exemplo:
 
 > “Solicite seu orçamento gratuito agora mesmo e receba um bônus exclusivo.”
 
----
 ## 3. Técnicas Complementares para Converter Mais Leads
 
 A landing page é o ponto de conversão, mas sozinha ela não garante vendas. Para transformar leads em clientes de verdade, você precisa criar um ecossistema que acompanhe o visitante desde o primeiro clique até o momento da compra — e até depois.
@@ -149,7 +146,6 @@ Nem todo lead compra de imediato, mas você pode nutrir o relacionamento até el
 
 [RD Station](<https://www.rdstation.com/integracoes/live-chat/>), [Leadster](<https://leadster.com.br/>), [ActiveCampaign](<https://www.activecampaign.com/>), [MailerLite](<https://www.mailerlite.com/>), ou [WhatsApp API](<https://business.whatsapp.com/products/business-platform>)
 
----
 ## **4. Dica Extra: Personalize para o público certo**
 
 Uma landing page genérica pode até atrair cliques, mas dificilmente vai gerar conversões consistentes. Para transformar visitantes em clientes, você precisa falar diretamente com a dor e o desejo do seu público-alvo.
@@ -188,7 +184,6 @@ Adapte os títulos, imagens, exemplos e chamadas para ação para refletirem a r
 
 Use parâmetros de URL ou automações de campanha para exibir versões específicas da página com base na origem do tráfego (ex: anúncios segmentados no Facebook para cada perfil).
 
----
 ## **Conclusão: Quem prospecta com estratégia vende com consistência**
 
 Prospectar hoje é muito mais do que aparecer para o cliente — é construir um ecossistema de atração, relacionamento e conversão.

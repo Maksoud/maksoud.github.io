@@ -50,6 +50,7 @@
 * [Manter-se Competitivo no Mercado](<https://maksoud.github.io/Mente%20e%20Estudos/Manter-se%20Competitivo%20no%20Mercado>)
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
+* [LinkedIn: Um Perfil Campeão](<https://maksoud.github.io/LinkedIn%2FLinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
 
 
 ### Inteligência Artificial
