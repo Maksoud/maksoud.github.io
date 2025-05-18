@@ -423,7 +423,16 @@ We need something that shows **neglect/decay**.
 
 ---
 
-32) "In the question below choose the alternative that best substitutes the expression between brackets. After the sepoy revolt of 1857, the Queen decided to (grant a general pardon) to all soldiers involved in the mutiny except a few who had played pivotal roles." 
+32) "I first got to know about the Arctic circle in my Geography class when I was 12 years old. The … (a)… of a land where the sun never sets was fascinating. I cannot remember what exactly made me so …(b)…. about this phenomenon, but I can recall myself …(c)… about places where I can witness one. The beauty of Norway enthralled me in no time and it became number one on my travel bucket list. When I was starting out to travel around the world for a year in April 2014, I …(d)Scandinavia from the list. Too expensive, I thought. Two months later, when I was traveling in Poland, I realized it would be a shame to come so close to Norway and yet not see its many wonders. So I booked the train reservation and headed for Norway for a few days. Norway did not …(e)…. The majestic mountains, stunning landscapes, famous fjords, stunning cities and tiny islands of wonder-there was so much to explore in Norway. In the above passage there are blanks, each of which has been numbered. These numbers are printed below the passage and against each five words are suggested. Choose the one that fills the blank numbered (a) most appropriately."
+
+- Concept
+- Idea **(correct ✅)**
+- Imagination
+- Thought
+
+---
+
+33) "In the question below choose the alternative that best substitutes the expression between brackets. After the sepoy revolt of 1857, the Queen decided to (grant a general pardon) to all soldiers involved in the mutiny except a few who had played pivotal roles." 
 
 - Amnesty **(correct ✅)**
 - Discharge 
@@ -438,7 +447,7 @@ We need something that shows **neglect/decay**.
 
 ---
 
-33) Choose the correct alternative, which can be substituted for the phrase below. The condition of being abnormally afraid of thunder and lightning." 
+34) Choose the correct alternative, which can be substituted for the phrase below. The condition of being abnormally afraid of thunder and lightning." 
 
 - Podophobia 
 - Enochlophobia 
@@ -452,7 +461,7 @@ D) **Astraphobia**
 
 ---
 
-34) "Rearrange the following parts (1, 2, 3 and 4) in proper sequence to obtain a correct sentence. 
+35) "Rearrange the following parts (1, 2, 3 and 4) in proper sequence to obtain a correct sentence. 
 1- be, not what 
 2- always be 
 3- whom you want to 
@@ -465,7 +474,7 @@ D) **Astraphobia**
 
 ---
 
-35) "In the question below, there is a sentence with jumbled up parts. Rearrange these parts, which are labelled A, B, C and D to produce the correct sentence. Choose the proper sequence. It is possible that he thinks his ….. A) job is to be a clerk B) and to read the results out loud as he stands at the cash register C) to keep people from stealing things D) to type letters into a computer" 
+36) "In the question below, there is a sentence with jumbled up parts. Rearrange these parts, which are labelled A, B, C and D to produce the correct sentence. Choose the proper sequence. It is possible that he thinks his ….. A) job is to be a clerk B) and to read the results out loud as he stands at the cash register C) to keep people from stealing things D) to type letters into a computer" 
 
 - ABCD 
 - ACDB **(correct ✅)**
@@ -480,3 +489,40 @@ D) **Astraphobia**
 - Begins logically with A
 - Lists duties in a clear and natural way (C, D, B)
 - The word **“and”** in B connects the final item in the list
+
+---
+
+37) "Pick the word/phrase closest in meaning to the given word. Transitory" 
+
+- Resilient 
+- Frivolous 
+- Transient **(correct ✅)**
+- Elusive
+
+---
+
+38) "The question below consists of four sentences marked A, B, C and D. Arrange the sentences in a proper sequence to form a coherent paragraph. A) But her rants were so persuasive, her fretting so vivid, that it was not easy to dismiss her. B) So she garbled facts. C) She embellished almost everything. D) She contradicted herself." 
+
+- BDCA 
+- DCAB 
+- ABCD 
+- BCDA
+
+#### Explanation
+
+Correct sequence: **C D B A**
+
+Now check your options:
+- **BDCA** ❌ Starts with "So" — not a valid opener.
+- **DCAB** ❌ Starts mid-thought; placing “But” (A) at the end doesn’t fit logically.
+- **ABCD** ❌ Starts with “But” — grammatically incorrect as an opener.
+- **BCDA** ❌ Starts with “So” again — doesn’t work
+
+---
+
+39) "The question bellow consists of four sentences marked A, B, C and D. Arrange the sentences in a proper sequence to form a coherent paragraph. A) Gun control is hotly debated in USA, with access to children, being a subset of a larger topic. B) While the ads are creative and funny will they be effective in creating a change in behavior towards gun possession and usage. C) The ads advocate gun control through a simple thought-provoking proposition: if they find it, they will play with it. D) A brilliant set of ads for Evolve USA, is shortlisted at the Clio Awards 2015."
+
+- DCAB
+- ABCD **(correct ✅)**
+- DCBA
+- CDBA
