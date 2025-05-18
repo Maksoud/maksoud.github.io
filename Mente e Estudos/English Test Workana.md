@@ -1,16 +1,17 @@
 # English Test Workana
 
 1) "The sentence below is divided into three parts. Identify where the error lies. If there is no error, select the option ‘no error’. I am happy to had been of assistance." to had been X no error of assistance I am happy "There are two sentences. Each sentence has a blank in it. Four options are given below the sentence pair. Choose the option that fits both the blanks. 1. There is no hope ........ her heart. 2. He is .........his office today." 
+
 - About 
 - Within 
 - Beyond 
-- In **(correct)**
+- In **(correct ✅)**
 
 ---
 
 2) "Complete the following sentences with the most appropriate words/phrases with reference to grammar, idioms, proverbs and syntax. I looked up and saw a man who seemed half-starved and ………….." 
 
-- out of fortune **(correct)**
+- out of fortune **(correct ✅)**
 - handsome 
 - extremely agile 
 - as cunning as a fox
@@ -37,7 +38,7 @@ D) **as cunning as a fox**
 - acommodate 
 - accomodate 
 - acomodate
-- accommodate **(correct)**
+- accommodate **(correct ✅)**
 
 ---
 
@@ -46,7 +47,7 @@ D) **as cunning as a fox**
 - royal 
 - splendid 
 - magnificent 
-- inferior **(correct)**
+- inferior **(correct ✅)**
 
 ---
 
@@ -55,7 +56,7 @@ D) **as cunning as a fox**
 - ignorance, wrong 
 - bewilderment, appropriate 
 - agony, funny 
-- predicament, proper **(correct)**
+- predicament, proper **(correct ✅)**
 
 #### Explanation
 
@@ -93,14 +94,14 @@ Option D: **predicament, proper**
 
 - eagerness 
 - passion 
-- dislike **(correct)**
+- dislike **(correct ✅)**
 - objective
 
 ---
 
 7) Select the most effective word/word-group from the given options to fill in the blank and complete each sentence meaningfully. The secretory assured the shareholders that the management would .................... itself to increase production." 
 
-- exert **(correct)**
+- exert **(correct ✅)**
 - acquit 
 - manage 
 - change
@@ -118,7 +119,7 @@ Option D: **predicament, proper**
 8) "Rearrange the following parts (1, 2, 3 and 4) in proper sequence to obtain a correct sentence. 1. of their passions 2. is a knowledge 3. the knowledge 4. of mankind" 
 
 - 1, 3, 4, 2 
-- 3, 4, 2, 1 **(correct)**
+- 3, 4, 2, 1 **(correct ✅)**
 - 3, 2, 4, 1 
 - 4, 3, 2, 1
 
@@ -128,7 +129,7 @@ Option D: **predicament, proper**
 
 - I had sold my bicycle. 
 - They sold my bicycle. 
-- I have sold my bicycle **(correct)**
+- I have sold my bicycle **(correct ✅)**
 - My bicycle will sell.
 
 ---
@@ -137,7 +138,7 @@ Option D: **predicament, proper**
 
 - For every woman 
 - For no woman 
-- For no man **(correct)**
+- For no man **(correct ✅)**
 - For every man
 
 ---
@@ -147,7 +148,7 @@ Option D: **predicament, proper**
 - threw me 
 - made me 
 - asked me to 
-- gave me **(correct)**
+- gave me **(correct ✅)**
 
 ---
 
@@ -155,14 +156,14 @@ Option D: **predicament, proper**
 
 - He says, “Let her come with me.” 
 - He said, “You have to come with me.” 
-- He said to her, “Please, come with me.” **(correct)**
+- He said to her, “Please, come with me.” **(correct ✅)**
 - He says, “Please come with me.”
 
 ---
 
 13) Pick the word/phrase most nearly **opposite** in meaning. Animated" 
 
-- Boring **(correct)**
+- Boring **(correct ✅)**
 - Vibrant 
 - Quick 
 - Vigorous
@@ -171,7 +172,7 @@ Option D: **predicament, proper**
 
 14) "Following is a set of four sentences. Choose the sentence which is most appropriate grammatically, semantically and logically." 
 
-- Hi Harish. We haven’t met in a long time. How is it going? **(correct)**
+- Hi Harish. We haven’t met in a long time. How is it going? **(correct ✅)**
 - Hi Harish. We haven’t meet in a long time. How is it going? 
 - Hi Harish. Long time no meet. How has it been going? 
 - Hi Harish. Long time no see. How was it going?
@@ -181,7 +182,7 @@ Option D: **predicament, proper**
 15) "In the following question, three words are alike in some manner. Spot the odd one out." 
 
 - Aquamarine 
-- Emerald **(correct)**
+- Emerald **(correct ✅)**
 - Turquoise 
 - Sapphire
 
@@ -199,7 +200,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 16) In the question below, there is a sentence with jumbled up parts. Rearrange these parts, which are labelled A, B, C and D to produce the correct sentence. Choose the proper sequence. They were silent ….. A) as it went by B) came their cries C) and then as it receded D) ‘That’s him. What does he want?" 
 
-- ACDB **(correct)**
+- ACDB **(correct ✅)**
 - BCAD 
 - DCAB 
 - ABCD
@@ -210,7 +211,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 - none of these 
 - met with an accident 
-- difficulty in choosing between two alternatives **(correct)**
+- difficulty in choosing between two alternatives **(correct ✅)**
 - struck in a calamity
 
 ---
@@ -219,7 +220,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 - Her fame lessened 
 - Her fame ended 
-- Her fame grew **(correct)**
+- Her fame grew **(correct ✅)**
 - Her fame began
 
 ---
@@ -229,7 +230,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 - sinful 
 - responsible 
 - disgraceful 
-- innocent **(correct)**
+- innocent **(correct ✅)**
 
 ---
 
@@ -239,14 +240,14 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 - He says ,”I was unwell.”
 - He said, “I were unwell.”
 - He said, “I am unwell.” 
-- He says, "I am unwell." **(correct)**
+- He says, "I am unwell." **(correct ✅)**
 
 ---
 
 21) "Choose the correct alternative which can be substituted for the below phrase between brackets. When Mohan and Rohini could not decide who would take the plot of land, they decided to take the advice of (someone who would be mutually appointed by them and whose decision would be binding on them)."
 
 - a referee
-- an arbitrator **(correct)**
+- an arbitrator **(correct ✅)**
 - a lawyer
 - a judge
 
@@ -254,7 +255,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 22) Four pairs of words follow the first pair. Select the pair whose relation most closely matches the first pair. Talkative: Garrulity"
 
-- Gullible: Naiveté **(correct)**
+- Gullible: Naiveté **(correct ✅)**
 - Garbled: Distorted
 - Sensitive: Unsusceptible
 - Delinquent: Derelict
@@ -265,7 +266,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 - BCAD
 - DCAB
-- ACDB **(correct)**
+- ACDB **(correct ✅)**
 - ABCD
 
 ---
@@ -275,13 +276,13 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 - It is highly desirable if you complete the syllabus before the commencement of the annual exams.
 - It is highly desired if you should complete the syllabus before the commencement of the half yearly exams.
 - It is highly desirable for you to complete your syllabus before the commencement of the annual exams.
-- It is highly desirable that you complete the syllabus before the commencement of the annual exams. **(correct)**
+- It is highly desirable that you complete the syllabus before the commencement of the annual exams. **(correct ✅)**
 
 ---
 
 25) In the question below, a part of the sentence is between brackets. Replace the underlined part with the most appropriate choice from the four options provided below. In case no improvement is required, choose the option d.) no improvement required. My experience in Hor came as a stark contrast to accounts I’d read (of earlier first travel encounters with Lake Manasarovar)."
 
-- of earlier travellers’ first encounters with Lake Manasarovar. **(correct)**
+- of earlier travellers’ first encounters with Lake Manasarovar. **(correct ✅)**
 - of first encounters by Lake Manasarovar of earlier travellers.
 - no improvement required.
 - belonging to earlier traveller’s first encounters with Lake Manasarovar.
@@ -299,7 +300,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 - Alertness: Coffee
 - Plaster : Fracture
-- Wound: Cream **(correct)**
+- Wound: Cream **(correct ✅)**
 - Bereavement: Condolence
 
 #### Explanation
@@ -321,7 +322,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 27) Rearrange the following parts (1, 2, 3 and 4) in proper sequence to obtain a correct sentence. 1) Karan is one of those boys 2) their willingness for 3) joining the INDIAN ARMY. 4) who have expressed"
 
-- 1, 4, 2, 3 **(correct)**
+- 1, 4, 2, 3 **(correct ✅)**
 - 1, 3, 4, 2
 - 2, 4, 1, 3
 - 4, 3, 2, 1
@@ -330,7 +331,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 28) In the following question, an idiom or proverb is between brackets. Choose its correct meaning in the given context from the alternatives given below. Only after he had tried buying tiles from the swanky two-storey store did he realize that (you can’t judge a book by its cover)."
 
-- The tiles were not as good as he thought; hence a swanky store does not always sell good tiles. **(correct)**
+- The tiles were not as good as he thought; hence a swanky store does not always sell good tiles. **(correct ✅)**
 - A swanky building may look formidable or appealing from outside, but the reality may be different when you enter.
 - The owners of the place were not courteous and misbehaved; hence a swanky building does not mean great service.
 - The price was not as high as he thought; hence a swanky building does not always mean high prices.
@@ -348,7 +349,7 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 2- (a) sprawling (b) gigantic (c) tumbledown (d) marbled 
 3- (a) old age (b) renovation (c) dilapidated condition (d) history"
 
-- 1 - c, 2 - c, 3 - a **(correct)**
+- 1 - c, 2 - c, 3 - a **(correct ✅)**
 - 1 - a, 2- c, 3 - a
 - 1 - a, 2 - b, 3 - c
 - 1 - c, 2 - b, 3 - a
@@ -394,7 +395,7 @@ We need something that shows **neglect/decay**.
 - from European Union to accept migrants from Middle East and Africa.
 - of European Union for acceptance of migrants from Middle East and Africa.
 - of the European Union to accept migrants flowing onto the Continent from the Middle East and Africa.
-- no improvement required **(correct)**
+- no improvement required **(correct ✅)**
 
 ---
 
@@ -403,13 +404,28 @@ We need something that shows **neglect/decay**.
 - Frustrate 
 - Disgruntle Satisfy 
 - Depress 
-- Disappoint
+- Disappoint **(correct ✅)**
+
+#### Explanation
+
+- **Frustrate**  
+    ❌ Negative — doesn’t fit the tone of admiration and wonder.    
+- **Disgruntle**  
+    ❌ Negative — means to make someone dissatisfied or annoyed.
+- **Satisfy**  
+    ❌ Doesn’t fit with “did not satisfy” — that would mean Norway **let the person down**, which contradicts the rest of the passage.
+- **Depress**  
+    ❌ Strongly negative — does not match the context at all.
+- **Disappoint** ✅  
+    ✔️ This fits grammatically:
+    > "Norway did **not disappoint**."  
+    ✔️ And matches the tone of the passage: the experience was **amazing**.
 
 ---
 
 32) "In the question below choose the alternative that best substitutes the expression between brackets. After the sepoy revolt of 1857, the Queen decided to (grant a general pardon) to all soldiers involved in the mutiny except a few who had played pivotal roles." 
 
-- Amnesty **(correct)**
+- Amnesty **(correct ✅)**
 - Discharge 
 - Reprieve 
 - Exemption
@@ -427,7 +443,7 @@ We need something that shows **neglect/decay**.
 - Podophobia 
 - Enochlophobia 
 - Cynophobia 
-- Astraphobia **(correct)**
+- Astraphobia **(correct ✅)**
 
 #### Explanation
 
@@ -445,14 +461,14 @@ D) **Astraphobia**
 - 3, 4, 2, 1 
 - 1, 2, 4, 3 
 - 4, 3, 1, 2 
-- 2, 3, 1, 4 **(correct)**
+- 2, 3, 1, 4 **(correct ✅)**
 
 ---
 
 35) "In the question below, there is a sentence with jumbled up parts. Rearrange these parts, which are labelled A, B, C and D to produce the correct sentence. Choose the proper sequence. It is possible that he thinks his ….. A) job is to be a clerk B) and to read the results out loud as he stands at the cash register C) to keep people from stealing things D) to type letters into a computer" 
 
 - ABCD 
-- ACDB **(correct)**
+- ACDB **(correct ✅)**
 - DCAB 
 - BCAD
 
