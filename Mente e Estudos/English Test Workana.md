@@ -236,10 +236,22 @@ Now, what do **Aquamarine, Turquoise, and Sapphire** have in common?
 
 20) The given sentence is in direct/indirect speech. Change the narration. Choose the correct answer from the alternatives below. He says he is unwell."
 
-- He says, “He was unwell.”
-- He says ,”I was unwell.”
-- He said, “I were unwell.”
-- He said, “I am unwell.” 
+- He says, “He was unwell.” ❌
+- He says ,”I was unwell.” ❌
+- He said, “I were unwell.” ❌
+- He said, “I am unwell.” ❌
+
+#### Explanation
+
+Correct direct speech for **"He says he is unwell"** would be:
+> **He says, "I am unwell."**
+
+But that exact option is **missing** from the list.
+
+If the option marked **(correct)** is:
+> **He said, “I am unwell.”**
+
+Then it's **not correct**, because "He said" ≠ "He says".
 - He says, "I am unwell." **(correct ✅)**
 
 ---
@@ -503,10 +515,10 @@ D) **Astraphobia**
 
 38) "The question below consists of four sentences marked A, B, C and D. Arrange the sentences in a proper sequence to form a coherent paragraph. A) But her rants were so persuasive, her fretting so vivid, that it was not easy to dismiss her. B) So she garbled facts. C) She embellished almost everything. D) She contradicted herself." 
 
-- BDCA 
-- DCAB 
-- ABCD 
-- BCDA
+- BDCA ❌
+- DCAB ❌
+- ABCD ❌
+- BCDA ❌
 
 #### Explanation
 
