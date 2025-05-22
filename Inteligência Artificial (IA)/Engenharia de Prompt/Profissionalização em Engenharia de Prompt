@@ -1,0 +1,101 @@
+### [Sumário](<https://maksoud.github.io/Sumário>)
+
+## 🧠 **O que é Engenharia de Prompt?**
+
+Engenharia de prompt é a prática de projetar, refinar e testar entradas (prompts) para modelos de linguagem a fim de obter saídas precisas, úteis e consistentes. Envolve entender como o modelo interpreta linguagem e como estruturar informações para guiar suas respostas da melhor forma possível.
+
+---
+
+## 🔧 **Responsabilidades de um Engenheiro de Prompt**
+
+1. **Projetar prompts claros e eficientes** para gerar resultados de alta qualidade.
+2. **Testar variações de prompts** para avaliar qual gera melhor desempenho.
+3. **Trabalhar em conjunto com desenvolvedores, redatores e analistas** para integrar IA nos fluxos de trabalho.
+4. **Documentar estratégias de prompt** para reuso e treinamento de equipes.
+5. **Identificar limitações e vieses dos modelos** e desenvolver técnicas para contorná-los.
+
+---
+
+## 🧩 **Conhecimentos Técnicos Fundamentais**
+
+### 1. **Tipos de Prompt**
+
+* **Zero-shot**: Sem exemplos. Confia apenas na instrução.
+* **Few-shot**: Inclui exemplos no prompt para orientar o modelo.
+* **Chain-of-Thought (CoT)**: Estimula o raciocínio passo a passo.
+* **Instructional Prompting**: Usa comandos explícitos como “Explique como se eu fosse uma criança”.
+
+### 2. **Estrutura de um bom Prompt**
+
+* **Objetivo claro**: Dizer *o que* se espera.
+* **Contexto detalhado**: Informações que orientam a resposta.
+* **Estilo e formato**: Linguagem desejada, limite de palavras, tipo de saída (lista, tabela, parágrafo).
+* **Regras ou restrições**: O que deve ou não deve aparecer.
+
+### 3. **Técnicas Avançadas**
+
+* **Prompt Tuning**: Ajuste fino do prompt para casos específicos.
+* **Model Conditioning**: Alimentar o modelo com um histórico antes do prompt principal.
+* **Reflexive Prompting**: Pedir ao modelo para revisar ou melhorar sua própria resposta.
+* **Dynamic Prompting**: Geração programática de prompts com base em dados.
+
+---
+
+## 💼 **Ferramentas e Linguagens Úteis**
+
+* **Python ou JavaScript** (para automatizar geração/teste de prompts)
+* **APIs da OpenAI, Anthropic, Cohere, etc.**
+* **LangChain** ou **LlamaIndex** (frameworks para uso de LLMs em pipelines complexos)
+* **n8n, Zapier ou Make** (integração no fluxo de trabalho)
+* **VS Code, Postman, Playground da OpenAI** (ambientes para desenvolvimento/testes)
+
+---
+
+## 📊 **Métricas para Avaliação de Prompts**
+
+* **Relevância**: A resposta atende o objetivo?
+* **Consistência**: O modelo repete boas respostas com diferentes variações do prompt?
+* **Fidelidade**: Os fatos estão corretos?
+* **Criatividade vs Precisão**: A saída é inovadora, mas ainda útil?
+
+---
+
+## 📚 **Recursos para Estudo**
+
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+* [Learn Prompting](https://learnprompting.org/)
+* Curso “Prompt Engineering for Developers” – DeepLearning.AI + OpenAI
+* Papers: *Language Models are Few-Shot Learners*, *Chain of Thought Prompting*, *Self-Consistency Improves CoT*
+
+---
+
+## 👨‍🔬 Exemplo Técnico de Prompt (Few-shot + Chain-of-Thought)
+
+```plaintext
+Você é um assistente financeiro. Sua tarefa é calcular o imposto de renda com base nos dados do contribuinte.
+
+Exemplo:
+Dados: Renda anual: R$ 85.000, Deduções: R$ 15.000
+Resposta: Renda líquida = 85.000 - 15.000 = 70.000 → Faixa de imposto: 15% → Imposto devido = 70.000 * 0.15 = R$ 10.500
+
+Agora, com base nos dados abaixo, forneça o mesmo cálculo:
+Dados: Renda anual: R$ 120.000, Deduções: R$ 25.000
+```
+
+---
+
+## 🧭 Caminho Profissional
+
+1. **Estude modelos de linguagem e suas limitações**
+2. **Treine redação e clareza de instrução**
+3. **Construa um portfólio com exemplos de uso de prompts (em GitHub ou Notion)**
+4. **Participe de comunidades como Latent Space, PromptHero, AI Hackathons**
+5. **Considere atuar como freelancer, criar automações com n8n e LLMs, ou aplicar a engenharia de prompts em setores como marketing, atendimento, análise de dados**
+
+
+
+[link de compartilhamento](<https://maksoud.github.io/Engenharia%20de%20Prompt/Profissionalização%20em%20Engenharia%20de%20Prompt>)
+
+<sup><sub>
+Renée Maksoud - maio de 2025
+</sub></sup>
