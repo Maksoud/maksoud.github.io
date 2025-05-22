@@ -4,9 +4,8 @@
 
 Engenharia de prompt é a prática de projetar, refinar e testar entradas (prompts) para modelos de linguagem a fim de obter saídas precisas, úteis e consistentes. Envolve entender como o modelo interpreta linguagem e como estruturar informações para guiar suas respostas da melhor forma possível.
 
----
 
-## 🔧 **Responsabilidades de um Engenheiro de Prompt**
+## **Responsabilidades de um Engenheiro de Prompt**
 
 1. **Projetar prompts claros e eficientes** para gerar resultados de alta qualidade.
 2. **Testar variações de prompts** para avaliar qual gera melhor desempenho.
@@ -14,9 +13,8 @@ Engenharia de prompt é a prática de projetar, refinar e testar entradas (promp
 4. **Documentar estratégias de prompt** para reuso e treinamento de equipes.
 5. **Identificar limitações e vieses dos modelos** e desenvolver técnicas para contorná-los.
 
----
 
-## 🧩 **Conhecimentos Técnicos Fundamentais**
+## **Conhecimentos Técnicos Fundamentais**
 
 ### 1. **Tipos de Prompt**
 
@@ -39,9 +37,8 @@ Engenharia de prompt é a prática de projetar, refinar e testar entradas (promp
 * **Reflexive Prompting**: Pedir ao modelo para revisar ou melhorar sua própria resposta.
 * **Dynamic Prompting**: Geração programática de prompts com base em dados.
 
----
 
-## 💼 **Ferramentas e Linguagens Úteis**
+## **Ferramentas e Linguagens Úteis**
 
 * **Python ou JavaScript** (para automatizar geração/teste de prompts)
 * **APIs da OpenAI, Anthropic, Cohere, etc.**
@@ -49,27 +46,24 @@ Engenharia de prompt é a prática de projetar, refinar e testar entradas (promp
 * **n8n, Zapier ou Make** (integração no fluxo de trabalho)
 * **VS Code, Postman, Playground da OpenAI** (ambientes para desenvolvimento/testes)
 
----
 
-## 📊 **Métricas para Avaliação de Prompts**
+## **Métricas para Avaliação de Prompts**
 
 * **Relevância**: A resposta atende o objetivo?
 * **Consistência**: O modelo repete boas respostas com diferentes variações do prompt?
 * **Fidelidade**: Os fatos estão corretos?
 * **Criatividade vs Precisão**: A saída é inovadora, mas ainda útil?
 
----
 
-## 📚 **Recursos para Estudo**
+## **Recursos para Estudo**
 
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 * [Learn Prompting](https://learnprompting.org/)
 * Curso “Prompt Engineering for Developers” – DeepLearning.AI + OpenAI
 * Papers: *Language Models are Few-Shot Learners*, *Chain of Thought Prompting*, *Self-Consistency Improves CoT*
 
----
 
-## 👨‍🔬 Exemplo Técnico de Prompt (Few-shot + Chain-of-Thought)
+## Exemplo Técnico de Prompt (Few-shot + Chain-of-Thought)
 
 ```plaintext
 Você é um assistente financeiro. Sua tarefa é calcular o imposto de renda com base nos dados do contribuinte.
@@ -82,9 +76,8 @@ Agora, com base nos dados abaixo, forneça o mesmo cálculo:
 Dados: Renda anual: R$ 120.000, Deduções: R$ 25.000
 ```
 
----
 
-## 🧭 Caminho Profissional
+## Caminho Profissional
 
 1. **Estude modelos de linguagem e suas limitações**
 2. **Treine redação e clareza de instrução**
