@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### [Sumário](<https://maksoud.github.io/Sumário>) > [Conceitos Japoneses de Vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conceitos%20Japoneses%20de%20Vida>)
 
 # IKIGAI
 
@@ -11,8 +11,6 @@ O conceito de ikigai tem raízes profundas na cultura e filosofia japonesa, send
 ### Aplicações e Objetivos
 
 O ikigai é utilizado como uma ferramenta de autoajuda para descobrir o propósito de vida e aumentar a satisfação pessoal. Ele é frequentemente representado por um diagrama de Venn, onde quatro áreas principais se sobrepõem:
-
-![[ikigai.jpg]]
 
 1. **Paixão (Passion)**: O que você ama fazer (What you love).
 2. **Missão (Mission)**: O que o mundo precisa (What the world needs).
@@ -44,6 +42,7 @@ Existem outras técnicas e filosofias semelhantes ao ikigai em diversas culturas
 - **Logoterapia:** Desenvolvida pelo psiquiatra austríaco Viktor Frankl, a logoterapia é uma abordagem terapêutica que se concentra na busca de sentido na vida como uma força motivadora primária.
 - **Hygge:** Um conceito dinamarquês que envolve criar uma atmosfera de aconchego e bem-estar, valorizando as pequenas coisas que trazem felicidade.
 - **Filosofia Estoica:** Originada na Grécia Antiga, essa filosofia ensina a aceitar as coisas que não podemos controlar e focar no desenvolvimento pessoal e na virtude.
+
 
 [link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
 

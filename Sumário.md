@@ -28,7 +28,7 @@
 
 * [Aprendizado Contínuo](<https://maksoud.github.io/Mente%20e%20Estudos/Aprendizado%20Contínuo>)
 * [Necessidade vs Desejo](<https://maksoud.github.io/Mente%20e%20Estudos/Necessidade%20vs%20Desejo>)
-* [IKIGAI](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)
+* [Conceitos Japoneses de Vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conceitos%20Japoneses%20de%20Vida>)
 * [Método Hard de Estudos](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
 * [A Importância de Não se Comparar](<https://maksoud.github.io/Mente%20e%20Estudos/A%20importância%20de%20não%20se%20comparar>)
 * [Seja um Produtor](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
