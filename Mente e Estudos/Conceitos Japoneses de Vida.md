@@ -2,14 +2,14 @@
 
 # Conceitos Japoneses de Vida
 
-| Conceito                                                             | Tradução Livre        | Essência                                  |
-| -------------------------------------------------------------------- | --------------------- | ----------------------------------------- |
-| [**Ikigai**](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>) | Razão de viver        | Propósito e motivação                     |
-| [**Kaizen**](<>)                                                     | Melhoria contínua     | Progresso constante e disciplinado        |
-| [**Ganbaru**](<>)                                                    | Esforço determinado   | Perseverança em meio aos desafios         |
-| [**Hara Hachi Bu**](<>)                                              | Comer até 80% cheio   | Autocontrole e saúde                      |
-| [**Shoshin**](<>)                                                    | Mente de principiante | Humildade e curiosidade                   |
-| [**Wabi-Sabi**](<>)                                                  | Beleza na imperfeição | Aceitação do impermanente e do imperfeito |
+| Conceito                                                                               | Tradução Livre        | Essência                                  |
+| -------------------------------------------------------------------------------------- | --------------------- | ----------------------------------------- |
+| [**Ikigai**](<https://maksoud.github.io/Mente%20e%20Estudos/IKIGAI>)                   | Razão de viver        | Propósito e motivação                     |
+| [**Kaizen**](<https://maksoud.github.io/Mente%20e%20Estudos/Kaizen>)                   | Melhoria contínua     | Progresso constante e disciplinado        |
+| [**Ganbaru**](<https://maksoud.github.io/Mente%20e%20Estudos/Ganbaru>)                 | Esforço determinado   | Perseverança em meio aos desafios         |
+| [**Hara Hachi Bu**](<https://maksoud.github.io/Mente%20e%20Estudos/Hara%20Hachi%20Bu>) | Comer até 80% cheio   | Autocontrole e saúde                      |
+| [**Shoshin**](<https://maksoud.github.io/Mente%20e%20Estudos/Shoshin>)                 | Mente de principiante | Humildade e curiosidade                   |
+| [**Wabi-Sabi**](<https://maksoud.github.io/Mente%20e%20Estudos/Wabi-Sabi>)             | Beleza na imperfeição | Aceitação do impermanente e do imperfeito |
 
 ### A importância dos conceitos japoneses para uma vida equilibrada
 
