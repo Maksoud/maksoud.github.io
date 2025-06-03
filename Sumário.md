@@ -86,4 +86,5 @@
 * [Certificação CSPO](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
 * [Metodologia Ágil - Lean](<https://maksoud.github.io/Gestão%20de%20Projetos/Metodologia%20Ágil%20-%20Lean>)
 * [Processo de criação de valor de produtos digitais](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>)
+* [Entendendo o BABOK v3](<https://maksoud.github.io/Gestão%20de%20Projetos/Entendendo%20o%20BABOK%20v3>)
 * [Matriz GUT](<https://maksoud.github.io/Gestão%20de%20Projetos/Matriz%20GUT>)
