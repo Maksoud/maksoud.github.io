@@ -38,6 +38,7 @@
 * [Conselhos para uma vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conselhos%20para%20uma%20vida>)
 * [Ser humano no mundo corporativo](<https://maksoud.github.io/Mente%20e%20Estudos/Ser%20humano%20no%20mundo%20corporativo>)
 * [O cuidado de não se comparar](<https://maksoud.github.io/Mente%20e%20Estudos/O%20cuidado%20de%20não%20se%20comparar>)
+* [Auto Responsabilização](<https://maksoud.github.io/Mente%20e%20Estudos/Auto%20Responsabilização>)
 
 
 ### Finanças
@@ -85,3 +86,4 @@
 * [Certificação CSPO](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
 * [Metodologia Ágil - Lean](<https://maksoud.github.io/Gestão%20de%20Projetos/Metodologia%20Ágil%20-%20Lean>)
 * [Processo de criação de valor de produtos digitais](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>)
+* [Matriz GUT](<https://maksoud.github.io/Gestão%20de%20Projetos/Matriz%20GUT>)
