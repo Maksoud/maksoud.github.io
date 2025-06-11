@@ -58,3 +58,8 @@
 8.2. Como proteger dados sensíveis em prompts  
 8.3. Governança e rastreabilidade de interações com IA  
 8.4. Legislação e compliance em IA aplicada aos negócios
+
+
+<sup><sub>
+Renée Maksoud - junho de 2025
+</sub></sup>

@@ -90,3 +90,8 @@ O ChatGPT é uma aplicação de IA que simula conversas humanas com base em padr
 - Regras de segurança e feedback humano
 
 Para quem deseja dominar a **engenharia de prompt**, entender o funcionamento interno do ChatGPT é fundamental para escrever instruções claras, evitar alucinações e alcançar resultados de alta qualidade com o modelo.
+
+
+<sup><sub>
+Renée Maksoud - junho de 2025
+</sub></sup>

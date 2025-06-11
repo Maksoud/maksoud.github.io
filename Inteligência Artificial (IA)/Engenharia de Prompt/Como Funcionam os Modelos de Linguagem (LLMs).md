@@ -60,3 +60,8 @@ Modelos de Linguagem de Grande Escala (LLMs) como GPT-4, Claude e Gemini são al
 -  Sei a diferença entre pretraining, fine-tuning e prompting
 -  Fiz um resumo pessoal ou artigo explicativo
 -  Testei o Tokenizer da OpenAI com textos diferentes
+
+
+<sup><sub>
+Renée Maksoud - junho de 2025
+</sub></sup>

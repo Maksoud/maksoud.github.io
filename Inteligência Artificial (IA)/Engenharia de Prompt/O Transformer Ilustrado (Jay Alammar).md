@@ -74,3 +74,8 @@ O Transformer é a base de modelos como:
 - O modelo aprende a focar em palavras relevantes no contexto
 - Permite paralelismo, o que acelera o treinamento
 - É altamente escalável e adaptável a várias tarefas de linguagem
+
+
+<sup><sub>
+Renée Maksoud - junho de 2025
+</sub></sup>

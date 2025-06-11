@@ -96,3 +96,8 @@
 
 - Crie um perfil no [PromptHero](https://prompthero.com/) ou [FlowGPT](https://flowgpt.com/)
 - Compartilhe suas criações no LinkedIn e comunidades de IA
+
+
+<sup><sub>
+Renée Maksoud - junho de 2025
+</sub></sup>
