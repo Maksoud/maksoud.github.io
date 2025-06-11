@@ -77,7 +77,13 @@
 	* [Transformers](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Transformers)
 	* [Técnica Dropout](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Técnica%20Dropout)
 	* [Árvores de Decisão e Florestas Aleatórias](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Árvores%20de%20Decisão%20e%20Florestas%20Aleatórias%20(Decision%20Trees%20and%20Random%20Forests))
-
+* **Engenharia de Prompt**
+	* [Plano de Estudos para Engenharia de Prompt](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FPlano%20de%20Estudos%20para%20Engenharia%20de%20Prompt>)
+		* [Cronograma de Estudos](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/%2FEngenharia%20de%20Prompt%2FCronograma%20de%20Estudos%20%E2%80%93%20Engenharia%20de%20Prompt>)
+		* [Recursos Recomendados](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FRecursos%20Recomendados%20-%20Engenharia%20de%20Prompt>)
+	* [Como Funcionam os Modelos de Linguagem (LLMs)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FComo%20Funcionam%20os%20Modelos%20de%20Linguagem%20(LLMs)>)
+	* [O Transformer Ilustrado (Jay Alammar)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FO%20Transformer%20Ilustrado%20(Jay%20Alammar)>)
+	* [Como Funciona o ChatGPT – OpenAI](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FComo%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
 
 ### Gestão de Projetos
 
