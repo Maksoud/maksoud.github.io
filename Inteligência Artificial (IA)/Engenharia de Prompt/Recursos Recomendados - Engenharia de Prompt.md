@@ -185,6 +185,7 @@
 
 - “Building an End-to-End AI Agent” – [YouTube: LLM Bootcamp](https://www.youtube.com/watch?v=BX2PzMEkVYg)
 
+
 <sup><sub>
 Renée Maksoud - junho de 2025
 </sub></sup>

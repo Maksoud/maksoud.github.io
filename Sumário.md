@@ -19,8 +19,8 @@
 
 
 ### Vendas e Negócios
-- [Desbloqueie sua Mentalidade de Vendas](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2FDesbloqueie%20sua%20Mentalidade%20de%20Vendas>)
-- [7 Passos para Vender Bem Presencialmente](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2F7%20Passos%20para%20Vender%20Bem%20Presencialmente>)
+- [Desbloqueie sua Mentalidade de Vendas](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios/Desbloqueie%20sua%20Mentalidade%20de%20Vendas>)
+- [7 Passos para Vender Bem Presencialmente](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios/7%20Passos%20para%20Vender%20Bem%20Presencialmente>)
 
 
 
@@ -59,7 +59,7 @@
 * [Manter-se Competitivo no Mercado](<https://maksoud.github.io/Mente%20e%20Estudos/Manter-se%20Competitivo%20no%20Mercado>)
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
-* [LinkedIn: Um Perfil Campeão](<https://maksoud.github.io/LinkedIn%2FLinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
+* [LinkedIn: Um Perfil Campeão](<https://maksoud.github.io/LinkedIn/LinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
 
 
 ### Inteligência Artificial
@@ -78,12 +78,12 @@
 	* [Técnica Dropout](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Técnica%20Dropout)
 	* [Árvores de Decisão e Florestas Aleatórias](https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial/Árvores%20de%20Decisão%20e%20Florestas%20Aleatórias%20(Decision%20Trees%20and%20Random%20Forests))
 * **Engenharia de Prompt**
-	* [Plano de Estudos para Engenharia de Prompt](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FPlano%20de%20Estudos%20para%20Engenharia%20de%20Prompt>)
-		* [Cronograma de Estudos](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/%2FEngenharia%20de%20Prompt%2FCronograma%20de%20Estudos%20%E2%80%93%20Engenharia%20de%20Prompt>)
-		* [Recursos Recomendados](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FRecursos%20Recomendados%20-%20Engenharia%20de%20Prompt>)
-	* [Como Funcionam os Modelos de Linguagem (LLMs)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FComo%20Funcionam%20os%20Modelos%20de%20Linguagem%20(LLMs)>)
-	* [O Transformer Ilustrado (Jay Alammar)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FO%20Transformer%20Ilustrado%20(Jay%20Alammar)>)
-	* [Como Funciona o ChatGPT – OpenAI](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FComo%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
+	* [Plano de Estudos para Engenharia de Prompt](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/Plano%20de%20Estudos%20para%20Engenharia%20de%20Prompt>)
+		* [Cronograma de Estudos](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)//Engenharia%20de%20Prompt/Cronograma%20de%20Estudos%20%E2%80%93%20Engenharia%20de%20Prompt>)
+		* [Recursos Recomendados](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/Recursos%20Recomendados%20-%20Engenharia%20de%20Prompt>)
+	* [Como Funcionam os Modelos de Linguagem (LLMs)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/Como%20Funcionam%20os%20Modelos%20de%20Linguagem%20(LLMs)>)
+	* [O Transformer Ilustrado (Jay Alammar)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/O%20Transformer%20Ilustrado%20(Jay%20Alammar)>)
+	* [Como Funciona o ChatGPT – OpenAI](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/Como%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
 
 ### Gestão de Projetos
 

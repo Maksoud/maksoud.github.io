@@ -2,7 +2,7 @@
 
 # **Como Funcionam os Modelos de Linguagem (LLMs)**
 
-### 🎯 **Objetivo de Aprendizado**
+### **Objetivo de Aprendizado**
 
 Compreender os conceitos fundamentais por trás de modelos como o GPT, como eles aprendem, operam e geram texto. Isso inclui:
 
@@ -11,7 +11,7 @@ Compreender os conceitos fundamentais por trás de modelos como o GPT, como eles
 - Ajuste fino (fine-tuning) vs. engenharia de prompt
 - Limitações e vantagens
 
-## 🧠 **O Que São LLMs?**
+## **O Que São LLMs?**
 
 Modelos de Linguagem de Grande Escala (LLMs) como GPT-4, Claude e Gemini são algoritmos baseados em **redes neurais profundas** treinados com grandes volumes de texto. Eles **predizem a próxima palavra** em uma sequência, entendendo padrões e contextos.
 
@@ -19,8 +19,8 @@ Modelos de Linguagem de Grande Escala (LLMs) como GPT-4, Claude e Gemini são al
 
 ### 1. **Artigos Técnicos (leitura fundamental)**
 
-- [🔗 The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer/) – Visual e intuitivo ([Resumo](<obsidian://open?vault=Obsidian%20Vault&file=maksoud.github.io%2FIntelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FO%20Transformer%20Ilustrado%20(Jay%20Alammar)>))
-- [🔗 Como funciona o ChatGPT – OpenAI](<obsidian://open?vault=Obsidian%20Vault&file=maksoud.github.io%2FIntelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FComo%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
+- [🔗 The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer/) – Visual e intuitivo ([Resumo](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/1.%20Fundamentos%20da%20Engenharia%20de%20Prompt/O%20Transformer%20Ilustrado%20(Jay%20Alammar)>))
+- [🔗 Como funciona o ChatGPT – OpenAI](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/1.%20Fundamentos%20da%20Engenharia%20de%20Prompt/Como%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
 - [🔗 Understanding LLMs – Sebastian Raschka (GitHub)](https://sebastianraschka.com/blog/2023/llm-overview.html)
 
 ### 2. **Vídeos Explicativos**

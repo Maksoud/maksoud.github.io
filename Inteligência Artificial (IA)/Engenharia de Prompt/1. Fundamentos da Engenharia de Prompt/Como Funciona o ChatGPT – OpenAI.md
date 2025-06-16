@@ -5,12 +5,12 @@
 _Entenda o que acontece nos bastidores de uma das inteligências artificiais mais poderosas do mundo._
 
 
-## 📌 Introdução
+## Introdução
 
 O ChatGPT é um modelo de linguagem baseado na arquitetura **Transformer**, criado pela OpenAI, e treinado para **compreender e gerar texto de forma natural**, contextualizada e útil. Ele é uma aplicação prática de modelos LLMs (Modelos de Linguagem de Grande Escala) como o GPT-4, capaz de realizar tarefas como responder perguntas, redigir textos, traduzir, programar e muito mais.
 
 
-## 🔍 Etapas de Funcionamento do ChatGPT
+## Etapas de Funcionamento do ChatGPT
 
 ### 1. **Pré-treinamento (Pretraining)**
 
@@ -49,7 +49,7 @@ O modelo interpreta esse prompt, avalia o **contexto**, e **gera uma sequência 
 🧠 O modelo decide palavra por palavra qual termo tem **maior probabilidade** de vir em seguida, construindo frases com fluidez e coerência.
 
 
-## ⚙️ Conceitos Técnicos Envolvidos
+## Conceitos Técnicos Envolvidos
 
 |Termo|Explicação|
 |---|---|
@@ -59,7 +59,7 @@ O modelo interpreta esse prompt, avalia o **contexto**, e **gera uma sequência 
 |**Temperature**|Grau de aleatoriedade nas respostas (baixa = mais previsível; alta = mais criativa)|
 |**Top-k / Top-p**|Filtros que controlam a variedade das respostas geradas|
 
-## 💬 Exemplo de Funcionamento
+## Exemplo de Funcionamento
 
 Prompt:  
 **"Explique a teoria da relatividade para crianças."**
@@ -72,7 +72,7 @@ Processo:
 4. Gera palavra por palavra uma explicação com vocabulário acessível.
 
 
-## 🔐 Segurança e Limitações
+## Segurança e Limitações
 
 - O ChatGPT pode **alucinar** (inventar dados incorretos).
 - Não tem acesso em tempo real à internet (exceto com plugins específicos).
@@ -80,7 +80,7 @@ Processo:
 - Respostas podem variar conforme o **prompt, temperatura e modelo usado**.
 
 
-## ✅ Conclusão
+## Conclusão
 
 O ChatGPT é uma aplicação de IA que simula conversas humanas com base em padrões linguísticos aprendidos. Seu funcionamento depende de:
 

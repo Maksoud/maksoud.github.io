@@ -4,16 +4,16 @@
 
 ### **🔹 Semana 1 – Fundamentos dos LLMs e Engenharia de Prompt**
 
-- [Entenda como funcionam os modelos de linguagem (LLMs)](<obsidian://open?vault=Obsidian%20Vault&file=maksoud.github.io%2FIntelig%C3%AAncia%20Artificial%20(IA)%2FEngenharia%20de%20Prompt%2FComo%20Funcionam%20os%20Modelos%20de%20Linguagem%20(LLMs)>)
+- Entenda como funcionam os modelos de linguagem (LLMs)
 - Conceitos de token, contexto, temperatura, top-p
 - Diferença entre prompt engineering, fine-tuning e embeddings  
     📌 _Estudo_: Artigos da OpenAI + vídeos no YouTube ("How GPT works")  
     🧪 _Prática_: Escreva e teste prompts simples no [platform.openai.com/playground](https://platform.openai.com/playground)
 
+
 ### **🔹 Semana 2 – Anatomia e Tipos de Prompt**
 
 - Estrutura ideal de um prompt (instrução, contexto, entrada, formato de saída)
-    
 - Estude e crie prompts: zero-shot, one-shot, few-shot  
     📌 _Estudo_: "Prompt Engineering Guide" (github.com/dair-ai)  
     🧪 _Prática_: Crie 5 variações para uma tarefa como “resumir um artigo técnico”
