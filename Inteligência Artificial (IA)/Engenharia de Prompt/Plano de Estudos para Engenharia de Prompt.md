@@ -13,14 +13,14 @@
 
 2.1. [Tipos de prompts: simples, compostos, estruturados](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/2.%20Design%20de%20Prompts%20Eficientes/Tipos%20de%20prompts%20simples%2C%20compostos%2C%20estruturados>)
 2.2. [Boas práticas de escrita de prompts](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/2.%20Design%20de%20Prompts%20Eficientes/Boas%20pr%C3%A1ticas%20de%20escrita%20de%20prompts>)
-2.3. Estratégias: cadeia de pensamento (chain of thought), zero-shot, few-shot, instruções aninhadas
-2.4. Prompt como programação natural: princípios de clareza, contexto e objetivo
+2.3. [Estratégias: cadeia de pensamento (chain of thought), zero-shot, few-shot, instruções aninhadas](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/2.%20Design%20de%20Prompts%20Eficientes/Estrat%C3%A9gias%20de%20Prompt%20Engineering>)
+2.4. [Prompt como programação natural: princípios de clareza, contexto e objetivo](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/2.%20Design%20de%20Prompts%20Eficientes/Prompt%20como%20programa%C3%A7%C3%A3o%20natural>)
 
 ### 3. Casos de Uso Empresariais
 
-3.1. Atendimento ao cliente (FAQ, suporte técnico, triagem)
-3.2. Geração de conteúdo (marketing, landing pages, email, SEO)
-3.3. Análise de dados e BI com LLMs
+3.1. [Atendimento ao cliente (FAQ, suporte técnico, triagem)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/Atendimento%20ao%20cliente%20(FAQ%2C%20suporte%20t%C3%A9cnico%2C%20triagem)>)
+3.2. [Geração de conteúdo (marketing, landing pages, email, SEO)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/Gera%C3%A7%C3%A3o%20de%20conte%C3%BAdo%20(marketing%2C%20landing%20pages%2C%20email%2C%20SEO)>)
+3.3. [Análise de dados e BI com LLMs](<https://maksoud.github.io&file=Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/An%C3%A1lise%20de%20dados%20e%20BI%20com%20LLMs>)
 3.4. Automação de processos com IA (ex: geração de relatórios, resumos, traduções técnicas)
 3.5. Integração com sistemas legados, APIs e RPA
 
