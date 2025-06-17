@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Atendimento ao cliente (FAQ, suporte técnico, triagem).md",
+                "file": "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atendimento ao cliente (FAQ, suporte técnico, triagem)"
+              "title": "LangChain, Semantic Kernel, LlamaIndex"
             }
           }
         ],
@@ -199,9 +199,14 @@
   },
   "active": "f041e2854e5e0bde",
   "lastOpenFiles": [
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Análise de dados e BI com LLMs.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Automação com n8n, Zapier e Make.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/Plano de Estudos para Engenharia de Prompt.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Integração com sistemas legados, APIs e RPA.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/OpenAI API (ChatGPT, Assistants, GPTs).md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Atendimento ao cliente (FAQ, suporte técnico, triagem).md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Automação de processos com IA.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Análise de dados e BI com LLMs.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Geração de conteúdo (marketing, landing pages, email, SEO).md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Prompt como programação natural.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Estratégias de Prompt Engineering.md",

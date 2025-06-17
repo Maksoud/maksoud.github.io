@@ -21,14 +21,14 @@
 3.1. [Atendimento ao cliente (FAQ, suporte técnico, triagem)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/Atendimento%20ao%20cliente%20(FAQ%2C%20suporte%20t%C3%A9cnico%2C%20triagem)>)
 3.2. [Geração de conteúdo (marketing, landing pages, email, SEO)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/Gera%C3%A7%C3%A3o%20de%20conte%C3%BAdo%20(marketing%2C%20landing%20pages%2C%20email%2C%20SEO)>)
 3.3. [Análise de dados e BI com LLMs](<https://maksoud.github.io&file=Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/An%C3%A1lise%20de%20dados%20e%20BI%20com%20LLMs>)
-3.4. Automação de processos com IA (ex: geração de relatórios, resumos, traduções técnicas)
-3.5. Integração com sistemas legados, APIs e RPA
+3.4. [Automação de processos com IA (ex: geração de relatórios, resumos, traduções técnicas)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/Automa%C3%A7%C3%A3o%20de%20processos%20com%20IA>)
+3.5. [Integração com sistemas legados, APIs e RPA](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/3.%20Casos%20de%20Uso%20Empresariais/Integra%C3%A7%C3%A3o%20com%20sistemas%20legados%2C%20APIs%20e%20RPA>)
 
 ### 4. Ferramentas e Plataformas de Integração
 
-4.1. OpenAI API (ChatGPT, Assistants, GPTs)
-4.2. LangChain, Semantic Kernel, LlamaIndex
-4.3. Automação com n8n, Zapier e Make
+4.1. [OpenAI API (ChatGPT, Assistants, GPTs)](<https://maksoud.github.io&file=Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/OpenAI%20API%20(ChatGPT%2C%20Assistants%2C%20GPTs)>)
+4.2. [LangChain, Semantic Kernel, LlamaIndex](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/LangChain%2C%20Semantic%20Kernel%2C%20LlamaIndex>)
+4.3. [Automação com n8n, Zapier e Make](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/Automa%C3%A7%C3%A3o%20com%20n8n%2C%20Zapier%20e%20Make>)
 4.4. Noções de uso via código (Python/JavaScript) e via plataformas low-code
 
 ### 5. Avaliação e Melhoria Contínua de Prompts
