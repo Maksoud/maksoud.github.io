@@ -29,7 +29,7 @@
 4.1. [OpenAI API (ChatGPT, Assistants, GPTs)](<https://maksoud.github.io&file=Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/OpenAI%20API%20(ChatGPT%2C%20Assistants%2C%20GPTs)>)
 4.2. [LangChain, Semantic Kernel, LlamaIndex](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/LangChain%2C%20Semantic%20Kernel%2C%20LlamaIndex>)
 4.3. [Automação com n8n, Zapier e Make](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/Automa%C3%A7%C3%A3o%20com%20n8n%2C%20Zapier%20e%20Make>)
-4.4. Noções de uso via código (Python/JavaScript) e via plataformas low-code
+4.4. [Noções de uso via código (Python/JavaScript) e via plataformas low-code](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/4.%20Ferramentas%20e%20Plataformas%20de%20Integra%C3%A7%C3%A3o/No%C3%A7%C3%B5es%20de%20uso%20via%20c%C3%B3digo%20e%20via%20plataformas%20low-code>)
 
 ### 5. Avaliação e Melhoria Contínua de Prompts
 

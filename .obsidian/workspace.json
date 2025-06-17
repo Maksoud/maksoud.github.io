@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligência Artificial (IA)/Engenharia de Prompt/Plano de Estudos para Engenharia de Prompt.md",
+                "file": "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Noções de uso via código e via plataformas low-code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plano de Estudos para Engenharia de Prompt"
+              "title": "Noções de uso via código e via plataformas low-code"
             }
           },
           {
@@ -199,9 +199,10 @@
   },
   "active": "f041e2854e5e0bde",
   "lastOpenFiles": [
-    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Automação com n8n, Zapier e Make.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/Plano de Estudos para Engenharia de Prompt.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Noções de uso via código e via plataformas low-code.md",
+    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Automação com n8n, Zapier e Make.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Integração com sistemas legados, APIs e RPA.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/OpenAI API (ChatGPT, Assistants, GPTs).md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Atendimento ao cliente (FAQ, suporte técnico, triagem).md",
