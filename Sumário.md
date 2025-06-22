@@ -94,3 +94,4 @@
 * [Processo de criação de valor de produtos digitais](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>)
 * [Entendendo o BABOK v3](<https://maksoud.github.io/Gestão%20de%20Projetos/Entendendo%20o%20BABOK%20v3>)
 * [Matriz GUT](<https://maksoud.github.io/Gestão%20de%20Projetos/Matriz%20GUT>)
+* [Diferenças entre Design Sprint, Kaizen e Design Thinking](<https://maksoud.github.io/Gest%C3%A3o%20de%20Projetos/Diferen%C3%A7as%20entre%20Design%20Sprint%2C%20Kaizen%20e%20Design%20Thinking>)
