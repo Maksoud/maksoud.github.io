@@ -8,12 +8,14 @@
 4. **Permitir ajuste e criação de estratégias** (teto/base, capital alocado, gestão de lucro, etc.).
 5. **Visualizar dashboards de performance** (gráficos por estratégia, lucro/prejuízo, drawdown, taxas, etc.).
 
+
 ### 📌 Princípios Operacionais para Proteção de Capital:
 
 - Nunca vender no prejuízo só por evento de mercado (como saída de canal).
 - Toda venda deve ser sempre **com lucro mínimo garantido após taxas**.
 - O sistema deve sinalizar e acompanhar operações fora do canal, mas não forçar liquidação no prejuízo.
 - Lucros não reinvestidos por padrão, a não ser que o operador configure manualmente.
+
 
 ## 🛠️ Tecnologias sugeridas:
 
@@ -69,6 +71,7 @@
 - Alertas por Telegram, Email ou WhatsApp
 - Backtesting com histórico de anos anteriores
 
+
 ## ⚙️ Funcionalidades Estruturais – Garantia de Disponibilidade e Integridade Operacional
 
 Para garantir o correto funcionamento do sistema e a integridade dos registros de operações, será implementado um **módulo de verificação automática de integridade e disponibilidade**, executado de forma programada (exemplo: diariamente ou em ciclos configuráveis).
@@ -103,15 +106,15 @@ Essas funcionalidades têm o objetivo de:
 - **Fornecer visibilidade ao operador**, com alertas imediatos para qualquer anomalia.
 
 ---
-## Exemplo de Estratégia a ser configurada no sistema:
+## Exemplo de Estratégia a ser configurada no sistema
 
-### Estratégia: **Operação por Canal de Preço com Controle de Capital e Filtro de Valorização/Desvalorização**
+#### Estratégia: **Operação por Canal de Preço com Controle de Capital e Filtro de Valorização/Desvalorização**
 
-## Objetivo da Estratégia
+### Objetivo da Estratégia
 
 Operar dentro de um canal de preço previamente identificado, buscando maximizar a assertividade das entradas e saídas, utilizando uma parcela fixa do capital da banca, e **não reinvestindo os lucros gerados nas operações**.
 
-## Parâmetros Operacionais
+### Parâmetros Operacionais
 
 |Parâmetro|Valor|
 |---|---|
@@ -120,21 +123,21 @@ Operar dentro de um canal de preço previamente identificado, buscando maximizar
 |**Capital Alocado**|20% da banca disponível (valor fixo, sem reinvestimento de lucros)|
 |**Cálculo de Lucro**|Lucros gerados nas operações não são incorporados ao capital de operação (lucro separado)|
 |**Taxas**|Considerar as taxas de operação da Binance ao calcular os limites de venda|
-## Regras de Compra (Entrada)
+### Regras de Compra (Entrada)
 
 - A compra será disparada **apenas quando houver uma valorização significativa** a partir do **menor valor registrado dentro do canal no período recente**.
 - O operador busca com isso **evitar compras em movimento lateral ou de queda contínua**, e só entrar após sinais de reversão positiva.
 - Exemplo de critério (ajustável no sistema futuramente):
     - **% de valorização mínima** a partir do fundo: Exemplo: +1% ou +2% (definível por configuração).
 
-## Regras de Venda (Saída)
+### Regras de Venda (Saída)
 
 - A venda será disparada quando houver uma **desvalorização percentual a partir do topo mais recente dentro do canal**, desde que:
     1. O valor atual **seja maior que o preço da compra + taxas** (para evitar saídas no prejuízo).
     2. Exemplo de critério de saída:
         - **Queda de -1% ou -2% a partir do topo**, ajustável via sistema.
 
-## Gestão de Capital
+### Gestão de Capital
 
 - Capital **fixo por estratégia:** 20% da banca.
 - Lucros acumulados **não são reaplicados**. O capital base permanece o mesmo até nova configuração.
@@ -147,7 +150,7 @@ Suponha:
 - Compra: ocorre se o preço sobe **2% a partir do fundo das últimas horas no canal**.
 - Venda: ocorre se o preço cai **2% a partir do topo**, desde que respeite o mínimo de lucro (superando taxas).
 
-## Possíveis Campos no Sistema para essa Estratégia:
+### Possíveis Campos no Sistema para essa Estratégia:
 
 | Campo                            | Tipo     | Exemplo                        |
 | -------------------------------- | -------- | ------------------------------ |
@@ -160,21 +163,21 @@ Suponha:
 | % Valorização Mínima para Compra | Número   | 2                              |
 | % Desvalorização para Venda      | Número   | 2                              |
 | Critério de Venda Mínima         | Cálculo  | Preço Compra + Taxas           |
-## Benefícios dessa Estratégia:
+### Benefícios dessa Estratégia:
 
 - **Proteção de Capital:** Uso de apenas uma parcela fixa da banca.
 - **Evita operações impulsivas:** Entradas somente após confirmação de valorização.
 - **Realização de Lucros Controlada:** Saídas programadas considerando oscilações de curto prazo dentro do canal.
 
-## Problema Evitado:
+### Problema Evitado:
 
 Evitar a permanência de posições compradas abertas indefinidamente quando o preço **sai do canal de operação**, deixando o capital exposto ao risco sem uma saída programada.
 
-## Relação entre Estratégia, Operações e Relatório
+### Relação entre Estratégia, Operações e Relatório
 
 Estratégia → Gera → Operações → Gera → Relatórios
 
-#### Etapas
+### Etapas
 
 | Etapa | Ação                                                        |
 | ----- | ----------------------------------------------------------- |
@@ -187,9 +190,9 @@ Estratégia → Gera → Operações → Gera → Relatórios
 | 7     | Sistema atualiza relatórios                                 |
 
 ---
-## Nova Regra de Monitoramento: **Controle de Posições Abertas**
+### Nova Regra de Monitoramento: **Controle de Posições Abertas**
 
-### Para cada compra realizada (real ou simulada), o sistema deverá:
+#### Para cada compra realizada (real ou simulada), o sistema deverá:
 
 - Registrar os seguintes dados:
     - Par de moeda
@@ -203,7 +206,7 @@ Estratégia → Gera → Operações → Gera → Relatórios
     1. Uma venda seja executada de forma programada pela estratégia (ex: queda de % a partir do topo, dentro do canal), ou
     2. Uma venda de emergência (forçada) seja registrada caso o preço **ultrapasse o limite inferior ou superior do canal**.
 
-## Nova Regra de Saída: **Venda por Saída de Canal (Stop Fora do Canal)**
+### Nova Regra de Saída: **Venda por Saída de Canal (Stop Fora do Canal)**
 
 Sempre que o preço da moeda **sair dos limites do canal (abaixo da base ou acima do teto)**, e existirem compras abertas associadas àquela estratégia/par, o sistema deverá:
 
@@ -212,14 +215,14 @@ Sempre que o preço da moeda **sair dos limites do canal (abaixo da base ou acim
 ✅ Toda posição aberta só será encerrada com uma venda **acima do preço de compra + taxa mínima de lucro**. **Mesmo que o preço da moeda saia do canal de operação (rompa o teto ou a base), o sistema não fará venda imediata a preço de mercado.**  
 ✅ Se o preço estiver fora do canal, a estratégia deverá **registrar uma venda com o mínimo lucro esperado**. A estratégia será: **registrar uma venda futura, programada, no mínimo lucro esperado**, considerando o preço de compra + taxas + lucro mínimo.
 
-## Regra de Gestão para Saída de Canal
+### Regra de Gestão para Saída de Canal
 
 |Situação|Ação|
 |---|---|
 |O preço rompe o limite inferior (base) ou superior (teto) do canal|O sistema verifica se há posições abertas daquela estratégia/par|
 |Existe posição aberta e o preço atual ainda está abaixo do valor de venda com lucro|O sistema registra internamente que aquela posição está “fora do canal” e **agenda uma venda futura com o preço alvo mínimo de lucro**|
 |O preço posteriormente atinge o valor de venda programado|A venda é executada e registrada com o status "Venda programada após saída do canal com lucro mínimo"|
-## Campos Extras Necessários na Base de Dados:
+### Campos Extras Necessários na Base de Dados:
 
 |Campo|Tipo|Exemplo|
 |---|---|---|
@@ -229,7 +232,7 @@ Sempre que o preço da moeda **sair dos limites do canal (abaixo da base ou acim
 |Data da saída do canal|Datetime|Quando a cotação saiu do canal|
 |Data de programação da venda|Datetime|Quando o sistema registrou a venda programada|
 |Condição mínima de lucro|Decimal (ou %)|Exemplo: 0,5% acima do preço de compra + taxas|
-## Fluxo Exemplo de Evento:
+### Fluxo Exemplo de Evento:
 
 1. **Compra feita:**  
     Par BTC/USDT a 102.000 USDT.
@@ -245,7 +248,7 @@ Sempre que o preço da moeda **sair dos limites do canal (abaixo da base ou acim
 6. **Resultado:**  
     O relatório da estratégia mostrará que a venda foi **pós saída de canal**, mas sempre **com lucro**.
 
-## Novos Comportamentos Obrigatórios no Sistema:
+### Novos Comportamentos Obrigatórios no Sistema:
 
 - Sistema **nunca** executa vendas no prejuízo por rompimento de canal.
 - Toda saída de canal dispara uma programação automática de venda com lucro mínimo.
@@ -257,6 +260,7 @@ Aqui está a lista de **relatórios esperados**, já considerando as regras atua
 ---
 # 📈 Relatórios Esperados – Sistema de Monitoramento de Criptomoedas
 
+
 ## 📊 Relatórios de Performance por Estratégia
 
 - **Lucro/Prejuízo Total por Estratégia**
@@ -265,6 +269,7 @@ Aqui está a lista de **relatórios esperados**, já considerando as regras atua
 - **Lucro acumulado no período (Diário / Semanal / Mensal)**
 - **Capital atualmente alocado em cada estratégia**
 - **Capital total movimentado (volume operado)**
+
 
 ## 📉 Relatórios de Operações Individuais
 
@@ -280,6 +285,7 @@ Aqui está a lista de **relatórios esperados**, já considerando as regras atua
     - Taxas pagas na operação
     - Motivo da venda (Venda por critério de estratégia / Venda programada por saída de canal / Outro motivo definido)
 
+
 ## 📋 Relatório de Posições Abertas
 
 - **Lista de todas as posições atualmente abertas**
@@ -290,6 +296,7 @@ Aqui está a lista de **relatórios esperados**, já considerando as regras atua
     - Preço alvo mínimo programado para venda
     - Tempo de exposição (dias desde a compra)
 
+
 ## 📉 KPIs Sugeridos
 
 | Indicador                     | Descrição                                 |
@@ -299,6 +306,7 @@ Aqui está a lista de **relatórios esperados**, já considerando as regras atua
 | Lucro Médio por Operação      | Média de ganho                            |
 | Tempo Médio de Posição Aberta | Tempo de exposição ao risco               |
 | Lucro Total vs Taxas Pagas    | Para medir eficiência da operação         |
+
 
 ## 📌 Relatório de Posições Fora do Canal (Em Recuperação)
 
@@ -316,6 +324,7 @@ Campos sugeridos:
 |Tempo fora do canal|3 dias|
 |Status|Aguardando recuperação|
 
+
 ## 📊 Relatório Comparativo entre Estratégias
 
 - **Comparativo de performance entre diferentes estratégias**
@@ -323,6 +332,7 @@ Campos sugeridos:
     - % de acerto por estratégia
     - Drawdown máximo por estratégia
     - Tempo médio de exposição das operações por estratégia
+
 
 ## 📅 Relatórios de Evolução Temporal
 
@@ -332,16 +342,19 @@ Campos sugeridos:
     - Exibir o crescimento ou queda do capital total ao longo do tempo
 - **Histórico de Capital Alocado por Estratégia**
 
+
 ## 📈 Relatório de Impacto das Taxas
 
 - **Total de taxas pagas por período**
 - **% das taxas sobre o lucro total**
 - **Estratégias com maior impacto de taxas**
 
+
 ## 📌 Relatório de Lucro por Par de Moedas
 
 - Exibir **lucro/prejuízo acumulado por cada par de moedas operado**  
     (BTC/USDT, ETH/USDT, etc.)
+
 
 ## 🚩 Relatório de Riscos e Exposições
 
