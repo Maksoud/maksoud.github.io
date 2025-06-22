@@ -22,7 +22,7 @@
 - **Linguagem Backend:** Python (com Flask ou FastAPI) ou PHP (Laravel)
 - **Banco de Dados:** MySQL ou PostgreSQL
 - **Frontend:** React ou Vue.js (ou Blade/Laravel caso queira começar mais simples)
-- **Integração API:** Binance REST API
+- **Integração API:** Binance REST API (https://python-binance.readthedocs.io/en/latest/)
 - **Gráficos:** Chart.js ou ApexCharts
 - **Agendamento de tarefas:** Celery + Redis (Python) ou Laravel Scheduler (PHP)
 
