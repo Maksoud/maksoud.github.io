@@ -31,13 +31,15 @@ Executar operações dentro de um canal de preço pré-estabelecido, priorizando
 - A venda será programada **somente se o preço estiver acima do valor de compra + taxas**, com um lucro mínimo configurável.
 - Preferencialmente realizada após uma desvalorização percentual a partir do topo do canal (ex.: -2%), mas sempre respeitando o critério de lucro mínimo.
 - **Nunca será executada a mercado com prejuízo.**
+- Em caso de rompimento do canal, o preço de venda assumirá o menor lucro + taxas para ser programado, garantindo com isso que vendas não sejam esquecidas ou realizadas com valor menor futuramente.
 
 
 ## 💰 Gestão de Capital
 
-- O capital destinado à estratégia é fixo (ex.: 20% da banca).
+- O capital destinado à estratégia é fixo e configurável (ex.: 20% da banca).
 - Os lucros gerados são acumulados à parte, **não aumentam o capital de operação automaticamente**.
 - O valor da banca pode ser recalculado periodicamente para ajustar o capital alocado.
+- É necessário manter um saldo de BNB (moeda da Binance) afim de garantir uma taxa mais atrativa nas operações.
 
 
 ## 🧠 Exemplo Prático
