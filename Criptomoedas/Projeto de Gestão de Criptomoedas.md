@@ -108,7 +108,7 @@ Essas funcionalidades têm o objetivo de:
 ---
 ## Estratégias Segueridas
 
-### - Estratégia 1: [Operação por Canal de Preço com Controle de Capital e Filtro de Valorização/Desvalorização](<https://maksoud.github.io/Criptomoedas/Estrat%C3%A9gia%20Opera%C3%A7%C3%A3o%20por%20Canal%20de%20Pre%C3%A7o%20com%20Controle%20de%20Capital%20e%20Filtro%20de%20Valoriza%C3%A7%C3%A3o%20Desvaloriza%C3%A7%C3%A3o>)
+### - Estratégia Inicial: [Canal de Preço com Controle de Capital e Venda Programada com Lucro](<https://maksoud.github.io/Criptomoedas/Estrat%C3%A9gia%20Canal%20de%20Pre%C3%A7o%20com%20Controle%20de%20Capital%20e%20Venda%20Programada%20com%20Lucro>)
 
 ---
 ### 📈 [Relatórios](<https://maksoud.github.io/Criptomoedas/Relat%C3%B3rios%20Sistema%20de%20Monitoramento%20de%20Criptomoedas>)
