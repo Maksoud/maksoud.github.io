@@ -3,7 +3,7 @@
 
 ## 🛠️ 1. Estruturação do Ambiente de Desenvolvimento
 
-- Instalar o Python (versão 3.8 ou superior recomendada)
+- Instalar o [Python](<https://www.python.org/downloads/>) (versão 3.8 ou superior recomendada)
 - Criar um ambiente virtual:
 
 ```bash
@@ -11,14 +11,6 @@ python -m venv venv
 source venv/bin/activate  # Linux / Mac
 venv\Scripts\activate     # Windows
 ```
-
-- Instalar as bibliotecas iniciais:
-
-```bash
-pip install python-binance mysql-connector-python flask sqlalchemy
-```
-
-_(Pode ajustar para FastAPI ou outro framework depois, se quiser)_
 
 ---
 
@@ -116,18 +108,24 @@ _(Você pode começar ouvindo só um par, e depois abrir múltiplas conexões pa
 
 ### Estrutura das Tabelas SQL – Criação Inicial
 
-Aqui estão os **scripts SQL iniciais**, já considerando o uso de **estratégias**, **operações (trades)**, **pares de moedas (símbolos)** e **histórico de cotações (opcional para backtesting ou análise futura)**.
+Primeiro, vamos começar baixando o [PostgreSQL](<https://www.enterprisedb.com/downloads/postgres-postgresql-downloads>) e configurando o banco.
+
+```sql
+CREATE DATABASE criptoren;
+```
+
+Aqui estão os **scripts SQL iniciais**, já considerando o uso de **estratégias**, **operações (trades)**, **pares de moedas (símbolos)** e **histórico de cotações (opcional para *backtesting* ou análise futura)**.
 
 #### 📌 Tabela: `symbols` (pares de moedas)
 
 ```sql
 CREATE TABLE symbols (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    symbol VARCHAR(20) NOT NULL UNIQUE,
-    base_asset VARCHAR(20),
-    quote_asset VARCHAR(20),
-    is_active BOOLEAN DEFAULT TRUE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    id SERIAL PRIMARY KEY,
+    symbol VARCHAR(20) NOT NULL UNIQUE,
+    base_asset VARCHAR(20),
+    quote_asset VARCHAR(20),
+    is_active BOOLEAN DEFAULT TRUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
@@ -135,17 +133,17 @@ CREATE TABLE symbols (
 
 ```sql
 CREATE TABLE strategies (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    description TEXT,
-    capital_percentage DECIMAL(5,2) DEFAULT 0.00,
-    consider_profits BOOLEAN DEFAULT FALSE,
-    lower_limit DECIMAL(18,8),
-    upper_limit DECIMAL(18,8),
-    min_profit_percentage DECIMAL(8,4),
-    min_gain_to_buy_percentage DECIMAL(8,4),
-    max_fall_to_sell_percentage DECIMAL(8,4),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    description TEXT,
+    capital_percentage DECIMAL(5,2) DEFAULT 0.00,
+    consider_profits BOOLEAN DEFAULT FALSE,
+    lower_limit DECIMAL(18,8),
+    upper_limit DECIMAL(18,8),
+    min_profit_percentage DECIMAL(8,4),
+    min_gain_to_buy_percentage DECIMAL(8,4),
+    max_fall_to_sell_percentage DECIMAL(8,4),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
@@ -153,20 +151,20 @@ CREATE TABLE strategies (
 
 ```sql
 CREATE TABLE trades (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    strategy_id INT NOT NULL,
-    symbol_id INT NOT NULL,
-    type ENUM('buy', 'sell', 'simulation') NOT NULL,
-    quantity DECIMAL(18,8) NOT NULL,
-    price DECIMAL(18,8) NOT NULL,
-    fee DECIMAL(18,8) DEFAULT 0.00000000,
-    trade_datetime DATETIME NOT NULL,
-    status ENUM('open', 'planned_sell', 'closed') DEFAULT 'open',
-    sell_target_price DECIMAL(18,8),
-    exit_reason VARCHAR(255),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (strategy_id) REFERENCES strategies(id),
-    FOREIGN KEY (symbol_id) REFERENCES symbols(id)
+    id SERIAL PRIMARY KEY,
+    strategy_id INT NOT NULL,
+    symbol_id INT NOT NULL,
+    type VARCHAR(12) NOT NULL CHECK (type IN ('buy', 'sell', 'simulation')),
+    quantity DECIMAL(18,8) NOT NULL,
+    price DECIMAL(18,8) NOT NULL,
+    fee DECIMAL(18,8) DEFAULT 0.00000000,
+    trade_datetime TIMESTAMP NOT NULL,
+    status VARCHAR(20) DEFAULT 'open' CHECK (status IN ('open', 'planned_sell', 'closed')),
+    sell_target_price DECIMAL(18,8),
+    exit_reason VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (strategy_id) REFERENCES strategies(id),
+    FOREIGN KEY (symbol_id) REFERENCES symbols(id)
 );
 ```
 
@@ -174,12 +172,12 @@ CREATE TABLE trades (
 
 ```sql
 CREATE TABLE price_history (
-    id BIGINT AUTO_INCREMENT PRIMARY KEY,
-    symbol_id INT NOT NULL,
-    price DECIMAL(18,8) NOT NULL,
-    event_time DATETIME NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (symbol_id) REFERENCES symbols(id)
+    id BIGSERIAL PRIMARY KEY,
+    symbol_id INT NOT NULL,
+    price DECIMAL(18,8) NOT NULL,
+    event_time TIMESTAMP NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (symbol_id) REFERENCES symbols(id)
 );
 ```
 
@@ -188,11 +186,11 @@ CREATE TABLE price_history (
 
 ```sql
 CREATE TABLE api_failures (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    service VARCHAR(50) NOT NULL,
-    error_message TEXT,
-    event_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    resolved BOOLEAN DEFAULT FALSE
+    id SERIAL PRIMARY KEY,
+    service VARCHAR(50) NOT NULL,
+    error_message TEXT,
+    event_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    resolved BOOLEAN DEFAULT FALSE
 );
 ```
 
@@ -201,7 +199,6 @@ CREATE TABLE api_failures (
 ## 🔁 7. Rotina de Coleta de Preço Atual
 
 - Criar uma função tipo:
-    
 
 ```python
 def get_current_price(symbol):
