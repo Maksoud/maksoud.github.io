@@ -1,20 +1,24 @@
 
-
 ### Produtos Digitais
 
 * [Criando Seu Negócio na Internet](<https://maksoud.github.io/Produtos%20Digitais/Criando%20Seu%20Negócio%20na%20Internet>)
+* [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
+* [Como a Criação de uma API Pode Solucionar Problemas - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
+* [Prospecção de Clientes](<https://maksoud.github.io/Produtos%20Digitais/Prospec%C3%A7%C3%A3o%20de%20Clientes>)
+* [Abordagem de Clientes e Técnicas de Persuasão](<https://maksoud.github.io/Produtos%20Digitais/Abordagem%20de%20Clientes%20e%20T%C3%A9cnicas%20de%20Persuas%C3%A3o>)
+* [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
+
+
+
+### Desenvolvimento Web e Mobile
 * [Registrando um Domínio (.com.br)](<https://maksoud.github.io/Produtos%20Digitais/Registrando%20um%20Dom%C3%ADnio%20BR>)
+* [Versionamento Git](<https://maksoud.github.io/Produtos%20Digitais/Versionamento%20Git>)
 * [Hospedando um Site - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
 * [Agendamento de Tarefas no Linux com CRONTAB](<https://maksoud.github.io/Produtos%20Digitais/Agendamento%20de%20Tarefas%20no%20Linux%20com%20CRONTAB>)
 * [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
 * [Wordpress - Elementor PRO: Criação Profissional e Intuitiva de Páginas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Cria%C3%A7%C3%A3o%20Profissional%20e%20Intuitiva%20de%20P%C3%A1ginas>)
-* [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
-* [Como a Criação de uma API Pode Solucionar Problemas - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
 * [Criando um aplicativo Android com WebViewer - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Criando%20um%20aplicativo%20Android%20com%20WebViewer>)
-* [Prospecção de Clientes](<https://maksoud.github.io/Produtos%20Digitais/Prospec%C3%A7%C3%A3o%20de%20Clientes>)
-* [Abordagem de Clientes e Técnicas de Persuasão](<https://maksoud.github.io/Produtos%20Digitais/Abordagem%20de%20Clientes%20e%20T%C3%A9cnicas%20de%20Persuas%C3%A3o>)
-* [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
 
 
 
@@ -41,12 +45,14 @@
 * [Auto Responsabilização](<https://maksoud.github.io/Mente%20e%20Estudos/Auto%20Responsabilização>)
 
 
+
 ### Finanças
 
 * [10 Regras de Ouro para Começar a Mudar a Mentalidade](<https://maksoud.github.io/Finanças/10%20Regras%20de%20Ouro%20para%20Começar%20a%20Mudar%20a%20Mentalidade>)
 * [Como se Organizar Financeiramente de Maneira Estratégica](<https://maksoud.github.io/Finanças/Como%20se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
 * [Encontrando Oportunidades](<https://maksoud.github.io/Finanças/Encontrando%20oportunidades>)
 * [Como Usar o Cartão de Crédito](<https://maksoud.github.io/Finan%C3%A7as/Como%20Usar%20o%20Cart%C3%A3o%20de%20Cr%C3%A9dito>)
+
 
 
 ### Desenvolvimento Profissional e Carreira
@@ -60,6 +66,7 @@
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
 * [LinkedIn: Um Perfil Campeão](<https://maksoud.github.io/LinkedIn/LinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
+
 
 
 ### Inteligência Artificial
@@ -84,6 +91,7 @@
 	* [Como Funcionam os Modelos de Linguagem (LLMs)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/Como%20Funcionam%20os%20Modelos%20de%20Linguagem%20(LLMs)>)
 	* [O Transformer Ilustrado (Jay Alammar)](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/O%20Transformer%20Ilustrado%20(Jay%20Alammar)>)
 	* [Como Funciona o ChatGPT – OpenAI](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/Como%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
+
 
 ### Gestão de Projetos
 
