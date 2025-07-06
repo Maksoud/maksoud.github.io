@@ -3,7 +3,6 @@
 
 * [Criando Seu Negócio na Internet](<https://maksoud.github.io/Produtos%20Digitais/Criando%20Seu%20Negócio%20na%20Internet>)
 * [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
-* [Como a Criação de uma API Pode Solucionar Problemas - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
 * [Prospecção de Clientes](<https://maksoud.github.io/Produtos%20Digitais/Prospec%C3%A7%C3%A3o%20de%20Clientes>)
 * [Abordagem de Clientes e Técnicas de Persuasão](<https://maksoud.github.io/Produtos%20Digitais/Abordagem%20de%20Clientes%20e%20T%C3%A9cnicas%20de%20Persuas%C3%A3o>)
 * [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
@@ -11,14 +10,15 @@
 
 
 ### Desenvolvimento Web e Mobile
-* [Registrando um Domínio (.com.br)](<https://maksoud.github.io/Produtos%20Digitais/Registrando%20um%20Dom%C3%ADnio%20BR>)
-* [Versionamento Git](<https://maksoud.github.io/Produtos%20Digitais/Versionamento%20Git>)
-* [Hospedando um Site - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
-* [Agendamento de Tarefas no Linux com CRONTAB](<https://maksoud.github.io/Produtos%20Digitais/Agendamento%20de%20Tarefas%20no%20Linux%20com%20CRONTAB>)
-* [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
-* [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
-* [Wordpress - Elementor PRO: Criação Profissional e Intuitiva de Páginas](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Cria%C3%A7%C3%A3o%20Profissional%20e%20Intuitiva%20de%20P%C3%A1ginas>)
-* [Criando um aplicativo Android com WebViewer - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Criando%20um%20aplicativo%20Android%20com%20WebViewer>)
+* [Registrando um Domínio (.com.br)](<https://maksoud.github.io/Desenvolvimento%20Web/Registrando%20um%20Dom%C3%ADnio%20BR>)
+* [Versionamento Git](<https://maksoud.github.io/Desenvolvimento%20Web/Versionamento%20Git>)
+* [Hospedando um Site - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
+* [Agendamento de Tarefas no Linux com CRONTAB](<https://maksoud.github.io/Desenvolvimento%20Web/Agendamento%20de%20Tarefas%20no%20Linux%20com%20CRONTAB>)
+* [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
+* [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
+* [Wordpress - Elementor PRO: Criação Profissional e Intuitiva de Páginas](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Cria%C3%A7%C3%A3o%20Profissional%20e%20Intuitiva%20de%20P%C3%A1ginas>)
+* [Como a Criação de uma API Pode Solucionar Problemas - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
+* [Criando um aplicativo Android com WebViewer - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Criando%20um%20aplicativo%20Android%20com%20WebViewer>)
 
 
 

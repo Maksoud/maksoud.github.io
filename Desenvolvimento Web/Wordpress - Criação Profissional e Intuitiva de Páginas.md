@@ -117,7 +117,7 @@ O Elementor PRO é uma ferramenta indispensável para quem deseja construir site
 Seja você um freelancer, dono de negócio ou designer, o Elementor PRO pode acelerar sua produtividade e melhorar seus resultados em conversões e usabilidade.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Cria%C3%A7%C3%A3o%20Profissional%20e%20Intuitiva%20de%20P%C3%A1ginas>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Cria%C3%A7%C3%A3o%20Profissional%20e%20Intuitiva%20de%20P%C3%A1ginas>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

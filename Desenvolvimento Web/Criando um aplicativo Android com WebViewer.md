@@ -103,7 +103,7 @@ myWebView.setWebViewClient(new WebViewClient());
 Criar um aplicativo Android com WebViewer é uma excelente opção para desenvolvedores que desejam agilidade, economia e simplicidade. É ideal para quem já possui uma versão web do sistema ou deseja lançar rapidamente um MVP no mercado. Com o Android Studio e alguns poucos ajustes, você pode transformar um site em um app funcional, acessível e visualmente consistente com a versão web.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Criando%20um%20aplicativo%20Android%20com%20WebViewer>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Criando%20um%20aplicativo%20Android%20com%20WebViewer>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

@@ -88,7 +88,7 @@ ssh -i ~/.ssh/id_rsa_private [usuário]@[ip-do-servidor]
 > Caso seja exibido a mensagem “too open”, então execute a mudança de permissão de acesso do arquivo de chave: “_chmod 600 ~/.ssh/id_rsa_private_“.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Versionamento%20Git>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Versionamento%20Git>)
 
 <sup><sub>
 Renée Maksoud - julho de 2025

@@ -97,7 +97,7 @@ Provedores como **Hostinger**, **KingHost** e **HostGator** são amplamente util
 Essas soluções são excelentes para quem deseja **colocar um site no ar rapidamente**, sem precisar configurar servidores manualmente. Em poucos cliques, é possível registrar o domínio, contratar o plano, instalar o WordPress e começar a publicar seu conteúdo.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Registrando%20um%20Dom%C3%ADnio%20BR>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Registrando%20um%20Dom%C3%ADnio%20BR>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

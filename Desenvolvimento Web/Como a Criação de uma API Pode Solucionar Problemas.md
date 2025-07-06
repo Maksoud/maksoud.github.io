@@ -181,7 +181,7 @@ Uma API **verdadeiramente RESTful** deve:
 Usar **REST como referência** ajuda a criar APIs organizadas, padronizadas e fáceis de consumir. Ao **adotar o estilo RESTful**, você garante que sua API esteja preparada para crescer de forma escalável, segura e eficiente, com interfaces claras e compreensíveis por qualquer sistema ou linguagem de programação.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

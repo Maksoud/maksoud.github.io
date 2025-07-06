@@ -172,7 +172,7 @@ Agora, esperamos que a segurança do seu site no **Wordpress** esteja ainda mais
 A segurança é uma preocupação constante e esses passos sugeridos visam te apoiar em um ambiente seguro e disponível para seus sites. Espero ter ajudado!
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

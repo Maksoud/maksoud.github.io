@@ -194,7 +194,7 @@ sudo systemctl restart apache2
 ```
 
 
-[link de compartilhamento](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
 
 <sup><sub>
 Renée Maksoud - abril de 2025
