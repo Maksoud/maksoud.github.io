@@ -244,7 +244,3 @@ uvicorn main:app --reload
 |Fase 3|Interface web com painel|
 |Fase 4|Estratégias automatizadas (ex: canais)|
 |Fase 5|Alertas e auditoria de operações|
-
----
-
-Se quiser, posso montar os **modelos Pydantic (`schemas.py`)** e o esqueleto de cada rota com base nas estruturas acima. Deseja seguir com isso agora?
