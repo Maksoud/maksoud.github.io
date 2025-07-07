@@ -1,247 +1,250 @@
-# ✅ Primeiros Passos no Desenvolvimento – Sistema de Monitoramento de Criptomoedas
+# ✅ Primeiros Passos no Desenvolvimento – FastAPI + WebSocket Binance
 
+---
 
-## 🛠️ 1. Estruturação do Ambiente de Desenvolvimento
+## 🛠️ 1. Estruturação do Ambiente
 
-- Instalar o [Python](<https://www.python.org/downloads/>) (versão 3.8 ou superior recomendada)
-- Criar um ambiente virtual:
+- Instale o [Python](https://www.python.org/downloads/) (versão 3.8+)
+- Crie o ambiente virtual:
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Linux / Mac
+source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
+```
+
+- Instale os pacotes:
+
+```bash
+pip install fastapi uvicorn python-binance sqlalchemy psycopg2-binary websockets
 ```
 
 ---
 
-## 🧱 2. Estrutura Inicial do Projeto (Pasta / Arquivos)
+## 🧱 2. Estrutura Inicial do Projeto
 
 ```bash
 project-root/
 ├── app/
-│   ├── api/                # Endpoints Flask ou FastAPI
-│   ├── binance_client.py   # Conexão com API da Binance
-│   ├── models.py           # Modelos de banco de dados (SQLAlchemy)
-│   ├── services/           # Lógicas de negócios (estratégias, cálculo de lucro, etc.)
-│   └── utils.py            # Funções auxiliares
-├── config.py               # Configurações gerais (chaves da Binance, dados do banco)
-├── requirements.txt
-└── run.py                  # Arquivo inicial da aplicação
+│   ├── api/                # Endpoints FastAPI
+│   ├── models/             # Modelos SQLAlchemy
+│   ├── services/           # Lógica de negócios
+│   ├── binance_ws.py       # WebSocket Binance
+│   ├── database.py         # Conexão com PostgreSQL
+│   └── schemas.py          # Pydantic models (validação)
+├── config.py               # Configurações do projeto
+├── main.py                 # Inicializador da FastAPI
+└── requirements.txt
 ```
 
 ---
 
-## 🔑 3. Configuração das Credenciais da Binance
+## 🔑 3. Configuração da API Binance
 
-No arquivo `config.py`, defina:
-
-```python
-API_KEY = 'SUA_API_KEY'
-API_SECRET = 'SEU_API_SECRET'
-```
-
-_(Recomendo usar variáveis de ambiente no futuro para segurança)_
-
----
-
-## 🌐 4. Conexão Inicial com a Binance API
-
-Criar o arquivo `binance_client.py`:
+**`config.py`:**
 
 ```python
-from binance.client import Client
-from config import API_KEY, API_SECRET
+import os
 
-client = Client(API_KEY, API_SECRET)
-```
-
-Testar com uma simples chamada:
-
-```python
-print(client.get_symbol_ticker(symbol="BTCUSDT"))
+API_KEY = os.getenv("BINANCE_API_KEY", "")
+API_SECRET = os.getenv("BINANCE_API_SECRET", "")
 ```
 
 ---
 
-## 🕒 5. Escolha Inicial: REST ou Websocket?
+## 🌐 4. Conexão com WebSocket da Binance
 
-👉 **Para o MVP, comece com as consultas REST da Binance:**  
-Exemplo: Preço de cotação atual, book, etc.
-
-👉 **Depois evoluir para WebSocket**, apenas quando quiser monitoramento em tempo real.
-
-### ✅ Passo a Passo Inicial – Usando WebSocket da Binance
-
-#### 1. Instalação das Bibliotecas Necessárias:
-
-`pip install python-binance websockets mysql-connector-python sqlalchemy flask`
-
-#### 2. Conexão com WebSocket – Exemplo básico (Binance `depth`, `trade`, ou `kline`)
-
-#### Exemplo para ouvir o ticker em tempo real (preço do último trade):
+**`binance_ws.py`:**
 
 ```python
 from binance.streams import ThreadedWebsocketManager
 from config import API_KEY, API_SECRET
 
-def handle_socket_message(msg):
-    print(f"Mensagem recebida: {msg}")
+def handle_price_message(msg):
+    symbol = msg['s']
+    price = msg['c']
+    print(f"{symbol} → {price}")
 
-twm = ThreadedWebsocketManager(API_KEY, API_SECRET)
-twm.start()
-
-twm.start_symbol_ticker_socket(callback=handle_socket_message, symbol='btcusdt')
+def start_ticker(symbol: str):
+    twm = ThreadedWebsocketManager(api_key=API_KEY, api_secret=API_SECRET)
+    twm.start()
+    twm.start_symbol_ticker_socket(callback=handle_price_message, symbol=symbol.lower())
 ```
-
-_(Você pode começar ouvindo só um par, e depois abrir múltiplas conexões para vários pares.)_
 
 ---
 
-## 🧱 6. Definição e Criação das Primeiras Tabelas no Banco de Dados
+## 📊 5. Endpoints a Desenvolver (FastAPI)
 
-### Tabelas para o início:
+### 1. Monitoramento de Par de Moeda (GET)
 
-- **strategies**
-- **trades (operacoes)**
-- **symbols (pares de moedas)**
-- **price_history (para logar cotações se quiser fazer backtesting depois)**
+```http
+GET /monitorar-par/{symbol}
+```
 
-### Estrutura das Tabelas SQL – Criação Inicial
+- Inicia WebSocket para monitoramento de um par (ex: BTCUSDT)
 
-Primeiro, vamos começar baixando o [PostgreSQL](<https://www.enterprisedb.com/downloads/postgres-postgresql-downloads>) e configurando o banco.
+---
+
+### 2. Posicionar Compra (POST)
+
+```http
+POST /posicionar-compra
+```
+
+**Body JSON:**
+
+```json
+{
+  "cliente_id": 1,
+  "symbol": "BTCUSDT",
+  "preco_alvo": 62000.00,
+  "quantidade": 0.005
+}
+```
+
+- Armazena a intenção de compra em tabela intermediária
+- Não executa a compra ainda
+
+---
+
+### 3. Registrar Compra Executada (POST)
+
+```http
+POST /registrar-compra
+```
+
+**Body JSON:**
+
+```json
+{
+  "cliente_id": 1,
+  "symbol": "BTCUSDT",
+  "preco_executado": 62000.00,
+  "quantidade": 0.005
+}
+```
+
+- Executado pelo sistema quando o WebSocket identifica o preço alvo atingido
+
+---
+
+### 4. Registrar Venda Executada (POST)
+
+```http
+POST /registrar-venda
+```
+
+**Body JSON:**
+
+```json
+{
+  "cliente_id": 1,
+  "symbol": "BTCUSDT",
+  "preco_executado": 63500.00,
+  "quantidade": 0.005
+}
+```
+
+---
+
+## 🧩 6. Scripts SQL Iniciais
+
+Use PostgreSQL com o seguinte comando:
 
 ```sql
 CREATE DATABASE criptoren;
 ```
 
-Aqui estão os **scripts SQL iniciais**, já considerando o uso de **estratégias**, **operações (trades)**, **pares de moedas (símbolos)** e **histórico de cotações (opcional para *backtesting* ou análise futura)**.
+### Tabela `clients`
 
-#### 📌 Tabela: `symbols` (pares de moedas)
+```sql
+CREATE TABLE clients (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100),
+    api_token VARCHAR(100) UNIQUE NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+### Tabela `symbols`
 
 ```sql
 CREATE TABLE symbols (
-    id SERIAL PRIMARY KEY,
-    symbol VARCHAR(20) NOT NULL UNIQUE,
-    base_asset VARCHAR(20),
-    quote_asset VARCHAR(20),
-    is_active BOOLEAN DEFAULT TRUE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    id SERIAL PRIMARY KEY,
+    symbol VARCHAR(20) UNIQUE NOT NULL,
+    base_asset VARCHAR(20),
+    quote_asset VARCHAR(20),
+    is_active BOOLEAN DEFAULT TRUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
-#### 📌 Tabela: `strategies`
+### Tabela `positioned_orders`
 
 ```sql
-CREATE TABLE strategies (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    description TEXT,
-    capital_percentage DECIMAL(5,2) DEFAULT 0.00,
-    consider_profits BOOLEAN DEFAULT FALSE,
-    lower_limit DECIMAL(18,8),
-    upper_limit DECIMAL(18,8),
-    min_profit_percentage DECIMAL(8,4),
-    min_gain_to_buy_percentage DECIMAL(8,4),
-    max_fall_to_sell_percentage DECIMAL(8,4),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+CREATE TABLE positioned_orders (
+    id SERIAL PRIMARY KEY,
+    client_id INT NOT NULL REFERENCES clients(id),
+    symbol_id INT NOT NULL REFERENCES symbols(id),
+    target_price DECIMAL(18,8) NOT NULL,
+    quantity DECIMAL(18,8) NOT NULL,
+    type VARCHAR(10) CHECK (type IN ('buy', 'sell')) NOT NULL,
+    status VARCHAR(20) DEFAULT 'waiting',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
-#### 📌 Tabela: `trades` (operações)
+### Tabela `trades`
 
 ```sql
 CREATE TABLE trades (
-    id SERIAL PRIMARY KEY,
-    strategy_id INT NOT NULL,
-    symbol_id INT NOT NULL,
-    type VARCHAR(12) NOT NULL CHECK (type IN ('buy', 'sell', 'simulation')),
-    quantity DECIMAL(18,8) NOT NULL,
-    price DECIMAL(18,8) NOT NULL,
-    fee DECIMAL(18,8) DEFAULT 0.00000000,
-    trade_datetime TIMESTAMP NOT NULL,
-    status VARCHAR(20) DEFAULT 'open' CHECK (status IN ('open', 'planned_sell', 'closed')),
-    sell_target_price DECIMAL(18,8),
-    exit_reason VARCHAR(255),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (strategy_id) REFERENCES strategies(id),
-    FOREIGN KEY (symbol_id) REFERENCES symbols(id)
-);
-```
-
-#### 📌 Tabela: `price_history` (opcional para backtesting ou estatísticas)
-
-```sql
-CREATE TABLE price_history (
-    id BIGSERIAL PRIMARY KEY,
-    symbol_id INT NOT NULL,
-    price DECIMAL(18,8) NOT NULL,
-    event_time TIMESTAMP NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (symbol_id) REFERENCES symbols(id)
-);
-```
-
-
-#### 📌 Tabela: `api_failures` (controle de falhas de API ou WebSocket)
-
-```sql
-CREATE TABLE api_failures (
-    id SERIAL PRIMARY KEY,
-    service VARCHAR(50) NOT NULL,
-    error_message TEXT,
-    event_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    resolved BOOLEAN DEFAULT FALSE
+    id SERIAL PRIMARY KEY,
+    client_id INT NOT NULL REFERENCES clients(id),
+    symbol_id INT NOT NULL REFERENCES symbols(id),
+    type VARCHAR(10) CHECK (type IN ('buy', 'sell')) NOT NULL,
+    price DECIMAL(18,8) NOT NULL,
+    quantity DECIMAL(18,8) NOT NULL,
+    fee DECIMAL(18,8) DEFAULT 0.00000000,
+    executed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
 ---
 
-## 🔁 7. Rotina de Coleta de Preço Atual
+## ▶️ 7. Inicialização do Projeto
 
-- Criar uma função tipo:
+**`main.py`:**
 
 ```python
-def get_current_price(symbol):
-    ticker = client.get_symbol_ticker(symbol=symbol)
-    return float(ticker['price'])
+from fastapi import FastAPI
+from app.api import routes  # criar um __init__.py para importar rotas
+
+app = FastAPI()
+app.include_router(routes.router)
+
+@app.get("/")
+def read_root():
+    return {"status": "OK"}
+```
+
+Execute o servidor:
+
+```bash
+uvicorn main:app --reload
 ```
 
 ---
 
-## ✅ 8. Função de Registro Manual de Operação (Simulação ou Real)
-
-Criar um endpoint Flask/FastAPI como:
-
-```python
-@app.route('/register_trade', methods=['POST'])
-def register_trade():
-    data = request.json
-    # Salvar no banco: tipo, par, preço, quantidade, taxa, data/hora, status, etc.
-```
-
----
-
-## 📈 9. Primeira Página Web: Listagem das Operações Cadastradas
-
-- Fazer uma rota simples com Flask para listar as operações.
-- Exemplo: `/trades`
-
-_(Pode usar Jinja2 templates ou começar com um JSON puro se quiser trabalhar a UI depois com React/Vue)_
-
----
-
-## 🚩 10. Planejamento das Próximas Fases:
+## 📆 8. Planejamento das Próximas Fases
 
 |Fase|Tarefas|
 |---|---|
-|✅ Fase 1|Coleta de preços e registro manual de operações|
-|Próxima|Cadastro de estratégias|
-|Próxima|Programação de vendas futuras|
-|Próxima|Monitoramento automático de cotações|
-|Próxima|Implementação de WebSocket para cotação em tempo real|
-|Próxima|Dashboards e relatórios|
+|MVP|Endpoints básicos de monitoramento, compra, venda|
+|Fase 2|Monitoramento ativo por cliente|
+|Fase 3|Interface web com painel|
+|Fase 4|Estratégias automatizadas (ex: canais)|
+|Fase 5|Alertas e auditoria de operações|
 
+---
 
-<sup><sub>
-Renée Maksoud - junho de 2025
-</sub></sup>
+Se quiser, posso montar os **modelos Pydantic (`schemas.py`)** e o esqueleto de cada rota com base nas estruturas acima. Deseja seguir com isso agora?
