@@ -104,7 +104,9 @@ Campos sugeridos:
 - **Quantidade de operações que precisaram de venda programada por saída de canal**
 - **Tempo médio para recuperação de preço após saída de canal**
 
+---
+
 
 <sup><sub>
-Renée Maksoud - junho de 2025
+Criptoren - Renée Maksoud - julho de 2025
 </sub></sup>

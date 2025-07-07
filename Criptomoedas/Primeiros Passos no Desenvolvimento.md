@@ -247,4 +247,7 @@ uvicorn main:app --reload
 
 ---
 
-Se quiser, posso montar os **modelos Pydantic (`schemas.py`)** e o esqueleto de cada rota com base nas estruturas acima. Deseja seguir com isso agora?
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

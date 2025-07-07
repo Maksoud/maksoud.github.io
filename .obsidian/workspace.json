@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Estratégia Operação por Canal de Preço com Controle de Capital e Filtro de Valorização Desvalorização.md",
+                "file": "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estratégia Operação por Canal de Preço com Controle de Capital e Filtro de Valorização Desvalorização"
+              "title": "Backlog de Produto - Criptoren"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
+                "file": "Criptomoedas/Sumário da Documentação Técnica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto de Gestão de Criptomoedas"
+              "title": "Sumário da Documentação Técnica"
             }
           }
         ]
@@ -184,8 +184,20 @@
   },
   "active": "3b66a02343ddf380",
   "lastOpenFiles": [
-    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
+    "Criptomoedas/Documentação Técnica/Detalhamento Técnico - Estratégia Operacional.md",
+    "Criptomoedas/Documentação Técnica/Documentação técnica da arquitetura e funcionalidades do MVP.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Logs e Auditoria.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Painel e Visualização.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Testes Automatizados.md",
+    "Criptomoedas/Sumário da Documentação Técnica.md",
     "Criptomoedas/Relatórios Sistema de Monitoramento de Criptomoedas.md",
+    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
+    "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
+    "Criptomoedas/Estratégia Canal de Preço com Controle de Capital e Venda Programada com Lucro.md",
+    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
+    "Criptomoedas/Documentação Técnica",
     "Criptomoedas/Estratégia Operação por Canal de Preço com Controle de Capital e Filtro de Valorização Desvalorização.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/Plano de Estudos para Engenharia de Prompt.md",
@@ -200,16 +212,6 @@
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Análise de dados e BI com LLMs.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Geração de conteúdo (marketing, landing pages, email, SEO).md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Prompt como programação natural.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Estratégias de Prompt Engineering.md",
-    "Inteligência Artificial (IA)/Guia de Uso e Configuração de um Modelo PROMPT.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Boas práticas de escrita de prompts.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Tipos de prompts simples, compostos, estruturados.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt/Diferença entre prompt engineering, fine-tuning e embeddings.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt/Conhecendo os principais modelos.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt/Como Funcionam os Modelos de Linguagem (LLMs).md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/Cronograma de Estudos – Engenharia de Prompt.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/Recursos Recomendados - Engenharia de Prompt.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt/Limitações e potencial dos LLMs.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/8. Ética, Segurança e Governança",
     "Inteligência Artificial (IA)/Engenharia de Prompt/7. Especialização por Setor",
     "Inteligência Artificial (IA)/Engenharia de Prompt/6. Projetos Reais e Portfólio",
@@ -217,7 +219,6 @@
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais",
     "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt/O Transformer Ilustrado (Jay Alammar).md"
+    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt"
   ]
 }

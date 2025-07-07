@@ -141,8 +141,9 @@ Toda compra realizada será registrada com:
 - ✅ Relatórios destacam posições "em recuperação" aguardando venda
 - ✅ Transparência total das operações em aberto, encerradas e programadas
 
+---
 
 
 <sup><sub>
-Renée Maksoud - junho de 2025
+Criptoren - Renée Maksoud - julho de 2025
 </sub></sup>

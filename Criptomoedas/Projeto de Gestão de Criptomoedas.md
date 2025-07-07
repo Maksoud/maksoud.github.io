@@ -148,7 +148,9 @@ Essas funcionalidades têm o objetivo de:
 |**Unrealized P&L (Lucro/Prejuízo Não Realizado)**|Lucro ou perda "em aberto", calculado com base no preço atual, mas ainda não efetivado.|
 |**Taxa de Transação**|Valor cobrado pela corretora (ex.: Binance) em cada operação de compra ou venda, geralmente um percentual sobre o valor negociado.|
 
+---
+
 
 <sup><sub>
-Renée Maksoud - junho de 2025
+Criptoren - Renée Maksoud - julho de 2025
 </sub></sup>
