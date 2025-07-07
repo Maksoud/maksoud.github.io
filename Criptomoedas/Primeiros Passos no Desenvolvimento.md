@@ -244,3 +244,11 @@ uvicorn main:app --reload
 |Fase 3|Interface web com painel|
 |Fase 4|Estratégias automatizadas (ex: canais)|
 |Fase 5|Alertas e auditoria de operações|
+
+---
+
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>
+
