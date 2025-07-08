@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
+                "file": "Produtos Digitais/Como Falar com Clientes de Forma Clara e Eficiente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backlog de Produto - Criptoren"
+              "title": "Como Falar com Clientes de Forma Clara e Eficiente"
             }
           },
           {
@@ -182,8 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b66a02343ddf380",
+  "active": "7bcf0056e5589224",
   "lastOpenFiles": [
+    "get.bat",
+    "Produtos Digitais/Prospecção de Clientes.md",
+    "Produtos Digitais/SEO na Prática Como Aumentar as Visitas ao Seu Site.md",
+    "Produtos Digitais/Como Falar com Clientes de Forma Clara e Eficiente.md",
+    "Produtos Digitais/Criando Seu Negócio na Internet.md",
+    "Criptomoedas/Sumário da Documentação Técnica.md",
+    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
     "Criptomoedas/Documentação Técnica/Detalhamento Técnico - Estratégia Operacional.md",
     "Criptomoedas/Documentação Técnica/Documentação técnica da arquitetura e funcionalidades do MVP.md",
     "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
@@ -191,12 +198,10 @@
     "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Painel e Visualização.md",
     "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
     "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Testes Automatizados.md",
-    "Criptomoedas/Sumário da Documentação Técnica.md",
     "Criptomoedas/Relatórios Sistema de Monitoramento de Criptomoedas.md",
     "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
     "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
     "Criptomoedas/Estratégia Canal de Preço com Controle de Capital e Venda Programada com Lucro.md",
-    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
     "Criptomoedas/Documentação Técnica",
     "Criptomoedas/Estratégia Operação por Canal de Preço com Controle de Capital e Filtro de Valorização Desvalorização.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
@@ -207,11 +212,6 @@
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Automação com n8n, Zapier e Make.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Integração com sistemas legados, APIs e RPA.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/OpenAI API (ChatGPT, Assistants, GPTs).md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Atendimento ao cliente (FAQ, suporte técnico, triagem).md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Automação de processos com IA.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Análise de dados e BI com LLMs.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Geração de conteúdo (marketing, landing pages, email, SEO).md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes/Prompt como programação natural.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/8. Ética, Segurança e Governança",
     "Inteligência Artificial (IA)/Engenharia de Prompt/7. Especialização por Setor",
     "Inteligência Artificial (IA)/Engenharia de Prompt/6. Projetos Reais e Portfólio",
