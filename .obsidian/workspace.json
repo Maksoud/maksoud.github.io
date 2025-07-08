@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
+                "file": "Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primeiros Passos no Desenvolvimento"
+              "title": "Objetivos do Sistema"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Sumário da Documentação Técnica.md",
+                "file": "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário da Documentação Técnica"
+              "title": "Primeiros Passos no Desenvolvimento"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,26 +183,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b66a02343ddf380",
+  "active": "f041e2854e5e0bde",
   "lastOpenFiles": [
-    "Criptomoedas/Documentação Técnica/Documentação técnica da arquitetura e funcionalidades do MVP.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
-    "Criptomoedas/Sumário da Documentação Técnica.md",
-    "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
-    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
     "Criptomoedas/Estratégia Canal de Preço com Controle de Capital e Venda Programada com Lucro.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
-    "Criptomoedas/Documentação Técnica/Detalhamento Técnico - Estratégia Operacional.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Logs e Auditoria.md",
+    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
+    "Criptomoedas/Sumário da Documentação Técnica.md",
+    "Criptomoedas/Documentação Técnica/02 Configuração/Setup Inicial.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Arquitetura.md",
+    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
+    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Relatórios Sistema de Monitoramento de Criptomoedas.md",
+    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Requisitos Técnicos - Painel e Visualização.md",
+    "Criptomoedas/Documentação Técnica/07 Painel e Relatório",
+    "Criptomoedas/Documentação Técnica/06 Testes/Requisitos Técnicos - Logs e Auditoria.md",
+    "Criptomoedas/Documentação Técnica/03 Estratégia/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
+    "Criptomoedas/Documentação Técnica/03 Estratégia/Detalhamento Técnico - Estratégia Operacional.md",
+    "Criptomoedas/Documentação Técnica/06 Testes",
+    "Criptomoedas/Documentação Técnica/05 Gestão de Risco",
+    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico",
+    "Criptomoedas/Documentação Técnica/03 Estratégia",
+    "Criptomoedas/Documentação Técnica/02 Configuração",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral",
     "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
-    "Criptomoedas/Relatórios Sistema de Monitoramento de Criptomoedas.md",
     "Produtos Digitais/Como Falar com Clientes de Forma Clara e Eficiente.md",
     "get.bat",
     "Produtos Digitais/Prospecção de Clientes.md",
     "Produtos Digitais/SEO na Prática Como Aumentar as Visitas ao Seu Site.md",
     "Produtos Digitais/Criando Seu Negócio na Internet.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Painel e Visualização.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Testes Automatizados.md",
+    "Criptomoedas/Documentação Técnica/06 Testes/Requisitos Técnicos - Testes Automatizados.md",
     "Criptomoedas/Documentação Técnica",
     "Criptomoedas/Estratégia Operação por Canal de Preço com Controle de Capital e Filtro de Valorização Desvalorização.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
@@ -210,14 +220,6 @@
     "Gestão de Projetos/Diferenças entre Design Sprint, Kaizen e Design Thinking.md",
     "Criptomoedas",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/Automação com n8n, Zapier e Make.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Integração com sistemas legados, APIs e RPA.md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/OpenAI API (ChatGPT, Assistants, GPTs).md",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/8. Ética, Segurança e Governança",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/7. Especialização por Setor",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/6. Projetos Reais e Portfólio",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/5. Avaliação e Melhoria Contínua de Prompts",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes"
+    "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais/Integração com sistemas legados, APIs e RPA.md"
   ]
 }

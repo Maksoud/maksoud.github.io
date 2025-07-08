@@ -169,23 +169,7 @@ Com base na lógica documentada e na análise do código atual no arquivo `trade
 - Nunca realizar venda com prejuízo
 - Toda compra deve resultar em uma venda programada, mesmo em rompimento
 
-### ✅ Já Implementado
 
-- Monitoramento via WebSocket da Binance
-- Cálculo de valorização sobre o fundo para compra
-- Verificação de lucro mínimo e desvalorização relativa ao topo antes de vender
-- Registro de operações (compra e venda)
-- Persistência no banco PostgreSQL
-- Lógica geral no `trade_service.py` compatível com os princípios da estratégia
-
-### ❗ Faltando Desenvolver / Ajustar
-
-- Detecção clara de **rompimento do canal para baixo** e registro da posição como "fora do canal"
-- Programação de venda futura com lucro mínimo de 0,5% após rompimento
-- Registro de **motivo da venda** (ex: "Saída do canal")
-- Inclusão dos campos `data_saida_canal`, `data_venda_programada`, `preco_alvo_venda`, `margem_lucro_minimo` na modelagem de operações
-- Lógica para impedir que uma operação fique sem venda programada
-- Logging detalhado para operações em recuperação
 
 ### ✍️ Recomendação
 
