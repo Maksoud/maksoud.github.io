@@ -66,7 +66,7 @@ Define as tabelas principais:
 
 ### `schemas.py`
 
-Este módulo define os schemas utilizados pela API para validação e serialização de dados com Pydantic. Ele garante que as estruturas recebidas e retornadas pelas rotas sigam um formato padronizado e validado.
+Este módulo define os schemas utilizados pela API para validação e serialização de dados com **Pydantic**. Ele garante que as estruturas recebidas e retornadas pelas rotas sigam um formato padronizado e validado.
 
 **Principais schemas definidos:**
 
@@ -81,7 +81,7 @@ Este módulo define os schemas utilizados pela API para validação e serializa�
     - Campos: `id`, `mensagem`, `tipo`, `data`
 
 **Utilização:**  
-Esses schemas são usados como modelos de entrada e saída nas rotas FastAPI (`routes.py`), garantindo validação de dados automática e documentação automática com OpenAPI/Swagger.
+Esses schemas são usados como modelos de entrada e saída nas rotas **FastAPI** (`routes.py`), garantindo validação de dados automática e documentação automática com **OpenAPI/Swagger**.
 
 ### `create_tables.py`
 

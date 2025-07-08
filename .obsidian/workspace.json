@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Produtos Digitais/Como Falar com Clientes de Forma Clara e Eficiente.md",
+                "file": "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como Falar com Clientes de Forma Clara e Eficiente"
+              "title": "Primeiros Passos no Desenvolvimento"
             }
           },
           {
@@ -182,26 +182,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bcf0056e5589224",
+  "active": "3b66a02343ddf380",
   "lastOpenFiles": [
+    "Criptomoedas/Documentação Técnica/Documentação técnica da arquitetura e funcionalidades do MVP.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
+    "Criptomoedas/Sumário da Documentação Técnica.md",
+    "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
+    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
+    "Criptomoedas/Estratégia Canal de Preço com Controle de Capital e Venda Programada com Lucro.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
+    "Criptomoedas/Documentação Técnica/Detalhamento Técnico - Estratégia Operacional.md",
+    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Logs e Auditoria.md",
+    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
+    "Criptomoedas/Relatórios Sistema de Monitoramento de Criptomoedas.md",
+    "Produtos Digitais/Como Falar com Clientes de Forma Clara e Eficiente.md",
     "get.bat",
     "Produtos Digitais/Prospecção de Clientes.md",
     "Produtos Digitais/SEO na Prática Como Aumentar as Visitas ao Seu Site.md",
-    "Produtos Digitais/Como Falar com Clientes de Forma Clara e Eficiente.md",
     "Produtos Digitais/Criando Seu Negócio na Internet.md",
-    "Criptomoedas/Sumário da Documentação Técnica.md",
-    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
-    "Criptomoedas/Documentação Técnica/Detalhamento Técnico - Estratégia Operacional.md",
-    "Criptomoedas/Documentação Técnica/Documentação técnica da arquitetura e funcionalidades do MVP.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Logs e Auditoria.md",
     "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Painel e Visualização.md",
-    "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
     "Criptomoedas/Documentação Técnica/Requisitos Técnicos - Testes Automatizados.md",
-    "Criptomoedas/Relatórios Sistema de Monitoramento de Criptomoedas.md",
-    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
-    "Criptomoedas/Primeiros Passos no Desenvolvimento.md",
-    "Criptomoedas/Estratégia Canal de Preço com Controle de Capital e Venda Programada com Lucro.md",
     "Criptomoedas/Documentação Técnica",
     "Criptomoedas/Estratégia Operação por Canal de Preço com Controle de Capital e Filtro de Valorização Desvalorização.md",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração/LangChain, Semantic Kernel, LlamaIndex.md",
@@ -218,7 +218,6 @@
     "Inteligência Artificial (IA)/Engenharia de Prompt/5. Avaliação e Melhoria Contínua de Prompts",
     "Inteligência Artificial (IA)/Engenharia de Prompt/4. Ferramentas e Plataformas de Integração",
     "Inteligência Artificial (IA)/Engenharia de Prompt/3. Casos de Uso Empresariais",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes",
-    "Inteligência Artificial (IA)/Engenharia de Prompt/1. Fundamentos da Engenharia de Prompt"
+    "Inteligência Artificial (IA)/Engenharia de Prompt/2. Design de Prompts Eficientes"
   ]
 }
