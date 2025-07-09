@@ -8,6 +8,7 @@ Um sistema de negociação automatizada de criptomoedas com estratégia baseada 
 ├── /Documentação Técnica
 │   ├── /01 Visão Geral
 │   │   ├── Arquitetura.md
+│   │   ├── Primeiros Passos no Desenvolvimento.md
 │   │   └── Objetivos do Sistema.md
 │   └── /02 Configuração
 │   │   ├── Pré-requisitos.md
@@ -26,77 +27,63 @@ Um sistema de negociação automatizada de criptomoedas com estratégia baseada 
 │   │   ├── Testes Unitários.md
 │   │   └── Simulação de Mercado.md
 │   └── /07 Painel e Relatório
-│   │   ├── Performance_por_Estrategia.md
-│   │   ├── Operacoes_Individuais.md
-│   │   ├── Posicoes_Abertas.md
+│   │   ├── Performance por Estratégia.md
+│   │   ├── Operações Individuais.md
+│   │   ├── Posições Abertas.md
 │   │   ├── KPIs.md
-│   │   ├── Posicoes_Fora_Canal.md
-│   │   ├── Comparativo_Estrategias.md
-│   │   ├── Evolucao_Temporal.md
-│   │   ├── Impacto_Taxas.md
-│   │   ├── Lucro_Par_Moedas.md
-│   │   └── Riscos_Exposicoes.md
+│   │   ├── Posições Fora Canal.md
+│   │   ├── Comparativo Estratégias.md
+│   │   ├── Evolução Temporal.md
+│   │   ├── Impacto Taxas.md
+│   │   ├── Lucro Par Moedas.md
+│   │   └── Riscos Exposições.md
 ```
-#### **1. Visão Geral**
 
-- 1.1. [Objetivo do Sistema](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Objetivos%20do%20Sistema) → 
-    _Estratégia de canal de preço com controle de capital na Binance._
-    
-- 1.2. [Arquitetura](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Arquitetura) → 
-    _Diagrama de componentes (FastAPI, PostgreSQL, Binance API)._
+#### 1. **Visão Geral**
 
-#### **2. Configuração do Ambiente**
+- [Objetivos do Sistema](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Objetivos%2520do%2520Sistema)
+- [Arquitetura](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Arquitetura)
+- [Primeiros Passos no Desenvolvimento](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Primeiros%2520Passos%2520no%2520Desenvolvimento)
 
-- 2.1. Pré-requisitos → 
-    *Python 3.10+, Docker, Binance API Keys.*
-    
-- 2.2. Setup Inicial → 
-- docs/02_configuracao/setup.md`]  
-    _Passo a passo para `docker-compose up` e instalação de dependências._
+#### 2. **Configuração**
 
-#### **3. Estratégia de Negócio**
+- [Pré-requisitos](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/02%20Configura%C3%A7%C3%A3o/Pr%C3%A9-requisitos.md)
+- [Setup Inicial](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/02%20Configura%C3%A7%C3%A3o/Setup%2520Inicial)
 
-- 3.1. Regras do Canal de Preço → 
-    _Parâmetros (base, teto, % alvo) e exemplos matemáticos._
-    
-- 3.2. Fluxo Operacional → 
-    _Diagrama de sequência (compra → monitoramento → venda)._
+#### 3. **Estratégia**
 
-#### **4. Desenvolvimento Técnico**
+- [Regras do Canal de Preços](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/03%2520Estrat%C3%A9gia/Regras%2520do%2520Canal%2520de%2520Pre%C3%A7os)
+- [Fluxo Operacional](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/03%2520Estrat%C3%A9gia/Fluxo%2520Operacional)
 
-- 4.1. API Reference → 
-    _Endpoints FastAPI (métodos, schemas, exemplos)._
-    
-- 4.2. Modelagem de Dados → 
-    _DER PostgreSQL e relação com classes Python._
-    
-- 4.3. Integração Binance → 
-    _WebSocket, tratamento de erros, rate limits._
+#### 4. **Desenvolvimento Técnico**
 
-#### **5. Gestão de Risco**
+- [API Reference](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/04%2520Desenvolvimento%2520T%C3%A9cnico/API%2520Reference)
+- [Modelagem de Dados](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/04%2520Desenvolvimento%2520T%C3%A9cnico/Modelagem%2520de%2520Dados)
+- [Integração Binance](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/04%2520Desenvolvimento%2520T%C3%A9cnico/Integra%C3%A7%C3%A3o%2520Binance)
 
-- 5.1. Controle de Capital → 
-    _Cálculo de 20% da banca e segregação de lucros._
-    
-- 5.2. Failover Strategies → 
-    _O que fazer se a Binance API falhar?_
+#### 5. **Gestão de Risco**
 
-#### **6. Testes**
+- [Controle de Capital](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/05%2520Gest%C3%A3o%2520de%2520Risco/Controle%2520de%2520Capital)
+- [Failover Strategies](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/05%2520Gest%C3%A3o%2520de%2520Risco/Failover%2520Strategies)
 
-- 6.1. Testes Unitários → 
-    _Exemplo: `pytest tests/test_channel_strategy.py`._
-    
-- 6.2. Simulação de Mercado → 
-    _Backtesting com dados históricos._
+#### 6. **Testes**
 
-#### **7. Relatórios**
+- [Testes Unitários](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/06%2520Testes/Testes%2520Unit%C3%A1rios)
+- [Simulação de Mercado](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/06%2520Testes/Simula%C3%A7%C3%A3o%2520de%2520Mercado)
 
-- 7.1. Deploy Local → 
-    _Configuração de `docker-compose.prod.yml`._
-    
-- 7.2. Cloud (AWS/Heroku) → 
-    _CI/CD com GitHub Actions._
+#### 7. **Painel e Relatório**
 
+- [Performance por Estratégia](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/Performance%20por%20Estrategia)
+- [Operações Individuais](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/Operacoes%20Individuais)
+- [Posições Abertas](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/Posicoes%20Abertas)
+- [KPIs Estratégicos](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/KPIs)
+
+---
+
+### 🌐 **Links de Referência**
+
+- [Repositório GitHub](https://github.com/maksoud/Criptomoedas)
+- [Documentação Online](https://maksoud.github.io/Criptomoedas/)
 
 ---
 
