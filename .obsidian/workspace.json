@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Lucro Par Moedas.md",
+                "file": "Criptomoedas/Prompts/Prompt Inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucro Par Moedas"
+              "title": "Prompt Inicial"
             }
           }
         ],
@@ -185,6 +185,9 @@
   },
   "active": "f041e2854e5e0bde",
   "lastOpenFiles": [
+    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Lucro Par Moedas.md",
+    "Criptomoedas/Prompts/Prompt Inicial.md",
+    "Criptomoedas/Prompts",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Impacto Taxas.md",
     "Criptomoedas/Sumário da Documentação Técnica.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Evolução Temporal.md",
@@ -193,7 +196,6 @@
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Posições Abertas.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Performance por Estratégia.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Operações Individuais.md",
-    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Lucro Par Moedas.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Comparativo Estratégias.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/KPIs.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Riscos Exposições.md",
@@ -212,7 +214,6 @@
     "Criptomoedas/Documentação Técnica/03 Estratégia/Fluxo Operacional.md",
     "Criptomoedas/Documentação Técnica/03 Estratégia/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
     "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
-    "Criptomoedas/Projeto de Gestão de Criptomoedas.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório",
     "Criptomoedas/Documentação Técnica/06 Testes",
     "Criptomoedas/Documentação Técnica/05 Gestão de Risco",
@@ -221,7 +222,6 @@
     "Criptomoedas/Documentação Técnica/02 Configuração",
     "Criptomoedas/Documentação Técnica/01 Visão Geral",
     "get.bat",
-    "Criptomoedas/Documentação Técnica",
-    "Criptomoedas"
+    "Criptomoedas/Documentação Técnica"
   ]
 }
