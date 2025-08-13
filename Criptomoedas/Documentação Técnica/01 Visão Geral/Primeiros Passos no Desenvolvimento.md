@@ -1,354 +1,485 @@
-# ✅ Primeiros Passos no Desenvolvimento – FastAPI + WebSocket Binance
+# Primeiros Passos no Desenvolvimento
+Atualizado em 13/08/2025
 
----
-
-## 🛠️ 1. Estruturação do Ambiente
-
-#### **🐍 Python & Bibliotecas Principais**
-
-|Pacote|Versão|Finalidade|
-|---|---|---|
-|`Python`|3.10+|Versão estável com suporte a async/await|
-|`FastAPI`|0.95+|Framework para APIs (rápido e assíncrono)|
-|`uvicorn`|0.22+|ASGI server para rodar o FastAPI|
-|`python-binance`|1.0+|Integração com API Binance (REST/WebSocket)|
-|`asyncpg`|0.27+|Driver assíncrono para PostgreSQL|
-|`SQLAlchemy`|2.0+|ORM (opcional, para modelos de dados)|
-|`pydantic`|2.0+|Validação de dados (obrigatório no FastAPI)|
-|`apscheduler`|3.9+|Agendamento de tarefas (vendas programadas)|
-|`python-dotenv`|1.0+|Gerenciamento de variáveis de ambiente|
-|`httpx`|0.24+|Cliente HTTP assíncrono (para APIs externas)|
-|`pytest`|7.3+|Testes unitários/integração|
-|`pytest-asyncio`|0.21+|Suporte a testes assíncronos|
-
-#### **🗃️ Banco de Dados**
-
-|Componente|Versão|Detalhes|
-|---|---|---|
-|`PostgreSQL`|15+|Banco principal (suporte a JSONB e consultas complexas)|
-|`pgAdmin`|7.0+|Interface gráfica (opcional)|
-|`Alembic`|1.11+|Migrações de banco (se usar SQLAlchemy)|
-
-#### **🛠️ Ferramentas Adicionais**
-
-|Ferramenta|Finalidade|
-|---|---|
-|`Docker`|Containerização (PostgreSQL + App)|
-|`Docker Compose`|Orquestração de containers|
-|`Poetry`|Gerenciamento de dependências (ou `pipenv`)|
-|`Git`|Controle de versão|
-|`Redis`|Cache (opcional para tarefas assíncronas)|
-
-#### **📋 Arquivo `requirements.txt`**
+### **📋 Arquivo `requirements.txt`**
 
 
 ```text
-fastapi==0.95.2
-uvicorn==0.22.0
-python-binance==1.0.19
-asyncpg==0.27.0
-sqlalchemy==2.0.15
-pydantic==2.1.1
-apscheduler==3.9.1
-python-dotenv==1.0.0
-httpx==0.24.1
-pytest==7.3.1
-pytest-asyncio==0.21.0
-alembic==1.11.1
+binance-connector==3.6.0
+websockets==12.0
+pydantic==2.8.2
+pydantic-settings==2.3.4
+sqlalchemy==2.0.32
+alembic==1.13.2
+psycopg[binary]==3.2.1
+pandas==2.2.2
+typer==0.12.3
+structlog==24.1.0
+python-dotenv==1.0.1
+tenacity==9.0.0
+APScheduler==3.10.4
+cryptography==43.0.0
+uvloop==0.20.0 ; platform_system != "Windows"
+pytest==8.3.2
 ```
 
 ---
 
-## 🧱 2. Estrutura Inicial do Projeto
+### Estrutura Inicial do Projeto
+
+```shell
+binance-bot/
+├─ README.md
+├─ pyproject.toml
+├─ requirements.txt
+├─ .env.example
+├─ .gitignore
+├─ src/
+│  ├─ bot/
+│  │  ├─ __init__.py
+│  │  ├─ config.py                 # Pydantic settings (env/.env)
+│  │  ├─ logging.py                # structlog + JSON logging
+│  │  ├─ db/
+│  │  │  ├─ __init__.py
+│  │  │  ├─ base.py                # engine + session factory
+│  │  │  ├─ models.py              # ORM models
+│  │  │  └─ repositories.py        # consultas/escritas
+│  │  ├─ security/
+│  │  │  ├─ __init__.py
+│  │  │  └─ secrets.py             # criptografia de chaves API (Fernet)
+│  │  ├─ binance/
+│  │  │  ├─ __init__.py
+│  │  │  ├─ client.py              # criação de clientes (Spot/Futures) por conta
+│  │  │  ├─ market_data.py         # candles/ordem/livro via REST/WebSocket
+│  │  │  └─ execution.py           # execução de ordens (live/paper)
+│  │  ├─ strategies/
+│  │  │  ├─ __init__.py
+│  │  │  ├─ base.py                # ABC Strategy + config pydantic
+│  │  │  ├─ registry.py            # registro/descoberta de estratégias
+│  │  │  ├─ mean_reversion.py      # exemplo 1
+│  │  │  └─ breakout.py            # exemplo 2
+│  │  ├─ runtime/
+│  │  │  ├─ scheduler.py           # agenda de jobs (APScheduler/asyncio)
+│  │  │  ├─ orchestrator.py        # orquestra múltiplas estratégias/contas
+│  │  │  └─ paper_trade.py         # simulador de fills/fees para demo
+│  │  ├─ reporting/
+│  │  │  ├─ __init__.py
+│  │  │  └─ metrics.py             # KPIs base (P&L bruto, fees, hit-rate)
+│  │  └─ cli.py                    # Typer CLI
+│  └─ alembic/
+│     ├─ env.py
+│     ├─ script.py.mako
+│     └─ versions/
+│        └─ 2025_01_init.py        # migração inicial
+└─ tests/
+   ├─ conftest.py
+   ├─ test_strategy_flow.py
+   └─ test_paper_trade.py
+```
+
+---
+
+### Bibliotecas e aplicação (com exemplos)
+
+### 1) `binance-connector`
+
+- **Uso**: acesso REST/WebSocket; múltiplas credenciais; Spot/Futures.
+- **Exemplo (criar cliente por conta)**:
+
+```python
+# src/bot/binance/client.py
+from binance.spot import Spot
+from pydantic import BaseModel
+
+class ApiCreds(BaseModel):
+    key: str
+    secret: str
+
+def build_spot(creds: ApiCreds, testnet: bool=False) -> Spot:
+    base_url = "https://testnet.binance.vision" if testnet else None
+    return Spot(api_key=creds.key, api_secret=creds.secret, base_url=base_url)
+```
+### 2) `websockets` (quando precisar de raw WS ou streams custom)
+
+- **Uso**: consumo de trades/candles em baixa latência (ou via WS do `binance-connector`).
+- **Exemplo (esqueleto de listener)**:
+
+```python
+# src/bot/binance/market_data.py
+import asyncio, json, websockets
+
+async def kline_stream(symbol: str, interval: str):
+    url = f"wss://stream.binance.com:9443/ws/{symbol.lower()}@kline_{interval}"
+    async with websockets.connect(url) as ws:
+        async for msg in ws:
+            data = json.loads(msg)
+            yield data["k"]
+```
+### 3) `pydantic` + `pydantic-settings`
+
+- **Uso**: tipagem/validação de configs e estratégias.
+- **Exemplo (Settings e StrategyConfig)**:
+
+```python
+# src/bot/config.py
+from pydantic_settings import BaseSettings
+
+class Settings(BaseSettings):
+    DB_URL: str
+    ENCRYPTION_KEY: str  # chave Fernet base64
+    LOG_LEVEL: str = "INFO"
+    class Config: env_file = ".env"
+
+# src/bot/strategies/base.py
+from pydantic import BaseModel, Field
+
+class StrategyConfig(BaseModel):
+    symbol: str
+    candle: str = Field(pattern=r"^\d+[smhd]$")
+    min_price: float
+    max_price: float
+    order_value: float
+    min_profit: float
+    fee_pct: float
+    demo_mode: bool = True
+```
+
+### 4) `SQLAlchemy` + `Alembic` + `psycopg`
+
+- **Uso**: persistência (contas, estratégias, execuções, ordens simuladas/reais).
+- **Exemplo (engine/modelos)**:
+
+
+```python
+# src/bot/db/base.py
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker, DeclarativeBase
+from bot.config import Settings
+
+settings = Settings()
+engine = create_engine(settings.DB_URL, pool_pre_ping=True)
+SessionLocal = sessionmaker(bind=engine, expire_on_commit=False)
+
+class Base(DeclarativeBase): pass
+```
+
+```python
+# src/bot/db/models.py
+from sqlalchemy import String, Integer, Float, Boolean, ForeignKey, JSON, Enum
+from sqlalchemy.orm import mapped_column, Mapped, relationship
+from bot.db.base import Base
+import enum
+
+class Market(enum.Enum): spot="spot"; futures="futures"
+
+class Account(Base):
+    __tablename__ = "accounts"
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    name: Mapped[str] = mapped_column(String, unique=True)
+    api_key_enc: Mapped[str] = mapped_column(String)
+    api_secret_enc: Mapped[str] = mapped_column(String)
+    testnet: Mapped[bool] = mapped_column(Boolean, default=False)
+
+class Strategy(Base):
+    __tablename__ = "strategies"
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    name: Mapped[str] = mapped_column(String)
+    account_id: Mapped[int] = mapped_column(ForeignKey("accounts.id"))
+    market: Mapped[Market]
+    config: Mapped[dict] = mapped_column(JSON)  # StrategyConfig
+    enabled: Mapped[bool] = mapped_column(Boolean, default=True)
+```
+### 5) `cryptography`
+
+- **Uso**: criptografar API keys no banco.
+- **Exemplo**:
+
+```python
+# src/bot/security/secrets.py
+from cryptography.fernet import Fernet
+
+class SecretBox:
+    def __init__(self, key_b64: str):
+        self.fernet = Fernet(key_b64)
+    def enc(self, s: str) -> str:
+        return self.fernet.encrypt(s.encode()).decode()
+    def dec(self, s: str) -> str:
+        return self.fernet.decrypt(s.encode()).decode()
+```
+### 6) `structlog`
+
+- **Uso**: logging estruturado (facilita auditoria/reporting).
+
+```python
+# src/bot/logging.py
+import structlog, logging, sys
+def setup_logging(level: str="INFO"):
+    logging.basicConfig(stream=sys.stdout, level=level)
+    structlog.configure(processors=[structlog.processors.JSONRenderer()])
+    return structlog.get_logger()
+```
+### 7) `APScheduler` (ou `asyncio`)
+
+- **Uso**: agendamento de execução/checagens de estratégias.
+
+```python
+# src/bot/runtime/scheduler.py
+from apscheduler.schedulers.asyncio import AsyncIOScheduler
+
+def build_scheduler():
+    sch = AsyncIOScheduler()
+    sch.start()
+    return sch
+```
+### 8) `tenacity`
+
+- **Uso**: retries em chamadas de rede/ordens.
+
+```python
+from tenacity import retry, wait_exponential, stop_after_attempt
+
+@retry(wait=wait_exponential(min=1, max=30), stop=stop_after_attempt(5))
+def place_order(client, **kwargs):
+    return client.new_order(**kwargs)
+```
+### 9) `pandas`
+
+- **Uso**: manipulação de candles e métricas de performance (para relatórios futuros).
+
+### 10) `typer`
+
+- **Uso**: CLI operacional.
+
+```python
+# src/bot/cli.py
+import typer
+from bot.runtime.orchestrator import run_all
+
+app = typer.Typer()
+
+@app.command()
+def start():
+    """Inicia orquestração de estratégias habilitadas."""
+    run_all()
+
+if __name__ == "__main__":
+    app()
+```
+---
+
+### Execução: modo live vs. demonstrativo
+
+- **Live**: `execution.py` envia ordens reais via `Spot.new_order(...)`.
+- **Demo**: `paper_trade.py` calcula fills simulados com base no candle/last trade, aplica `fee_pct`, grava em `orders` e `trades` sem chamar a API.
+
+Exemplo de “execution service” com comutação por `demo_mode`:
+
+```python
+# src/bot/binance/execution.py
+from bot.runtime.paper_trade import paper_order
+
+def execute_order(ctx, side: str, qty: float, price: float|None):
+    if ctx.config.demo_mode:
+        return paper_order(ctx, side, qty, price)
+    return ctx.client.new_order(symbol=ctx.config.symbol, side=side,
+                                type="MARKET" if price is None else "LIMIT",
+                                quantity=qty, price=price, timeInForce="GTC")
+```
+---
+
+### Estratégias (interface e exemplo)
+
+```python
+# src/bot/strategies/base.py
+from abc import ABC, abstractmethod
+from bot.strategies.base import StrategyConfig
+
+class Strategy(ABC):
+    name: str
+    def __init__(self, config: StrategyConfig, services):
+        self.config = config
+        self.services = services  # market_data, execution, repo, logger
+
+    @abstractmethod
+    async def on_tick(self, kline: dict): ...
+```
+```python
+# src/bot/strategies/mean_reversion.py
+from .base import Strategy
+import statistics as stats
+
+class MeanReversion(Strategy):
+    name = "mean_reversion"
+    window = 20
+    def __init__(self, config, services):
+        super().__init__(config, services)
+        self.closes = []
+
+    async def on_tick(self, k):
+        if not k["x"]:  # candle fechado
+            return
+        close = float(k["c"]); self.closes.append(close)
+        if len(self.closes) < self.window: return
+        ma = sum(self.closes[-self.window:]) / self.window
+        if close < self.config.min_price or close > self.config.max_price: return
+        if close < ma*(1-0.005):
+            qty = self.services.calc_qty(self.config.order_value, close)
+            await self.services.buy(qty)  # delega a execução (live/paper)
+```
+> Estratégias podem ser **compartilhadas** via `registry.py`, recebendo apenas `StrategyConfig` parametrizada por cliente/conta.
+
+---
+
+## Modo demonstrativo (paper-trade)
+
+- Simula execução com:
+    - Preço de fill: midpoint/último trade do candle.
+    - Slippage configurável (opcional).
+    - Taxa operacional `fee_pct` aplicada no registro.
+    - Persistência de ordens/trades em tabelas próprias.
+
+```python
+# src/bot/runtime/paper_trade.py
+from datetime import datetime, timezone
+
+def paper_order(ctx, side, qty, price):
+    fill_price = price or ctx.services.last_price()
+    fee = fill_price * qty * ctx.config.fee_pct
+    ctx.repo.save_order(side=side, qty=qty, price=fill_price,
+                        fee=fee, demo=True, ts=datetime.now(timezone.utc))
+    return {"status":"FILLED","price":fill_price,"qty":qty,"fee":fee}
+```
+---
+
+### Banco de dados — migração inicial (Alembic)
+
+Estruturas mínimas:
+
+- `accounts(id, name, api_key_enc, api_secret_enc, testnet)`
+- `strategies(id, name, account_id, market, config, enabled)`
+- `orders(id, strategy_id, side, qty, price, fee, demo, ts)`
+- `trades(id, order_id, pnl, ts_close)` (futuro)
+- Índices: por `strategy_id`, `ts`, `demo`.
+
+O arquivo `alembic/versions/2025_01_init.py` deve criar essas tabelas e índices.
+
+---
+
+### Instruções de setup (detalhadas)
+
+### 1) Pré‑requisitos
+
+- Python 3.12+
+- PostgreSQL 14+ em execução e com um database criado (ex.: `binance_bot`)
+
+### 2) Clonar e instalar
 
 ```bash
-├── /app
-│   ├── /core
-│   │   ├── config.py              # Configurações do canal (limites, % alvo)
-│   │   ├── security.py            # Autenticação (opcional para MVP)
-│   │   └── database.py            # Modelos PostgreSQL (Position, Strategy)
-│   │
-│   ├── /binance
-│   │   ├── client.py              # Cliente Binance (WebSocket + REST)
-│   │   ├── price_monitor.py       # Monitoramento em tempo real (H4)
-│   │   └── trade_executor.py      # Execução de ordens (compra/venda)
-│   │
-│   ├── /strategies                # Lógica da estratégia de canal
-│   │   ├── channel_strategy.py    # Regras de entrada/saída (ex: +2% base)
-│   │   ├── capital_control.py     # Gestão do capital (20% da banca)
-│   │   └── profit_handler.py      # Segregação de lucros (não reinveste)
-│   │
-│   ├── /models                    # Modelos de dados
-│   │   ├── position.py            # Posições (status, preço, taxas)
-│   │   └── strategy.py            # Config da estratégia (teto, base, %)
-│   │
-│   ├── main.py                    # Rotas FastAPI (ex: /strategies/{id}/status)
-│   └── schemas.py                 # Validação com Pydantic (ex: OrderSchema)
-│
-├── /tests
-│   ├── test_channel_strategy.py   # Testes das regras de canal
-│   └── test_binance_integration.py
-│
-├── /scripts
-│   └── init_db.py                 # Carga inicial de estratégias (ex: Canal H4)
-│
-└── requirements.txt
+git clone <seu-fork-ou-repo> binance-bot
+cd binance-bot
+
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
+### 3) Configuração de ambiente
 
----
+Crie `.env` a partir de `.env.example`:
 
-## 📊 3. Endpoints a Desenvolver (FastAPI)
-
-#### **📌 Módulo: Configuração da Estratégia**
-
-|Endpoint|Método|Descrição|Parâmetros (Request Body)|
-|---|---|---|---|
-|`/strategies/`|`POST`|Cria uma nova estratégia de canal|`{ "symbol": "BTCUSDT", "base_price": 100.489, "top_price": 110.626, "capital_percentage": 20, ... }`|
-|`/strategies/{id}`|`GET`|Retorna detalhes de uma estratégia|-|
-|`/strategies/{id}/activate`|`PATCH`|Ativa/desativa uma estratégia|`{ "is_active": true }`|
-|`/strategies/client/{client_id}`|`GET`|Lista todas as estratégias de um cliente|-|
-
-#### **📈 Módulo: Monitoramento de Preços**
-
-|Endpoint|Método|Descrição|Parâmetros|
-|---|---|---|---|
-|`/prices/{symbol}/history`|`GET`|Retorna histórico de preços (H4)|`?limit=100`|
-|`/prices/{symbol}/current`|`GET`|Preço atual do símbolo|-|
-|`/prices/ws`|`WebSocket`|Stream em tempo real (WebSocket)|-|
-
-#### **💰 Módulo: Gestão de Ordens**
-
-|Endpoint|Método|Descrição|Parâmetros (Request Body)|
-|---|---|---|---|
-|`/orders/buy`|`POST`|Executa ordem de compra|`{ "strategy_id": 1, "quantity": 0.5 }`|
-|`/orders/sell`|`POST`|Executa ordem de venda|`{ "position_id": 123, "is_scheduled": false }`|
-|`/orders/scheduled`|`GET`|Lista vendas programadas|-|
-|`/orders/{id}/cancel`|`DELETE`|Cancela uma ordem programada|-|
-
-#### **🗂️ Módulo: Posições e Capital**
-
-|Endpoint|Método|Descrição|Parâmetros|
-|---|---|---|---|
-|`/positions/`|`GET`|Lista todas as posições|`?status=open`|
-|`/positions/{id}`|`GET`|Detalhes de uma posição|-|
-|`/positions/{id}/schedule-sell`|`POST`|Agenda venda com lucro mínimo|`{ "min_profit": 0.5 }`|
-|`/capital/balance`|`GET`|Saldo total (capital + lucros)|`?client_id=1`|
-
-#### **📊 Módulo: Relatórios**
-
-|Endpoint|Método|Descrição|Parâmetros|
-|---|---|---|---|
-|`/reports/profit`|`GET`|Lucro acumulado por estratégia|`?strategy_id=1`|
-|`/reports/positions`|`GET`|Resumo de posições (abertas/fechadas)|`?days=30`|
-|`/reports/trades`|`GET`|Histórico completo de trades|`?symbol=BTCUSDT`|
-
-#### **🔐 Módulo: Autenticação (Opcional para MVP)**
-
-|Endpoint|Método|Descrição|Parâmetros|
-|---|---|---|---|
-|`/auth/login`|`POST`|Gera token JWT|`{ "api_key": "xxx", "api_secret": "yyy" }`|
-|`/auth/refresh`|`POST`|Renova token|`{ "refresh_token": "zzz" }`|
-
-#### **🔧 Configuração Mínima do Ambiente**
-
-1. **Instalação do PostgreSQL**:
-```bash    
-sudo apt-get install postgresql postgresql-contrib
-sudo -u postgres psql -c "CREATE DATABASE criptoren;"
+```ini
+DB_URL=postgresql+psycopg://user:password@localhost:5432/binance_bot
+ENCRYPTION_KEY=<chave_fernet_base64>  # gerar: python -c "from cryptography.fernet import Fernet;print(Fernet.generate_key().decode())"
+LOG_LEVEL=INFO
 ```
+### 4) Inicializar banco e migrações
 
-2. **Setup do Python** (usando **Poetry**):
 ```bash
-poetry init
-poetry add fastapi uvicorn python-binance
+alembic upgrade head
 ```
+### 5) Registrar contas (criptografadas)
 
-3. **Variáveis de Ambiente (`.env`)**:
-```env
-    DATABASE_URL=postgresql+asyncpg://user:password@localhost:5432/criptoren
-    BINANCE_API_KEY=xxx
-    BINANCE_API_SECRET=yyy
+- Use um script/CLI para salvar `api_key`/`api_secret` com `SecretBox.enc(...)` nas colunas `api_key_enc`/`api_secret_enc`.
+- Exemplo CLI (pseudo):
+
+```bash
+python -m src.bot.cli add-account --name minha_conta --api-key xxx --api-secret yyy --testnet true
 ```
+### 6) Criar/ativar estratégias
+
+- Inserir registro em `strategies` com `config` (JSON conforme `StrategyConfig`), vinculado à `account_id`.
+- Exemplo de `config`:
+
+```json
+{
+  "symbol": "BTCUSDT",
+  "candle": "1m",
+  "min_price": 50000.0,
+  "max_price": 75000.0,
+  "order_value": 50.0,
+  "min_profit": 0.002,
+  "fee_pct": 0.0005,
+  "demo_mode": true
+}
+```
+### 7) Iniciar o orquestrador
+
+```bash
+python -m src.bot.cli start
+```
+- O **orquestrador**:
+    - Carrega `strategies.enabled = true`.
+    - Para cada estratégia, cria contexto com cliente Binance da **conta** correspondente.
+    - Conecta no stream de `kline` do `symbol`/`candle`.
+    - Encaminha candles para `strategy.on_tick`.
+    - Executa ordens via `execution` (live/paper conforme `demo_mode`).
+    - Persiste ordens e métricas.
 
 ---
 
-## 🧩 6. Scripts SQL Iniciais
+## Boas práticas e separação de componentes (critérios de aceite)
 
-```sql
--- Criação do banco
-CREATE DATABASE criptoren;
-\c criptoren;
-
--- Extensão para UUID (opcional)
-CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
-
--- Tabela clients
-CREATE TABLE clients (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    api_key VARCHAR(100) UNIQUE,
-    api_secret VARCHAR(100),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Tabela symbols
-CREATE TABLE symbols (
-    id SERIAL PRIMARY KEY,
-    symbol VARCHAR(20) UNIQUE NOT NULL,
-    base_asset VARCHAR(20) NOT NULL,
-    quote_asset VARCHAR(20) NOT NULL,
-    is_active BOOLEAN DEFAULT TRUE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Tabela strategies (núcleo da estratégia)
-CREATE TABLE strategies (
-    id SERIAL PRIMARY KEY,
-    client_id INTEGER NOT NULL REFERENCES clients(id) ON DELETE CASCADE,
-    symbol_id INTEGER NOT NULL REFERENCES symbols(id) ON DELETE CASCADE,
-    name VARCHAR(100) NOT NULL,
-    base_price DECIMAL(18, 8) NOT NULL,
-    top_price DECIMAL(18, 8) NOT NULL,
-    capital_percentage DECIMAL(5, 2) NOT NULL CHECK (capital_percentage > 0 AND capital_percentage <= 100),
-    buy_threshold DECIMAL(5, 2) NOT NULL,
-    sell_threshold DECIMAL(5, 2) NOT NULL,
-    min_profit DECIMAL(5, 2) NOT NULL,
-    is_active BOOLEAN DEFAULT TRUE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Tabela positions (gestão de posições)
-CREATE TABLE positions (
-    id SERIAL PRIMARY KEY,
-    strategy_id INTEGER NOT NULL REFERENCES strategies(id) ON DELETE CASCADE,
-    symbol_id INTEGER NOT NULL REFERENCES symbols(id) ON DELETE CASCADE,
-    entry_price DECIMAL(18, 8) NOT NULL,
-    quantity DECIMAL(18, 8) NOT NULL,
-    fees DECIMAL(18, 8) DEFAULT 0,
-    status VARCHAR(20) NOT NULL CHECK (status IN ('open', 'scheduled', 'closed')),
-    exit_price DECIMAL(18, 8),
-    scheduled_exit_price DECIMAL(18, 8),
-    channel_exit_date TIMESTAMP,
-    closed_at TIMESTAMP,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Tabela trades (histórico de execuções)
-CREATE TABLE trades (
-    id SERIAL PRIMARY KEY,
-    position_id INTEGER REFERENCES positions(id) ON DELETE SET NULL,
-    client_id INTEGER NOT NULL REFERENCES clients(id) ON DELETE CASCADE,
-    symbol_id INTEGER NOT NULL REFERENCES symbols(id) ON DELETE CASCADE,
-    type VARCHAR(10) NOT NULL CHECK (type IN ('buy', 'sell')),
-    price DECIMAL(18, 8) NOT NULL,
-    quantity DECIMAL(18, 8) NOT NULL,
-    fees DECIMAL(18, 8) DEFAULT 0,
-    profit DECIMAL(18, 8),
-    notes TEXT,
-    executed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Tabela capital_allocations (controle financeiro)
-CREATE TABLE capital_allocations (
-    id SERIAL PRIMARY KEY,
-    client_id INTEGER NOT NULL REFERENCES clients(id) ON DELETE CASCADE,
-    strategy_id INTEGER NOT NULL REFERENCES strategies(id) ON DELETE CASCADE,
-    amount DECIMAL(18, 8) NOT NULL,
-    is_profit BOOLEAN DEFAULT FALSE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Índices para otimização
-CREATE INDEX idx_positions_strategy ON positions(strategy_id);
-CREATE INDEX idx_positions_status ON positions(status);
-CREATE INDEX idx_trades_symbol_executed ON trades(symbol_id, executed_at);
-CREATE INDEX idx_capital_client ON capital_allocations(client_id);
-
--- Gatilho para atualizar updated_at
-CREATE OR REPLACE FUNCTION update_timestamp()
-RETURNS TRIGGER AS $$
-BEGIN
-    NEW.updated_at = NOW();
-    RETURN NEW;
-END;
-$$ LANGUAGE plpgsql;
-
--- Aplicar gatilhos
-CREATE TRIGGER update_strategies_timestamp
-BEFORE UPDATE ON strategies
-FOR EACH ROW EXECUTE FUNCTION update_timestamp();
-
-CREATE TRIGGER update_positions_timestamp
-BEFORE UPDATE ON positions
-FOR EACH ROW EXECUTE FUNCTION update_timestamp();
-```
+- **Componentes separados**:
+    - Acesso à exchange (`bot/binance/*`)
+    - Estratégias (`bot/strategies/*`)
+    - Persistência (`bot/db/*`)
+    - Segurança de segredos (`bot/security/*`)
+    - Orquestração/agendamento (`bot/runtime/*`)
+    - CLI operacional (`bot/cli.py`)
+    - Telemetria/logging (`bot/logging.py`)
+- **Configuração por ambiente** via `.env`/variáveis.
+- **Múltiplas contas/estratégias** suportadas por design (tabelas `accounts`, `strategies`).
+- **Modo demonstrativo** suportado nativamente, sem alterar a lógica das estratégias.
+- **Base para relatórios**: dados normalizados (`orders`/`trades`) e módulo `reporting/metrics.py`.
 
 ---
 
-### 🌱Dados Iniciais de Exemplo
+## `pyproject.toml` (mínimo)
 
-```sql
--- Inserir um cliente
-INSERT INTO clients (name, api_key, api_secret)
-VALUES ('TradeBot XYZ', 'binance_key_123', 'binance_secret_456');
+```toml
+[project]
+name = "binance-bot"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = []
 
--- Inserir símbolos
-INSERT INTO symbols (symbol, base_asset, quote_asset)
-VALUES 
-    ('BTCUSDT', 'BTC', 'USDT'),
-    ('ETHUSDT', 'ETH', 'USDT');
-
--- Inserir estratégia (Canal H4)
-INSERT INTO strategies (
-    client_id, symbol_id, name, 
-    base_price, top_price, capital_percentage,
-    buy_threshold, sell_threshold, min_profit
-) VALUES (
-    1, 1, 'Canal H4 BTC/USDT',
-    100.489, 110.626, 20.00,
-    2.00, 2.00, 0.50
-);
-
--- Alocar capital
-INSERT INTO capital_allocations (client_id, strategy_id, amount)
-VALUES (1, 1, 2000.00);
+[tool.pytest.ini_options]
+testpaths = ["tests"]
 ```
+---
+
+## Próximos passos (opcional)
+
+- Implementar rotinas de **risk management** (max drawdown por estratégia/conta).
+- Adicionar **limpeza/rotação** de logs e **dashboards** (FastAPI + SQLite para cache de métricas).
+- Implementar **relatórios** com consultas `pandas` ou views SQL materializadas.
+
+> Esta entrega fornece a estrutura mínima funcional, com instruções de setup e exemplos de uso dos principais componentes, atendendo às restrições e critérios de aceite.
 
 ---
 
-### 🔍 **Consultas Úteis**
-
-1. **Posições Abertas**:
-```sql
-    SELECT p.*, s.symbol 
-    FROM positions p
-    JOIN symbols s ON p.symbol_id = s.id
-    WHERE p.status = 'open';
-```
-
-2. **Vendas Programadas**:    
-```sql
-    SELECT p.*, s.symbol 
-    FROM positions p
-    JOIN symbols s ON p.symbol_id = s.id
-    WHERE p.status = 'scheduled';
-```    
-
-2. **Saldo de Capital**:    
-```sql
-    SELECT 
-        SUM(CASE WHEN is_profit = FALSE THEN amount ELSE 0 END) AS capital_principal,
-        SUM(CASE WHEN is_profit = TRUE THEN amount ELSE 0 END) AS lucros_acumulados
-    FROM capital_allocations
-    WHERE client_id = 1;
-```
-
----
-
-## ▶️ 7. Inicialização do Projeto
+## Inicialização do Projeto
 
 Execute o servidor:
 
@@ -358,129 +489,372 @@ uvicorn main:app --reload
 
 ---
 
-## 📆 8. Planejamento das Próximas Fases
+# Adições: rotação/limpeza de logs e dashboards (FastAPI + SQLite)
 
-### **📌 Sprint 0: Preparação (1-2 dias)**
+## Alterações de arquitetura
 
-**Objetivo**: Configuração inicial do ambiente e definições técnicas.
-- Setup do ambiente (Python, PostgreSQL, Docker)
-- Definir arquitetura do projeto (estrutura de pastas)
-- Criar documento de visão do produto (Product Vision Board)
-
-**Entregáveis**:
-- Ambiente de desenvolvimento funcional
-- Repositório Git inicializado
-
-### **📌 Épico 1: Integração com Binance**
-
-**Objetivo**: Conectar-se à API Binance para obter dados de mercado e executar ordens.
-
-#### **Sprint 1: Leitura de Dados (1 semana)**
-
-**User Stories**:
-- Como usuário, quero consultar preços em tempo real via WebSocket (BTCUSDT)
-- Como sistema, preciso armazenar candles H4 no banco de dados
-- Como desenvolvedor, quero tratar erros de conexão com a Binance
-
-**Entregáveis**:
-- Módulo `binance/price_monitor.py` funcional
-- Tabela `historical_prices` no PostgreSQL
-
-#### **Sprint 2: Execução de Ordens (1 semana)**
-
-**User Stories**:
-- Como usuário, quero executar ordens de compra/venda via API Binance
-- Como sistema, preciso validar saldo antes de operar
-- Como desenvolvedor, quero registrar todas as ordens no banco (`trades`)
-
-**Entregáveis**:
-- Endpoints `POST /orders/buy` e `POST /orders/sell`
-- Integração com tabela `capital_allocations`
-
-### **📌 Épico 2: Estratégia de Canal**
-
-**Objetivo**: Implementar a lógica de compra/venda baseada em canal de preço.
-
-#### **Sprint 3: Lógica de Entrada (1 semana)**
-
-**User Stories**:
-- Como sistema, quero comprar automaticamente quando o preço subir +2% da base
-- Como usuário, quero definir parâmetros do canal (base, teto, %) via API
-- Como sistema, preciso calcular o capital alocado (20% da banca)
-
-**Entregáveis**:
-- Tabela `strategies` populável via `POST /strategies`
-- Serviço `channel_strategy.py` com regras de entrada
-
-#### **Sprint 4: Lógica de Saída (1 semana)**
-
-**User Stories**:
-- Como sistema, quero agendar vendas quando o preço cair -2% do teto
-- Como usuário, quero listar vendas programadas (`GET /orders/scheduled`)
-- Como sistema, nunca devo vender abaixo do preço mínimo (compra + taxas + 0.5%)
-
-**Entregáveis**:
-- Endpoint `POST /positions/{id}/schedule-sell`
-- Módulo `profit_handler.py` para cálculos de lucro mínimo
-
-### **📌 Épico 3: Gestão de Capital**
-
-**Objetivo**: Garantir controle rígido do capital e lucros.
-
-#### **Sprint 5: Alocação de Capital (3 dias)**
-
-**User Stories**:
-- Como sistema, preciso reservar 20% da banca para cada operação
-- Como usuário, quero ver meu saldo disponível (`GET /capital/balance`)
-- Como sistema, devo segregar lucros (não reinvestir automaticamente)
-
-**Entregáveis**:
-- Serviço `capital_control.py`
-- Endpoint `GET /capital/balance`
-
-### **📌 Épico 4: Relatórios e Dashboard**
-
-**Objetivo**: Fornecer visibilidade das operações.
-
-#### **Sprint 6: Relatórios Básicos (4 dias)**
-
-**User Stories**:
-- Como usuário, quero ver meu lucro acumulado por estratégia
-- Como sistema, preciso gerar histórico de trades (`GET /reports/trades`)
-
-**Entregáveis**:
-- Endpoints `GET /reports/profit` e `GET /reports/positions`
-
-### **📌 Sprint 7: Validação & Ajustes (3 dias)**
-
-**Objetivo**: Testes e refinamentos.
-- Testes de integração com a Binance (simulação de ordens)
-- Ajustes na tolerância a falhas (retry mechanism)
-- Documentação básica da API (Swagger/OpenAPI)
-
-### **📌 Sprint 8: Preparação para Produção (2 dias)**
-
-**Objetivo**: Deploy inicial.
-- Configurar Docker Compose (PostgreSQL + App)
-- Variáveis de ambiente para produção
-- Script de backup automático do banco
-
-### **🎯 Critérios de Aceitação por Épico**
-
-1. **Binance**:
-    - 99% de uptime na conexão WebSocket
-    - Ordens executadas em < 500ms
-
-2. **Estratégia**:
-    - Compra/Venda respeitando canal em 100% dos casos
-    - Zero vendas com prejuízo
-
-3. **Capital**:
-    - Alocação precisa (20% ± 0.1%)
-    - Lucros corretamente segregados
+```
+binance-bot/
+├─ .env.example                       # + variáveis de log e dashboard
+├─ requirements.txt                   # + fastapi, uvicorn, jinja2, aiofiles, orjson
+├─ var/
+│  └─ log/                            # destino padrão de logs rotacionados
+├─ src/
+│  ├─ bot/
+│  │  ├─ logging.py                   # atualizado: handlers com rotação/retention
+│  │  ├─ reporting/
+│  │  │  ├─ metrics.py
+│  │  │  └─ cache/
+│  │  │     ├─ sqlite.py             # conexão e schema de cache (SQLite)
+│  │  │     └─ aggregator.py         # job que agrega do Postgres -> SQLite
+│  │  └─ api/
+│  │     ├─ main.py                   # FastAPI app
+│  │     ├─ deps.py                   # dependências (paths, DBs)
+│  │     ├─ routers/
+│  │     │  ├─ health.py
+│  │     │  └─ metrics.py             # endpoints de métricas (via SQLite)
+│  │     ├─ templates/
+│  │     │  └─ index.html             # dashboard simples (Chart.js)
+│  │     └─ static/
+│  │        ├─ app.js
+│  │        └─ styles.css
+└─ tests/
+   └─ test_dashboard_api.py
+```
 
 ---
 
+## Novas dependências (append em `requirements.txt`)
+
+```
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+jinja2==3.1.4
+aiofiles==24.1.0
+orjson==3.10.7
+```
+
+---
+
+## Variáveis de ambiente (`.env.example`)
+
+```
+# Logging
+LOG_DIR=var/log
+LOG_ROTATION=DAILY             # DAILY | SIZE
+LOG_MAX_BYTES=10485760         # 10MB (se SIZE)
+LOG_BACKUP_COUNT=14            # retenção
+LOG_LEVEL=INFO
+
+# Dashboard/Cache
+DASHBOARD_SQLITE_PATH=var/cache/metrics.sqlite3
+DASHBOARD_REFRESH_SECONDS=60
+API_HOST=0.0.0.0
+API_PORT=8000
+```
+
+---
+
+## Rotação e limpeza de logs (`src/bot/logging.py`)
+
+```python
+import logging, sys, os, gzip, shutil
+from logging.handlers import RotatingFileHandler, TimedRotatingFileHandler
+import structlog
+from bot.config import Settings
+
+def _compress(path: str):
+    gz = f"{path}.gz"
+    with open(path, "rb") as f_in, gzip.open(gz, "wb") as f_out:
+        shutil.copyfileobj(f_in, f_out)
+    os.remove(path)
+
+class GzipTimedHandler(TimedRotatingFileHandler):
+    def doRollover(self):
+        super().doRollover()
+        for s in self.getFilesToDelete():
+            _compress(s)
+
+class GzipSizedHandler(RotatingFileHandler):
+    def doRollover(self):
+        super().doRollover()
+        # compacta arquivos .1, .2... recém-rotacionados
+        base = self.baseFilename
+        for i in range(1, self.backupCount + 1):
+            candidate = f"{base}.{i}"
+            if os.path.exists(candidate):
+                _compress(candidate)
+
+def setup_logging():
+    st = Settings()
+    os.makedirs(st.LOG_DIR, exist_ok=True)
+    log_path = os.path.join(st.LOG_DIR, "bot.log")
+
+    root = logging.getLogger()
+    root.handlers.clear()
+    root.setLevel(st.LOG_LEVEL)
+
+    stream = logging.StreamHandler(sys.stdout)
+    stream.setLevel(st.LOG_LEVEL)
+
+    if st.LOG_ROTATION.upper() == "DAILY":
+        fileh = GzipTimedHandler(log_path, when="midnight", backupCount=int(st.LOG_BACKUP_COUNT))
+    else:
+        fileh = GzipSizedHandler(log_path, maxBytes=int(st.LOG_MAX_BYTES),
+                                 backupCount=int(st.LOG_BACKUP_COUNT))
+    fileh.setLevel(st.LOG_LEVEL)
+
+    fmt = logging.Formatter('%(asctime)s %(levelname)s %(name)s %(message)s')
+    stream.setFormatter(fmt); fileh.setFormatter(fmt)
+    root.addHandler(stream); root.addHandler(fileh)
+
+    structlog.configure(processors=[structlog.processors.add_log_level,
+                                    structlog.processors.TimeStamper(fmt="iso"),
+                                    structlog.processors.JSONRenderer()])
+    return structlog.get_logger("bot")
+```
+
+> Resultado: rotação diária (ou por tamanho), retenção por `backupCount` com compressão `.gz`.
+
+---
+
+## Cache de métricas em SQLite
+
+### Schema e conexão (`src/bot/reporting/cache/sqlite.py`)
+
+```python
+import os, sqlite3
+from bot.config import Settings
+
+def get_sqlite():
+    st = Settings()
+    os.makedirs(os.path.dirname(st.DASHBOARD_SQLITE_PATH), exist_ok=True)
+    conn = sqlite3.connect(st.DASHBOARD_SQLITE_PATH, check_same_thread=False)
+    conn.execute("""
+    CREATE TABLE IF NOT EXISTS kpi_snapshots(
+        ts INTEGER NOT NULL,
+        strategy_id INTEGER NOT NULL,
+        symbol TEXT NOT NULL,
+        pnl REAL NOT NULL,
+        gross REAL NOT NULL,
+        fees REAL NOT NULL,
+        win_rate REAL NOT NULL,
+        open_trades INTEGER NOT NULL,
+        closed_trades INTEGER NOT NULL,
+        PRIMARY KEY (ts, strategy_id)
+    ) WITHOUT ROWID;
+    """)
+    conn.execute("CREATE INDEX IF NOT EXISTS ix_kpi_ts ON kpi_snapshots(ts);")
+    conn.commit()
+    return conn
+```
+
+### Agregador Postgres → SQLite (`src/bot/reporting/cache/aggregator.py`)
+
+```python
+from datetime import datetime, timezone, timedelta
+from bot.db.base import SessionLocal
+from bot.db import models
+from bot.reporting.metrics import compute_kpis_for_strategy  # você já possui cálculos base
+from .sqlite import get_sqlite
+from bot.config import Settings
+import time
+
+def run_aggregation_loop():
+    st = Settings()
+    sqlite = get_sqlite()
+    while True:
+        with SessionLocal() as s:
+            strategies = s.query(models.Strategy).filter(models.Strategy.enabled == True).all()
+            now = int(datetime.now(timezone.utc).timestamp())
+            for strat in strategies:
+                k = compute_kpis_for_strategy(s, strat.id)  # retorna dict com métricas
+                sqlite.execute(
+                    "INSERT OR REPLACE INTO kpi_snapshots(ts,strategy_id,symbol,pnl,gross,fees,win_rate,open_trades,closed_trades) "
+                    "VALUES (?,?,?,?,?,?,?,?,?)",
+                    (now, strat.id, strat.config["symbol"], k["pnl"], k["gross"], k["fees"],
+                     k["win_rate"], k["open_trades"], k["closed_trades"])
+                )
+            sqlite.commit()
+        time.sleep(int(st.DASHBOARD_REFRESH_SECONDS))
+```
+
+> Execução: como processo separado (systemd/PM2) ou dentro do orquestrador via `APScheduler` (job em background).
+
+---
+
+## API/Dashboard (FastAPI)
+
+### App e montagem (`src/bot/api/main.py`)
+
+```python
+from fastapi import FastAPI, Depends
+from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
+from fastapi.templating import Jinja2Templates
+from starlette.requests import Request
+from .routers import health, metrics
+
+app = FastAPI(title="Binance Bot Dashboard")
+app.include_router(health.router, prefix="/health", tags=["health"])
+app.include_router(metrics.router, prefix="/metrics", tags=["metrics"])
+
+app.mount("/static", StaticFiles(directory="src/bot/api/static"), name="static")
+templates = Jinja2Templates(directory="src/bot/api/templates")
+
+@app.get("/", response_class=HTMLResponse)
+def index(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
+```
+
+### Endpoints (`src/bot/api/routers/metrics.py`)
+
+```python
+from fastapi import APIRouter, Query
+from ..deps import get_sqlite_conn
+
+router = APIRouter()
+
+@router.get("/strategies")
+def strategies_snapshot(limit: int = Query(200)):
+    conn = get_sqlite_conn()
+    cur = conn.execute("""
+        SELECT ts, strategy_id, symbol, pnl, gross, fees, win_rate, open_trades, closed_trades
+        FROM kpi_snapshots
+        ORDER BY ts DESC
+        LIMIT ?;
+    """, (limit,))
+    cols = [c[0] for c in cur.description]
+    return [dict(zip(cols, row)) for row in cur.fetchall()]
+
+@router.get("/strategy/{strategy_id}/series")
+def strategy_series(strategy_id: int, since_ts: int | None = None, limit: int = 1440):
+    conn = get_sqlite_conn()
+    if since_ts:
+        cur = conn.execute("""
+            SELECT ts, pnl, gross, fees, win_rate, open_trades, closed_trades
+            FROM kpi_snapshots
+            WHERE strategy_id = ? AND ts >= ?
+            ORDER BY ts ASC LIMIT ?;
+        """, (strategy_id, since_ts, limit))
+    else:
+        cur = conn.execute("""
+            SELECT ts, pnl, gross, fees, win_rate, open_trades, closed_trades
+            FROM kpi_snapshots
+            WHERE strategy_id = ?
+            ORDER BY ts ASC LIMIT ?;
+        """, (strategy_id, limit))
+    cols = [c[0] for c in cur.description]
+    return [dict(zip(cols, row)) for row in cur.fetchall()]
+```
+
+### Dependência de conexão (`src/bot/api/deps.py`)
+
+```python
+from bot.reporting.cache.sqlite import get_sqlite
+_sqlite = None
+def get_sqlite_conn():
+    global _sqlite
+    if _sqlite is None:
+        _sqlite = get_sqlite()
+    return _sqlite
+```
+
+### Front-end mínimo (Chart.js)
+
+`src/bot/api/templates/index.html`
+
+```html
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8"><title>Dashboard</title>
+		<link rel="stylesheet" href="/static/styles.css">
+	</head>
+	<body>
+		<h1>Dashboard</h1>
+		<canvas id="equity"></canvas>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script src="/static/app.js"></script>
+	</body>
+</html>
+```
+
+`src/bot/api/static/app.js`
+
+```js
+async function load(strategyId=1){
+  const r = await fetch(`/metrics/strategy/${strategyId}/series?limit=500`);
+  const data = await r.json();
+  const labels = data.map(d=>new Date(d.ts*1000).toLocaleString());
+  const pnl = data.map(d=>d.pnl);
+  const ctx = document.getElementById('equity').getContext('2d');
+  new Chart(ctx,{type:'line',data:{labels,
+    datasets:[{label:'PnL',data:pnl,fill:false}]},
+    options:{responsive:true,maintainAspectRatio:false}});
+}
+load();
+```
+
+---
+
+## Integração operacional
+
+### 1) Instalação/atualização
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2) Ajustes de `.env`
+
+- Defina `LOG_DIR`, `LOG_ROTATION` e `LOG_BACKUP_COUNT`.
+- Defina `DASHBOARD_SQLITE_PATH` e `DASHBOARD_REFRESH_SECONDS`.
+
+### 3) Habilitar rotação de logs
+
+- Garanta que `setup_logging()` seja chamado no bootstrap do orquestrador/CLI:
+
+```python
+# src/bot/cli.py
+from bot.logging import setup_logging
+logger = setup_logging()
+```
+
+### 4) Iniciar agregador de cache
+
+- Como processo dedicado (recomendado):
+
+```bash
+python -c "from src.bot.reporting.cache.aggregator import run_aggregation_loop; run_aggregation_loop()"
+```
+
+- Alternativa (APScheduler no orquestrador): agendar `run_aggregation_loop` como job em thread separada.
+
+### 5) Subir a API/Dashboard
+
+```bash
+uvicorn src.bot.api.main:app --host ${API_HOST:-0.0.0.0} --port ${API_PORT:-8000}
+```
+
+### 6) Acesso
+
+- Navegue até `http://<host>:8000/` para o dashboard.
+- Endpoints JSON: `GET /metrics/strategies`, `GET /metrics/strategy/{id}/series`.
+
+---
+
+## Notas de projeto
+
+- **Isolamento de escrita**: SQLite apenas para leitura pela API; escrita é exclusiva do agregador.
+- **Retenção de cache**: opcionalmente, crie um job de limpeza no SQLite, por exemplo:
+    ```sql
+    DELETE FROM kpi_snapshots WHERE ts < strftime('%s','now','-30 days');
+    ```
+- **Segurança**: publicar a API atrás de um reverse proxy com autenticação (ex.: Basic Auth no proxy).
+- **Escalabilidade**: para maior throughput, migrar Chart.js para consultas assíncronas paginadas e introduzir downsampling no agregador.
+
+---
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

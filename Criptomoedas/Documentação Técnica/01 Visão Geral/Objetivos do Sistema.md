@@ -1,7 +1,3 @@
-Aqui está a documentação técnica para **Objetivo do Sistema**, seguindo o formato Markdown e alinhado à estratégia definida:
-
----
-
 # **📌 Objetivo do Sistema**
 
 `/Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md`  

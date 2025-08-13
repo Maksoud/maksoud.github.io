@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Sumário da Documentação Técnica.md",
+                "file": "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário da Documentação Técnica"
+              "title": "Primeiros Passos no Desenvolvimento"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Prompts/Prompt Inicial.md",
+                "file": "Criptomoedas/Documentação Técnica/01 Visão Geral/Esquema SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Inicial"
+              "title": "Esquema SQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +182,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f041e2854e5e0bde",
+  "active": "3b66a02343ddf380",
   "lastOpenFiles": [
-    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Lucro Par Moedas.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Esquema SQL.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Arquitetura.md",
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
+    "Criptomoedas/Prompts/Prompt de Requisitos.md",
+    "Criptomoedas/Documentação Técnica/02 Configuração/Setup Inicial.md",
+    "Criptomoedas/Documentação Técnica/03 Estratégia/Detalhamento Técnico - Estratégia Operacional.md",
+    "Criptomoedas/Documentação Técnica/03 Estratégia/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
+    "Criptomoedas/Documentação Técnica/03 Estratégia/Regras do Canal de Preços.md",
+    "Criptomoedas/Documentação Técnica/03 Estratégia/Fluxo Operacional.md",
     "Criptomoedas/Prompts/Prompt Inicial.md",
+    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
+    "Criptomoedas/Sumário da Documentação Técnica.md",
+    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Lucro Par Moedas.md",
     "Criptomoedas/Prompts",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Impacto Taxas.md",
-    "Criptomoedas/Sumário da Documentação Técnica.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Evolução Temporal.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Relatórios Sistema de Monitoramento de Criptomoedas.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Posições Fora Canal.md",
@@ -201,19 +211,8 @@
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Riscos Exposições.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Requisitos Técnicos - Painel e Visualização.md",
-    "Criptomoedas/Documentação Técnica/06 Testes/Simulação de Mercado.md",
-    "Criptomoedas/Documentação Técnica/06 Testes/Testes Unitários.md",
-    "Criptomoedas/Documentação Técnica/05 Gestão de Risco/Failover Strategies.md",
-    "Criptomoedas/Documentação Técnica/05 Gestão de Risco/Controle de Capital.md",
-    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico/Integração Binance.md",
-    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico/API Reference.md",
-    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico/Modelagem de Dados.md",
-    "Criptomoedas/Documentação Técnica/03 Estratégia/Regras do Canal de Preços.md",
     "Criptomoedas/Documentação Técnica/03 Estratégia/deepseek_mermaid_20250709_160c6b.png",
     "Criptomoedas/Documentação Técnica/03 Estratégia/2025-07-09_08h59_32.png",
-    "Criptomoedas/Documentação Técnica/03 Estratégia/Fluxo Operacional.md",
-    "Criptomoedas/Documentação Técnica/03 Estratégia/Requisitos Técnicos - Configurações e Parâmetros da Estratégia.md",
-    "Criptomoedas/Documentação Técnica/Backlog de Produto - Criptoren.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório",
     "Criptomoedas/Documentação Técnica/06 Testes",
     "Criptomoedas/Documentação Técnica/05 Gestão de Risco",
