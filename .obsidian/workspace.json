@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
+                "file": "Inteligência Artificial (IA)/Modelos de PROMPTs/PROMPT - Linguagem Natural.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primeiros Passos no Desenvolvimento"
+              "title": "PROMPT - Linguagem Natural"
             }
           },
           {
@@ -184,10 +184,11 @@
   },
   "active": "3b66a02343ddf380",
   "lastOpenFiles": [
+    "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
+    "Inteligência Artificial (IA)/Modelos de PROMPTs/PROMPT - Linguagem Natural.md",
     "Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md",
     "Criptomoedas/Documentação Técnica/01 Visão Geral/Esquema SQL.md",
     "Criptomoedas/Documentação Técnica/01 Visão Geral/Arquitetura.md",
-    "Criptomoedas/Documentação Técnica/01 Visão Geral/Primeiros Passos no Desenvolvimento.md",
     "Criptomoedas/Prompts/Prompt de Requisitos.md",
     "Criptomoedas/Documentação Técnica/02 Configuração/Setup Inicial.md",
     "Criptomoedas/Documentação Técnica/03 Estratégia/Detalhamento Técnico - Estratégia Operacional.md",
@@ -210,7 +211,6 @@
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/KPIs.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Riscos Exposições.md",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Requisitos Técnicos - Relatórios Estratégicos e Analíticos.md",
-    "Criptomoedas/Documentação Técnica/07 Painel e Relatório/Requisitos Técnicos - Painel e Visualização.md",
     "Criptomoedas/Documentação Técnica/03 Estratégia/deepseek_mermaid_20250709_160c6b.png",
     "Criptomoedas/Documentação Técnica/03 Estratégia/2025-07-09_08h59_32.png",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório",
