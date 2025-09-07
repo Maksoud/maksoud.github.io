@@ -17,6 +17,7 @@
 * [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
 * [Wordpress - Elementor PRO: Criação Profissional e Intuitiva de Páginas](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Cria%C3%A7%C3%A3o%20Profissional%20e%20Intuitiva%20de%20P%C3%A1ginas>)
+* [Wordpress - Geração de Política SELinux](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-Geração%20de%20política%20SELinux>)
 * [Como a Criação de uma API Pode Solucionar Problemas - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
 * [Criando um aplicativo Android com WebViewer - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Criando%20um%20aplicativo%20Android%20com%20WebViewer>)
 
