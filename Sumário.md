@@ -13,6 +13,7 @@
 * [Registrando um Domínio (.com.br)](<https://maksoud.github.io/Desenvolvimento%20Web/Registrando%20um%20Dom%C3%ADnio%20BR>)
 * [Versionamento Git](<https://maksoud.github.io/Desenvolvimento%20Web/Versionamento%20Git>)
 * [Hospedando um Site - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
+* [Instalando e Configurando o Apache no CentOS - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Instalando%20e%20Configurando%20o%20Apache>)
 * [Agendamento de Tarefas no Linux com CRONTAB](<https://maksoud.github.io/Desenvolvimento%20Web/Agendamento%20de%20Tarefas%20no%20Linux%20com%20CRONTAB>)
 * [Wordpress - Configurações e Boas Práticas](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>)
