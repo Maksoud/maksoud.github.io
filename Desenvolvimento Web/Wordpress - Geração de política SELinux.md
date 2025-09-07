@@ -41,4 +41,11 @@ Verifique o log de auditoria para novas negações: Veja se ainda há AVCs.
 sudo ausearch -m AVC -ts today | tail -n 20
 ```
 
-Repita: Se o comando ausearch ainda mostrar negações (type=AVC msg=audit...), volte ao passo 1 e repita todo o processo para o mesmo site. Continue até que o comando de verificação retorne <no matches> após o uso intenso do site.
+**Repita:** Se o comando ausearch ainda mostrar negações (type=AVC msg=audit...), volte ao passo 1 e repita todo o processo para o mesmo site. Continue até que o comando de verificação retorne `<no matches>` após o uso intenso do site.
+
+
+[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-Geração%20de%20política%20SELinux>)
+
+<sup><sub>
+Renée Maksoud - setembro de 2025
+</sub></sup>
