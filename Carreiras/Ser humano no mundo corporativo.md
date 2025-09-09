@@ -21,7 +21,7 @@ Mas por que essa competição desmedida se tornou tão comum? Acredito que seja,
 
 Seja gentil com seus colegas. Isso não te enfraquece, nem te diminui. Pelo contrário, ver o lado bom das coisas torna a jornada mais leve e te faz uma pessoa mais feliz. Afinal, no fim das contas, não levaremos conosco nada além de conhecimento e boas histórias daqui.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Ser%20humano%20no%20mundo%20corporativo>)
+[link de compartilhamento](<https://maksoud.github.io/Carreiras/Ser%20humano%20no%20mundo%20corporativo>)
 
 <sup><sub>
 Renée Maksoud - março de 2025

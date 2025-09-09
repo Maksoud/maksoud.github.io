@@ -23,7 +23,7 @@ A comparação constante é um ladrão silencioso da autoestima, da paz e da pro
 
 ==Você não precisa ser melhor que ninguém.== **Basta ser, todos os dias, um pouco melhor do que ontem.**
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/O%20cuidado%20de%20não%20se%20comparar>)
+[link de compartilhamento](<https://maksoud.github.io/Carreiras/O%20cuidado%20de%20não%20se%20comparar>)
 
 <sup><sub>
 Renée Maksoud - março de 2025

@@ -45,7 +45,7 @@ Use seu tempo para se tornar a melhor versão de si mesmo e, acima de tudo, nunc
 
 Ao traçar suas próprias metas e evitar comparações desnecessárias, você assume o controle do seu destino. A auto comparação saudável promove o autodesenvolvimento e leva a uma vida mais equilibrada e realizada.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/A%20importância%20de%20não%20se%20comparar>)
+[link de compartilhamento](<https://maksoud.github.io/Carreiras/A%20importância%20de%20não%20se%20comparar>)
 
 <sup><sub>
 Renée Maksoud - junho de 2024

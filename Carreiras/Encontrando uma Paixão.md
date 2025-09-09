@@ -43,7 +43,7 @@ Então, qual será o seu próximo passo? Talvez seja hora de tirar aquela ideia 
 
 #Metas #Vitalidade #Resiliência #Conquista #Desafios #Superação #CrescimentoPessoal #Jornada #Foco #Prioridades #Objetivos #Planejamento #Motivação #Realizações #Persistência #Inspiração #Carreira #DesenvolvimentoPessoal #Sucesso #Mindset #Sonhos
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Encontrando%20uma%20Paixão>)
+[link de compartilhamento](<https://maksoud.github.io/Carreiras/Encontrando%20uma%20Paixão>)
 
 <sup><sub>
 Renée Maksoud - dezembro de 2024

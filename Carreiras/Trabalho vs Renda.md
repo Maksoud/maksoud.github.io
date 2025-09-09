@@ -18,7 +18,7 @@ O equilíbrio é essencial. Não adianta buscar mais renda sem controle financei
 
 O segredo não é trabalhar mais, mas trabalhar de forma inteligente, diversificando fontes de renda e utilizando bem os recursos disponíveis. Afinal, com mais renda, é possível ter menos trabalho, desde que se saiba agir com planejamento e eficiência.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Trabalho%20vs%20Renda>)
+[link de compartilhamento](<https://maksoud.github.io/Carreiras/Trabalho%20vs%20Renda>)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024

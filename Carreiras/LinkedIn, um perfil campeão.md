@@ -169,7 +169,7 @@ O mercado muda. As ferramentas também. Atualize seu perfil **a cada 2-3 meses**
 
 
 
-[link de compartilhamento](<https://maksoud.github.io/LinkedIn%2FLinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
+[link de compartilhamento](<https://maksoud.github.io/Carreiras/LinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
 
 <sup><sub>
 Renée Maksoud - maio de 2025
