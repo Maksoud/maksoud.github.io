@@ -26,6 +26,7 @@ Aqui está uma descrição detalhada de cada área e suas intersecções:
 - **Profissão**: A interseção entre no que você é bom e pelo que você pode ser pago. Envolve atividades que utilizam suas habilidades e geram sustento financeiro.
 - **Vocação**: A interseção entre o que o mundo precisa e pelo que você pode ser pago. Refere-se a um trabalho que tem um impacto positivo e também oferece remuneração.
 
+![[Diagrama Venn - Ikigai.png]]
 As intersecções adicionais formam áreas que combinam dois desses elementos:
 
 - **Satisfação, mas sensação de inutilidade**: Quando você faz algo que ama e é bom nisso, mas não vê utilidade ou não é pago por isso.
