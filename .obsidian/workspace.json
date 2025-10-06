@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carreiras/A Armadilha da Expectativa Não Dita.md",
+                "file": "Desenvolvimento Web/Gestão de Igrejas/Levantamento de Requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Armadilha da Expectativa Não Dita"
+              "title": "Levantamento de Requisitos"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 327.5
   },
   "right": {
     "id": "54204eb6f2ce734e",
@@ -186,6 +186,10 @@
   },
   "active": "0e84ec9ef3c2d24a",
   "lastOpenFiles": [
+    "Carreiras/A Armadilha da Expectativa Não Dita.md",
+    "Desenvolvimento Web/Gestão de Igrejas/Levantamento de Requisitos.md",
+    "Desenvolvimento Web/Gestão de Igrejas",
+    "Mente e Estudos/Diagrama Venn - Ikigai.png",
     "Sumário.md",
     "Carreiras/Trabalho vs Renda.md",
     "Carreiras/Ser humano no mundo corporativo.md",
@@ -200,7 +204,6 @@
     "Carreiras/Alta Performance, Produtividade e Liderança.md",
     "Carreiras/A Importância de Qualificar as Atividades no Ambiente de Trabalho.md",
     "Carreiras/A importância de não se comparar.md",
-    "Carreiras/A Armadilha da Expectativa Não Dita.md",
     "Mente e Estudos/O Poder da Ação.md",
     "Mente e Estudos/Seja um Produtor de Conteúdo.md",
     "Inteligência Artificial (IA)/Modelos de PROMPTs/PROMPT - Linguagem Natural.md",
@@ -212,7 +215,6 @@
     "Criptomoedas/Documentação Técnica/01 Visão Geral/Arquitetura.md",
     "Criptomoedas/Prompts/Prompt de Requisitos.md",
     "Criptomoedas/Documentação Técnica/02 Configuração/Setup Inicial.md",
-    "Criptomoedas/Documentação Técnica/03 Estratégia/Detalhamento Técnico - Estratégia Operacional.md",
     "Criptomoedas/Prompts",
     "Criptomoedas/Documentação Técnica/03 Estratégia/deepseek_mermaid_20250709_160c6b.png",
     "Criptomoedas/Documentação Técnica/03 Estratégia/2025-07-09_08h59_32.png",
@@ -222,7 +224,6 @@
     "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico",
     "Criptomoedas/Documentação Técnica/03 Estratégia",
     "Criptomoedas/Documentação Técnica/02 Configuração",
-    "Criptomoedas/Documentação Técnica/01 Visão Geral",
-    "get.bat"
+    "Criptomoedas/Documentação Técnica/01 Visão Geral"
   ]
 }
