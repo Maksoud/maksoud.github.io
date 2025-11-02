@@ -13,6 +13,7 @@
 * [O cuidado de não se comparar](<https://maksoud.github.io/Carreiras/O%20cuidado%20de%20não%20se%20comparar>)
 * [Ser humano no mundo corporativo](<https://maksoud.github.io/Carreiras/Ser%20humano%20no%20mundo%20corporativo>)
 * [Trabalho vs Renda](<https://maksoud.github.io/Carreiras/Trabalho%20vs%20Renda>)
+* [Definindo prioridades como um analista de TI](<https://maksoud.github.io/Carreiras/Definindo%20prioridades%20como%20um%20analista%20de%20TI>)
 
 
 ---
