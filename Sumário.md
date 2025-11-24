@@ -60,6 +60,7 @@
 * [Como Falar com Clientes de Forma Clara e Eficiente](<https://maksoud.github.io/Produtos%20Digitais/Como%20Falar%20com%20Clientes%20de%20Forma%20Clara%20e%20Eficiente>)
 * [SEO na Prática: Como Aumentar as Visitas ao Seu Site](<https://maksoud.github.io/Produtos%20Digitais/SEO%20na%20Pr%C3%A1tica%20Como%20Aumentar%20as%20Visitas%20ao%20Seu%20Site>)
 * [Prospecção de Clientes](<https://maksoud.github.io/Produtos%20Digitais/Prospec%C3%A7%C3%A3o%20de%20Clientes>)
+* [Business Model Canvas: Um Guia Prático para o seu Negócio](<https://maksoud.github.io/Produtos%20Digitais/Business%20Model%20Canvas%20-%20Um%20Guia%20Pr%C3%A1tico%20para%20o%20seu%20Neg%C3%B3cio>)
 
 
 ---

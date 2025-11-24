@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carreiras/Trabalho vs Renda.md",
+                "file": "Sumário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabalho vs Renda"
+              "title": "Sumário"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento Web/Gestão de Igrejas/Levantamento de Requisitos.md",
+                "file": "Produtos Digitais/Business Model Canvas - Um Guia Prático para o seu Negócio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Levantamento de Requisitos"
+              "title": "Business Model Canvas - Um Guia Prático para o seu Negócio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,14 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e84ec9ef3c2d24a",
+  "active": "3b66a02343ddf380",
   "lastOpenFiles": [
-    "Carreiras/A Armadilha da Expectativa Não Dita.md",
+    "Carreiras/Trabalho vs Renda.md",
+    "Produtos Digitais/Business Model Canvas - Um Guia Prático para o seu Negócio.md",
     "Desenvolvimento Web/Gestão de Igrejas/Levantamento de Requisitos.md",
+    "Carreiras/A Armadilha da Expectativa Não Dita.md",
     "Desenvolvimento Web/Gestão de Igrejas",
     "Mente e Estudos/Diagrama Venn - Ikigai.png",
     "Sumário.md",
-    "Carreiras/Trabalho vs Renda.md",
     "Carreiras/Ser humano no mundo corporativo.md",
     "Carreiras/O cuidado de não se comparar.md",
     "Carreiras/Manter-se Competitivo no Mercado.md",
@@ -214,7 +214,6 @@
     "Criptomoedas/Documentação Técnica/01 Visão Geral/Esquema SQL.md",
     "Criptomoedas/Documentação Técnica/01 Visão Geral/Arquitetura.md",
     "Criptomoedas/Prompts/Prompt de Requisitos.md",
-    "Criptomoedas/Documentação Técnica/02 Configuração/Setup Inicial.md",
     "Criptomoedas/Prompts",
     "Criptomoedas/Documentação Técnica/03 Estratégia/deepseek_mermaid_20250709_160c6b.png",
     "Criptomoedas/Documentação Técnica/03 Estratégia/2025-07-09_08h59_32.png",
