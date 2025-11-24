@@ -35,7 +35,8 @@
               "title": "Business Model Canvas - Um Guia Prático para o seu Negócio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b66a02343ddf380",
+  "active": "0e84ec9ef3c2d24a",
   "lastOpenFiles": [
-    "Carreiras/Trabalho vs Renda.md",
+    "Sumário.md",
     "Produtos Digitais/Business Model Canvas - Um Guia Prático para o seu Negócio.md",
+    "Carreiras/Trabalho vs Renda.md",
     "Desenvolvimento Web/Gestão de Igrejas/Levantamento de Requisitos.md",
     "Carreiras/A Armadilha da Expectativa Não Dita.md",
     "Desenvolvimento Web/Gestão de Igrejas",
     "Mente e Estudos/Diagrama Venn - Ikigai.png",
-    "Sumário.md",
     "Carreiras/Ser humano no mundo corporativo.md",
     "Carreiras/O cuidado de não se comparar.md",
     "Carreiras/Manter-se Competitivo no Mercado.md",
