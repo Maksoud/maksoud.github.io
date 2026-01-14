@@ -37,6 +37,7 @@
 * [Como se Organizar Financeiramente de Maneira Estratégica](<https://maksoud.github.io/Finanças/Como%20se%20Organizar%20Financeiramente%20de%20Maneira%20Estratégica>)
 * [Como Usar o Cartão de Crédito](<https://maksoud.github.io/Finan%C3%A7as/Como%20Usar%20o%20Cart%C3%A3o%20de%20Cr%C3%A9dito>)
 * [Livro: O homem mais rico da Babilônia](<https://maksoud.github.io/Finan%C3%A7as%2FO%20homem%20mais%20rico%20da%20Babil%C3%B4nia>)
+* [As 5 leis do ouro: O homem mais rico da Babilônia](<https://maksoud.github.io/Mente%20e%20Estudos/As%205%20leis%20do%20ouro>)
 
 
 ---
