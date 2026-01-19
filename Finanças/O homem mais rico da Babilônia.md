@@ -21,7 +21,7 @@ George S. Clason
 **Assegurem uma renda para o futuro** - Nenhum homem pode deixar de assegurar um tesouro para sua velhice e a proteção da família, não importa quão prósperos venham se mostrando seus negócios e investimentos.
 
 #### Sétima Solução
-**Aumente sua capacidade para ganhar** - Pagar suas dívidas com toda a pontualidade de que for capaz, não adquirindo nada que não tenha condições de saldar; Cuidar d família de modo que esta possa pensar e falar bem dele; Fazer um testamento a fim de que, caso os deuses o chamem para si, possa ser feita uma divisão adequada e honesta de todos os seus bens; Ter compaixão pelos que sofrem ou foram atingidos pela desventura e ajudá-los na medida de suas possiblidades; Ter atenção para os que lhe querem bem; Cultivar suas próprias aptidões, estudar e somar conhecimentos, tornar-se mais habilidoso e agir sempre respeitando a si mesmo.
+**Aumente sua capacidade para ganhar** - Pagar suas dívidas com toda a pontualidade de que for capaz, não adquirindo nada que não tenha condições de saldar; Cuidar da família de modo que esta possa pensar e falar bem dele; Fazer um testamento a fim de que, caso os deuses o chamem para si, possa ser feita uma divisão adequada e honesta de todos os seus bens; Ter compaixão pelos que sofrem ou foram atingidos pela desventura e ajudá-los na medida de suas possiblidades; Ter atenção para os que lhe querem bem; Cultivar suas próprias aptidões, estudar e somar conhecimentos, tornar-se mais habilidoso e agir sempre respeitando a si mesmo.
 
 [Sumário](<https://maksoud.github.io/Sumário>)
 
