@@ -49,7 +49,8 @@
               "title": "As 5 leis do ouro"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,11 +198,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b66a02343ddf380",
+  "active": "f8ef25c4fa54979e",
   "lastOpenFiles": [
     "Mente e Estudos/O Poder Oculto do Ócio.md",
-    "Mente e Estudos/As 5 leis do ouro.md",
     "Sumário.md",
+    "Mente e Estudos/As 5 leis do ouro.md",
     "Finanças/O homem mais rico da Babilônia.md",
     "Produtos Digitais/Business Model Canvas - Um Guia Prático para o seu Negócio.md",
     "Untitled.md",
