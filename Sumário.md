@@ -54,6 +54,7 @@
 * [O Poder da Ação](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
 * [Proatividade - A chave do sucesso](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
 * [O Poder Oculto do Ócio](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20Oculto%20do%20%C3%93cio>)
+* [Argumentação vs. Discussão](<https://maksoud.github.io/Mente%20e%20Estudos/Argumenta%C3%A7%C3%A3o%20vs%20Discuss%C3%A3o>)
 
 
 ---
