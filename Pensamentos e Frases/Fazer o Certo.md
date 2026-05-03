@@ -1,0 +1,1 @@
+Mesmo que todos estejam fazendo o errado, o errado continua sendo errado. Faça o certo, mesmo que ninguém esteja vendo.

@@ -1,0 +1,1 @@
+Suas conquistas de hoje foram realizadas por seu eu do passado, através de escolhas e atitudes. Presenteie a si mesmo no futuro. Mova-se!

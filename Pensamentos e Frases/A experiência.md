@@ -1,0 +1,1 @@
+Cada falha deixa um ensino, cada ensino deixa uma experiência e cada experiência deixa uma marca.

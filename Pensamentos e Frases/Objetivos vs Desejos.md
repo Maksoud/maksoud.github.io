@@ -1,0 +1,1 @@
+Mentes poderosas tem objetivos, as demais tem desejos.

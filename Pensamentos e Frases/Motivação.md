@@ -1,0 +1,1 @@
+Quando a motivação acabar, não perca seu foco. Mantenha a disciplina e o sucesso será consequência.

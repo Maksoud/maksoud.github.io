@@ -1,0 +1,1 @@
+Se é importante você vai encontrar uma forma de fazer, se não é, vai encontrar uma desculpa para não fazê-lo.
