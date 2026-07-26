@@ -6,14 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is **not a software project**. It is a personal [Obsidian](https://obsidian.md) vault of study notes (in **Brazilian Portuguese**) that is published as a static site to GitHub Pages at https://maksoud.github.io. There is no build step, no test suite, and no application code — the content is Markdown, rendered directly by GitHub Pages.
 
-Content is organized into top-level folders by subject area (e.g. `ITIL 4`, `Data Analyst`, `Estatística`, `Gestão de Projetos`, `Inteligência Artificial (IA)`, `Desenvolvimento Web`, `Produtos Digitais`, `Finanças`, `Criptomoedas`). `Sumário.md` is the hand-maintained table of contents / index linking to notes across all folders.
+Content is organized into top-level folders by subject area: `Carreiras`, `Concursos`, `Criptomoedas`, `Data Analyst`, `Desenvolvimento Web`, `Estatística`, `Finanças`, `Gestão de Projetos`, `Inteligência Artificial (IA)`, `ITIL 4`, `Job Prep`, `Mente e Estudos`, `Pensamentos e Frases`, `ServiceNow`, and `Vendas e Negócios`. `Sumário.md` is the hand-maintained table of contents / index linking to notes across all folders.
 
 ## Working with the content
 
 - **Language**: Write and edit notes in Brazilian Portuguese to match existing content. Folder and file names are also in Portuguese.
 - **Format**: Notes use Obsidian-flavored Markdown. `Markdown Instructions.md` documents the conventions used here, including Obsidian extras like `==highlight==` (marcado), `~~~lang` fenced code blocks, and image sizing syntax `![alt|250x65](url)`.
 - **Images**: Store per-topic images in an `imgs/` subfolder within each subject folder (e.g. `Data Analyst/imgs/1.png`) and reference them with relative paths.
-- **Links & internal references**: Notes cross-link with Obsidian wikilinks and standard Markdown links. When adding a new note, also add a link to it from `Sumário.md` so it is discoverable from the published index.
+- **Links & internal references**: Notes cross-link with Obsidian wikilinks and standard Markdown links. When adding a new note, also add a link to it from `Sumário.md` so it is discoverable from the published index. In `Sumário.md`, entries are grouped under a section heading per subject and each links to the published `https://maksoud.github.io/...` URL (URL-encoded) followed by a date in italics (`— *YYYY-MM-DD*`) marking when the note was first committed. Match that format when adding an entry.
 - `.obsidian/` holds Obsidian editor config (plugins, appearance, workspace). Do not treat it as site content; changes there affect the local editor, not the published site.
 
 ## Publishing workflow
