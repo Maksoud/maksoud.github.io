@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mente e Estudos/A importância do trabalho manual.md",
+                "file": "Desenvolvimento Web/Versionamento Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A importância do trabalho manual"
+              "title": "Versionamento Git"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "0e84ec9ef3c2d24a",
   "lastOpenFiles": [
+    "Mente e Estudos/A importância do trabalho manual.md",
     "Mente e Estudos/A importância do trabalho manual.md.tmp.27268.385161a09469",
     "Desenvolvimento Web/Rastreamento/Funcionalidades.md",
-    "Mente e Estudos/A importância do trabalho manual.md",
     "Desenvolvimento Web/Rastreamento/Requisitos para vendas.md",
     "Desenvolvimento Web/Rastreamento/Estrutura.md",
     "Mente e Estudos/Argumentação vs Discussão.md",
@@ -223,7 +223,6 @@
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório",
     "Criptomoedas/Documentação Técnica/06 Testes",
     "Criptomoedas/Documentação Técnica/05 Gestão de Risco",
-    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico",
-    "Criptomoedas/Documentação Técnica/03 Estratégia"
+    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico"
   ]
 }
