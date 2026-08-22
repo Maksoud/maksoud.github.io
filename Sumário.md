@@ -58,8 +58,6 @@
 * [O Poder Oculto do Ócio](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20Oculto%20do%20%C3%93cio>) — *2026-01-04*
 * [Argumentação vs. Discussão](<https://maksoud.github.io/Mente%20e%20Estudos/Argumenta%C3%A7%C3%A3o%20vs%20Discuss%C3%A3o>) — *2026-03-23*
 * [A importância do trabalho manual](<https://maksoud.github.io/Mente%20e%20Estudos/A%20import%C3%A2ncia%20do%20trabalho%20manual>) — *2026-07-26*
-* [5W2H: transformando intenção em plano de ação](<https://maksoud.github.io/Mente%20e%20Estudos/5W2H>) — *2026-08-22*
-
 
 ---
 ### Produtos Digitais
@@ -104,6 +102,7 @@
 * [Os 4 valores do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%204%20valores%20do%20Manifesto%20Ágil>) — *2024-07-27*
 * [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>) — *2024-07-27*
 * [Processo de criação de valor de produtos digitais](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>) — *2025-03-21*
+* [5W2H: transformando intenção em plano de ação](<https://maksoud.github.io/Gest%C3%A3o%20de%20Projetos/5W2H>) — *2026-08-22*
 
 
 ---
