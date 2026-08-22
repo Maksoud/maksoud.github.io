@@ -103,6 +103,7 @@
 * [Os 12 princípios do Manifesto Ágil](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>) — *2024-07-27*
 * [Processo de criação de valor de produtos digitais](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>) — *2025-03-21*
 * [5W2H: transformando intenção em plano de ação](<https://maksoud.github.io/Gest%C3%A3o%20de%20Projetos/5W2H>) — *2026-08-22*
+* [Governança de TI: um guia para quem está começando](<https://maksoud.github.io/Gest%C3%A3o%20de%20Projetos/Governan%C3%A7a%20de%20TI%20para%20iniciantes>) — *2026-08-22*
 
 
 ---
