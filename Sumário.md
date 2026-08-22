@@ -109,3 +109,8 @@
 ### Vendas e Negócios
 - [Desbloqueie sua Mentalidade de Vendas](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios/Desbloqueie%20sua%20Mentalidade%20de%20Vendas>) — *2025-05-16*
 - [7 Passos para Vender Bem Presencialmente](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios/7%20Passos%20para%20Vender%20Bem%20Presencialmente>) — *2025-05-16*
+
+
+---
+### Pensamentos e Frases
+- [Deixando a sua marca: como ser um criador constrói o seu legado](<https://maksoud.github.io/Pensamentos%20e%20Frases/Deixando%20a%20sua%20marca>) — *2026-08-22*
