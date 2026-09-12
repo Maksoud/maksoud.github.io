@@ -67,22 +67,16 @@ O conteúdo do arquivo `.vscode\settings.json` do meu projeto está assim:
     "chat.tools.terminal.autoApprove": {
         "git diff": true,
         "git status": true,
-        "git status --short": true,
-        "git status -s": true,
         "git log": true,
         "git branch": true,
-        "/^git (diff|status|log|branch|show)(\\s.*)?$/": true,
-        "php": true,
-        "php -v": true,
-        "php -l": true,
-        "/^php(\\s.*)?$/": true,
-        "/^php\\b.*/": true,
-        "/^.*phpunit(\\s.*)?$/": true,
-        "/^vendor[\\\\/]bin[\\\\/]phpunit(\\s.*)?$/": true,
-		"/^.*php\\.exe\\b/": true,
-		"/^.*[Ll]aragon.*php\\.exe\\b/": true,
-		"/^.:\\\\.*php\\.exe\\b/": true
+        "/^git\\s+.*$/": true,
+		"/^php\\s+.*$/": true,
+        "/^.*\\\\php\\.exe\\s+.*$/": true,
+        "/^powershell\\s+.*$/": true,
+        "/^.*[Pp]ower[Sh]ell(\\s+.*)?$/": true
     },
     "php.validate.executablePath": "php"
 }
 ```
+
+Mesmo com todas as configurações, a melhor forma de resolver isso foi utilizando a IDE Antigravity do Google.
