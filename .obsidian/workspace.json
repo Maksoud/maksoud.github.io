@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumário.md",
+                "file": "Inteligência Artificial (IA)/Gemini/Configurações Globais de Preferências.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário"
+              "title": "Configurações Globais de Preferências"
             }
           }
         ]
@@ -171,8 +171,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7bcf0056e5589224",
+  "active": "3b66a02343ddf380",
   "lastOpenFiles": [
+    "Sumário.md",
+    "Inteligência Artificial (IA)/Gemini/Configurações Globais de Preferências.md",
+    "Inteligência Artificial (IA)/Gemini",
     "Gestão de Projetos/Governança de TI para iniciantes.md",
     "Desenvolvimento Web/Versionamento Git.md",
     "Mente e Estudos/A importância do trabalho manual.md",
@@ -188,7 +191,6 @@
     "Carreiras/Habilidades Competitivas.md",
     "Mente e Estudos/O Poder Oculto do Ócio.md",
     "Mente e Estudos/Aprendizado Contínuo.md",
-    "Sumário.md",
     "Finanças/O homem mais rico da Babilônia.md",
     "Mente e Estudos/As 5 leis do ouro.md",
     "Produtos Digitais/Business Model Canvas - Um Guia Prático para o seu Negócio.md",
@@ -203,14 +205,12 @@
     "Mente e Estudos/Diagrama Venn - Ikigai.png",
     "Carreiras/Ser humano no mundo corporativo.md",
     "Carreiras/O cuidado de não se comparar.md",
-    "Carreiras/Manter-se Competitivo no Mercado.md",
     "Carreiras",
     "Criptomoedas/Prompts",
     "Criptomoedas/Documentação Técnica/03 Estratégia/deepseek_mermaid_20250709_160c6b.png",
     "Criptomoedas/Documentação Técnica/03 Estratégia/2025-07-09_08h59_32.png",
     "Criptomoedas/Documentação Técnica/07 Painel e Relatório",
     "Criptomoedas/Documentação Técnica/06 Testes",
-    "Criptomoedas/Documentação Técnica/05 Gestão de Risco",
-    "Criptomoedas/Documentação Técnica/04 Desenvolvimento Técnico"
+    "Criptomoedas/Documentação Técnica/05 Gestão de Risco"
   ]
 }
