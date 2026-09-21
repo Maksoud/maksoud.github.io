@@ -58,6 +58,8 @@
 * [O Poder Oculto do Ócio](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20Oculto%20do%20%C3%93cio>) — *2026-01-04*
 * [Argumentação vs. Discussão](<https://maksoud.github.io/Mente%20e%20Estudos/Argumenta%C3%A7%C3%A3o%20vs%20Discuss%C3%A3o>) — *2026-03-23*
 * [A importância do trabalho manual](<https://maksoud.github.io/Mente%20e%20Estudos/A%20import%C3%A2ncia%20do%20trabalho%20manual>) — *2026-07-26*
+* [Tome uma decisão, não somente faça escolhas](<https://maksoud.github.io/Mente%20e%20Estudos/Tome%20uma%20decis%C3%A3o%2C%20n%C3%A3o%20somente%20fa%C3%A7a%20escolhas>) — *2026-09-21*
+
 
 ---
 ### Produtos Digitais
