@@ -8,6 +8,9 @@
 :: Fix the Git configuration error
 git config --global gc.auto 0
 
+:: Push changes to the remote repository
+git pull origin main
+
 :: Add all changes to git
 git add .
 
