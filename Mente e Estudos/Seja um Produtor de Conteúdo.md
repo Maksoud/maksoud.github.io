@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Seja um Produtor de Conteúdo, Não Apenas um Consumidor
 
@@ -30,7 +30,7 @@ O mundo não precisa apenas de consumidores; ele precisa de pessoas que se arris
 
 Seja um produtor. Comece agora.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Seja%20um%20Produtor%20de%20Conteúdo>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/seja-um-produtor-de-conteudo/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # ⚠️ Posições Fora do Canal  
 
 
@@ -99,3 +101,10 @@ python -m analytics ooc_check --severity=high
 ---
 
 Este documento estabelece protocolos claros para minimizar perdas em cenários adversos, mantendo a disciplina da estratégia original. Atualize as regras conforme aprendizados do mercado!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/posicoes-fora-canal/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

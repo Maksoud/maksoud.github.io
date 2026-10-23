@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Integração com Sistemas Legados, APIs e RPA usando LLMs
 
@@ -112,6 +112,7 @@ Integrar LLMs com **sistemas legados**, **APIs** e **RPA** abre um mundo de poss
 Como engenheiro de prompt, sua responsabilidade será garantir que o **modelo entenda as entradas técnicas**, **converta as saídas de forma amigável** e **funcione de forma confiável dentro do fluxo de automação.**
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/integracao-com-sistemas-legados-apis-e-rpa/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

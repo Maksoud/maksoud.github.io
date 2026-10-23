@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Matriz GUT: O Que É, Como Aplicar e Qual Sua Importância na Gestão de Projetos
 
@@ -62,10 +62,10 @@ A Matriz GUT é fundamental para:
 
 A Matriz GUT é uma ferramenta poderosa e de fácil aplicação, ideal para qualquer gestor que busca eficiência e foco na resolução de problemas dentro de projetos. Ao usar esse método, as decisões passam a ser mais conscientes, estratégicas e alinhadas com os objetivos do projeto.
 
-Em um cenário cada vez mais dinâmico e competitivo, **priorizar bem é o segredo para entregar com excelência** — e a Matriz GUT é uma grande aliada nessa jornada.
+Em um cenário cada vez mais dinâmico e competitivo, **priorizar bem é o segredo para entregar com excelência**, e a Matriz GUT é uma grande aliada nessa jornada.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Matriz%20GUT>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/matriz-gut/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

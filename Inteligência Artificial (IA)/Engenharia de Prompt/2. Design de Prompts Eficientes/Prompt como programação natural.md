@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Prompt como Programação Natural: Princípios de Clareza, Contexto e Objetivo
 
@@ -95,6 +95,7 @@ Adotar a mentalidade de **programador natural** na hora de criar prompts fará v
 👉 Quanto mais o seu prompt parecer um **"briefing para um humano"**, melhor será o resultado.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/prompt-como-programacao-natural/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### A Importância do Aprendizado Contínuo
 
@@ -32,7 +32,7 @@ O aprendizado é uma jornada para a vida toda. Encare essa jornada com entusiasm
 
 O aprendizado contínuo não é apenas sobre se manter relevante no mercado de trabalho; é sobre crescimento, realização e a construção de um futuro mais significativo.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Aprendizado%20Contínuo>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/aprendizado-continuo/)
 
 <sup><sub>
 Renée Maksoud - junho de 2024

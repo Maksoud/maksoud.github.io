@@ -1,3 +1,5 @@
+### Sumário
+
 **1. Persona**:
 
 - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.
@@ -86,3 +88,10 @@
 - **Prática em Projetos**: Busque oportunidades para atuar como SCRUM Master em projetos internos na sua empresa ou em iniciativas voluntárias.
 - **Participação em Comunidades**: Participe de meetups e comunidades ágeis para trocar experiências e aprender com outros profissionais da área.
 - **Leitura e Estudo Contínuo**: Mantenha-se atualizado com as últimas tendências e práticas em metodologias ágeis através de livros, blogs, e webinars.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-scrum-master/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

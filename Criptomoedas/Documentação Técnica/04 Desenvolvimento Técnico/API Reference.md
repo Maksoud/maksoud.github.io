@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📡 API Reference  
 `/Documentação Técnica/04 Desenvolvimento Técnico/API Reference.md`  
 
@@ -169,4 +171,11 @@ Acesse: `http://localhost:8000/docs`
 ### ✅ Checklist de Implementação  
 - [ ] Testar todos endpoints com `pytest`  
 - [ ] Configurar rate limiting (100 requests/min)  
-- [ ] Documentar erros personalizados  
+- [ ] Documentar erros personalizados
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/api-reference/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

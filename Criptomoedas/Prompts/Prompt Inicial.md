@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 Gostaria de fazer um sistema para operação de criptomoedas. Algo que eu possa ter várias contas da corretora Binance operando em diversas estratégias configuráveis para compra e venda de criptoativos. Negociando assim vários pares e gravando todas as operações em um banco de dados onde eu possa acompanhar relatórios de desempenho. Penso em colocar a estratégia para rodar em modo demonstrativo e assim me ajudar a escolher uma estratégia mais segura para operar com o meu capital da corretor. 
 
 Já fiz um documento com o detalhamento do que preciso para a primeira estratégia, onde eu vou comprar na baixa e vender na alta em um determinado canal. Para isso, será necessário acompanhar a valorização e desvalorização do marcado para marcar o preço de compra e preço de venda, garantindo assim um maior ganho nas negociações. 
@@ -8,7 +10,7 @@ Como a IA consegue me ajudar a alcançar esse desejo e como eu deveria seguir co
 
 ---
 
-Adorei o plano — é ambicioso, mas super viável se a gente quebrar em pedaços pequenos e “ensináveis” pra IA. Vou te mostrar 3 coisas, bem objetivas:
+Adorei o plano, é ambicioso, mas super viável se a gente quebrar em pedaços pequenos e “ensináveis” pra IA. Vou te mostrar 3 coisas, bem objetivas:
 
 1. um recorte de MVP com arquitetura mínima;
 2. como dividir o trabalho em “tickets” que a IA entende;
@@ -201,3 +203,10 @@ Se topar, me diga:
 3. se quer **ccxt** ou simulador puro para o paper (eu recomendo ccxt).
 
 A partir daí seguimos por tickets usando os modelos de prompt acima.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/prompts/prompt-inicial/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - agosto de 2025
+</sub></sup>

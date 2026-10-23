@@ -1,3 +1,5 @@
+### Sumário
+
 [[Desvio Padrão]]
 [[Média (Média Aritmética) e Mediana]]
 [[Score-Z (Z-Score)]]
@@ -56,3 +58,10 @@ A estatística aplicada à análise de dados é crucial para a carreira de um ci
 - **Finanças**: Prever movimentos do mercado financeiro e avaliar o risco de investimentos.
 
 Em resumo, a estatística aplicada à análise de dados é essencial para transformar dados brutos em informações acionáveis, permitindo aos cientistas de dados extrair insights valiosos e tomar decisões informadas em diversas áreas de atuação.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/estatistica/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

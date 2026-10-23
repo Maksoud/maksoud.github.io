@@ -1,3 +1,5 @@
+### Sumário
+
 | Item | Atividades                                                                                                                                                                                                               | Datas e Horários                                   |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
 | 1    | Publicação do Edital                                                                                                                                                                                                     | 09/10/2024                                         |
@@ -21,3 +23,10 @@
 | 19   | Realização - Provas Objetiva e Discursiva                                                                                                                                                                                | 15/12/2024                                         |
 | 20   | Período para correção de dados cadastrais no site do IBFC                                                                                                                                                                | das 10h do dia 16/12 até às 17h do dia 18/12/2024  |
 As datas e os períodos estabelecidos no cronograma são passíveis de alteração, conforme necessidade e conveniência dos CORREIOS e do IBFC. As demais datas de resultados serão divulgadas em momento oportuno. Os candidatos devem acompanhar nos endereços eletrônicos do IBFC - www.ibfc.org.br e dos CORREIOS - www.correios.com.br, as publicações de todos os atos, editais, retificações, convocações e comunicados relativos a este Concurso Público
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/correios/cronograma/)
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

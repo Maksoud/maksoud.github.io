@@ -1,3 +1,5 @@
+### Sumário
+
 **1. Persona**:
 
 - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.
@@ -27,3 +29,10 @@
 
 - **Definição**: Indique a ação desejada ou a transformação esperada após a implementação das sugestões.
 - **Exemplo**: "Depois de obter essas informações, pretendo me inscrever em cursos online e começar a aplicar para vagas de analista de dados."
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-analista-de-dados/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

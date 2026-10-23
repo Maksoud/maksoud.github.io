@@ -1,3 +1,5 @@
+### Sumário
+
 #### Data Population
 
 The CMDB allows for accurate data acquisition through:
@@ -44,3 +46,9 @@ Agreement upon configuration management goals and objectives is essential to ens
 
 CMDB enables you to create a service dependency map so that you can relate events, incidents, problems, and requests for change to service impact. **To determine the specific CI information** required to support these capabilities and build organizational buy-in, **you will need to involve the right stakeholders**. This stakeholder group should include the process owners, process managers, and other subject matter experts for each of the processes.
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/servicenow/cmdb/)
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

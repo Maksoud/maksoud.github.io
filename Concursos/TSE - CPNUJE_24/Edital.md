@@ -1,3 +1,5 @@
+### Sumário
+
 [Cebraspe](https://www.cebraspe.org.br/concursos/cpnuje_24)
 
 Abertura
@@ -13,3 +15,10 @@ Retificações 3
 https://cdn.cebraspe.org.br/concursos/cpnuje_24/arquivos/EDITAL_3_2024_CPNUJE_RET_REQUISITOS_CONTEUDO_CRONOGRAMA.PDF
 
 CARGO 17: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/tse-cpnuje-24/edital/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2024
+</sub></sup>

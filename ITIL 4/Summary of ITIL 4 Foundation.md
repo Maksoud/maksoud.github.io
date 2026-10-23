@@ -1,3 +1,5 @@
+### Sumário
+
 **1 Introduction 1**
 
 1.1 IT service management in the modern world 2
@@ -109,3 +111,10 @@
 	5.3.1 Deployment management 160
 	5.3.2 Infrastructure and platform management 162
 	5.3.3 Software development and management 165
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summary-of-itil-4-foundation/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

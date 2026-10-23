@@ -1,3 +1,5 @@
+### Sumário
+
 **CARGO 17: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO**
 
 **REQUISITOS:**
@@ -16,3 +18,10 @@ R$ 13.994,78
 
 **JORNADA DE TRABALHO:**
 40 horas semanais
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/tse-cpnuje-24/remuneracao/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2024
+</sub></sup>

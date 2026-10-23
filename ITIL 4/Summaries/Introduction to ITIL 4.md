@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 The introduction to ITIL 4 sets the stage for understanding the evolution and significance of ITIL (Information Technology Infrastructure Library) in modern IT service management. ITIL 4 represents a significant update from previous versions, designed to support organizations in navigating the complexities of the current digital landscape.
 
 ### Key Elements of the Introduction
@@ -24,3 +26,10 @@ The introduction to ITIL 4 sets the stage for understanding the evolution and si
 ### Conclusion
 
 The introduction to ITIL 4 highlights the framework's evolution to meet the needs of contemporary IT and business environments. It underscores the importance of a holistic and integrated approach to service management, which is essential for delivering value and driving continuous improvement. ITIL 4's flexible structure and alignment with modern practices make it a valuable tool for organizations seeking to enhance their service management capabilities.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/introduction-to-itil-4/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

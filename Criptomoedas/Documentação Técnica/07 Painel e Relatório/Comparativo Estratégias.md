@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🔄 Comparativo entre Estratégias  
 
 
@@ -94,3 +96,10 @@ python -m analytics strategy_report --period=6m
 ---
 
 Este documento permite identificar qual estratégia melhor se adapta às condições de mercado atuais, com base em dados objetivos. Atualize trimestralmente!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/comparativo-estrategias/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

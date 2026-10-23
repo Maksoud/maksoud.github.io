@@ -1,3 +1,5 @@
+### Sumário
+
 ## Switching carrer path
 
 Switching to a career in data science is an exciting move! Here's a breakdown of what you should focus on to prepare:
@@ -156,3 +158,10 @@ Work on end-to-end data science projects with real-world datasets.
 
 Premium Data Science Interview Resources
 [https://topmate.io/arif_alam/798098](https://topmate.io/arif_alam/798098)
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/job-prep/career-path-data-analyst/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

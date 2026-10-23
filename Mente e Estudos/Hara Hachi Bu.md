@@ -1,6 +1,6 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Conceitos Japoneses de Vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conceitos%20Japoneses%20de%20Vida>)
+### Sumário > Conceitos Japoneses de Vida
 
-# **Hara Hachi Bu (腹八分目) — “Coma até estar 80% cheio”**
+# **Hara Hachi Bu (腹八分目): “Coma até estar 80% cheio”**
 
 **Hara Hachi Bu** (腹八分目) é um antigo ensinamento da ilha de Okinawa, no Japão, que significa “coma até estar 80% satisfeito”. Trata-se de uma filosofia de moderação alimentar que propõe parar de comer antes de atingir a saciedade total, contribuindo para uma vida mais longa e saudável.
 
@@ -8,13 +8,13 @@ A expressão é um lembrete para exercitar o autocontrole, promovendo não apena
 
 ### Origem
 
-A prática do Hara Hachi Bu tem origem nas tradições confucionistas trazidas da China e foi profundamente enraizada na cultura de Okinawa — uma das chamadas “Zonas Azuis”, regiões do mundo com alta concentração de centenários. Os moradores de Okinawa têm estilos de vida simples, com alimentação equilibrada, forte senso de comunidade e aplicação diária de preceitos como o Hara Hachi Bu.
+A prática do Hara Hachi Bu tem origem nas tradições confucionistas trazidas da China e foi profundamente enraizada na cultura de Okinawa, uma das chamadas “Zonas Azuis”, regiões do mundo com alta concentração de centenários. Os moradores de Okinawa têm estilos de vida simples, com alimentação equilibrada, forte senso de comunidade e aplicação diária de preceitos como o Hara Hachi Bu.
 
 Estudos indicam que essa prática está diretamente relacionada à baixa incidência de doenças cardíacas, diabetes e obesidade na região.
 
 ### Aplicações e Objetivos
 
-Hara Hachi Bu vai além da alimentação — é um princípio de moderação e consciência que pode ser aplicado em outros aspectos da vida, como consumo, emoções e comportamento. Mas seu uso mais direto é na nutrição.
+Hara Hachi Bu vai além da alimentação, é um princípio de moderação e consciência que pode ser aplicado em outros aspectos da vida, como consumo, emoções e comportamento. Mas seu uso mais direto é na nutrição.
 
 **Objetivos principais do Hara Hachi Bu:**
 
@@ -34,7 +34,7 @@ Hara Hachi Bu vai além da alimentação — é um princípio de moderação e c
 
 Durante uma refeição, ao perceber que está 70–80% satisfeito, a pessoa faz uma pausa e avalia se realmente precisa continuar comendo. Em vez de repetir o prato por impulso, escolhe respeitar o limite natural do corpo.
 
-Essa atitude, repetida diariamente, resulta em melhora no metabolismo, redução do peso corporal e mais energia ao longo do dia — além de contribuir para uma vida mais longa.
+Essa atitude, repetida diariamente, resulta em melhora no metabolismo, redução do peso corporal e mais energia ao longo do dia, além de contribuir para uma vida mais longa.
 
 ### Técnicas Semelhantes
 
@@ -43,7 +43,7 @@ Essa atitude, repetida diariamente, resulta em melhora no metabolismo, redução
 - **Dieta Mediterrânea:** Alimentação equilibrada e moderada, que também promove longevidade com base em princípios naturais e conscientes.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Hara%20Hachi%20Bu>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/hara-hachi-bu/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

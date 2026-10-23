@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Modelo Generativo
 
@@ -114,6 +114,9 @@ Existem várias arquiteturas usadas para construir modelos generativos. Abaixo e
 ### Conclusão
 
 Os **modelos generativos** são ferramentas poderosas que permitem criar novos dados realistas e inovadores, transformando diversas indústrias. De geração de imagens a texto e áudio, essas tecnologias estão no centro dos avanços em IA. Apesar dos desafios técnicos e éticos, seu potencial continua a crescer, revolucionando áreas como criatividade, automação e simulação.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/modelo-generativo/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

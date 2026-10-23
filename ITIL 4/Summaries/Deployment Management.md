@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 # ITIL Deployment Management
 
 [Blog](https://purplegriffon.com/blog) > [IT Service Management - ITIL®](https://purplegriffon.com/blog/it-service-management) > [ITIL Deployment Management](https://purplegriffon.com/blog/itil-deployment-management-practice)
@@ -339,3 +341,10 @@ In summary, ITIL 4 release management focuses on the overall planning and govern
 ## Final Notes on Deployment Management and ITIL
 
 ITIL 4 deployment management focuses on planning, coordinating, and minimising risks in the deployment of new or changed IT services. It involves activities such as release packaging, build management, verification and validation, and communication and coordination. The objective is to ensure smooth deployments, minimise disruptions, and achieve successful implementation. Continual improvement is emphasised, enabling organisations to learn from past deployments, refine processes, gather feedback, and enhance efficiency. By following ITIL 4 deployment management practices, organisations can deliver high-quality IT services, reduce risks, and align deployments with business objectives, ultimately enhancing customer satisfaction and driving business success.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/deployment-management/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

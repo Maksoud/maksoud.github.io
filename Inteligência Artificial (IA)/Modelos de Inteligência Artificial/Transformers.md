@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Transformers
 
@@ -87,6 +87,9 @@ Desde a introdução dos Transformers, muitos modelos de PLN de última geraçã
 ### Conclusão
 
 Os Transformers são uma arquitetura revolucionária em aprendizado profundo, especialmente no processamento de linguagem natural, mas também em outros domínios. Sua capacidade de capturar dependências de longo alcance e de processar sequências de maneira paralela os torna uma escolha poderosa para muitas tarefas. Desde sua introdução, eles foram adotados em diversos modelos e são hoje uma das bases mais importantes para avanços na inteligência artificial.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/transformers/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

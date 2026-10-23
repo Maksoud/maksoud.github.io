@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # **Desbloqueie sua Mentalidade de Vendas**
 
@@ -6,7 +6,7 @@ Algumas pessoas parecem ter nascido com o dom das vendas. São aquelas que, com 
 
 Se você sente dificuldade em começar, não está sozinho. Mas precisa saber: **a mente bem treinada enxerga oportunidades onde antes haviam apenas obstáculos**. E este artigo é o seu convite para iniciar essa transformação.
   
-## **1. A Venda Está no Cotidiano — Você Só Precisa Treinar os Olhos**
+## **1. A Venda Está no Cotidiano: Você Só Precisa Treinar os Olhos**
 
 Antes de vender um produto, vendemos ideias o tempo todo: quando indicamos um filme, falamos bem de um restaurante ou explicamos nosso ponto de vista. A base da venda está em **comunicar valor de forma genuína**.
 
@@ -17,7 +17,7 @@ Antes de vender um produto, vendemos ideias o tempo todo: quando indicamos um fi
 
 > **🔁 Desafio 1 – Mentalidade do Vendedor:**  
 > Durante os próximos 3 dias, observe 5 situações onde você _indica, convence ou influencia alguém._ Anote o que fez, como fez e qual foi o resultado.  
-> _Objetivo: perceber que você já sabe vender — só precisa ajustar o foco e ganhar confiança._
+> _Objetivo: perceber que você já sabe vender, só precisa ajustar o foco e ganhar confiança._
 
 ## **2. Três Métodos Testados para Começar a Vender Sem Medo**
 
@@ -37,7 +37,7 @@ Temos uma frase simples, mas extremamente poderosa. Ela ativa **emoções profun
 - **Olfato**: mesmo sem ser citado, o cheiro do bolo no forno surge na lembrança.
 - **Afeto emocional**: a figura da avó remete a cuidado, segurança, momentos felizes da infância.
 
-Essa técnica funciona porque **em vez de vender um bolo**, estamos vendendo **um momento de conforto**, uma lembrança boa — e o desejo de revivê-la. O cliente não compra apenas o produto, mas a **sensação de acolhimento, nostalgia e carinho**.
+Essa técnica funciona porque **em vez de vender um bolo**, estamos vendendo **um momento de conforto**, uma lembrança boa, e o desejo de revivê-la. O cliente não compra apenas o produto, mas a **sensação de acolhimento, nostalgia e carinho**.
 
 Esse é o poder do método: **conectar o que você vende com sentimentos reais**. Quando isso acontece, a venda deixa de ser sobre convencimento e passa a ser sobre identificação.
 ### **B. Método da Curiosidade**
@@ -55,7 +55,7 @@ Essa frase desperta um gatilho psicológico extremamente eficaz: **a curiosidade
 - **Urgência**: o cérebro interpreta que pode estar perdendo uma vantagem que outras pessoas já estão aproveitando.
 - **Surpresa e descoberta**: a frase “nem sabia que existia” ativa o desejo de ser surpreendido, como quem está prestes a descobrir um “segredo útil”.
 
-Esse tipo de abordagem funciona porque **ativa o senso de oportunidade oculta** — e ninguém gosta de ficar de fora de algo que pode facilitar a vida. O método não entrega tudo de cara. Ele **abre uma porta** e convida a pessoa a atravessá-la por vontade própria.
+Esse tipo de abordagem funciona porque **ativa o senso de oportunidade oculta**, e ninguém gosta de ficar de fora de algo que pode facilitar a vida. O método não entrega tudo de cara. Ele **abre uma porta** e convida a pessoa a atravessá-la por vontade própria.
 
 **Resultado?** O cliente se sente atraído sem pressão e, ao aceitar saber mais, **já deu o primeiro passo da venda com autonomia e interesse genuíno.**
 ### **C. Método das 3 Perguntas**
@@ -76,9 +76,9 @@ Esse método coloca o cliente no centro da conversa, criando um ambiente seguro 
 - **Autonomia e controle**: ao ser questionado sobre o que valoriza, o cliente sente que **sua opinião importa**, o que aumenta a confiança na conversa.
 - **Segurança e curiosidade combinadas**: ao final, a proposta de uma “solução simples” abre espaço para curiosidade, mas de forma suave, com o cliente já se sentindo ouvido e respeitado.
 
-Esse método **desarma resistências**, porque **não começa vendendo** — começa ouvindo. E quando a pessoa sente que foi ouvida, ela **baixa a guarda** e se torna mais receptiva a considerar o que você tem a oferecer.
+Esse método **desarma resistências**, porque **não começa vendendo**, começa ouvindo. E quando a pessoa sente que foi ouvida, ela **baixa a guarda** e se torna mais receptiva a considerar o que você tem a oferecer.
 
-**Resultado?** A venda se constrói em cima de uma conversa sincera, onde o cliente é coautor da solução — e não um alvo passivo de convencimento.
+**Resultado?** A venda se constrói em cima de uma conversa sincera, onde o cliente é coautor da solução, e não um alvo passivo de convencimento.
 ## **3. A Primeira Venda: Uma Experiência Libertadora**
 
 > **🎯 Meta:** Realizar uma venda em até 7 dias.
@@ -100,9 +100,9 @@ Essa análise será fundamental para identificar o que funcionou bem, o que pode
 
 #### **Importante lembrar:**
 
-Nem toda tentativa vai virar venda — e isso é absolutamente normal. **Vendas são uma construção.** Cada conversa, cada abordagem é uma oportunidade de treino. Quanto mais você pratica, mais natural fica. E com mais naturalidade, **vem a confiança — e com ela, as conversões.**
+Nem toda tentativa vai virar venda, e isso é absolutamente normal. **Vendas são uma construção.** Cada conversa, cada abordagem é uma oportunidade de treino. Quanto mais você pratica, mais natural fica. E com mais naturalidade, **vem a confiança, e com ela, as conversões.**
 
-A primeira venda pode parecer pequena para quem olha de fora, mas por dentro... é libertadora. Ela quebra a barreira do “eu não sou bom com vendas” e te leva para o “eu consigo — e estou melhorando a cada dia”.
+A primeira venda pode parecer pequena para quem olha de fora, mas por dentro... é libertadora. Ela quebra a barreira do “eu não sou bom com vendas” e te leva para o “eu consigo, e estou melhorando a cada dia”.
 ## **4. Venda é Autoconhecimento**
 
 Testar novos métodos é também se conhecer. Você prefere vender conversando, escrevendo, gravando vídeos, usando redes sociais ou no tete-a-tete?
@@ -124,18 +124,18 @@ Registre qual formato te deixa mais à vontade. Isso é parte do seu “estilo d
 > - Qual foi a reação
 > - O que você percebeu que funcionou (ou não)
 
-Essa prática vai ajudar você a enxergar sua evolução com clareza — **etapa por etapa**.
+Essa prática vai ajudar você a enxergar sua evolução com clareza, **etapa por etapa**.
 
-Lembre-se: **não existe fórmula mágica. Nem todo contato vai virar uma venda.** E tudo bem. O importante é entender que **quanto mais você pratica, mais confiante e natural se torna** — e isso **aumenta drasticamente sua taxa de sucesso com o tempo**.
+Lembre-se: **não existe fórmula mágica. Nem todo contato vai virar uma venda.** E tudo bem. O importante é entender que **quanto mais você pratica, mais confiante e natural se torna**, e isso **aumenta drasticamente sua taxa de sucesso com o tempo**.
 
 ## **5. Conclusão: Venda é Caminho, Não Ponto de Chegada**
 
 Você não precisa ser perfeito para começar. Precisa começar para se aperfeiçoar. Vender não é sobre falar bonito, mas **entender pessoas, resolver problemas e entregar valor de forma honesta**.
 
-Se você seguir este plano, em pouco tempo, notará algo incrível: sua mente começará a identificar oportunidades de forma natural — como se o mundo todo fosse um campo fértil esperando por suas sementes.
+Se você seguir este plano, em pouco tempo, notará algo incrível: sua mente começará a identificar oportunidades de forma natural, como se o mundo todo fosse um campo fértil esperando por suas sementes.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Vendas%20e%20Neg%C3%B3cios%2FDesbloqueie%20sua%20Mentalidade%20de%20Vendas>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/vendas-e-negocios/desbloqueie-sua-mentalidade-de-vendas/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

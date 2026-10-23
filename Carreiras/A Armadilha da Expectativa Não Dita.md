@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### A Armadilha da Expectativa Não Dita
 
@@ -41,7 +41,7 @@ A confiança se constrói com honestidade e ações concretas, não com o misté
 
 
 
-[link de compartilhamento](<https://maksoud.github.io/Carreiras/A%20Armadilha%20da%20Expectativa%20N%C3%A3o%20Dita>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/a-armadilha-da-expectativa-nao-dita/)
 
 <sup><sub>
 Renée Maksoud - setembro de 2025

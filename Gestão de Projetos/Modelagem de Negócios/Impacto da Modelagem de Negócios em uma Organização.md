@@ -1,3 +1,5 @@
+### Sumário
+
 ### **Impacto da Modelagem de Negócios na Eficiência Organizacional**
 
 1. **Clareza de processos e responsabilidades**  
@@ -46,3 +48,10 @@ O BABOK (Guia de Conhecimento em Análise de Negócios) trata a modelagem de neg
 - **Análise de Requisitos e Definição de Soluções (Requirements Analysis and Design Definition)**
 
 A prática de modelagem também contribui diretamente para o entendimento do **estado atual**, a definição do **estado futuro desejado** e o **caminho para transição**.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/modelagem-de-negocios/impacto-da-modelagem-de-negocios-em-uma-organizacao/)
+
+<sup><sub>
+Renée Maksoud - abril de 2025
+</sub></sup>

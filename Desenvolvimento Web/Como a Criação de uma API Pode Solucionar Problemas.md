@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Como a Criação de uma API Pode Solucionar Problemas
 
@@ -39,7 +39,7 @@ Uma API atua como **ponte entre esses sistemas**, permitindo que dados fluam aut
 
 ### 2. **Compartilhamento Seguro de Dados com Parceiros**
 
-Empresas que precisam fornecer dados ou funcionalidades para terceiros — como fornecedores, afiliados ou clientes — enfrentam o desafio de fazer isso com **segurança e controle**.
+Empresas que precisam fornecer dados ou funcionalidades para terceiros (como fornecedores, afiliados ou clientes) enfrentam o desafio de fazer isso com **segurança e controle**.
 
 #### A solução com API:
 
@@ -165,7 +165,7 @@ Uma API **verdadeiramente RESTful** deve:
 - Ter **recursos identificáveis por URIs**;
 - Permitir **cache** quando possível;
 - Fornecer representações claras dos recursos;
-- Utilizar **hipermídia** para navegação (HATEOAS — opcional, mas faz parte do conceito completo).
+- Utilizar **hipermídia** para navegação (HATEOAS, opcional, mas faz parte do conceito completo).
 
 ---
 ### Diferença prática entre REST e RESTful
@@ -181,7 +181,7 @@ Uma API **verdadeiramente RESTful** deve:
 Usar **REST como referência** ajuda a criar APIs organizadas, padronizadas e fáceis de consumir. Ao **adotar o estilo RESTful**, você garante que sua API esteja preparada para crescer de forma escalável, segura e eficiente, com interfaces claras e compreensíveis por qualquer sistema ou linguagem de programação.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Como%20a%20Cria%C3%A7%C3%A3o%20de%20uma%20API%20Pode%20Solucionar%20Problemas>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/como-a-criacao-de-uma-api-pode-solucionar-problemas/)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

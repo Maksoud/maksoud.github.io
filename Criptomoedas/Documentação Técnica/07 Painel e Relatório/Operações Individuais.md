@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📝 Operações Individuais  
 
 
@@ -127,3 +129,10 @@ python -m validator trades_202305.csv --check=all
 ---
 
 Este documento permite rastrear cada operação com granularidade, essencial para otimização da estratégia. Mantenha registros históricos por pelo menos 2 anos!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/operacoes-individuais/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

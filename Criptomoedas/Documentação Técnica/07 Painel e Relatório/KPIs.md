@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📊 KPIs Estratégicos  
 
 
@@ -100,3 +102,10 @@ python -c "from analytics import kpis; print(kpis.calculate_win_rate())"
 ---
 
 Este documento estabelece os indicadores essenciais para avaliação objetiva do desempenho do sistema, alinhados às melhores práticas do mercado. Atualize as metas periodicamente conforme a evolução do projeto!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/kpis/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

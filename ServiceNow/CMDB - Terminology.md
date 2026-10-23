@@ -1,3 +1,4 @@
+### Sumário
 
 **Configuration Item (CI)** - Physical and logical components of an infrastructure that needs to be managed to deliver a product or service and are currently, or soon will be, under configuration management.  For example, a network device, a server, an application, a delivery truck, or service.
 
@@ -58,3 +59,10 @@ The CMDB is not the authoritative source of all information:
 **Application** - Applications that comprise an application service as configuration items (CIs). The various Applications and the relationships between them, that comprise an application service, are stored in the CMDB. (i.e. Tomcat, Apache, Microsoft SQL, Oracle, IIS).
 
 **DevOps** - Consists of developers who build applications and the operations groups who deploy and maintain them within an enterprise. In a DevOps environment, these two groups are combined into one in order to work more effectively together to accelerate and improve service delivery.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/servicenow/cmdb-terminology/)
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

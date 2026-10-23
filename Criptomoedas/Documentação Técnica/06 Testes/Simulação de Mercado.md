@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📊 Simulação de Mercado  
 `/Documentação Técnica/06 Testes/Simulação de Mercado.md`  
 
@@ -154,3 +156,10 @@ python -m pytest backtesting/tests/test_simulator.py -v
 ---
 
 Este documento fornece a base para validação científica da estratégia antes de ir ao vivo, reduzindo riscos operacionais.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/simulacao-de-mercado/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

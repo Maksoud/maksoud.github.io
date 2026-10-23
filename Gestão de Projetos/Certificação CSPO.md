@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Certificação CSPO
 
@@ -80,7 +80,7 @@ Para obter a certificação CSPO, o participante deve completar o curso aprovado
 
 Ao concluir o curso preparatório CSPO, você estará bem equipado para assumir a função de Product Owner em uma equipe Scrum, contribuindo de maneira significativa para o sucesso do produto e da organização.
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Certificação%20CSPO>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/certificacao-cspo/)
 
 <sup><sub>
 Renée Maksoud - julho de 2024

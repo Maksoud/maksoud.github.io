@@ -1,4 +1,6 @@
-# Revisão do esquema SQL — Bot de Trading Binance (PostgreSQL)
+### Sumário > Projeto de Gestão de Criptomoedas
+
+# Revisão do esquema SQL: Bot de Trading Binance (PostgreSQL)
 Atualizado em 13/08/2025
 
 A sua proposta **cobre parcialmente** os requisitos. Pontos fortes: entidades centrais (`clients`, `symbols`, `strategies`, `positions`, `trades`, `capital_allocations`) e índices básicos.  
@@ -260,7 +262,7 @@ ALTER TABLE positions
 
 ---
 
-# Alembic — Migração inicial do esquema (PostgreSQL)
+# Alembic: Migração inicial do esquema (PostgreSQL)
 
 Abaixo estão os arquivos e passos para versionar **o DDL revisado** com Alembic.
 
@@ -591,3 +593,10 @@ def downgrade() -> None:
 - Definir contrato dos `params` (chaves obrigatórias, validações) no código (Pydantic).
 - Implementar criptografia das chaves no app (ex.: `cryptography.Fernet`) antes de persistir em `accounts`.
 - Criar **views**/materialized views para relatórios (ex.: PnL diário por estratégia).
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/esquema-sql/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - agosto de 2025
+</sub></sup>

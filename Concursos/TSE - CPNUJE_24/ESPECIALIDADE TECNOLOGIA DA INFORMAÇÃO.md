@@ -1,3 +1,5 @@
+### Sumário
+
 **CARGO 17: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO**
 
 **ENGENHARIA DE SOFTWARE:**
@@ -305,3 +307,10 @@
 | E      | Exercício de atividade autônoma e (ou) profissional de nível superior na Administração Pública ou na iniciativa privada, em empregos/cargos/funções na área a que concorre.  | 0,60 p/ano completo, sem sobreposição de tempo | 4,80                     |
 
 **TOTAL MÁXIMO DE PONTOS: 10,00**
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/tse-cpnuje-24/especialidade-tecnologia-da-informacao/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2024
+</sub></sup>

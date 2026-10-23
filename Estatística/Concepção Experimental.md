@@ -1,3 +1,5 @@
+### Sumário
+
 ## Concepção Experimental
 
 A concepção experimental é o planejamento cuidadoso de um experimento para garantir que os resultados sejam válidos, confiáveis e possam ser usados para inferir conclusões sobre a população ou processo de interesse. É fundamental na ciência de dados e análise de dados, pois permite testar hipóteses de forma controlada e sistemática.
@@ -64,3 +66,10 @@ Os mesmos sujeitos ou unidades experimentais são medidos várias vezes sob dife
 ## Conclusão
 
 A concepção experimental é um componente crucial da ciência de dados e da análise de dados, garantindo que os experimentos sejam projetados de maneira a fornecer resultados válidos e confiáveis. Compreender os diferentes tipos de desenhos experimentais e suas aplicações permite que cientistas de dados e analistas de dados realizem estudos rigorosos e tirem conclusões precisas sobre os dados analisados.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/concepcao-experimental/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

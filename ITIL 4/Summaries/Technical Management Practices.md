@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 The "Technical Management Practices" chapter in ITIL 4 focuses on the specific technical and technological aspects of service management. These practices ensure that IT services are supported by robust and efficient technical solutions and infrastructure.
 
 ### Key Technical Management Practices
@@ -22,3 +24,10 @@ The technical management practices are integral to the ITIL 4 framework, interac
 ### Conclusion
 
 The "Technical Management Practices" chapter in ITIL 4 outlines the essential practices for managing the technical aspects of IT services. By implementing these practices, organizations can ensure that their technical infrastructure and software development processes are robust, efficient, and aligned with overall business objectives. This helps in delivering high-quality services that meet customer expectations and support business goals.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/technical-management-practices/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

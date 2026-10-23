@@ -1,3 +1,5 @@
+### Sumário
+
 ##### Pontos Analisados
 
 - Grande capacidade de questionar e criticar;
@@ -85,3 +87,10 @@
 - **Trabalhar na separação entre vida pessoal e profissional**: Mantenha uma clara distinção entre os dois mundos para evitar que questões pessoais de seus colegas interfiram nas suas decisões e relacionamentos profissionais.
 
 Ao seguir essas recomendações e equilibrar seus pontos fortes com o desenvolvimento nas áreas de melhoria, você terá uma base sólida para crescer em sua carreira, tornando-se um líder ainda mais eficaz e colaborativo dentro da empresa.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/avaliacao-de-desempenho-profissional-2023/)
+
+<sup><sub>
+Renée Maksoud - setembro de 2024
+</sub></sup>

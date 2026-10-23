@@ -1,12 +1,12 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # **LinkedIn, um perfil campeão: como destacar seu perfil e atrair recrutadores**
 
-No mercado competitivo atual, não basta ter um perfil no LinkedIn — é preciso ter um perfil campeão. Esse artigo traz dicas práticas para você personalizar seu LinkedIn de forma estratégica e atrair oportunidades, especialmente se você atua na área de TI.
+No mercado competitivo atual, não basta ter um perfil no LinkedIn, é preciso ter um perfil campeão. Esse artigo traz dicas práticas para você personalizar seu LinkedIn de forma estratégica e atrair oportunidades, especialmente se você atua na área de TI.
 
 ### **1. Foto de perfil: profissional, clara e acessível**
 
-A primeira impressão conta — e muito. Sua foto deve comunicar profissionalismo, acessibilidade e confiança.
+A primeira impressão conta, e muito. Sua foto deve comunicar profissionalismo, acessibilidade e confiança.
 
 **Dicas práticas:**
 
@@ -169,7 +169,7 @@ O mercado muda. As ferramentas também. Atualize seu perfil **a cada 2-3 meses**
 
 
 
-[link de compartilhamento](<https://maksoud.github.io/Carreiras/LinkedIn%2C%20um%20perfil%20campe%C3%A3o>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/linkedin-um-perfil-campeao/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

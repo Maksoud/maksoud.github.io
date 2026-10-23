@@ -1,3 +1,5 @@
+### Sumário
+
 # 📌 Estratégia Inicial: Canal de Preço com Controle de Capital e Venda Programada com Lucro
 
 
@@ -13,7 +15,7 @@ Executar operações dentro de um canal de preço pré-estabelecido, priorizando
 |**Timeframe de Análise**|Gráfico de 4 horas (H4)|
 |**Canal de Preço**|Base: 100.489 / Teto: 110.626|
 |**Capital Alocado**|20% do saldo disponível (valor fixo por estratégia)|
-|**Lucro**|Não reinvestido — permanece separado do capital de operação|
+|**Lucro**|Não reinvestido, permanece separado do capital de operação|
 |**Taxas de Operação**|Consideradas no cálculo do preço mínimo de venda|
 |**Critério de Compra**|Valorização de +1% a +2% sobre o fundo do canal (configurável)|
 |**Critério de Venda**|Queda de -1% a -2% a partir do topo, com lucro acima das taxas|
@@ -143,6 +145,8 @@ Toda compra realizada será registrada com:
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/estrategia-canal-de-preco-com-controle-de-capital-e-venda-programada-com-lucro/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Hospedando um Site - Avançado
 
@@ -297,7 +297,7 @@ sudo systemctl stop apache2 sudo systemctl start apache2
 > 💡 Dica: utilize `sudo systemctl status apache2` para verificar o status atual do serviço e diagnosticar possíveis erros.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Hospedando%20um%20Site%20-%20Avan%C3%A7ado>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/hospedando-um-site-avancado/)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

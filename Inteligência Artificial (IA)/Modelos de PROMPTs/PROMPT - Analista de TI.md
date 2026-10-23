@@ -1,3 +1,5 @@
+### Sumário
+
 **1. Persona**:
 
 - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.
@@ -31,3 +33,10 @@
 ---
 
 Você é um especialista em carreira de TI internacional e um consultor para grandes empresas como Google, Microsoft, Yahoo, Meta, entre outras. Sua principal atividade é encontrar profissionais de alto desempenho para essas companhias. Auxilie na busca da preparação para a transição para o mercado internacional, atendendo as expectativas mínimas esperadas nessas grandes companhias. O objetivo é preparar um roteiro de atividades que atendam as exigências de oportunidades de trabalho em empresas internacionais, auxiliando na preparação para entrevistas e na preparação para desempenho de atividades como product owner, data analyst ou scrum master. Defina essas atividades divida em semanas para os próximos meses, inciando no mês de julho de 2024 e seguindo semana a semana o progresso dessas atividades. Sou um profissional de TI com mais de 10 anos de experiência entre atividades como desenvolvimento de software, gestão de equipes, product owner, tech leader e gestor de processos. Atento a detalhes, voltado aos processos e documentação e busca de melhoria contínua com entregas constantes, seguindo os padrões ágeis de trabalho de alto desempenho. Essas informações serão utilizadas para o treinamento e desenvolvimento profissional para concorrer a vagas internacionais e obter uma carreira, ainda que como entry level para obter confiança suficiente nas atividades em um time internacional, comunicando-se em inglês e obtendo experiência para novas experiências.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-analista-de-ti/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

@@ -1,3 +1,5 @@
+### Sumário
+
 # 📚 **Sumário da Documentação Técnica - Criptoren**
 
 Um sistema de negociação automatizada de criptomoedas com estratégia baseada em canal de preço, controle de capital e vendas programadas com lucro.
@@ -41,63 +43,65 @@ Um sistema de negociação automatizada de criptomoedas com estratégia baseada 
 
 #### 1. **Visão Geral**
 
-- [Objetivos do Sistema](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Objetivos%2520do%2520Sistema)
-- [Arquitetura](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Arquitetura)
-- [Primeiros Passos no Desenvolvimento](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/01%20Vis%C3%A3o%20Geral/Primeiros%2520Passos%2520no%2520Desenvolvimento)
+- [Objetivos do Sistema](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/objetivos-do-sistema/)
+- [Arquitetura](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/arquitetura/)
+- [Primeiros Passos no Desenvolvimento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/primeiros-passos-no-desenvolvimento/)
 
 #### 2. **Configuração**
 
-- [Pré-requisitos](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/02%20Configura%C3%A7%C3%A3o/Pr%C3%A9-requisitos.md)
-- [Setup Inicial](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/02%20Configura%C3%A7%C3%A3o/Setup%2520Inicial)
+- [Pré-requisitos](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/pre-requisitos/)
+- [Setup Inicial](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/setup-inicial/)
 
 #### 3. **Estratégia**
 
-- [Regras do Canal de Preços](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/03%2520Estrat%C3%A9gia/Regras%2520do%2520Canal%2520de%2520Pre%C3%A7os)
-- [Fluxo Operacional](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/03%2520Estrat%C3%A9gia/Fluxo%2520Operacional)
+- [Regras do Canal de Preços](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/regras-do-canal-de-precos/)
+- [Fluxo Operacional](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/fluxo-operacional/)
 
 #### 4. **Desenvolvimento Técnico**
 
-- [API Reference](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/04%2520Desenvolvimento%2520T%C3%A9cnico/API%2520Reference)
-- [Modelagem de Dados](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/04%2520Desenvolvimento%2520T%C3%A9cnico/Modelagem%2520de%2520Dados)
-- [Integração Binance](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/04%2520Desenvolvimento%2520T%C3%A9cnico/Integra%C3%A7%C3%A3o%2520Binance)
+- [API Reference](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/api-reference/)
+- [Modelagem de Dados](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/modelagem-de-dados/)
+- [Integração Binance](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/integracao-binance/)
 
 #### 5. **Gestão de Risco**
 
-- [Controle de Capital](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/05%2520Gest%C3%A3o%2520de%2520Risco/Controle%2520de%2520Capital)
-- [Failover Strategies](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/05%2520Gest%C3%A3o%2520de%2520Risco/Failover%2520Strategies)
+- [Controle de Capital](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/controle-de-capital/)
+- [Failover Strategies](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/failover-strategies/)
 
 #### 6. **Testes**
 
-- [Testes Unitários](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/06%2520Testes/Testes%2520Unit%C3%A1rios)
-- [Simulação de Mercado](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/06%2520Testes/Simula%C3%A7%C3%A3o%2520de%2520Mercado)
+- [Testes Unitários](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/testes-unitarios/)
+- [Simulação de Mercado](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/simulacao-de-mercado/)
 
 #### 7. **Painel e Relatório**
 
-- [Performance por Estratégia](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/Performance%20por%20Estrategia)
-- [Operações Individuais](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/Operacoes%20Individuais)
-- [Posições Abertas](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/Posicoes%20Abertas)
-- [KPIs Estratégicos](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/07%2520Painel%2520e%2520Relat%C3%B3rio/KPIs)
+- [Performance por Estratégia](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/performance-por-estrategia/)
+- [Operações Individuais](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/operacoes-individuais/)
+- [Posições Abertas](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/posicoes-abertas/)
+- [KPIs Estratégicos](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/kpis/)
 
 ---
 
 ### 🌐 **Links de Referência**
 
 - [Repositório GitHub](https://github.com/maksoud/Criptomoedas)
-- [Documentação Online](https://maksoud.github.io/Criptomoedas/)
+- [Documentação Online](https://correiarodrigues.com.br/notas/criptomoedas/)
 
 ---
 
-1. [**Documentação Técnica da Arquitetura e Funcionalidades do MVP**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Documenta%C3%A7%C3%A3o%20t%C3%A9cnica%20da%20arquitetura%20e%20funcionalidades%20do%20MVP)
-2. [**Backlog do Produto**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Backlog%20de%20Produto%20-%20Criptoren)
-3. [**Estratégia Operacional**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Detalhamento%20T%C3%A9cnico%20-%20Estrat%C3%A9gia%20Operacional)
-4. [**Logs Auditoria**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Requisitos%20T%C3%A9cnicos%20-%20Logs%20e%20Auditoria)
-5. [**Painel Visualização**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Requisitos%20T%C3%A9cnicos%20-%20Painel%20e%20Visualiza%C3%A7%C3%A3o)
-6. [**Configurações Parâmetros**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Requisitos%20T%C3%A9cnicos%20-%20Configura%C3%A7%C3%B5es%20e%20Par%C3%A2metros%20da%20Estrat%C3%A9gia)
-7. [**Testes Automatizados**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Requisitos%20T%C3%A9cnicos%20-%20Testes%20Automatizados
-8. [**Relatórios Estratégicos e Analíticos**](https://maksoud.github.io/Criptomoedas/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica/Requisitos%20T%C3%A9cnicos%20-%20Relat%C3%B3rios%20Estrat%C3%A9gicos%20e%20Anal%C3%ADticos)
+1. [**Documentação Técnica da Arquitetura e Funcionalidades do MVP**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/arquitetura/)
+2. [**Backlog do Produto**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/backlog-de-produto-criptoren/)
+3. [**Estratégia Operacional**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/detalhamento-tecnico-estrategia-operacional/)
+4. [**Logs Auditoria**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-logs-e-auditoria/)
+5. [**Painel Visualização**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/requisitos-tecnicos-painel-e-visualizacao/)
+6. [**Configurações Parâmetros**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/requisitos-tecnicos-configuracoes-e-parametros-da-estrategia/)
+7. [**Testes Automatizados**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-testes-automatizados/)
+8. [**Relatórios Estratégicos e Analíticos**](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/requisitos-tecnicos-relatorios-estrategicos-e-analiticos/)
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/sumario-da-documentacao-tecnica/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

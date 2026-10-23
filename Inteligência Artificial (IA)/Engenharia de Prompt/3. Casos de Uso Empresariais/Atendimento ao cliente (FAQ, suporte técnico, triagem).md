@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Atendimento ao Cliente com LLMs (FAQ, Suporte Técnico, Triagem)
 
@@ -124,6 +124,7 @@ Como engenheiro de prompt, o seu diferencial será:
 - Testar diferentes versões de prompts para encontrar o equilíbrio entre custo (tokens) e qualidade de atendimento
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/atendimento-ao-cliente-faq-suporte-tecnico-triagem/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

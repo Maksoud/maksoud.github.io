@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### A Combinação do Lean e Ágil em Projetos de TI
 
@@ -74,7 +74,7 @@ A combinação das filosofias Lean e Ágil cria uma abordagem poderosa para gere
 
 Implementar Lean e Ágil é mais do que adotar ferramentas ou métodos; é uma transformação cultural que coloca o cliente no centro das decisões e capacita equipes a alcançarem resultados extraordinários.
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Metodologia%20Ágil%20-%20Lean>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/metodologia-agil-lean/)
 
 <sup><sub>
 Renée Maksoud - dezembro de 2024

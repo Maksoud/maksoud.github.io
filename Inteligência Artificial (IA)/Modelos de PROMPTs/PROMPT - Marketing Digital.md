@@ -1,3 +1,5 @@
+### Sumário
+
 1. **Persona**:
     - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.
     - **Exemplo**: "Você é um especialista em marketing, redes sociais e psicologia humana."
@@ -52,3 +54,10 @@
 "Com o plano de conteúdo implementado, a expectativa é ver um aumento de 20% no engajamento e um crescimento de 15% nas vendas mensais."
 
 Ao seguir essas dicas e estruturar seu pedido com base no modelo PROMPT, você conseguirá obter respostas mais precisas e úteis do ChatGPT, alinhadas com suas necessidades e expectativas.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-marketing-digital/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

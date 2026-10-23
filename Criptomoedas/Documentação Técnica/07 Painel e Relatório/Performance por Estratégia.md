@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📈 Performance por Estratégia  
 
 
@@ -94,3 +96,10 @@ python -c "from reports.generator import build_report; build_report(sample=True)
 --- 
 
 Este documento fornece uma base pronta para produção, com métricas alinhadas à sua estratégia de canal. Mantenha os relatórios atualizados diariamente para decisões assertivas!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/performance-por-estrategia/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

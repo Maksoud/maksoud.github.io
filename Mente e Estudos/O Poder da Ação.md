@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 # O Poder da Ação
 ### Planejar é Importante, Executar é Essencial
 
@@ -19,7 +19,7 @@ Mesmo que o resultado final não seja o esperado, o processo em si já é um apr
 
 O sucesso raramente é fruto de um único esforço; ele é a soma de tentativas, ajustes e, acima de tudo, ação constante. O poder da ação está em sua capacidade de transformar sonhos em realidade. Planejar é importante, mas agir é essencial. Comece agora, mesmo que de forma imperfeita. Ajuste conforme aprende, e permita-se crescer durante o processo. Afinal, não há resultado sem ação.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20da%20Ação>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/o-poder-da-acao/)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024

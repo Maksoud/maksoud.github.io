@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Ferramentas e Plataformas de Integração: OpenAI API (ChatGPT, Assistants, GPTs)
 
@@ -140,6 +140,8 @@ A **OpenAI API** oferece diferentes camadas de integração para empresas. Como 
 | Quero memória + ferramentas                     | Assistants API    |
 | Preciso criar um assistente rápido e sem código | GPTs Customizados |
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/openai-api-chatgpt-assistants-gpts/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

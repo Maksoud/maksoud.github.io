@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Fundamentos Ágeis
 
@@ -37,7 +37,7 @@ ___
 #### Plano de Liberação (Cronograma)
 	O roteiro que você irá trabalhar nos próximos 3 a 6 meses (período ideal para planejamento) é o pondo de conexão entre o roteiro e os sprints de trabalho.
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Fundamentos%20Ágeis>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/fundamentos-ageis/)
 
 <sup><sub>
 Renée Maksoud - dezembro de 2024

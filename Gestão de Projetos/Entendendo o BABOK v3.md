@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Um Guia Didático para Iniciantes em Análise de Negócios
 
@@ -88,7 +88,7 @@ O BABOK v3 é uma referência fundamental para quem deseja atuar com excelência
 
 
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Entendendo%20o%20BABOK%20v3>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/entendendo-o-babok-v3/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

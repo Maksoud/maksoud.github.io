@@ -1,3 +1,5 @@
+### Sumário
+
 # Analisando Fundos Imobiliários
 ## 1) Onde olhar (fluxo simples em 3 abas)
 
@@ -128,7 +130,8 @@ Quando você abrir um FII, responda:
 
 Se 2 dessas 3 respostas forem “não/duvidoso”, você não precisa avançar.
 
-[Sumário](<https://maksoud.github.io/Sumário>)
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/financas/acoes-e-fundos/analisando-fundos-imobiliarios/)
 
 <sup><sub>
 Renée Maksoud - fevereiro de 2026

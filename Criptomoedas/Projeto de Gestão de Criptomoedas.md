@@ -1,3 +1,5 @@
+### Sumário
+
 # Projeto: Sistema de Registro e Monitoramento de Estratégias em Criptomoedas
 
 ## 🎯 Objetivos Principais:
@@ -108,10 +110,10 @@ Essas funcionalidades têm o objetivo de:
 ---
 ## Estratégias Segueridas
 
-### - Estratégia Inicial: [Canal de Preço com Controle de Capital e Venda Programada com Lucro](<https://maksoud.github.io/Criptomoedas/Estrat%C3%A9gia%20Canal%20de%20Pre%C3%A7o%20com%20Controle%20de%20Capital%20e%20Venda%20Programada%20com%20Lucro>)
+### - Estratégia Inicial: [Canal de Preço com Controle de Capital e Venda Programada com Lucro](https://correiarodrigues.com.br/notas/criptomoedas/estrategia-canal-de-preco-com-controle-de-capital-e-venda-programada-com-lucro/)
 
 ---
-### 📈 [Relatórios](<https://maksoud.github.io/Criptomoedas/Relat%C3%B3rios%20Sistema%20de%20Monitoramento%20de%20Criptomoedas>)
+### 📈 [Relatórios](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/relatorios-sistema-de-monitoramento-de-criptomoedas/)
 
 ---
 ## Glossário
@@ -150,6 +152,8 @@ Essas funcionalidades têm o objetivo de:
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/projeto-de-gestao-de-criptomoedas/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

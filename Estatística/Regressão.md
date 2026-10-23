@@ -1,3 +1,5 @@
+### Sumário
+
 A regressão é uma técnica estatística usada para modelar e analisar a relação entre uma variável dependente e uma ou mais variáveis independentes. É amplamente utilizada em ciência de dados e análise de dados para prever valores, identificar tendências e entender as relações entre variáveis.
 
 ### Tipos de Regressão
@@ -134,3 +136,10 @@ Portanto, para um cliente de 30 anos com renda de 30,000, a probabilidade de com
 ## Conclusão
 
 A regressão é uma ferramenta poderosa na estatística e ciência de dados para modelar relações entre variáveis e fazer previsões. Compreender os diferentes tipos de regressão e suas aplicações permite aos cientistas de dados e analistas de dados abordar uma ampla gama de problemas analíticos e tomar decisões informadas com base nos dados.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/regressao/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

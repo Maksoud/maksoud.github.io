@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Redes Neurais Recorrentes
 
@@ -73,6 +73,9 @@ As RNNs, especialmente suas variantes como LSTMs e GRUs, são amplamente utiliza
 Embora as RNNs e suas variantes tenham desempenhado um papel importante em muitas tarefas, elas têm algumas limitações, especialmente em **paralelização** e **treinamento de dependências muito longas**. Devido a isso, arquiteturas mais recentes, como os **Transformers**, têm substituído as RNNs em muitas aplicações de ponta, já que os Transformers conseguem modelar dependências de longo alcance de maneira mais eficiente, utilizando o mecanismo de **atenção**.
 
 As RNNs ainda são uma tecnologia fundamental em IA, especialmente para tarefas sequenciais, e continuam a ser uma ferramenta poderosa, especialmente em combinação com outras técnicas de aprendizado profundo.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/redes-neurais-recorrentes/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

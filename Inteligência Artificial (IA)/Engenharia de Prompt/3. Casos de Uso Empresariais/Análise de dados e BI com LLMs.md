@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # 📊 Casos de Uso Empresariais: Análise de Dados e BI com LLMs
 
@@ -118,6 +118,7 @@ O uso de LLMs para **Análise de Dados e BI** é uma das áreas mais promissoras
 Sua missão será **transformar dados em insights conversacionais**, usando prompts bem estruturados, com clareza, contexto e objetivo específico.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/analise-de-dados-e-bi-com-llms/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Tipos de prompts: simples, compostos, estruturados
 
@@ -130,6 +130,7 @@ Pergunta: O que é Machine Learning?
     _"Atenção: Responda apenas no formato JSON. Não inclua explicações adicionais."_
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/tipos-de-prompts-simples-compostos-estruturados/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

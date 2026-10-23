@@ -1,3 +1,4 @@
+### Sumário > Projeto de Gestão de Criptomoedas
 
 # 📋 Pré-requisitos Técnicos
 `/Documentação Técnica/02 Configuração/Pré-requisitos.md`
@@ -143,3 +144,9 @@ swap=4GB
 > - `nginx` como reverse proxy
 > - Monitoramento com Prometheus+Grafana
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/pre-requisitos/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

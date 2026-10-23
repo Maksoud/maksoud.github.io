@@ -1,3 +1,5 @@
+### Sumário
+
 **ANALISTA JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - ESPECIALIDADE ANÁLISE DE SISTEMAS DE INFORMAÇÃO**
 
 **Análise de Negócio:**
@@ -50,3 +52,10 @@
 - **Portaria CNJ nº 253/2020:** Critérios e Diretrizes Técnicas para o Processo de Desenvolvimento de Módulos e Serviços na Plataforma Digital do Poder Judiciário Brasileiro.
 - **Portaria CNJ nº 131/2021:** Grupo Revisor de Código-Fonte das soluções da Plataforma Digital do Poder Judiciário e do Processo Judicial Eletrônico.
 - **Portaria CNJ nº 162/2021:** Protocolos e Manuais referentes à Estratégia Nacional de Segurança Cibernética do Poder Judiciário.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/trf5/especialidade-analise-de-sistemas-de-informacao/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2024
+</sub></sup>

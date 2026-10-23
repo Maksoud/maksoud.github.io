@@ -1,3 +1,5 @@
+### Sumário
+
 ### **Mês 01**
 
 **Semana 1-2: Autoavaliação e Definição de Metas**
@@ -77,3 +79,10 @@
 - **Mentoria:** Busque mentoria contínua para orientação e suporte durante o processo de transição.
 
 Esse roteiro de atividades semanais deve fornecer uma estrutura sólida para sua preparação e transição para o mercado internacional, garantindo que você esteja bem-preparado para se destacar em entrevistas e no desempenho de suas funções em grandes empresas internacionais.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/job-prep/planejamento-semestral-mercado-internacional/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

@@ -1,3 +1,5 @@
+### Sumário
+
 List of chapters typically covered in the ITIL 4 Foundation material:
 
 1. **[[Introduction to ITIL 4]]**
@@ -138,3 +140,10 @@ List of chapters typically covered in the ITIL 4 Foundation material:
     - Infrastructure and Platform Management
     - Software Development and Management
 _________
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/itil-4/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

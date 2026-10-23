@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Encontrando Oportunidades
 
@@ -63,3 +63,10 @@ Encontrar ferramentas gratuitas e oportunidades para aprimorar habilidades de co
 - **Webinars e Workshops:** Participe de webinars gratuitos e workshops online oferecidos por empresas de tecnologia e instituições de ensino.
 
 Essas ferramentas e recursos proporcionarão diversas oportunidades para aprimorar suas habilidades de comunicação, colaborar com outros profissionais e construir uma rede internacional, crucial para sua transição para o mercado de trabalho internacional.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/encontrando-oportunidades/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

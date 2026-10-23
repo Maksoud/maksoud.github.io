@@ -1,8 +1,8 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Conceitos Japoneses de Vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conceitos%20Japoneses%20de%20Vida>)
+### Sumário > Conceitos Japoneses de Vida
 
-# **Shoshin (初心) — “Mente de principiante”**
+# **Shoshin (初心): “Mente de principiante”**
 
-**Shoshin** (初心) é um conceito japonês que significa “mente de principiante” ou “mentalidade de iniciante”. É a atitude de abordar qualquer aprendizado ou situação com humildade, curiosidade e abertura — mesmo quando já se possui um nível avançado de conhecimento.
+**Shoshin** (初心) é um conceito japonês que significa “mente de principiante” ou “mentalidade de iniciante”. É a atitude de abordar qualquer aprendizado ou situação com humildade, curiosidade e abertura, mesmo quando já se possui um nível avançado de conhecimento.
 
 A mente de principiante é livre de preconceitos, julgamentos e rigidez. Shoshin é um convite constante a esvaziar a xícara, ou seja, deixar espaço para novas ideias, experiências e formas de ver o mundo.
 
@@ -16,7 +16,7 @@ A famosa citação do mestre zen Shunryu Suzuki resume bem o espírito do concei
 
 ### Aplicações e Objetivos
 
-Shoshin pode ser aplicado em qualquer área da vida — estudos, trabalho, relacionamentos, espiritualidade — e é especialmente útil quando o ego tenta se sobrepor à humildade do aprendizado contínuo.
+Shoshin pode ser aplicado em qualquer área da vida (estudos, trabalho, relacionamentos, espiritualidade) e é especialmente útil quando o ego tenta se sobrepor à humildade do aprendizado contínuo.
 
 **Objetivos principais do Shoshin:**
 
@@ -45,7 +45,7 @@ Outro exemplo seria um programador experiente que, ao aprender uma nova linguage
 - **Desconstrução de hábitos (James Clear):** Técnica de sair do piloto automático para reconstruir hábitos com atenção plena, o que exige uma mente de principiante.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Shoshin>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/shoshin/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

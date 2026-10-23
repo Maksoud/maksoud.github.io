@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # 🧠 **Resumo: O Transformer Ilustrado (Jay Alammar)**
 
@@ -75,6 +75,8 @@ O Transformer é a base de modelos como:
 - Permite paralelismo, o que acelera o treinamento
 - É altamente escalável e adaptável a várias tarefas de linguagem
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/o-transformer-ilustrado-jay-alammar/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

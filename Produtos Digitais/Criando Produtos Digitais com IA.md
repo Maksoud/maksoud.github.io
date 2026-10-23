@@ -1,3 +1,4 @@
+### Sumário
 
 ## Sites Usados
 [Gamma App](https://gamma.app/pt-br)
@@ -69,3 +70,10 @@ Para gerar a capa que seria usada no cadastro da Kiwify:
 Para finalizar a configuração da página de vendas, inserindo o link de pagamento gerado na Kiwify:
 
 > "Coloque este link em todos os botões de compra."
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/produtos-digitais/criando-produtos-digitais-com-ia/)
+
+<sup><sub>
+Renée Maksoud - julho de 2026
+</sub></sup>

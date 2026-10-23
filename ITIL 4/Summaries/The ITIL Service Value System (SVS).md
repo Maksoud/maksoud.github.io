@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 The Service Value System (SVS) is a key component of the ITIL 4 framework, designed to ensure that all the organization's components and activities work together as a unified system to enable value creation. The SVS provides a holistic approach to service management, integrating various elements into a cohesive system that supports the delivery of high-quality services.
 
 ### Key Components of the SVS
@@ -24,3 +26,10 @@ The SVS is designed to be flexible and adaptable, allowing organizations to tail
 ### Conclusion
 
 The Service Value System (SVS) in ITIL 4 provides a comprehensive framework for managing and delivering IT services. By integrating guiding principles, governance, the service value chain, management practices, and continual improvement, the SVS ensures that organizations can effectively create and deliver value to their customers and stakeholders. This holistic and adaptable approach helps organizations to stay aligned with their strategic goals and continually improve their service management capabilities.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/the-itil-service-value-system-svs/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Definindo prioridades como um analista de TI
 
@@ -48,3 +48,10 @@ Uma boa prática é registrar a presença. Ao final de cada reunião, compartilh
 Com essa abordagem, você troca a correria por controle. Transforma o "grito mais alto" em diálogo. E, mais importante, traz paz para o seu dia a dia de trabalho.
 
 No fim, é sobre trabalhar com estratégia. Não se deixe levar pela pressão. Crie laços com todos os envolvidos. O sucesso da equipe depende de um time ouvido e participativo. Mantenha as reuniões recorrentes, reconheça o esforço coletivo. Se precisar dar um puxão de orelha, faça isso no privado. Todo mundo tem seus problemas; às vezes, só precisamos ser ouvidos.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/definindo-prioridades-como-um-analista-de-ti/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2025
+</sub></sup>

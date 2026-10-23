@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Os 4 valores do Manifesto Ágil
 
@@ -14,7 +14,7 @@
 4. **Responder a mudanças mais que seguir um plano**:
     - A capacidade de se adaptar a mudanças é crucial em um ambiente de desenvolvimento ágil. Um plano inicial é útil, mas a flexibilidade para responder a novas informações e mudanças de requisitos é mais valiosa para o sucesso do projeto.
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%204%20valores%20do%20Manifesto%20Ágil>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/os-4-valores-do-manifesto-agil/)
 
 <sup><sub>
 Renée Maksoud - julho de 2024

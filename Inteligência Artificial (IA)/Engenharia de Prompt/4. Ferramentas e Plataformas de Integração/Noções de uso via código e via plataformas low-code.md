@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Noções de Uso de LLMs via Código (Python/JavaScript) e Plataformas Low-code (n8n, Zapier, Make)
 
@@ -171,6 +171,7 @@ Para um engenheiro de prompt que atua em empresas de tecnologia:
 O melhor cenário? Saber usar **ambos**, escolhendo a ferramenta mais adequada para cada projeto.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/nocoes-de-uso-via-codigo-e-via-plataformas-low-code/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

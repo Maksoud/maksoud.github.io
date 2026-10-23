@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # 📚 Recursos Recomendados por Etapa – Engenharia de Prompt para Negócios de Tecnologia
 
@@ -185,6 +185,8 @@
 
 - “Building an End-to-End AI Agent” – [YouTube: LLM Bootcamp](https://www.youtube.com/watch?v=BX2PzMEkVYg)
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/recursos-recomendados-engenharia-de-prompt/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

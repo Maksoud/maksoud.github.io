@@ -1,3 +1,5 @@
+### Sumário
+
 ### ANALISTA DE CORREIOS – ANALISTA DE SISTEMAS – DESENVOLVIMENTO DE SISTEMAS. 
 Requisitos: Diploma, devidamente registrado, de curso de graduação na área de Tecnologia da Informação, fornecido por instituição de ensino superior, reconhecido pelo Ministério da Educação. 
 
@@ -31,3 +33,10 @@ Requisitos: Diploma, devidamente registrado, de curso de graduação na área de
 7. Avaliar o impacto e atuar na melhoria dos processos de sua área junto às áreas clientes e fornecedoras; 
 8. Acompanhar práticas de mercado com proposição de soluções aplicáveis aos processos; 
 9. Documentar as implementações realizadas; 10. Apoiar o treinamento de usuários nas novas soluções de TI.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/correios/cargos/)
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

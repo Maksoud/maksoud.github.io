@@ -1,3 +1,5 @@
+### Sumário
+
 # English Test Workana
 
 1) "The sentence below is divided into three parts. Identify where the error lies. If there is no error, select the option ‘no error’. I am happy to had been of assistance." to had been X no error of assistance I am happy "There are two sentences. Each sentence has a blank in it. Four options are given below the sentence pair. Choose the option that fits both the blanks. 1. There is no hope ........ her heart. 2. He is .........his office today." 
@@ -19,11 +21,11 @@
 #### Explanation
 
 A) **out of fortune** 
-- ✅ Matches tone of “half-starved” — implies poverty
+- ✅ Matches tone of “half-starved”, implies poverty
 - ✅ Correct idiom
 
 B) **handsome**
-- ❌ Contradicts “half-starved” in tone — not the best choice
+- ❌ Contradicts “half-starved” in tone, not the best choice
 
 C) **extremely agile**
 - ❌ Doesn’t logically or tonally follow “half-starved”
@@ -77,7 +79,7 @@ Option B: **bewilderment, appropriate**
 Option C: **agony, funny**
 
 > "Mothers **agony** led her child on the **funny** track."
-- ❌ Makes no logical sense — **agony** (pain) and **funny** (comedy) don’t align.
+- ❌ Makes no logical sense, **agony** (pain) and **funny** (comedy) don’t align.
 - ❌ Illogical pairing.
 
 
@@ -372,8 +374,8 @@ Then it's **not correct**, because "He said" ≠ "He says".
 
 We need a word that matches **broken windows and decay**.
 - (a) **brand new** ❌ contradicts "broken windows"
-- (b) **palatial** ❌ means grand and luxurious — doesn’t fit
-- (c) **huge** ✅ neutral and fits — you can have a huge, run-down house
+- (b) **palatial** ❌ means grand and luxurious, doesn’t fit
+- (c) **huge** ✅ neutral and fits, you can have a huge, run-down house
 - (d) **stupendous** ❌ overly positive
 
 ✔️ **Best fit: (c) huge**
@@ -382,10 +384,10 @@ We need a word that matches **broken windows and decay**.
 **Blank 2: Describes the verandas**
 
 We want a word that matches the decayed tone.
-- (a) **sprawling** ❌ means large and spread out — doesn’t imply decay
+- (a) **sprawling** ❌ means large and spread out, doesn’t imply decay
 - (b) **gigantic** ❌ again, size not condition
-- (c) **tumbledown** ✅ means **falling apart, neglected** — perfect
-- (d) **marbled** ❌ fancy and elegant — doesn’t fit
+- (c) **tumbledown** ✅ means **falling apart, neglected**, perfect
+- (d) **marbled** ❌ fancy and elegant, doesn’t fit
 
 ✔️ **Best fit: (c) tumbledown**
 
@@ -393,8 +395,8 @@ We want a word that matches the decayed tone.
 **Blank 3: Describes the overall condition**
 
 We need something that shows **neglect/decay**.
-- (a) **old age** ❌ vague — old doesn’t always mean ruined
-- (b) **renovation** ❌ opposite — implies improvement
+- (a) **old age** ❌ vague, old doesn’t always mean ruined
+- (b) **renovation** ❌ opposite, implies improvement
 - (c) **dilapidated condition** ✅ means run-down and falling apart
 - (d) **history** ❌ irrelevant
 
@@ -421,13 +423,13 @@ We need something that shows **neglect/decay**.
 #### Explanation
 
 - **Frustrate**  
-    ❌ Negative — doesn’t fit the tone of admiration and wonder.    
+    ❌ Negative, doesn’t fit the tone of admiration and wonder.    
 - **Disgruntle**  
-    ❌ Negative — means to make someone dissatisfied or annoyed.
+    ❌ Negative, means to make someone dissatisfied or annoyed.
 - **Satisfy**  
-    ❌ Doesn’t fit with “did not satisfy” — that would mean Norway **let the person down**, which contradicts the rest of the passage.
+    ❌ Doesn’t fit with “did not satisfy”, that would mean Norway **let the person down**, which contradicts the rest of the passage.
 - **Depress**  
-    ❌ Strongly negative — does not match the context at all.
+    ❌ Strongly negative, does not match the context at all.
 - **Disappoint** ✅  
     ✔️ This fits grammatically:
     > "Norway did **not disappoint**."  
@@ -525,10 +527,10 @@ D) **Astraphobia**
 Correct sequence: **C D B A**
 
 Now check your options:
-- **BDCA** ❌ Starts with "So" — not a valid opener.
+- **BDCA** ❌ Starts with "So", not a valid opener.
 - **DCAB** ❌ Starts mid-thought; placing “But” (A) at the end doesn’t fit logically.
-- **ABCD** ❌ Starts with “But” — grammatically incorrect as an opener.
-- **BCDA** ❌ Starts with “So” again — doesn’t work
+- **ABCD** ❌ Starts with “But”, grammatically incorrect as an opener.
+- **BCDA** ❌ Starts with “So” again, doesn’t work
 
 ---
 
@@ -538,3 +540,10 @@ Now check your options:
 - ABCD **(correct ✅)**
 - DCBA
 - CDBA
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/english-test-workana/)
+
+<sup><sub>
+Renée Maksoud - maio de 2025
+</sub></sup>

@@ -1,3 +1,5 @@
+### Sumário
+
 [Código de Conduta Ética e Integridade](https://www.correios.com.br/acesso-a-informacao/servidores/arquivos/codigo-de-conduta-etica-integridade "Código de Conduta Ética") (.pdf 49Kb)
 
 [LEI N° 13.303, DE 30 DE JUNHO DE 2016](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm")  
@@ -95,3 +97,10 @@ Política Corporativa para Equidade de Gênero e Raça, Respeito e Valorização
 [Veja aqui nossa Política Corporativa de Diversidade](https://www.correios.com.br/acesso-a-informacao/institucional/legislacao/politicas-corporativas/arquivo/politica-de-diversidade.pdf "Política de Diversiade") (.pdf 573kb)
 
 [Regimento Interno dos Correios](https://www.correios.com.br/acesso-a-informacao/institucional/legislacao/regimentos-internos/regimento-interno-dos-correios) (.odt 467Kb)
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/correios/codigo-de-conduta-etica-e-integridade/)
+
+<sup><sub>
+Renée Maksoud - outubro de 2024
+</sub></sup>

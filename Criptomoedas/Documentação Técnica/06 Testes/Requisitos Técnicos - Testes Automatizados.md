@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🧪 Requisitos Técnicos - Testes Automatizados
 
 Este documento define os requisitos e escopo dos testes automatizados necessários para garantir o correto funcionamento do sistema Criptoren, com foco na estratégia de negociação, integridade dos dados e robustez da lógica de operação.
@@ -67,6 +69,8 @@ Este documento define os requisitos e escopo dos testes automatizados necessári
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-testes-automatizados/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

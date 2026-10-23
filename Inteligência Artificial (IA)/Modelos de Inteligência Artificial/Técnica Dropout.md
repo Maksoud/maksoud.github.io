@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Técnica Dropout
 
@@ -78,6 +78,9 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 ### Conclusão
 
 **Dropout** é uma técnica poderosa e simples para melhorar a **generalização** de redes neurais profundas, combatendo o **overfitting**. Ele funciona desativando aleatoriamente neurônios durante o treinamento, obrigando a rede a aprender representações mais robustas. Embora tenha algumas limitações, especialmente em termos de custo computacional e sua aplicação em redes menores, é amplamente utilizado em redes totalmente conectadas e em muitas arquiteturas de aprendizado profundo.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/tecnica-dropout/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

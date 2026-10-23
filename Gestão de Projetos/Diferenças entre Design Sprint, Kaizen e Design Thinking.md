@@ -1,3 +1,5 @@
+### Sumário
+
 ## 📌 Diferenças entre **Design Sprint**, **Kaizen** e **Design Thinking**
 
 |Método|O que é|Objetivo|Duração típica|Foco|
@@ -57,7 +59,7 @@ Quando você precisa entender melhor o problema, envolver o usuário no processo
 |Usuário envolvido|Apenas na fase de teste|Indiretamente|Desde o início|
 
 
-[link de compartilhamento](<https://maksoud.github.io/Gest%C3%A3o%20de%20Projetos/Diferen%C3%A7as%20entre%20Design%20Sprint%2C%20Kaizen%20e%20Design%20Thinking>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/diferencas-entre-design-sprint-kaizen-e-design-thinking/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

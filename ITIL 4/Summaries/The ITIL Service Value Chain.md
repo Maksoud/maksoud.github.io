@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 The Service Value Chain (SVC) is a key component of the ITIL 4 framework, representing the set of interconnected activities that an organization performs to deliver valuable products and services to its customers. The SVC is central to the ITIL 4 Service Value System (SVS) and is designed to be flexible and adaptable to different types of service organizations and scenarios.
 
 ### Core Activities of the Service Value Chain
@@ -27,3 +29,10 @@ Each activity within the Service Value Chain is designed to transform inputs int
 The Service Value Chain in ITIL 4 is a flexible, integrated set of activities designed to enable organizations to co-create value with their customers and stakeholders. By focusing on continual improvement and holistic management, the SVC helps organizations adapt to changing environments and maintain effective service delivery.
 
 This summary encapsulates the essence of the Service Value Chain chapter, highlighting its core activities, integration, and benefits in the context of the ITIL 4 framework.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/the-itil-service-value-chain/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Como Usar o Cartão de Crédito
 
@@ -41,10 +41,10 @@ Apesar de todas as vantagens, o cartão de crédito exige **disciplina e control
 
 ## **Conclusão**
 
-Usar o cartão de crédito de forma inteligente pode trazer muitas vantagens. Acumular milhas, aproveitar o melhor dia de compra e manter um controle rigoroso dos gastos são passos essenciais para transformar o cartão em um aliado do seu planejamento financeiro. Lembre-se: o segredo está no **uso consciente**. Quando bem utilizado, o cartão pode facilitar sua vida — mas, quando mal administrado, pode causar grandes problemas. Escolha o lado certo dessa história.
+Usar o cartão de crédito de forma inteligente pode trazer muitas vantagens. Acumular milhas, aproveitar o melhor dia de compra e manter um controle rigoroso dos gastos são passos essenciais para transformar o cartão em um aliado do seu planejamento financeiro. Lembre-se: o segredo está no **uso consciente**. Quando bem utilizado, o cartão pode facilitar sua vida, mas, quando mal administrado, pode causar grandes problemas. Escolha o lado certo dessa história.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Finan%C3%A7as/Como%20Usar%20o%20Cart%C3%A3o%20de%20Cr%C3%A9dito>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/financas/como-usar-o-cartao-de-credito/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

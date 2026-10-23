@@ -1,3 +1,5 @@
+### Sumário
+
 # Prática: Adquirindo FIIs
 
 ## 1) Estrutura da sua carteira (6 FIIs, 50/50)
@@ -108,12 +110,12 @@ No relatório, preencha:
 
 ## 5) “Regras de compra” para manter 50/50 sem pulverizar
 
-### Regra 1 — Alvos
+### Regra 1: Alvos
 
 - Tijolo: **50%** (3 fundos)
 - Papel: **50%** (3 fundos)
 
-### Regra 2 — Aporte mensal + dividendos
+### Regra 2: Aporte mensal + dividendos
 
 Compre:
 
@@ -178,7 +180,7 @@ Copie e cole isso num bloco de notas/Excel/Notion e repita para cada FII:
 - Comprar? (sim/não/monitorar)
 
 
-[Sumário](<https://maksoud.github.io/Sumário>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/financas/acoes-e-fundos/pratica-adquirindo-fiis/)
 
 <sup><sub>
 Renée Maksoud - fevereiro de 2026

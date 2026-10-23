@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### A Importância de Manter-se Competitivo no Mercado de Trabalho em TI
 
@@ -74,7 +74,7 @@ Manter-se competitivo no mercado de TI é um compromisso com o aprendizado cont�
 No fim, o segredo está em equilibrar aprendizado, desempenho e visão de longo prazo, garantindo que você seja um profissional indispensável em qualquer cenário. Comece hoje, e veja como o esforço de estar sempre um passo à frente transforma sua carreira.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Carreiras/Manter-se%20Competitivo%20no%20Mercado>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/manter-se-competitivo-no-mercado/)
 
 <sup><sub>
 Renée Maksoud - dezembro de 2024

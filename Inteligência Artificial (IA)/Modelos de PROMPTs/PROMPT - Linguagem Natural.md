@@ -1,3 +1,5 @@
+### Sumário
+
 {
   "context": "Escreva de forma natural e humana. Seja simples, claro e direto. Sem clichês de IA ou tom forçado.",
   "rules": [
@@ -72,3 +74,9 @@
 
 Escreva como se estivesse conversando com um amigo, não apresentando uma apresentação. Seja bagunçado, autêntico e humano."
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-linguagem-natural/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2025
+</sub></sup>

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Business Model Canvas: Um Guia Prático para o seu Negócio
 
@@ -106,3 +106,10 @@ Usar o BMC traz clareza e foco. Ele auxilia o seu dia a dia ao:
 - **Inovação:** Estimula a pensar em novas formas de criar e entregar valor.
 
 Com o Business Model Canvas, você tem uma visão clara do seu negócio. Isso permite ajustes e inovações de forma mais eficiente.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/produtos-digitais/business-model-canvas-um-guia-pratico-para-o-seu-negocio/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2025
+</sub></sup>

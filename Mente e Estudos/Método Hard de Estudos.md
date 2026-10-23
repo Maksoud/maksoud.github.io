@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 # Método Hard de Estudos
 
 Esse método vai te apoiar na fixação do conteúdo aprendido em uma vídeo aula. Te ajudando na compreensão rápida do conteúdo e na memorização das informações aprendidas.
@@ -31,7 +31,7 @@ Mensure o tempo que você vai levar para responder as questões e o seu número 
 
 Não desanime se o seu desempenho reduzir em novos testes, entenda que diferentes tópicos estão sendo abordados nos testes. Identifique-os para focar os seus estudos neles. É possível que você esteja com maior dificuldade de compreensão nesses itens e precise de uma nova revisão, até mesmo com um material diferente do que já foi utilizado, experimentando diferentes abordagens do mesmo conteúdo estudado.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Método%20Hard%20de%20Estudos>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/metodo-hard-de-estudos/)
 
 <sup><sub>
 Renée Maksoud - julho de 2024

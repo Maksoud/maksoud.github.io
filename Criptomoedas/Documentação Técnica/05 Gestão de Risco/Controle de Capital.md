@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🛡️ Controle de Capital  
 `/Documentação Técnica/05 Gestão de Risco/Controle de Capital.md`  
 
@@ -111,3 +113,10 @@ python -c "print(calcular_alocacao(10000, 20))  # Deve retornar 2000.0"
 ---
 
 Este documento garante que o sistema respeitará os princípios de gestão de risco definidos na estratégia inicial, com implementações prontas para produção.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/controle-de-capital/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Boas práticas de escrita de prompts
 
@@ -114,6 +114,7 @@ _"Evite respostas como: [exemplo de saída indesejada]"_
     Utilize um tom amigável e comercial. Não inclua emojis."*
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/boas-praticas-de-escrita-de-prompts/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # 📅 Cronograma de Estudos – Engenharia de Prompt para Negócios Tech (12 Semanas)
 
@@ -97,6 +97,8 @@
 - Crie um perfil no [PromptHero](https://prompthero.com/) ou [FlowGPT](https://flowgpt.com/)
 - Compartilhe suas criações no LinkedIn e comunidades de IA
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/cronograma-de-estudos-engenharia-de-prompt/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

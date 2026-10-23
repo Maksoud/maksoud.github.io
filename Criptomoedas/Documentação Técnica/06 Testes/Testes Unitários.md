@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🧪 Testes Unitários  
 `/Documentação Técnica/06 Testes/Testes Unitários.md`  
 
@@ -135,3 +137,10 @@ pytest -xvs tests/unit/test_strategy.py
 ---
 
 Este documento estabelece as bases para testes confiáveis, essenciais para um sistema de trading. Mantenha os testes sempre atualizados com as regras de negócio!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/testes-unitarios/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

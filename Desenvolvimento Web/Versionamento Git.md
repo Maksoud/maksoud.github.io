@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Versionamento Git
 
@@ -67,7 +67,7 @@ puttygen id_rsa -O private-openssh -o id_rsa_private
 
 > Talvez seja necessário executar o comando de instalação do puttygen: _sudo apt-get install putty-tools_
 
-> Adicionar o texto —–BEGIN OPENSSH PRIVATE KEY—– no início e —–END OPENSSH PRIVATE KEY—– no final do arquivo não funcionou para mim.
+> Adicionar o texto -----BEGIN OPENSSH PRIVATE KEY----- no início e -----END OPENSSH PRIVATE KEY----- no final do arquivo não funcionou para mim.
 
 Execute o comando abaixo no servidor para exibir a chave privada. Agora copie o texto e crie o arquivo “id_rsa_private” dentro da pasta “.ssh”, localizado na pasta raiz do seu usuário na sua máquina local.
 
@@ -88,7 +88,7 @@ ssh -i ~/.ssh/id_rsa_private [usuário]@[ip-do-servidor]
 > Caso seja exibido a mensagem “too open”, então execute a mudança de permissão de acesso do arquivo de chave: “_chmod 600 ~/.ssh/id_rsa_private_“.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Versionamento%20Git>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/versionamento-git/)
 
 <sup><sub>
 Renée Maksoud - julho de 2025

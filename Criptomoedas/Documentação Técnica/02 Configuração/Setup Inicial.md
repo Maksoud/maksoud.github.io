@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # Setup Inicial
 
 ```markdown
@@ -105,3 +107,9 @@ Acesse: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 > **Nota**: Para deploy em produção, substitua `DATABASE_URL` por uma conexão SSL e use `gunicorn` + `nginx`.
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/setup-inicial/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

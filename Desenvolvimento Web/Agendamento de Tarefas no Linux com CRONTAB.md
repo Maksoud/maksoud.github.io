@@ -1,8 +1,8 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Agendamento de Tarefas no Linux com CRONTAB
 
-O **Crontab** é uma ferramenta nativa do Linux utilizada para **agendar tarefas automáticas** que são executadas em intervalos regulares ou em horários específicos. Para desenvolvedores e administradores de sistemas web, o uso do Crontab representa uma solução **eficiente, confiável e leve** para automatizar processos rotineiros — sem depender de ferramentas externas ou interfaces gráficas.
+O **Crontab** é uma ferramenta nativa do Linux utilizada para **agendar tarefas automáticas** que são executadas em intervalos regulares ou em horários específicos. Para desenvolvedores e administradores de sistemas web, o uso do Crontab representa uma solução **eficiente, confiável e leve** para automatizar processos rotineiros, sem depender de ferramentas externas ou interfaces gráficas.
 
 Em aplicações web, o Crontab é amplamente utilizado para:
 
@@ -64,7 +64,7 @@ As 18h15 será desmontado o HD e poderá ser retirado da USB
 ```
 
 
-[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Agendamento%20de%20Tarefas%20no%20Linux%20com%20CRONTAB>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/agendamento-de-tarefas-no-linux-com-crontab/)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

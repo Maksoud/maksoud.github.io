@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # O Método Zettelkasten
 
@@ -76,7 +76,7 @@ Há também um livro que aborda sobre o método. O link do livro [Como escrever 
 Outro canal do Youtube que recomendo é o [SejaUmaPessoaMelhor](https://www.youtube.com/@sejaumapessoamelhor) onde o autor apresenta a ideia de maneira ilustrativa para melhor compreensão. O vídeo aborda [COMO FAZER ANOTAÇÕES EFICIENTES](<https://youtu.be/wERtXzsc088?si=zqTEmjY0gOHSW2PN>), apresentando 5 métodos diferentes que poderão te ajudar a aprender de maneira mais eficaz.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Método%20Zettelkasten>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/o-metodo-zettelkasten/)
 
 <sup><sub>
 Renée Maksoud - dezembro de 2024

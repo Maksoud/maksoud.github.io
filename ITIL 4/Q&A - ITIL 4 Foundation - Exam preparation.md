@@ -1,3 +1,5 @@
+### Sumário
+
 ### Questions for Section 4.1: Service Value System Overview
 
 1. What are the key inputs to the ITIL Service Value System (SVS)?
@@ -545,3 +547,10 @@ _________
 30. This practice facilitates service improvements involving software components by providing necessary information and support for design, development, and transition activities. (p. 167)
 
 These answers reference the corresponding pages in the ITIL Foundation ITIL 4 Edition document.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/qa-itil-4-foundation-exam-preparation/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

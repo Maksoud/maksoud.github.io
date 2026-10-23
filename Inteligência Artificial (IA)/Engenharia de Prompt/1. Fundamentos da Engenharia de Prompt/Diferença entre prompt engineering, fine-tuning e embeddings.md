@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Diferença entre prompt engineering, fine-tuning e embeddings
 
@@ -130,6 +130,8 @@ O modelo não é re-treinado, mas você consegue fornecer **contextos personaliz
 
 **Prompt Engineering**, **Fine-tuning** e **Embeddings** são três ferramentas poderosas, cada uma com seu papel. Como engenheiro de prompt focado em soluções para empresas, o seu diferencial será **saber quando aplicar cada uma**, sempre alinhado aos objetivos de negócio, orçamento e infraestrutura disponível.
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/diferenca-entre-prompt-engineering-fine-tuning-e-embeddings/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

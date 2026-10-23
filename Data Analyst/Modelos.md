@@ -1,3 +1,5 @@
+### Sumário
+
 ### 1. Modelos Não Supervisionados
 
 **Definição:** Modelos não supervisionados são aqueles que trabalham com dados não rotulados, ou seja, dados que não possuem uma variável de saída definida.
@@ -161,3 +163,10 @@ A escolha da métrica de verificação de precisão depende do contexto e dos ob
 - **R²:** Útil para entender a explicação da variabilidade dos dados pelo modelo.
 
 Cada métrica tem suas vantagens e desvantagens, e a escolha correta depende da natureza do problema e dos dados.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/data-analyst/modelos/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

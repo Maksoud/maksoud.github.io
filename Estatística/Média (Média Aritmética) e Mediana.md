@@ -1,3 +1,5 @@
+### Sumário
+
 # **Média (Média Aritmética)**
 
 A média, também conhecida como média aritmética, é uma medida de tendência central que representa o valor médio de um conjunto de dados. Ela é calculada somando todos os valores e dividindo pelo número total de valores.
@@ -91,3 +93,10 @@ A mediana é 35.000, que é mais representativa dos salários típicos na empres
 ## **Conclusão**
 
 Tanto a média quanto a mediana são importantes medidas de tendência central usadas em análise de dados. A média é útil para dados simétricos e completos, enquanto a mediana é preferida para dados com outliers ou distribuições assimétricas. Compreender quando usar cada uma é crucial para análises precisas e significativas na ciência de dados.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/media-media-aritmetica-e-mediana/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

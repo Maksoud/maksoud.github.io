@@ -1,3 +1,5 @@
+### Sumário
+
 ### As 5 leis do ouro: O homem mais rico da Babilônia
 
 1. O ouro vem de bom grado e numa quantidade crescente para o homem que separa não menos de um décimo de seus ganhos, a fim de criar um fundo para o seu futuro e o de sua própria família
@@ -8,9 +10,8 @@
 
 
 
-[Sumário](<https://maksoud.github.io/Sumário>)
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/As%205%20leis%20do%20ouro>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/as-5-leis-do-ouro/)
 
 <sup><sub>
 Renée Maksoud - janeiro de 2026

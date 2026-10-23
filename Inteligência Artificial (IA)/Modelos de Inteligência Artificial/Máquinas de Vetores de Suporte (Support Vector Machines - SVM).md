@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Máquinas de Vetores de Suporte (Support Vector Machines - SVM)
 
@@ -84,6 +84,9 @@ O SVM foi inicialmente projetado para problemas de **classificação binária**.
 ### Conclusão
 
 As **Máquinas de Vetores de Suporte (SVMs)** são uma técnica poderosa para **classificação** e **regressão**, especialmente útil em problemas de classificação binária com dados de alta dimensão. Elas oferecem alta flexibilidade através do uso de kernels e são conhecidas por encontrar a fronteira de decisão ideal com uma margem máxima entre as classes. Apesar de suas desvantagens, como a complexidade em grandes conjuntos de dados, o SVM continua sendo uma ferramenta amplamente utilizada em aprendizado de máquina devido à sua eficácia e versatilidade.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/maquinas-de-vetores-de-suporte-support-vector-machines-svm/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

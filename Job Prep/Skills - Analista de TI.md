@@ -1,3 +1,5 @@
+### Sumário
+
 ## English Version
 - Analytical Skills
 - Team Management
@@ -35,3 +37,9 @@
 - Problem Solving
 - Team Leadership
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/job-prep/skills-analista-de-ti/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

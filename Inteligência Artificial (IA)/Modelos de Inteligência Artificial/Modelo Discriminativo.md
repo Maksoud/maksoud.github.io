@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Modelo Discriminativo
 
@@ -96,6 +96,9 @@ O aprendizado é feito geralmente por meio de **minimização de uma função de
 ### Conclusão
 
 Os **modelos discriminativos** são uma escolha poderosa para tarefas que exigem **classificação** ou **regressão** direta, sendo amplamente utilizados em problemas supervisionados. Sua simplicidade e precisão os tornam ideais para muitas aplicações práticas. No entanto, eles não são indicados para tarefas que exigem geração de dados ou uma compreensão detalhada de como os dados foram gerados. Para essas tarefas, modelos generativos são mais adequados.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/modelo-discriminativo/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

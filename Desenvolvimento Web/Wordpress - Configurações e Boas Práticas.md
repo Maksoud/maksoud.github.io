@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Wordpress - Configurações e Boas Práticas
 
@@ -27,7 +27,7 @@ Esse arquivo contém **informações sensíveis de banco de dados e configuraç�
 chmod 600 wp-config.php
 ```
 
-Para garantir a segurança do seu site, algumas medidas precisam ser tomadas através da configuração do servidor Apache e através das restrições de acessos dos arquivos e diretórios do seu servidor. O artigo [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](<https://maksoud.github.io/Produtos%20Digitais/Wordpress%20-%20Seguran%C3%A7a%20e%20Corre%C3%A7%C3%A3o%20de%20Falha%20de%20Acesso%20-%20Avan%C3%A7ado>) eu explico melhor sobre essas configurações.
+Para garantir a segurança do seu site, algumas medidas precisam ser tomadas através da configuração do servidor Apache e através das restrições de acessos dos arquivos e diretórios do seu servidor. O artigo [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](https://correiarodrigues.com.br/notas/desenvolvimento-web/wordpress-seguranca-e-correcao-de-falha-de-acesso-avancado/) eu explico melhor sobre essas configurações.
 
 ---
 ## 3. Alterar o prefixo padrão das tabelas do banco de dados
@@ -113,7 +113,7 @@ Ideal para quem deseja **melhorar o visual e a comunicação visual do site** co
 
 O [Advanced Custom Fields](<https://www.advancedcustomfields.com/>) é um plugin indispensável para desenvolvedores WordPress que desejam **personalizar a experiência de edição** no painel do site.
 
-Com ele, é possível **criar e gerenciar campos personalizados** com facilidade, adicionando informações extras em qualquer parte do WordPress — como posts, usuários, mídias, taxonomias e páginas de opções.
+Com ele, é possível **criar e gerenciar campos personalizados** com facilidade, adicionando informações extras em qualquer parte do WordPress, como posts, usuários, mídias, taxonomias e páginas de opções.
 
 Os campos podem ser exibidos em qualquer template do tema com funções práticas e intuitivas, tornando o ACF uma solução poderosa e flexível para **sites dinâmicos e bem estruturados**.
 
@@ -148,7 +148,7 @@ Combinado com boas práticas de segurança, o Wordfence pode proteger até os po
 - **Implemente reCAPTCHA em todos os formulários**, inclusive de login e comentários, para bloquear robôs e ataques automatizados.
 - **Desabilite o login por nome de usuário**, permitindo apenas via e-mail, uma prática simples que dificulta ataques de força bruta.
 - **Exija o uso de senhas fortes** para todos os usuários, especialmente administradores e editores.
-- **Utilize uma CDN (Content Delivery Network)** para cache de arquivos estáticos — melhora a segurança, a performance e economiza banda.
+- **Utilize uma CDN (Content Delivery Network)** para cache de arquivos estáticos, melhora a segurança, a performance e economiza banda.
 - **Implemente cache de banco de dados com Redis**, se possível, para reduzir a carga do servidor e acelerar o carregamento.
 - **Instale apenas plugins confiáveis**, testados por você ou com ampla reputação. Evite plugins desconhecidos ou abandonados.
 - **Ao desenvolver seus próprios plugins**, siga práticas de segurança como:
@@ -194,7 +194,7 @@ sudo systemctl restart apache2
 ```
 
 
-[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Wordpress%20-%20Configura%C3%A7%C3%B5es%20e%20Boas%20Pr%C3%A1ticas>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/wordpress-configuracoes-e-boas-praticas/)
 
 <sup><sub>
 Renée Maksoud - abril de 2025

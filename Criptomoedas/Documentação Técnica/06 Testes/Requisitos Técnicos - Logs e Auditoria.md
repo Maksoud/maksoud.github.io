@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📋 Requisitos Técnicos - Logs e Auditoria
 
 Este documento apresenta os requisitos e estruturas necessárias para garantir **transparência**, **rastreabilidade** e **confiabilidade** das operações realizadas automaticamente pelo sistema Criptoren.
@@ -70,6 +72,8 @@ Este documento apresenta os requisitos e estruturas necessárias para garantir *
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-logs-e-auditoria/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

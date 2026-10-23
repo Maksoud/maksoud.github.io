@@ -1,3 +1,5 @@
+### Sumário
+
 **Fale sobre você** 
 - **Dica:** Decida com antecedência quais de suas habilidades e destaques de carreira melhor se adequam ao cargo. 
 **Resposta:** Compartilhe essas habilidades como uma história pessoal e interessante, mostrando como você começou, onde está agora e como esse cargo é o próximo capítulo lógico.
@@ -46,3 +48,9 @@
 - **Dica:** Não diga “não”! Antes da entrevista, pense nos 2 ou 3 principais pontos que você quer comunicar ao longo da entrevista. 
 **Resposta:** Use esse tempo para reiterar esses pontos.
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/job-prep/perguntas-e-respostas-job-interview/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

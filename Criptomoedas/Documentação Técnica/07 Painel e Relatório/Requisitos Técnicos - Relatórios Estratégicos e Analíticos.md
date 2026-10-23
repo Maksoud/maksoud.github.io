@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📈 Requisitos Técnicos - Relatórios Estratégicos e Analíticos
 
 Este documento consolida os requisitos para geração de relatórios estratégicos, táticos e analíticos no sistema Criptoren. Os relatórios têm como objetivo oferecer visão de desempenho, risco, oportunidade e eficiência da estratégia de negociação automatizada.
@@ -109,6 +111,8 @@ Este documento consolida os requisitos para geração de relatórios estratégic
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/requisitos-tecnicos-relatorios-estrategicos-e-analiticos/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

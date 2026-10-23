@@ -1,12 +1,14 @@
+### Sumário
+
 # Argumentação vs. Discussão: quando a conversa deixa de avançar
 
-É comum ver pessoas dizendo que estão “argumentando”, quando na prática estão apenas **discutindo** — no sentido improdutivo da palavra: falando para **estabelecer uma opinião**, não para **investigar um tema**. O resultado costuma ser previsível: a conversa não flui, ninguém aprende nada e, no fim, sobra só desgaste.
+É comum ver pessoas dizendo que estão “argumentando”, quando na prática estão apenas **discutindo**, no sentido improdutivo da palavra: falando para **estabelecer uma opinião**, não para **investigar um tema**. O resultado costuma ser previsível: a conversa não flui, ninguém aprende nada e, no fim, sobra só desgaste.
 
 A diferença não é “ser calmo” versus “ser intenso”. A diferença real é **o objetivo** e **o método**.
 
 ## O que é argumentar (de verdade)
 
-**Argumentar** é tentar chegar a uma conclusão melhor — seja uma decisão, um entendimento ou um consenso mínimo — usando **razões** que possam ser analisadas. Uma boa argumentação tem três pilares:
+**Argumentar** é tentar chegar a uma conclusão melhor (seja uma decisão, um entendimento ou um consenso mínimo) usando **razões** que possam ser analisadas. Uma boa argumentação tem três pilares:
 
 - **Tese clara**: “Eu penso X.”
 - **Justificativa**: “Eu penso X por causa de Y.”
@@ -22,11 +24,11 @@ Na prática, quem argumenta costuma:
 - Fazer perguntas para entender, não para encurralar
 - Conseguir reformular o ponto do outro de um jeito justo
 
-Argumentação é uma forma de cooperação intelectual. Pode ter firmeza, pode ter emoção, pode ter discordância — mas tem **estrutura**.
+Argumentação é uma forma de cooperação intelectual. Pode ter firmeza, pode ter emoção, pode ter discordância, mas tem **estrutura**.
 
 ## O que é “só discutir” (e por que isso não leva a lugar nenhum)
 
-A discussão improdutiva não tem como meta a clareza. Ela tem como meta a **vitória**: ganhar a conversa, impor uma narrativa, manter status, “não ficar por baixo”, provar que o outro está errado — mesmo que isso custe a verdade.
+A discussão improdutiva não tem como meta a clareza. Ela tem como meta a **vitória**: ganhar a conversa, impor uma narrativa, manter status, “não ficar por baixo”, provar que o outro está errado, mesmo que isso custe a verdade.
 
 O problema é que, quando a prioridade vira vencer, o diálogo se transforma em um jogo onde vale quase tudo:
 
@@ -60,7 +62,7 @@ Alguns padrões aparecem com frequência quando alguém acredita estar “argume
 - **Foco na pessoa**: intenção, caráter, capacidade, e não o conteúdo do tema
 - **Reações como métrica**: “se você ficou incomodado, é porque eu tenho razão”
 
-Nada disso ajuda a pensar melhor. Ajuda a ganhar tempo, pressionar, confundir — mas não ajuda a chegar em lugar algum.
+Nada disso ajuda a pensar melhor. Ajuda a ganhar tempo, pressionar, confundir, mas não ajuda a chegar em lugar algum.
 
 ## Como “puxar” a conversa para o modo argumentação (sem brigar)
 
@@ -84,12 +86,12 @@ A longo prazo, discussões improdutivas criam um hábito perigoso: a pessoa pass
 
 ## Conclusão
 
-**Discussão** (no mau sentido) é sobre vitória. **Argumentação** é sobre clareza. E clareza é o que faz uma conversa avançar — mesmo quando não há acordo.
+**Discussão** (no mau sentido) é sobre vitória. **Argumentação** é sobre clareza. E clareza é o que faz uma conversa avançar, mesmo quando não há acordo.
 
 Se você quer saber se está diante de um argumento ou de uma disputa, observe uma coisa: **existe abertura para análise e revisão, ou só insistência?** Quando não há abertura, não é argumentação. É só opinião tentando virar lei.
 
 
-[Sumário](<https://maksoud.github.io/Sumário>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/argumentacao-vs-discussao/)
 
 <sup><sub>
 Renée Maksoud - março de 2026

@@ -1,3 +1,5 @@
+### Sumário
+
 **CARGO 17: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO**
 
 **Quantitativo de Correções para Ampla Concorrência:**
@@ -26,3 +28,10 @@ PcD: CR
 INDÍGENAS: CR
 TOTAL: CR
 Quantitativo de correções para ampla concorrência (não estão incluídas as reservas de vagas nestes quantitativos): 300
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/tse-cpnuje-24/cargos/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2024
+</sub></sup>

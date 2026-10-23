@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Conselhos para uma vida
 
@@ -14,7 +14,7 @@ A sabedoria vem com o tempo, e podemos adquiri-la de diversas formas: por meio d
 
 Então, que possamos espalhar conhecimento, bom ânimo e, acima de tudo, fé em dias melhores.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Conselhos%20para%20uma%20vida>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/conselhos-para-uma-vida/)
 
 <sup><sub>
 Renée Maksoud - março de 2025

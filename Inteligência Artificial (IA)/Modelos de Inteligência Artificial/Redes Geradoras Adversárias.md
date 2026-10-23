@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Redes Geradoras Adversárias
 
@@ -100,6 +100,9 @@ Para lidar com esses problemas, várias técnicas foram desenvolvidas, como o us
 ### Conclusão
 
 As **Redes Geradoras Adversárias (GANs)** são uma poderosa técnica de aprendizado profundo para gerar novos dados realistas. Elas têm uma ampla gama de aplicações, desde geração de imagens até super-resolução e transferência de estilo. Embora enfrentem desafios como o treinamento instável, as GANs continuam a evoluir com novas variantes e técnicas para superar essas limitações.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/redes-geradoras-adversarias/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

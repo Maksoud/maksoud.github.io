@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Criando um PDI
 
@@ -117,7 +117,7 @@ Um Plano de Desenvolvimento Individual (PDI) é uma ferramenta estratégica que 
 Criar um PDI detalhado e seguir este plano de forma disciplinada irá ajudá-lo a alcançar suas metas de carreira internacional, garantindo que você esteja bem preparado para as oportunidades que surgirem.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Carreiras/Criando%20um%20PDI>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/criando-um-pdi/)
 
 <sup><sub>
 Renée Maksoud - julho de 2024

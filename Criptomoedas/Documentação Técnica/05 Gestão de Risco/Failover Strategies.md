@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🚨 Failover Strategies  
 `/Documentação Técnica/05 Gestão de Risco/Failover Strategies.md`  
 
@@ -113,3 +115,10 @@ python -c "import requests; requests.get('http://localhost:8000/health', timeout
 --- 
 
 Este documento estabelece protocolos claros para manter a operação estável mesmo em cenários adversos, alinhado às melhores práticas de FinTech.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/failover-strategies/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

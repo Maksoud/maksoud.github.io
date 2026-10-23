@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📊 Posições Abertas  
 
 
@@ -124,3 +126,10 @@ python -m simulator positions --interval 10
 ---
 
 Este documento fornece visibilidade completa sobre as exposições atuais do sistema, essencial para gestão de risco ativa. Mantenha o histórico de posições fechadas para análise futura!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/posicoes-abertas/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

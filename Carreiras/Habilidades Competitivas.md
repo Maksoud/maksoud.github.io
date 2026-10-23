@@ -1,3 +1,5 @@
+### Sumário
+
 **Entender o problema, estruturar a solução, alinhar pessoas, conduzir entregas e gerar resultado.**
 
 **Habilidades Desenvolvidas:**
@@ -217,3 +219,10 @@ A partir daí, o produto escalável nasce com mais chance de venda real.
 - **ServiceNow não precisa ser o centro do seu posicionamento.** Ele pode aparecer como contexto, não como identidade principal.
 - O LinkedIn hoje é peça estratégica. Ele precisa sair do **“profissional genérico de TI”** para **“líder que melhora operação com gestão, processo e IA”**.
 - **Escala vem depois da validação.** Primeiro venda um serviço produtizado, depois transforme o aprendizado em produto digital.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/habilidades-competitivas/)
+
+<sup><sub>
+Renée Maksoud - março de 2026
+</sub></sup>

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Limitações e Potencial dos LLMs – O que um Engenheiro de Prompt Precisa Saber
 
@@ -148,6 +148,7 @@ Alucinação, custo, contexto limitado e sensibilidade ao prompt são desafios r
 Saber explorar o potencial **maximizando resultados** e **minimizando riscos** através de boas práticas de design, teste, validação e governança de prompts.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/limitacoes-e-potencial-dos-llms/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

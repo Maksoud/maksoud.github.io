@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 # Os 12 princípios do Manifesto Ágil
 
 1. **Satisfação do Cliente**:
@@ -37,7 +37,7 @@
 12. **Reflexão regular para ajustes**:
     - Em intervalos regulares (final da sprint), a equipe reflete sobre como se tornar mais eficaz, então ajusta e refina seu comportamento de acordo.
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Os%2012%20princípios%20do%20Manifesto%20Ágil>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/os-12-principios-do-manifesto-agil/)
 
 <sup><sub>
 Renée Maksoud - julho de 2024

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### A Importância de Qualificar as Atividades no Ambiente de Trabalho
 
@@ -28,7 +28,7 @@ Além disso, essa prática estimula o autoconhecimento e a valorização do pró
 
 Qualificar as atividades desempenhadas no ambiente de trabalho é um exercício contínuo que beneficia tanto sua carreira quanto a organização em que você atua. Saber evidenciar seus diferenciais é tão importante quanto desempenhar um trabalho de destaque em sua posição atual. O impacto que você gera nas suas atividades rotineiras tem valor para a empresa e pode ser um catalisador para novas oportunidades. Ao compreender o impacto do seu trabalho e destacar suas contribuições de forma estratégica no currículo, você se posiciona como um profissional relevante e estratégico no mercado, ampliando suas possibilidades de negócios e crescimento profissional. Afinal, o diferencial está em como você transforma suas experiências em valor tangível para o negócio.
 
-[link de compartilhamento](<https://maksoud.github.io/Carreiras/A%20Importância%20de%20Qualificar%20as%20Atividades%20no%20Ambiente%20de%20Trabalho>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/carreiras/a-importancia-de-qualificar-as-atividades-no-ambiente-de-trabalho/)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024

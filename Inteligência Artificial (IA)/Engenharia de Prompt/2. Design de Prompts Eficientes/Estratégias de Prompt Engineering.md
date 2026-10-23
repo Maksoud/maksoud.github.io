@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Estratégias de Prompt Engineering: Chain of Thought, Zero-Shot, Few-Shot e Instruções Aninhadas
 
@@ -164,6 +164,7 @@ Como engenheiro de prompt, sua habilidade será **saber escolher e combinar essa
 - Para tarefas complexas: Instruções Aninhadas
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/estrategias-de-prompt-engineering/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

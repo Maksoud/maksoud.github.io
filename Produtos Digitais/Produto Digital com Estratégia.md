@@ -1,3 +1,5 @@
+### Sumário
+
 Capítulos sugeridos (40-50 páginas total):
 
 - Introdução: Por que finanças pessoais falha
@@ -53,3 +55,10 @@ Capítulos sugeridos (40-50 páginas total):
     - Relatório automático por email a cada semana
     - Backup automático na nuvem
     - Suporte via WhatsApp (pessoal, você responde direto)
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/produtos-digitais/produto-digital-com-estrategia/)
+
+<sup><sub>
+Renée Maksoud - julho de 2026
+</sub></sup>

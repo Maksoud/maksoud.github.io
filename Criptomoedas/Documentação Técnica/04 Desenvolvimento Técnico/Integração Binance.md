@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 💱 Integração Binance  
 `/Documentação Técnica/04 Desenvolvimento Técnico/Integração Binance.md`  
 
@@ -135,3 +137,10 @@ binance_api_requests_failed{error="rate_limit"} 3
 # Para testar a conexão básica:
 python -c "from binance.client import Client; print(Client().get_system_status())"
 ```
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/integracao-binance/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

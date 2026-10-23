@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Ferramentas e Plataformas de Integração: LangChain, Semantic Kernel, LlamaIndex
 
@@ -113,6 +113,7 @@ O foco principal é facilitar implementações de **RAG (Retrieval-Augmented Gen
 Seja para **chatbots avançados**, **consultas de dados não estruturados** ou **integrações com ferramentas corporativas**, essas plataformas permitem que você **leve a Engenharia de Prompt para o próximo nível**, criando soluções empresariais completas, escaláveis e integradas.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/langchain-semantic-kernel-llamaindex/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

@@ -1,23 +1,23 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Tome uma decisão, não somente faça escolhas
 
 > Durante a visita a um hospital psiquiátrico, um dos visitantes perguntou ao diretor:
 > 
-> — Qual é o critério pelo qual vocês decidem quem precisa ser hospitalizado aqui?
+> "Qual é o critério pelo qual vocês decidem quem precisa ser hospitalizado aqui?"
 > 
 > Respondeu o diretor:
-> — Nós enchemos uma banheira com água e oferecemos ao doente uma colher, um copo e um balde e pedimos que a esvazie. De acordo com a forma que ele decida realizar a missão, nós decidimos se o hospitalizamos ou não.
+> "Nós enchemos uma banheira com água e oferecemos ao doente uma colher, um copo e um balde e pedimos que a esvazie. De acordo com a forma que ele decida realizar a missão, nós decidimos se o hospitalizamos ou não."
 > 
-> — Entendi — disse o visitante — uma pessoa normal usaria o balde, que é maior que o copo e a colher.
+> "Entendi", disse o visitante, "uma pessoa normal usaria o balde, que é maior que o copo e a colher."
 > 
-> — Não — respondeu o diretor — uma pessoa normal tiraria a tampa do ralo. O que o senhor prefere? Quarto particular ou enfermaria?
+> "Não", respondeu o diretor, "uma pessoa normal tiraria a tampa do ralo. O que o senhor prefere? Quarto particular ou enfermaria?"
 > 
 > <sup>Fonte: [Recanto das Letras](https://www.recantodasletras.com.br/humor/1602800)</sup>
 
 A anedota acima, embora bem-humorada, expõe com precisão cirúrgica uma das maiores armadilhas da mente humana: **a tendência de nos limitarmos às alternativas que nos foram apresentadas**, esquecendo de avaliar o problema real em sua totalidade.
 
-O visitante ouviu as regras do jogo e imediatamente assumiu que sua única tarefa era escolher a melhor ferramenta entre as três disponíveis. Ele comparou capacidades, pesos e eficiências relativas — a colher é muito lenta, o copo é insuficiente, logo, o balde é a escolha "racional". O erro dele não foi de cálculo; foi de submissão ao contexto imposto. Ele esqueceu de perguntar qual era o verdadeiro objetivo: esvaziar a banheira. E, para esvaziar uma banheira, o ralo sempre esteve ali.
+O visitante ouviu as regras do jogo e imediatamente assumiu que sua única tarefa era escolher a melhor ferramenta entre as três disponíveis. Ele comparou capacidades, pesos e eficiências relativas, a colher é muito lenta, o copo é insuficiente, logo, o balde é a escolha "racional". O erro dele não foi de cálculo; foi de submissão ao contexto imposto. Ele esqueceu de perguntar qual era o verdadeiro objetivo: esvaziar a banheira. E, para esvaziar uma banheira, o ralo sempre esteve ali.
 
 ---
 
@@ -54,7 +54,7 @@ Não se conformar com as alternativas visíveis exige maturidade e pensamento cr
 2. **Quem definiu que estas são as únicas opções existentes?** (Desafie as regras implícitas que você mesmo ou o ambiente criaram).
 3. **Que caminho alternativo surgiria se eu combinasse ideias ou começasse do zero?**
 
-Encontre o seu caminho e avalie as alternativas com base naquilo que se espera realisticamente de cada uma delas. Toda escolha e toda criação carregam riscos — as consequências podem, sim, ser desafiadoras ou negativas. Mas existe uma diferença brutal entre colher os frutos de uma decisão que você deliberadamente tomou e arcar com o prejuízo de escolhas que outros fizeram por você.
+Encontre o seu caminho e avalie as alternativas com base naquilo que se espera realisticamente de cada uma delas. Toda escolha e toda criação carregam riscos, as consequências podem, sim, ser desafiadoras ou negativas. Mas existe uma diferença brutal entre colher os frutos de uma decisão que você deliberadamente tomou e arcar com o prejuízo de escolhas que outros fizeram por você.
 
 ---
 
@@ -70,9 +70,8 @@ Assumir as rédeas da própria trajetória dá trabalho e exige coragem para con
 
 Tire a tampa do ralo. Pare de apenas escolher entre o que te dão e comece, de fato, a decidir.
 
-[Sumário](<https://maksoud.github.io/Sumário>)
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Tome%20uma%20decis%C3%A3o%2C%20n%C3%A3o%20somente%20fa%C3%A7a%20escolhas>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/tome-uma-decisao-nao-somente-faca-escolhas/)
 
 <sup><sub>
 Renée Maksoud - setembro de 2026

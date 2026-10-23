@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # Primeiros Passos no Desenvolvimento
 Atualizado em 13/08/2025
 
@@ -351,7 +353,7 @@ def paper_order(ctx, side, qty, price):
 ```
 ---
 
-### Banco de dados — migração inicial (Alembic)
+### Banco de dados: migração inicial (Alembic)
 
 Estruturas mínimas:
 
@@ -855,6 +857,9 @@ uvicorn src.bot.api.main:app --host ${API_HOST:-0.0.0.0} --port ${API_PORT:-8000
 - **Escalabilidade**: para maior throughput, migrar Chart.js para consultas assíncronas paginadas e introduzir downsampling no agregador.
 
 ---
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/primeiros-passos-no-desenvolvimento/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

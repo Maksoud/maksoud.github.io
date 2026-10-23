@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 # ITIL Infrastructure And Platform Management
 
 [Blog](https://purplegriffon.com/blog) > [IT Service Management - ITIL®](https://purplegriffon.com/blog/it-service-management) > [ITIL Infrastructure And Platform Management](https://purplegriffon.com/blog/itil-infrastructure-and-platform-management)
@@ -237,3 +239,10 @@ In conclusion, ITIL Infrastructure and Platform Management is the backbone of ef
 By aligning technology with business objectives, optimising resources, and ensuring reliability and security, organisations can thrive in the digital age. Key roles, such as IT Infrastructure Manager, Architects, and Platform Administrators, play vital roles in this process. Emphasising continual improvement, risk management, and user-centricity, Infrastructure and Platform Management empowers businesses to adapt to changing demands and deliver exceptional services.
 
 With ITIL's best practices guiding the way, organisations can build a robust, agile, and customer-focused IT environment that drives success and competitiveness in today's dynamic landscape.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/infrastructure-and-platform-management/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

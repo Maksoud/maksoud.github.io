@@ -1,3 +1,5 @@
+### Sumário
+
 ### Engenheiro de Dados
 
 **Responsabilidades:**
@@ -183,3 +185,10 @@ Criar um portfólio forte é essencial para se destacar em cada uma dessas carre
 - Sistema de recomendação para uma plataforma de e-commerce.
 - Modelo de previsão de churn para uma empresa de telecomunicações.
 - Análise de sentimento em dados de redes sociais usando NLP.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/data-analyst/areas-afins-engenharia-analise-e-ciencia/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

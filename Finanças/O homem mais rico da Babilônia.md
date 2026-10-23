@@ -1,3 +1,5 @@
+### Sumário
+
 O homem mais rico da Babilônia
 George S. Clason
 
@@ -23,9 +25,8 @@ George S. Clason
 #### Sétima Solução
 **Aumente sua capacidade para ganhar** - Pagar suas dívidas com toda a pontualidade de que for capaz, não adquirindo nada que não tenha condições de saldar; Cuidar da família de modo que esta possa pensar e falar bem dele; Fazer um testamento a fim de que, caso os deuses o chamem para si, possa ser feita uma divisão adequada e honesta de todos os seus bens; Ter compaixão pelos que sofrem ou foram atingidos pela desventura e ajudá-los na medida de suas possiblidades; Ter atenção para os que lhe querem bem; Cultivar suas próprias aptidões, estudar e somar conhecimentos, tornar-se mais habilidoso e agir sempre respeitando a si mesmo.
 
-[Sumário](<https://maksoud.github.io/Sumário>)
 
-[link de compartilhamento](<https://maksoud.github.io/Finan%C3%A7as%2FO%20homem%20mais%20rico%20da%20Babil%C3%B4nia>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/financas/o-homem-mais-rico-da-babilonia/)
 
 <sup><sub>
 Renée Maksoud - janeiro de 2026

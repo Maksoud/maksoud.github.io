@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Automação de Processos com IA (LLMs)
 
@@ -126,6 +126,7 @@ A **automação de processos com IA** é um dos campos mais práticos e de retor
 O engenheiro de prompt atua como o **arquiteto da lógica conversacional e da entrega de valor**, criando prompts que funcionam como "blocos de código natural" para orquestrar ações entre LLMs e sistemas corporativos.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/automacao-de-processos-com-ia/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

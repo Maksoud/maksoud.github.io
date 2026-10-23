@@ -1,3 +1,4 @@
+### Sumário > Projeto de Gestão de Criptomoedas
 
 ## 🛠️ 1. Estruturação do Ambiente
 
@@ -111,3 +112,8 @@ alembic==1.11.1
 > **Formato da resposta:** Markdown conciso com árvore do projeto e passos de instalação/execução; não utilizar emojis ou explicações simplificadas sobre o material exposto.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/prompts/prompt-de-requisitos/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - agosto de 2025
+</sub></sup>

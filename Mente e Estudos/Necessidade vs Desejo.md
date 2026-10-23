@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 ### Necessidade vs. Desejo
 
@@ -43,7 +43,7 @@ Lembre-se: o desejo pode ser intenso, mas muitas vezes é passageiro. A necessid
 
 Por isso é importante definir metas e objetivos de médio e longo prazo. Com foco é possível vencer grandes desafios, até mesmo ajuda na diferenciação entre necessidade e desejo.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Necessidade%20vs%20Desejo>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/necessidade-vs-desejo/)
 
 <sup><sub>
 Renée Maksoud - junho de 2024

@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Conhecendo os Principais Modelos de Linguagem (LLMs) – GPT, Claude, Gemini, Mistral e Outros (2025)
 
@@ -151,6 +151,8 @@ Como engenheiro de prompt, conhecer as diferenças entre esses modelos é fundam
 ✅ Anote pontos fortes e fracos de cada um na prática  
 ✅ Monte um **repositório com prompts otimizados por modelo**
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/conhecendo-os-principais-modelos/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

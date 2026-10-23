@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # 🧠 Como Funciona o ChatGPT – OpenAI
 
@@ -26,7 +26,7 @@ Durante esse treinamento:
 
 - O modelo **não sabe nada** sobre o mundo.
 - Ele apenas **aprende padrões linguísticos** com base estatística.
-- Os dados não são buscados em tempo real — ele não "procura no Google".
+- Os dados não são buscados em tempo real, ele não "procura no Google".
 
 
 ### 2. **Ajuste Fino com Supervisão (Fine-tuning)**
@@ -42,7 +42,7 @@ Neste processo, entram:
 
 ### 3. **Interação via Prompt**
 
-Quando você conversa com o ChatGPT, você envia um **prompt** — ou seja, um texto de entrada com instruções ou perguntas.
+Quando você conversa com o ChatGPT, você envia um **prompt**, ou seja, um texto de entrada com instruções ou perguntas.
 
 O modelo interpreta esse prompt, avalia o **contexto**, e **gera uma sequência de palavras** que responde ou complementa o que foi solicitado, com base no que ele aprendeu durante o pré-treinamento e ajuste fino.
 
@@ -91,6 +91,8 @@ O ChatGPT é uma aplicação de IA que simula conversas humanas com base em padr
 
 Para quem deseja dominar a **engenharia de prompt**, entender o funcionamento interno do ChatGPT é fundamental para escrever instruções claras, evitar alucinações e alcançar resultados de alta qualidade com o modelo.
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/como-funciona-o-chatgpt-openai/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

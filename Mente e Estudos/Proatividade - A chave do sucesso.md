@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 # Proatividade - A chave do sucesso
 
 A proatividade é uma das qualidades mais valorizadas no ambiente corporativo moderno, onde empresas buscam profissionais que vão além das tarefas atribuídas e assumem a iniciativa para melhorar processos, resolver problemas e contribuir para o sucesso da organização. No entanto, adotar uma postura proativa pode ser um desafio que exige sensibilidade, adaptação e uma compreensão clara do contexto empresarial. 
@@ -35,7 +35,7 @@ Uma excelente maneira de encontrar oportunidades de aprimoramento no seu dia a d
 
 Esse exercício pode ser expandido para atividades relacionadas ao trabalho dos colegas, onde você poderá observar oportunidades de melhoria nos processos adjacentes. No entanto, é essencial abordar essas sugestões com cautela e sensibilidade. A ideia é colaborar e ajudar a tornar as rotinas mais eficientes, e não apontar falhas. Ao sugerir melhorias, deixe claro que o objetivo é facilitar o trabalho em equipe e beneficiar todos. Quando for conversar com os gestores sobre essas sugestões, valorize as contribuições dos colegas, destacando que se trata de uma iniciativa colaborativa. Assim, você não apenas reforça a proatividade, mas também constrói um ambiente de confiança e reconhecimento mútuo, ganhando apoio tanto dos colegas quanto da liderança.
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Proatividade%20-%20A%20chave%20do%20sucesso>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/proatividade-a-chave-do-sucesso/)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024

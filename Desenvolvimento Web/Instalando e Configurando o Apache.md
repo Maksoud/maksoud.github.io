@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Instalando e Configurando o Apache no CentOS
 
@@ -63,7 +63,7 @@ sudo ss -tulpn | grep :80
 
 
 
-[link de compartilhamento](<https://maksoud.github.io/Desenvolvimento%20Web/Instalando%20e%20Configurando%20o%20Apache>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/instalando-e-configurando-o-apache/)
 
 <sup><sub>
 Renée Maksoud - setembro de 2025

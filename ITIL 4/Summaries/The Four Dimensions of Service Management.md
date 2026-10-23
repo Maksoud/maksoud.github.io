@@ -1,3 +1,5 @@
+### Sumário > ITIL 4
+
 The "Four Dimensions of Service Management" in ITIL 4 provides a comprehensive framework that ensures a holistic approach to service management. These dimensions are essential for delivering high-quality IT services and achieving organizational goals. They address all aspects of service management to ensure that services are effectively designed, developed, and delivered.
 
 ### The Four Dimensions
@@ -37,3 +39,10 @@ The four dimensions are interconnected and must be considered together to ensure
 ### Conclusion
 
 The Four Dimensions of Service Management in ITIL 4 provide a structured approach to managing and delivering IT services. By considering Organizations and People, Information and Technology, Partners and Suppliers, and Value Streams and Processes, organizations can ensure a holistic and effective service management strategy that supports continuous improvement and value creation. This comprehensive approach helps organizations to adapt to changing environments and meet the evolving needs of their customers and stakeholders.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/itil-4/summaries/the-four-dimensions-of-service-management/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

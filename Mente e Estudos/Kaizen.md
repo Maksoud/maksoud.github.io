@@ -1,8 +1,8 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Conceitos Japoneses de Vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conceitos%20Japoneses%20de%20Vida>)
+### Sumário > Conceitos Japoneses de Vida
 
-# **Kaizen (改善) — “Melhoria contínua”**
+# **Kaizen (改善): “Melhoria contínua”**
 
-**Kaizen** é um conceito japonês que significa “melhoria contínua”. A palavra é composta por “kai” (mudança) e “zen” (melhor), traduzindo-se como “mudança para melhor”. É uma filosofia que busca aperfeiçoamentos constantes, graduais e sustentáveis em todos os aspectos da vida — pessoal, profissional e organizacional.
+**Kaizen** é um conceito japonês que significa “melhoria contínua”. A palavra é composta por “kai” (mudança) e “zen” (melhor), traduzindo-se como “mudança para melhor”. É uma filosofia que busca aperfeiçoamentos constantes, graduais e sustentáveis em todos os aspectos da vida, pessoal, profissional e organizacional.
 
 ### Origem
 
@@ -12,7 +12,7 @@ Na década de 1980, o termo ganhou visibilidade global com a publicação do liv
 
 ### Aplicações e Objetivos
 
-Kaizen é usado para promover eficiência, reduzir desperdícios e aumentar a qualidade em processos diversos. No contexto organizacional, envolve todos os colaboradores — do chão de fábrica à alta liderança — na busca por pequenas melhorias diárias.
+Kaizen é usado para promover eficiência, reduzir desperdícios e aumentar a qualidade em processos diversos. No contexto organizacional, envolve todos os colaboradores (do chão de fábrica à alta liderança) na busca por pequenas melhorias diárias.
 
 No âmbito pessoal, é uma ferramenta poderosa para desenvolvimento gradual de hábitos e aprimoramento de competências.
 
@@ -44,7 +44,7 @@ Em empresas, pode-se aplicar o Kaizen ao organizar estações de trabalho, reduz
 - **Método de James Clear (Atomic Habits):** Estratégia moderna que propõe mudanças de hábito através de melhorias de 1% ao dia, ecoando a filosofia Kaizen.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Kaizen>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/kaizen/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📊 Requisitos Técnicos - Painel e Visualização
 
 Este documento detalha os requisitos para o desenvolvimento de um painel visual que permita acompanhar em tempo real as operações automatizadas, o estado das estratégias e os dados de desempenho do sistema Criptoren.
@@ -73,6 +75,8 @@ Este documento detalha os requisitos para o desenvolvimento de um painel visual 
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/requisitos-tecnicos-painel-e-visualizacao/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

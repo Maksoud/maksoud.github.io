@@ -1,3 +1,5 @@
+### Sumário
+
 Modelos de probabilidade são ferramentas fundamentais em estatística e ciência de dados. Eles descrevem como a probabilidade é distribuída em um conjunto de eventos possíveis. Existem dois tipos principais de modelos de probabilidade: modelos discretos e modelos contínuos.
 ## **Modelos Discretos**
 
@@ -79,3 +81,10 @@ Portanto, aproximadamente 68.26% dos parafusos terão comprimento entre 9.8 cm e
 ## **Conclusão**
 
 Compreender e aplicar modelos de probabilidade é essencial para um cientista de dados ou analista de dados. Eles fornecem a base para muitas técnicas estatísticas e algoritmos de machine learning, permitindo análises robustas e predições precisas. Familiarize-se com os diferentes tipos de distribuições e suas aplicações para se tornar proficiente na análise de dados e na tomada de decisões informadas.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/modelos-de-probabilidades/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

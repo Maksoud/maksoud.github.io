@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🔄 Fluxo Operacional  
 `/Documentação Técnica/03 Estratégia/Fluxo Operacional.md`  
 
@@ -82,4 +84,11 @@ flowchart LR
 ### 💡 Dicas para Implementação:  
 - Use **`apscheduler`** para o agendamento de vendas  
 - Armazene **todos os eventos** na tabela `trades` para auditoria  
-- Teste o fluxo com **dados históricos** antes de operar ao vivo  
+- Teste o fluxo com **dados históricos** antes de operar ao vivo
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/fluxo-operacional/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

@@ -1,5 +1,5 @@
 
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 
 # Geração de Conteúdo com LLMs (Marketing, Landing Pages, E-mails, SEO)
@@ -130,6 +130,7 @@ Como engenheiro de prompt, você será responsável por **traduzir os objetivos 
 Sua habilidade será **prototipar, testar e ajustar prompts** para diferentes canais e públicos.
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/geracao-de-conteudo-marketing-landing-pages-email-seo/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

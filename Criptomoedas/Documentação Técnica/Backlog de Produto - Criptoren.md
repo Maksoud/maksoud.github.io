@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📋 Backlog de Produto - Criptoren
 
 Este documento organiza os requisitos do sistema de negociação automatizada de criptomoedas baseado na estratégia **Canal de Preço com Controle de Capital e Venda Programada com Lucro**. Ele serve como referência para planejamento, acompanhamento e desenvolvimento incremental do produto.
@@ -40,6 +42,8 @@ Sistema que monitora preços em tempo real via WebSocket da Binance, identifica 
 
 ---
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/backlog-de-produto-criptoren/)
 
 <sup><sub>
 Criptoren - Renée Maksoud - julho de 2025

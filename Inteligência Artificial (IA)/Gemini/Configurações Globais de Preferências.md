@@ -1,3 +1,5 @@
+### Sumário
+
 O arquivo `settings.json` precisa de algumas tags para ajudar nas permissões automáticas, assim como o método `ctrl+tab` no Claude Code faz.
 
 Segue exemplo de arquivo:
@@ -80,3 +82,10 @@ O conteúdo do arquivo `.vscode\settings.json` do meu projeto está assim:
 ```
 
 Mesmo com todas as configurações, a melhor forma de resolver isso foi utilizando a IDE Antigravity do Google.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/gemini/configuracoes-globais-de-preferencias/)
+
+<sup><sub>
+Renée Maksoud - setembro de 2026
+</sub></sup>

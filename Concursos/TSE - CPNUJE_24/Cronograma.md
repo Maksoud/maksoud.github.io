@@ -1,3 +1,5 @@
+### Sumário
+
 **Atividade:** Período de inscrições e de solicitação de inscrição com isenção de taxa de inscrição  
 **Datas previstas:** 4/6 a 18/7/2024  
 Das 10 horas do primeiro dia às 18 horas do último dia (horário oficial de Brasília/DF)
@@ -57,3 +59,10 @@ Das 10 horas do primeiro dia às 18 horas do último dia (horário oficial de Br
 **Datas previstas:** 28/10/2024
 
 *As datas e os períodos estabelecidos no cronograma são passíveis de alteração, conforme necessidade e conveniência do TSE, do TRE e do Cebraspe. Caso haja alteração, esta será previamente comunicada por meio de edital. As demais datas serão informadas por meio dos editais subsequentes a serem publicados no Diário Oficial da União e (ou) divulgados na internet, no endereço eletrônico [Cebraspe](http://www.cebraspe.org.br/concursos/cpnuje_24).*
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/concursos/tse-cpnuje-24/cronograma/)
+
+<sup><sub>
+Renée Maksoud - agosto de 2024
+</sub></sup>

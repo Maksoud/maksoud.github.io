@@ -1,3 +1,5 @@
+### Sumário
+
 ## O Poder Oculto do Ócio: Por Que Desacelerar Acelera Você
 
 Vivemos num mundo onde a informação nunca para e os prazos são sempre apertados. É comum ver pessoas entrando nessa corrida sem fim, acreditando que a disponibilidade constante e a busca incessante por atender expectativas cada vez mais altas são o caminho para promoções ou cargos melhores.
@@ -26,9 +28,8 @@ Permitir-se o ócio é investir na sua saúde mental, na sua capacidade de apren
 
 Então, reserve um tempo. Curta uma música, veja um filme, viaje, leia algo que goste ou comece um hobby. Sua mente, ironicamente, fica mais afiada. Se um problema não avança, dê um tempo. Desconecte-se após alguns minutos de esforço sem resultado. Você vai notar que seu inconsciente continuará buscando pela solução. É como ativar um super poder oculto. Descubra o que melhor funciona pra você e encontre sua melhor versão. Mais produtivo, mais presente, mais focado.
 
-[Sumário](<https://maksoud.github.io/Sumário>)
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/O%20Poder%20Oculto%20do%20%C3%93cio>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/o-poder-oculto-do-ocio/)
 
 <sup><sub>
 Renée Maksoud - janeiro de 2026

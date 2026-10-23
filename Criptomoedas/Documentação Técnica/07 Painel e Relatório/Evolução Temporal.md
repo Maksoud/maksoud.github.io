@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📅 Evolução Temporal  
 
 
@@ -99,3 +101,10 @@ python -m analytics temporal_report --years=3
 ---
 
 Este documento transforma dados brutos em insights acionáveis, permitindo identificar padrões e ajustar estratégias. Atualize semanalmente para decisões informadas!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/evolucao-temporal/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

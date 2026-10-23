@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 📊 Regras do Canal de Preços
 
 `/Documentação Técnica/03 Estratégia/Regras do Canal de Preços.md`
@@ -148,3 +150,10 @@ def decidir_acao(preco_atual, base, teto, entrada, taxa):
     
     return "AGUARDAR"
 ```
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/regras-do-canal-de-precos/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

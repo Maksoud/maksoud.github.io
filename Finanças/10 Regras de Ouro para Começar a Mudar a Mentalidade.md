@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # 10 Regras de Ouro para Começar a Mudar a Mentalidade
 
@@ -107,7 +107,7 @@ Deixo aqui uma sugestão que, além de garantir boas risadas, vai inspirar novas
 ## *Não esqueça de celebrar cada conquista e a cada novo passo rumo ao seu sucesso financeiro.*
 
 
-[link de compartilhamento](<https://maksoud.github.io/Finanças/10%20Regras%20de%20Ouro%20para%20Começar%20a%20Mudar%20a%20Mentalidade>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/financas/10-regras-de-ouro-para-comecar-a-mudar-a-mentalidade/)
 
 <sup><sub>
 Renée Maksoud - novembro de 2024

@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 🗃️ Modelagem de Dados  
 `/Documentação Técnica/04 Desenvolvimento Técnico/Modelagem de Dados.md`  
 
@@ -183,4 +185,11 @@ def downgrade():
 ### ✅ Checklist de Implementação  
 - [ ] Criar todas as tabelas no banco de produção  
 - [ ] Popular tabela `symbols` com ativos iniciais (BTCUSDT, ETHUSDT)  
-- [ ] Configurar conexão segura com SSL  
+- [ ] Configurar conexão segura com SSL
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/modelagem-de-dados/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

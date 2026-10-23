@@ -1,6 +1,6 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Conceitos Japoneses de Vida](<https://maksoud.github.io/Mente%20e%20Estudos/Conceitos%20Japoneses%20de%20Vida>)
+### Sumário > Conceitos Japoneses de Vida
 
-# **Wabi-Sabi (侘寂) — “Beleza na imperfeição e na impermanência”**
+# **Wabi-Sabi (侘寂): “Beleza na imperfeição e na impermanência”**
 
 **Wabi-Sabi** (侘寂) é um conceito estético e filosófico japonês que celebra a beleza da imperfeição, da transitoriedade e da simplicidade. Ele convida à aceitação das marcas do tempo, da natureza e da incompletude como fontes autênticas de beleza e significado.
 
@@ -34,7 +34,7 @@ Wabi-Sabi é aplicado tanto na estética (decoração, arte, arquitetura, cerâm
 
 Uma tigela de cerâmica com uma rachadura reparada com ouro (técnica _kintsugi_) não é descartada, mas celebrada como mais valiosa por ter uma história. Na vida pessoal, aceitar os cabelos grisalhos ou as rugas como parte natural da experiência humana é viver o Wabi-Sabi.
 
-Outro exemplo é um ambiente de casa com móveis simples, luz natural e objetos usados que carregam memória e significado — tudo isso expressa a essência do Wabi-Sabi.
+Outro exemplo é um ambiente de casa com móveis simples, luz natural e objetos usados que carregam memória e significado, tudo isso expressa a essência do Wabi-Sabi.
 
 ### Técnicas Semelhantes
 
@@ -43,7 +43,7 @@ Outro exemplo é um ambiente de casa com móveis simples, luz natural e objetos 
 - **Estoicismo:** Filosofia que ensina a aceitar o que não se pode controlar e encontrar virtude nas dificuldades, refletindo o espírito de aceitação do Wabi-Sabi.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Mente%20e%20Estudos/Wabi-Sabi>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/mente-e-estudos/wabi-sabi/)
 
 <sup><sub>
 Renée Maksoud - maio de 2025

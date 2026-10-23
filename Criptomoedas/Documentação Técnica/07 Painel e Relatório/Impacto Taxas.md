@@ -1,3 +1,5 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # 💸 Impacto das Taxas  
 `/Documentação Técnica/07 Painel e Relatório/Impacto_Taxas.md`  
 
@@ -96,3 +98,10 @@ python -m analytics fee_simulator --bnb --volume 50000
 ---
 
 Este documento revela como pequenas otimizações podem aumentar significativamente o lucro líquido. Atualize trimestralmente conforme mudanças na estrutura de taxas!
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/impacto-taxas/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>

@@ -1,3 +1,5 @@
+### Sumário
+
 O score-Z, também conhecido como escore padronizado ou z-score, é uma medida que descreve a posição de um valor em relação à média de um conjunto de dados, expressa em termos de desvios padrão. Ele indica quantos desvios padrão um valor está acima ou abaixo da média.
 ## **Fórmula do Score-Z**
 
@@ -71,3 +73,10 @@ Imagine que você está analisando o tempo de resposta de um servidor em milisse
 ## **Conclusão**
 
 O score-Z é uma ferramenta poderosa e versátil para analistas e cientistas de dados. Ele permite a padronização de dados, identificação de outliers, comparação de valores de diferentes distribuições e detecção de anomalias. Compreender como calcular e interpretar scores-Z é fundamental para análises precisas e informadas em diversas aplicações estatísticas e de machine learning.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/score-z-z-score/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

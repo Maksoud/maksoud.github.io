@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # Automação com n8n, Zapier e Make: Orquestrando LLMs com Plataformas No-code/Low-code
 
@@ -103,6 +103,7 @@ Como engenheiro de prompt, sua responsabilidade será:
 - **Otimizar o custo (tokens) e a performance**
 
 
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/automacao-com-n8n-zapier-e-make/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

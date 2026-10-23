@@ -1,3 +1,5 @@
+### Sumário
+
 O desvio padrão é uma medida estatística que quantifica a quantidade de variação ou dispersão em um conjunto de dados. Ele mostra o quão espalhados os valores dos dados estão em relação à média (média aritmética) do conjunto. Em termos simples, o desvio padrão indica o grau de variação ou dispersão dos dados.
 
 ## Fórmula do Desvio Padrão
@@ -122,3 +124,10 @@ Ao planejar experimentos, o desvio padrão ajuda a determinar o tamanho da amost
 ## Conclusão
 
 O desvio padrão é uma medida versátil que pode ser aplicada de várias formas para melhorar a análise de dados e a tomada de decisões. Para um analista de dados, entender e aplicar o desvio padrão é crucial para garantir análises robustas, identificar áreas de interesse ou preocupação e comunicar resultados de maneira clara e eficaz.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/estatistica/desvio-padrao/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

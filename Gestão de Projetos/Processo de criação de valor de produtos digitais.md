@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 ## **Processo de Criação de Produtos Digitais e Geração de Valor para o Negócio**
 
 No contexto da transformação digital, a criação de produtos digitais deixou de ser apenas uma iniciativa tecnológica e passou a ocupar um papel estratégico nas organizações. Produtos bem projetados não apenas atendem a uma demanda do mercado, mas **geram valor real para o negócio** e para todas as partes envolvidas. Para que isso aconteça de forma eficaz, é essencial adotar uma abordagem estruturada, com boas práticas de gestão de projetos, foco nos stakeholders e uma comunicação clara e contínua ao longo de todo o ciclo de vida do produto.
@@ -15,7 +15,7 @@ Valor, nesse contexto, pode significar:
 
 ### **Identificação de Stakeholders e o Papel da Empatia**
 
-Um dos primeiros passos na criação de um produto digital é a **identificação dos stakeholders** — todas as pessoas, grupos ou entidades impactadas direta ou indiretamente pelo produto. Isso inclui:
+Um dos primeiros passos na criação de um produto digital é a **identificação dos stakeholders**, todas as pessoas, grupos ou entidades impactadas direta ou indiretamente pelo produto. Isso inclui:
 
 - **Clientes/usuários finais;**
 - **Investidores e patrocinadores;**
@@ -37,7 +37,7 @@ A gestão de projetos desempenha um papel central na entrega de produtos digitai
 
 ### **Comunicação como Pilar Central**
 
-A **comunicação entre as partes envolvidas** é um dos maiores diferenciais em projetos de sucesso. Projetos falham, em grande parte, por falhas de comunicação — expectativas não alinhadas, informações incompletas ou ausentes, feedbacks ignorados.
+A **comunicação entre as partes envolvidas** é um dos maiores diferenciais em projetos de sucesso. Projetos falham, em grande parte, por falhas de comunicação, expectativas não alinhadas, informações incompletas ou ausentes, feedbacks ignorados.
 
 Algumas boas práticas de comunicação incluem:
 
@@ -62,7 +62,7 @@ Criar produtos digitais relevantes vai muito além de desenvolver uma solução 
 Ao alinhar propósito, valor e execução, o produto deixa de ser apenas uma entrega e se transforma em uma **solução estratégica, capaz de impulsionar o negócio e gerar impacto real nas pessoas e seus processos**.
 
 
-[link de compartilhamento](<https://maksoud.github.io/Gestão%20de%20Projetos/Processo%20de%20criação%20de%20valor%20de%20produtos%20digitais>)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/processo-de-criacao-de-valor-de-produtos-digitais/)
 
 <sup><sub>
 Renée Maksoud - março de 2025

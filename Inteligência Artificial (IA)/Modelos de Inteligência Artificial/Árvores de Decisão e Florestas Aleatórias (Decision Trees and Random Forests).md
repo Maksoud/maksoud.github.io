@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>) > [Modelos de Inteligência Artificial](<https://maksoud.github.io/Inteligência%20Artificial%20(IA)/Modelos%20de%20Inteligência%20Artificial>)
+### Sumário > Modelos de Inteligência Artificial
 
 # Árvores de Decisão e Florestas Aleatórias (Decision Trees and Random Forests)
 
@@ -77,6 +77,9 @@ As **florestas aleatórias** são uma extensão das árvores de decisão e têm 
 - **Florestas Aleatórias** são uma versão mais robusta e precisa, corrigindo muitas das limitações das árvores de decisão individuais ao combinar várias árvores em um modelo ensemble.
 
 Esses modelos continuam sendo amplamente utilizados em várias indústrias devido à sua capacidade de lidar com dados complexos e fornecer predições confiáveis.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/arvores-de-decisao-e-florestas-aleatorias-decision-trees-and-random-forests/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2024

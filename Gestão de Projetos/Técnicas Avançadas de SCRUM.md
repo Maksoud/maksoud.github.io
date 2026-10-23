@@ -1,3 +1,5 @@
+### Sumário
+
 [Técnicas Avançadas de SCRUM - LinkedIn Cursos](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftecnicas-avancadas-de-scrum%3Ftrk%3Dshare_ent_url%26shareId%3DTlVL01%252BIQhiy%252FdiX29KE4A%253D%253D)
 
 ### Introdução à liderança servidora
@@ -59,3 +61,10 @@ Cabe ressaltar que, quando a equipe demonstra alto desempenho, nem sempre ela co
 Kelley é instrutora de Gestão Ágil, inovadora de processos e gerente de projetos, atualmente na CSG International.
 
 É diretora de carteira de operações da CSG, mas também inovadora de projetos e processos, apaixonada pela maneira como as pessoas, os processos e a inovação se unem e formam a arte empresarial. Atuando como agilista e gerente de projetos/programas há quase 20 anos, Kelley sabe avaliar e transformar situações únicas em resultados de sucesso com criatividade. Kelley vem trabalhando como instrutora e coach em Gestão Ágil, liderando equipes de operações e desenvolvimento de software em meio a iniciativas multimilionárias.
+
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/gestao-de-projetos/tecnicas-avancadas-de-scrum/)
+
+<sup><sub>
+Renée Maksoud - julho de 2024
+</sub></sup>

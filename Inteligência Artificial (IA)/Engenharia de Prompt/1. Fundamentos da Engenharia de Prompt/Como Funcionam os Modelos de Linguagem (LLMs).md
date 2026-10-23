@@ -1,4 +1,4 @@
-### [Sumário](<https://maksoud.github.io/Sumário>)
+### Sumário
 
 # **Como Funcionam os Modelos de Linguagem (LLMs)**
 
@@ -19,8 +19,8 @@ Modelos de Linguagem de Grande Escala (LLMs) como GPT-4, Claude e Gemini são al
 
 ### 1. **Artigos Técnicos (leitura fundamental)**
 
-- [🔗 The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer/) – Visual e intuitivo ([Resumo](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/1.%20Fundamentos%20da%20Engenharia%20de%20Prompt/O%20Transformer%20Ilustrado%20(Jay%20Alammar)>))
-- [🔗 Como funciona o ChatGPT – OpenAI](<https://maksoud.github.io/Intelig%C3%AAncia%20Artificial%20(IA)/Engenharia%20de%20Prompt/1.%20Fundamentos%20da%20Engenharia%20de%20Prompt/Como%20Funciona%20o%20ChatGPT%20%E2%80%93%20OpenAI>)
+- [🔗 The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer/) – Visual e intuitivo ([Resumo](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/o-transformer-ilustrado-jay-alammar/))
+- [🔗 Como funciona o ChatGPT – OpenAI](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/como-funciona-o-chatgpt-openai/)
 - [🔗 Understanding LLMs – Sebastian Raschka (GitHub)](https://sebastianraschka.com/blog/2023/llm-overview.html)
 
 ### 2. **Vídeos Explicativos**
@@ -61,6 +61,8 @@ Modelos de Linguagem de Grande Escala (LLMs) como GPT-4, Claude e Gemini são al
 -  Fiz um resumo pessoal ou artigo explicativo
 -  Testei o Tokenizer da OpenAI com textos diferentes
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/como-funcionam-os-modelos-de-linguagem-llms/)
 
 <sup><sub>
 Renée Maksoud - junho de 2025

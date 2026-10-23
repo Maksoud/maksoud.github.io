@@ -1,7 +1,9 @@
+### Sumário > Projeto de Gestão de Criptomoedas
+
 # **📌 Objetivo do Sistema**
 
 `/Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md`  
-_(Disponível em: [maksoud.github.io/Criptomoedas/Documentação-Técnica/01-Visão-Geral/Objetivos-do-Sistema](https://maksoud.github.io/Criptomoedas/Documenta%25C3%25A7%25C3%25A3o%2520T%25C3%25A9cnica/01%2520Vis%25C3%25A3o%2520Geral/Objetivos%2520do%2520Sistema))_
+_(Disponível em: [correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/objetivos-do-sistema](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/objetivos-do-sistema/))_
 
 ## **1. Contexto**  
 Sistema automatizado de compra e venda de criptomoedas na Binance, baseado em uma **estratégia de canal de preço** com:  
@@ -42,5 +44,11 @@ elif preço_atual <= (topo_canal * 0.98) and preço_atual >= preço_min_venda:
 ### **🎯 Como Contribuir para Este Documento**  
 1. **Edite** o arquivo `objetivo.md` para refletir mudanças no escopo.  
 2. **Atualize** a seção *Limitações* conforme testes avançam.  
-3. **Use tags** como `[WIP]` ou `[RFC]` para sinalizar seções em revisão.  
+3. **Use tags** como `[WIP]` ou `[RFC]` para sinalizar seções em revisão.
 
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/objetivos-do-sistema/)
+
+<sup><sub>
+Criptoren - Renée Maksoud - julho de 2025
+</sub></sup>
