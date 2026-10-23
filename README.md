@@ -3,6 +3,7 @@
 Notas pessoais de estudo sobre carreira, gestão de projetos, dados, IA, finanças, desenvolvimento web e outros temas, escritas em Markdown no [Obsidian](https://obsidian.md).
 
 📖 **Leia as notas em:** [correiarodrigues.com.br/notas](https://correiarodrigues.com.br/notas/)
+
 🌐 **Site:** [correiarodrigues.com.br](https://correiarodrigues.com.br/)
 
 ## Como funciona
