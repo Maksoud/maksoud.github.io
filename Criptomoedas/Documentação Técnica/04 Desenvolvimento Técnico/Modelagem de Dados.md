@@ -189,5 +189,5 @@ def downgrade():
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/modelagem-de-dados/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

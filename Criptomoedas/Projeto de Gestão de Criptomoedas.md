@@ -154,5 +154,5 @@ Essas funcionalidades têm o objetivo de:
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/projeto-de-gestao-de-criptomoedas/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

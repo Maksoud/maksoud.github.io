@@ -147,5 +147,5 @@ Toda compra realizada será registrada com:
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/estrategia-canal-de-preco-com-controle-de-capital-e-venda-programada-com-lucro/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

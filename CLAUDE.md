@@ -17,15 +17,7 @@ Content is organized into top-level folders by subject area: `Carreiras`, `Concu
 - **Format**: Notes use Obsidian-flavored Markdown. `Markdown Instructions.md` documents the conventions used here, including Obsidian extras like `==highlight==` (marcado), `~~~lang` fenced code blocks, and image sizing syntax `![alt|250x65](url)`.
 - **Images**: Store per-topic images in an `imgs/` subfolder within each subject folder (e.g. `Data Analyst/imgs/1.png`) and reference them with relative paths.
 
-## Standard header and footer (required in every note)
-
-Every note starts with a breadcrumb header in **plain text, without links**:
-
-~~~markdown
-### Sumário > Conceitos Japoneses de Vida
-~~~
-
-Use `### Sumário` alone when there is no parent note. Use `### Sumário > <parent note>` when the note belongs to a hub note (e.g. `Conceitos Japoneses de Vida`, `Modelos de Inteligência Artificial`, `ITIL 4`, `Projeto de Gestão de Criptomoedas`).
+## Standard footer (required in every note)
 
 Every note ends with the share link (pointing to the new site), followed by author and publication month:
 
@@ -38,7 +30,6 @@ Renée Maksoud - maio de 2025
 ~~~
 
 - The date is the month and year of publication, written out in lowercase Portuguese. If unknown, use the month of the file's first commit (`git log --diff-filter=A --follow --format=%ad --date=short -- <file>`).
-- Notes under `Criptomoedas/` sign as `Criptoren - Renée Maksoud - <mês> de <ano>`.
 - Do not add a link to the Sumário anywhere in the note; the only link in the header/footer area is the share link.
 
 ## Note URLs on the new site

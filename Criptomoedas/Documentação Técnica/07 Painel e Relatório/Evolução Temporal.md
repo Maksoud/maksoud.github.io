@@ -103,5 +103,5 @@ Este documento transforma dados brutos em insights acionáveis, permitindo ident
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/evolucao-temporal/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

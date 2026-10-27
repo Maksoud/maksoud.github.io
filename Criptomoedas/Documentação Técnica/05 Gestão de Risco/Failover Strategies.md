@@ -118,5 +118,5 @@ Este documento estabelece protocolos claros para manter a operação estável me
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/failover-strategies/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

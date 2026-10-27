@@ -48,5 +48,5 @@ elif preço_atual <= (topo_canal * 0.98) and preço_atual >= preço_min_venda:
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/objetivos-do-sistema/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

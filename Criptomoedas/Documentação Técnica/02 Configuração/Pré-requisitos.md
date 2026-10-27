@@ -146,5 +146,5 @@ swap=4GB
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/pre-requisitos/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

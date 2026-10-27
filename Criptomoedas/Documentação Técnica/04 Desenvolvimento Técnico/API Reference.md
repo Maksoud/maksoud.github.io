@@ -175,5 +175,5 @@ Acesse: `http://localhost:8000/docs`
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/api-reference/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

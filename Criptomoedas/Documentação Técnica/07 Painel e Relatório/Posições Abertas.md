@@ -128,5 +128,5 @@ Este documento fornece visibilidade completa sobre as exposições atuais do sis
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/posicoes-abertas/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

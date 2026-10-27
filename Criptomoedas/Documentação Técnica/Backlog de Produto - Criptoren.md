@@ -44,5 +44,5 @@ Sistema que monitora preços em tempo real via WebSocket da Binance, identifica 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/backlog-de-produto-criptoren/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

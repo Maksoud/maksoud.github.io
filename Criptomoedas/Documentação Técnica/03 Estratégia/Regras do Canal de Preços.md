@@ -153,5 +153,5 @@ def decidir_acao(preco_atual, base, teto, entrada, taxa):
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/regras-do-canal-de-precos/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

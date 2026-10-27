@@ -74,5 +74,5 @@ Este documento apresenta os requisitos e estruturas necessárias para garantir *
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-logs-e-auditoria/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

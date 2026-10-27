@@ -63,5 +63,5 @@ Este documento descreve os requisitos necessários para gerenciar de forma dinâ
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/requisitos-tecnicos-configuracoes-e-parametros-da-estrategia/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

@@ -1,5 +1,3 @@
-### Sumário
-
 # Gestão do tempo
 
 Uma vez ouvi um colega passar 15 minutos explicando que não teve tempo de beber um copo de água nem de fazer uma atividade que levaria menos de 10 minutos. O tempo gasto justificando a falta de tempo foi maior do que o necessário para resolver as duas coisas.

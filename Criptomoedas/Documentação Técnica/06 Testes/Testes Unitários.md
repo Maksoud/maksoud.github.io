@@ -140,5 +140,5 @@ Este documento estabelece as bases para testes confiáveis, essenciais para um s
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/testes-unitarios/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

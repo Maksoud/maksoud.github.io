@@ -102,5 +102,5 @@ Um sistema de negociação automatizada de criptomoedas com estratégia baseada 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/sumario-da-documentacao-tecnica/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

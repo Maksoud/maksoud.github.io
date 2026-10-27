@@ -109,5 +109,5 @@ Acesse: [http://localhost:8000/docs](http://localhost:8000/docs)
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/setup-inicial/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

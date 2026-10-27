@@ -860,6 +860,6 @@ uvicorn src.bot.api.main:app --host ${API_HOST:-0.0.0.0} --port ${API_PORT:-8000
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/primeiros-passos-no-desenvolvimento/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>
 

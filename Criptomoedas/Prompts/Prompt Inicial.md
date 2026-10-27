@@ -206,5 +206,5 @@ A partir daí seguimos por tickets usando os modelos de prompt acima.
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/prompts/prompt-inicial/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - agosto de 2025
+Renée Maksoud - agosto de 2025
 </sub></sup>

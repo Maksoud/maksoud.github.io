@@ -596,5 +596,5 @@ def downgrade() -> None:
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/esquema-sql/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - agosto de 2025
+Renée Maksoud - agosto de 2025
 </sub></sup>

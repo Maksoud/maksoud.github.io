@@ -54,5 +54,5 @@ Este documento contém a descrição técnica dos requisitos relacionados à exe
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/detalhamento-tecnico-estrategia-operacional/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

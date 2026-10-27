@@ -1,4 +1,4 @@
-# 🪙 Criptoren - Sistema Automatizado de Operações com Criptomoedas
+# 🪙 Sistema Automatizado de Operações com Criptomoedas
 
 ## 📌 Visão Geral
 
@@ -189,5 +189,5 @@ Esses pontos devem ser descritos como tarefas de backlog no desenvolvimento e in
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/arquitetura/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

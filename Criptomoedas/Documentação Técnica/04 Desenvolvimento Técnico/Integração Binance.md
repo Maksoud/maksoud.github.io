@@ -140,5 +140,5 @@ python -c "from binance.client import Client; print(Client().get_system_status()
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/integracao-binance/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - julho de 2025
+Renée Maksoud - julho de 2025
 </sub></sup>

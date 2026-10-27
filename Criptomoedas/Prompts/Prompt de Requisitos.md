@@ -113,5 +113,5 @@ alembic==1.11.1
 [link de compartilhamento](https://correiarodrigues.com.br/notas/criptomoedas/prompts/prompt-de-requisitos/)
 
 <sup><sub>
-Criptoren - Renée Maksoud - agosto de 2025
+Renée Maksoud - agosto de 2025
 </sub></sup>
