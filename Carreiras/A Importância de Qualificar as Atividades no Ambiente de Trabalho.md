@@ -1,5 +1,3 @@
-### Sumário
-
 ### A Importância de Qualificar as Atividades no Ambiente de Trabalho
 
 No ambiente profissional, qualificar as atividades desempenhadas no dia a dia é fundamental para identificar e destacar os diferenciais que agregam valor à sua trajetória. Essa prática não só contribui para o desenvolvimento pessoal e profissional, mas também é essencial na construção de um currículo competitivo, que chama a atenção em processos seletivos.

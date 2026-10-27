@@ -1,5 +1,3 @@
-### Sumário
-
 List of chapters typically covered in the ITIL 4 Foundation material:
 
 1. **[[Introduction to ITIL 4]]**

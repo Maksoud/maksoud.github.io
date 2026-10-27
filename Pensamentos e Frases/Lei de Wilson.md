@@ -1,5 +1,3 @@
-### Sumário
-
 Se você colocar sempre a informação e a inteligência em primeiro lugar, então o dinheiro se manterá vindo
 
 

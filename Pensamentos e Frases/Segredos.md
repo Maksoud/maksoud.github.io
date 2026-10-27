@@ -1,5 +1,3 @@
-### Sumário
-
 Não conte seus segredos a quem não importa saber. Aqueles que não te conhece em seu íntimo podem atentar contra a sua determinação e minar suas chances de um futuro melhor.
 
 

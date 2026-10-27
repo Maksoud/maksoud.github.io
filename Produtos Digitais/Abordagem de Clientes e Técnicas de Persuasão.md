@@ -1,6 +1,3 @@
-
-### Sumário
-
 # Abordagem de Clientes e Técnicas de Persuasão
 
 No universo dos serviços digitais (especialmente na criação de landing pages e sites institucionais) o sucesso vai muito além de um design bonito ou uma programação bem feita. **O que realmente define se um cliente fecha ou não o contrato começa muito antes da entrega: está no primeiro contato, na forma como você se apresenta e, principalmente, em como você comunica valor.**

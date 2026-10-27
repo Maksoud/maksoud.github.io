@@ -1,5 +1,3 @@
-### Sumário
-
 Capítulos sugeridos (40-50 páginas total):
 
 - Introdução: Por que finanças pessoais falha

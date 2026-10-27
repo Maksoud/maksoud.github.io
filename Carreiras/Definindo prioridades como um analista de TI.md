@@ -1,5 +1,3 @@
-### Sumário
-
 # Definindo prioridades como um analista de TI
 
 A vida de um analista de TI, muitas vezes, parece uma corrida. Há demandas de todos os lados, todas "para ontem", e tudo é "prioridade". Encontrar calma nesse cenário turbulento parece impossível. Mas não é.

@@ -1,5 +1,3 @@
-### Sumário
-
 # 📅 Cronograma de Estudos – Engenharia de Prompt para Negócios Tech (12 Semanas)
 
 ### **🔹 Semana 1 – Fundamentos dos LLMs e Engenharia de Prompt**

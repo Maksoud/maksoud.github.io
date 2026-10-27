@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 The "Service Management Practices" chapter in ITIL 4 provides a detailed overview of key practices essential for the effective management and delivery of IT services. These practices focus on ensuring that IT services meet business needs and deliver value to customers and stakeholders.
 
 ### Key Service Management Practices

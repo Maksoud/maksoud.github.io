@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📅 Evolução Temporal  
-
 
 ## 1. Métricas Temporais Chave  
 ### 1.1 Indicadores por Período  

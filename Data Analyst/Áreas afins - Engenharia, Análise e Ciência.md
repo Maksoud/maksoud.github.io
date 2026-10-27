@@ -1,5 +1,3 @@
-### Sumário
-
 ### Engenheiro de Dados
 
 **Responsabilidades:**

@@ -1,5 +1,3 @@
-### Sumário
-
 # Geração de política SELinux a partir de negações de AVC (Access Vector Cache)
 
 O "loop" de limpar o log, testar, coletar negações e gerar a política é a metodologia padrão para criar políticas customizadas para aplicações que não são totalmente cobertas pelas políticas padrão do SELinux ou que têm requisitos específicos (como o WordPress). É um processo de tentativa e erro, mas muito eficaz.

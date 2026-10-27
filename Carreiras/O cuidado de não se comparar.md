@@ -1,5 +1,3 @@
-### Sumário
-
 ### O cuidado de não se comparar
 
 Vivemos em uma era onde a comparação parece inevitável. A cada rolagem nas redes sociais, vemos conquistas, viagens, promoções e vidas aparentemente perfeitas. Sem perceber, caímos em um ciclo silencioso de comparação que, muitas vezes, mina nossa autoestima, afeta nosso desempenho e compromete nossa qualidade de vida.

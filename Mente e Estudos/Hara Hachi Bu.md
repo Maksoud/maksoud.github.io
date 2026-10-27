@@ -1,5 +1,3 @@
-### Sumário > Conceitos Japoneses de Vida
-
 # **Hara Hachi Bu (腹八分目): “Coma até estar 80% cheio”**
 
 **Hara Hachi Bu** (腹八分目) é um antigo ensinamento da ilha de Okinawa, no Japão, que significa “coma até estar 80% satisfeito”. Trata-se de uma filosofia de moderação alimentar que propõe parar de comer antes de atingir a saciedade total, contribuindo para uma vida mais longa e saudável.

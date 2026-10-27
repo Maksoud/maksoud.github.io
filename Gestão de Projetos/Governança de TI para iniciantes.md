@@ -1,5 +1,3 @@
-### Sumário
-
 ### Governança de TI: um guia para quem está começando
 
 Toda empresa tem governança de TI. A diferença é se ela foi **escrita** ou se ela é apenas o hábito de quem grita mais alto.

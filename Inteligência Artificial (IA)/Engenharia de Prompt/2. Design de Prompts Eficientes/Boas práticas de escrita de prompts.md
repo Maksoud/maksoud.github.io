@@ -1,5 +1,3 @@
-### Sumário
-
 # Boas práticas de escrita de prompts
 
 *Como Escrever Instruções Claras, Eficientes e Controláveis para LLMs*

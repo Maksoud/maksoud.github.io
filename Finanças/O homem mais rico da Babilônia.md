@@ -1,5 +1,3 @@
-### Sumário
-
 O homem mais rico da Babilônia
 George S. Clason
 

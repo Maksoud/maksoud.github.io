@@ -1,5 +1,3 @@
-### Sumário
-
 Modelos de probabilidade são ferramentas fundamentais em estatística e ciência de dados. Eles descrevem como a probabilidade é distribuída em um conjunto de eventos possíveis. Existem dois tipos principais de modelos de probabilidade: modelos discretos e modelos contínuos.
 ## **Modelos Discretos**
 

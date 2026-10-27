@@ -1,5 +1,3 @@
-### Sumário
-
 Quando você não tem que tomar uma decisão, não tome uma decisão.
 
 

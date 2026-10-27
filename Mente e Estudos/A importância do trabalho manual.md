@@ -1,5 +1,3 @@
-### Sumário
-
 ### A importância do trabalho manual: o prazer de ver algo pronto pelas suas mãos
 
 Existe um tipo de satisfação que nenhuma tela consegue entregar. É aquela que vem depois de você trocar o chuveiro que estava queimado, apertar a última rosca, ligar o disjuntor e ver a água quente descendo. Nada de relatório, nada de reunião, nada de "vamos alinhar depois". O problema existia, você resolveu, e a prova está ali, funcionando na sua frente.

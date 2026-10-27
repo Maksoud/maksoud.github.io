@@ -1,5 +1,3 @@
-### Sumário > Modelos de Inteligência Artificial
-
 # Modelo Generativo
 
 O **modelo generativo** é um tipo de modelo de aprendizado de máquina cujo objetivo principal é **aprender a distribuição dos dados** para poder gerar novos exemplos que sejam **semelhantes** aos dados de treinamento. Ao contrário dos modelos discriminativos, que aprendem a distinguir entre diferentes classes, os modelos generativos **criam dados**, como imagens, textos ou sons, que se assemelham ao conjunto de dados em que foram treinados.

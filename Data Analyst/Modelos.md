@@ -1,5 +1,3 @@
-### Sumário
-
 ### 1. Modelos Não Supervisionados
 
 **Definição:** Modelos não supervisionados são aqueles que trabalham com dados não rotulados, ou seja, dados que não possuem uma variável de saída definida.

@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 🔄 Comparativo entre Estratégias  
-
 
 ## 1. Métricas de Comparação  
 ### 1.1 Tabela de Desempenho Relativo  

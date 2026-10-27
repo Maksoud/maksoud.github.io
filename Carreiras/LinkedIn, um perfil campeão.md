@@ -1,5 +1,3 @@
-### Sumário
-
 # **LinkedIn, um perfil campeão: como destacar seu perfil e atrair recrutadores**
 
 No mercado competitivo atual, não basta ter um perfil no LinkedIn, é preciso ter um perfil campeão. Esse artigo traz dicas práticas para você personalizar seu LinkedIn de forma estratégica e atrair oportunidades, especialmente se você atua na área de TI.

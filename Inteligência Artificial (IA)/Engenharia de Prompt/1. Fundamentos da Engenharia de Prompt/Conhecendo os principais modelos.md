@@ -1,5 +1,3 @@
-### Sumário
-
 # Conhecendo os Principais Modelos de Linguagem (LLMs) – GPT, Claude, Gemini, Mistral e Outros (2025)
 
 

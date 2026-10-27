@@ -1,5 +1,3 @@
-### Sumário
-
 ### Um Guia Didático para Iniciantes em Análise de Negócios
 
 O BABOK v3, publicado pelo IIBA (International Institute of Business Analysis), é o principal guia de referência para profissionais que atuam na área de análise de negócios. Ele estabelece um conjunto de práticas, tarefas e técnicas recomendadas para entender necessidades de negócios, propor soluções eficazes e gerar valor para as organizações.

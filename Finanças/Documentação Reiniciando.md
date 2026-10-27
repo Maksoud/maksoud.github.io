@@ -1,5 +1,3 @@
-### Sumário
-
 # Reiniciando Sistemas: Documentação do Sistema
 
 **Versão documentada:** CakePHP 3.4.14 / PHP 7.4.33 / MariaDB 11.8.8 / AdminLTE + Bootstrap 3.3.7 + jQuery 3.5.1

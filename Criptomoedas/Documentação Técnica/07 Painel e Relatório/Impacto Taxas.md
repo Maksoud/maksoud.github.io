@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 💸 Impacto das Taxas  
 `/Documentação Técnica/07 Painel e Relatório/Impacto_Taxas.md`  
 

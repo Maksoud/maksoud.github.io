@@ -1,5 +1,3 @@
-### Sumário
-
 # 📊 Casos de Uso Empresariais: Análise de Dados e BI com LLMs
 
 

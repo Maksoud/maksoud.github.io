@@ -1,5 +1,3 @@
-### Sumário
-
 # O Método Zettelkasten
 
 No mundo acelerado de hoje, onde a sobrecarga de informações e a necessidade de aprender de forma eficiente são desafios constantes, encontrar um método de estudo que realmente transforme a maneira como adquirimos e retemos conhecimento é algo crucial. 

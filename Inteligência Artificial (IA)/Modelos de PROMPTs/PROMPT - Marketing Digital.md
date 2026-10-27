@@ -1,5 +1,3 @@
-### Sumário
-
 1. **Persona**:
     - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.
     - **Exemplo**: "Você é um especialista em marketing, redes sociais e psicologia humana."

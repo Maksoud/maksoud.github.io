@@ -1,5 +1,3 @@
-### Sumário
-
 ## Switching carrer path
 
 Switching to a career in data science is an exciting move! Here's a breakdown of what you should focus on to prepare:

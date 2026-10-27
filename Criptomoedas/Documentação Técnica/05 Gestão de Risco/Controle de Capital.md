@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 🛡️ Controle de Capital  
 `/Documentação Técnica/05 Gestão de Risco/Controle de Capital.md`  
 

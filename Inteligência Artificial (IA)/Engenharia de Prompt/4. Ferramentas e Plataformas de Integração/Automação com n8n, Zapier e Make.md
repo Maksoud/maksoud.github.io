@@ -1,5 +1,3 @@
-### Sumário
-
 # Automação com n8n, Zapier e Make: Orquestrando LLMs com Plataformas No-code/Low-code
 
 

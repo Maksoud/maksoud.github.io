@@ -1,5 +1,3 @@
-### Sumário
-
 ### Matriz GUT: O Que É, Como Aplicar e Qual Sua Importância na Gestão de Projetos
 
 A gestão de projetos envolve uma série de decisões estratégicas para garantir que os recursos sejam alocados da melhor forma possível. Dentre as ferramentas utilizadas para apoiar essa tomada de decisão, destaca-se a **Matriz GUT**, um método simples, porém eficaz, para **priorizar problemas, tarefas ou ações** com base em três critérios essenciais: **Gravidade, Urgência e Tendência**.

@@ -1,5 +1,3 @@
-### Sumário
-
 # Business Model Canvas: Um Guia Prático para o seu Negócio
 
 Toda empresa, seja nova ou consolidada, precisa saber como continuar entregando valor ao mercado. Para evoluir e identificar novas oportunidades, é fundamental ter clareza sobre o modelo de negócio. É aqui que o Business Model Canvas (BMC) entra.

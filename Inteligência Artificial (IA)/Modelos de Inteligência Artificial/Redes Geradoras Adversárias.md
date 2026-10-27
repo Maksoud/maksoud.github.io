@@ -1,5 +1,3 @@
-### Sumário > Modelos de Inteligência Artificial
-
 # Redes Geradoras Adversárias
 
 **Redes Geradoras Adversárias (GANs - Generative Adversarial Networks)** são um tipo de modelo generativo que usa duas redes neurais que competem entre si em um processo chamado de **aprendizado adversarial**. Esse conceito foi introduzido por Ian Goodfellow e seus colegas em 2014, e as GANs rapidamente se tornaram uma das técnicas mais importantes em **aprendizado profundo** (deep learning) para a geração de novos dados a partir de um conjunto de dados existente.

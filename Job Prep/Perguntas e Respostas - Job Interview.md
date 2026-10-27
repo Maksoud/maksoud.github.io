@@ -1,5 +1,3 @@
-### Sumário
-
 **Fale sobre você** 
 - **Dica:** Decida com antecedência quais de suas habilidades e destaques de carreira melhor se adequam ao cargo. 
 **Resposta:** Compartilhe essas habilidades como uma história pessoal e interessante, mostrando como você começou, onde está agora e como esse cargo é o próximo capítulo lógico.

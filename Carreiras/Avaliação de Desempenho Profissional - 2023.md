@@ -1,5 +1,3 @@
-### Sumário
-
 ##### Pontos Analisados
 
 - Grande capacidade de questionar e criticar;

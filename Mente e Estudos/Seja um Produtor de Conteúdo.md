@@ -1,5 +1,3 @@
-### Sumário
-
 ### Seja um Produtor de Conteúdo, Não Apenas um Consumidor
 
 Consumir conteúdo é essencial para o aprendizado e o desenvolvimento, mas o verdadeiro impacto acontece quando deixamos de ser apenas receptores e nos tornamos criadores. Ao produzir ideias, construir projetos ou compartilhar experiências, contribuímos para o mundo de forma única, deixando um legado que ultrapassa o simples ato de consumir.

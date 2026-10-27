@@ -1,7 +1,3 @@
-
-### Sumário
-
-
 # Geração de Conteúdo com LLMs (Marketing, Landing Pages, E-mails, SEO)
 
 

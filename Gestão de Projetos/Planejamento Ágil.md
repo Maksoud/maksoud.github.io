@@ -1,5 +1,3 @@
-### Sumário
-
 As doze etapas para gerenciar um projeto
 ![[12-etapas.png]]
 

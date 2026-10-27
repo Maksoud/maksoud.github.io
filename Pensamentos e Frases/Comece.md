@@ -1,5 +1,3 @@
-### Sumário
-
 Não é possível melhorar aquilo que ainda não existe. Apenas comece!
 
 

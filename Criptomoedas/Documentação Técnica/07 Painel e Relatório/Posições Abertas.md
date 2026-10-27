@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📊 Posições Abertas  
-
 
 ## 1. Estrutura de Dados  
 ### 1.1 Campos Essenciais  

@@ -1,5 +1,3 @@
-### Sumário > Conceitos Japoneses de Vida
-
 # **Shoshin (初心): “Mente de principiante”**
 
 **Shoshin** (初心) é um conceito japonês que significa “mente de principiante” ou “mentalidade de iniciante”. É a atitude de abordar qualquer aprendizado ou situação com humildade, curiosidade e abertura, mesmo quando já se possui um nível avançado de conhecimento.

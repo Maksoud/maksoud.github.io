@@ -1,5 +1,3 @@
-### Sumário
-
 # **7 Passos para Vender Bem Presencialmente**
 
 ## Descubra o método que transformou nossas visitas em resultados reais

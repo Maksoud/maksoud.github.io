@@ -1,5 +1,3 @@
-### Sumário
-
 # Limitações e Potencial dos LLMs – O que um Engenheiro de Prompt Precisa Saber
 
 

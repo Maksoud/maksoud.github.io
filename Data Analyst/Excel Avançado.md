@@ -1,5 +1,3 @@
-### Sumário
-
 Como Cientista de Dados, é essencial conhecer as principais fórmulas do Excel que podem ajudar no tratamento e análise dos dados. Aqui estão algumas das fórmulas mais úteis, divididas por categorias:
 
 ### 1. Fórmulas Estatísticas

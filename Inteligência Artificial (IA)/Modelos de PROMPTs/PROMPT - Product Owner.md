@@ -1,5 +1,3 @@
-### Sumário
-
 **1. Persona**:
 
 - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.

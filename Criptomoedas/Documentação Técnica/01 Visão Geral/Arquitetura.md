@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 🪙 Criptoren - Sistema Automatizado de Operações com Criptomoedas
 
 ## 📌 Visão Geral

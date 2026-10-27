@@ -1,5 +1,3 @@
-### Sumário
-
 ## Teste de Hipóteses
 
 O teste de hipóteses é uma metodologia estatística usada para tomar decisões sobre uma população com base em dados amostrais. Ele ajuda a determinar se há evidências suficientes para rejeitar uma hipótese inicial (hipótese nula) em favor de uma hipótese alternativa.

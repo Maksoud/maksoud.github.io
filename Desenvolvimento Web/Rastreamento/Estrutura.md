@@ -1,5 +1,3 @@
-### Sumário
-
 # Estrutura Técnica da Plataforma de Rastreamento
 
 > **Contexto**: notas de apoio ao projeto de uma plataforma de rastreamento veicular *white label*, o cliente é a empresa de rastreamento, e os motoristas/proprietários são os clientes dela. A interface já está prototipada (mockup navegável em `mczsat.maksoud.dev`) e o objetivo destas notas é dimensionar o que falta para virar sistema real.

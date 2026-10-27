@@ -1,5 +1,3 @@
-### Sumário
-
 # Os 4 valores do Manifesto Ágil
 
 1. **Indivíduos e interações mais que processos e ferramentas**:

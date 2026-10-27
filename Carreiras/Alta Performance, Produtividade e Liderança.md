@@ -1,5 +1,3 @@
-### Sumário
-
 # Alta Performance, Produtividade e Liderança
 
 ### **Capacidade de Aprendizagem e Inovação**

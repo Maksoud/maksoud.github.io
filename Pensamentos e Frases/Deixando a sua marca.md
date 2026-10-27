@@ -1,5 +1,3 @@
-### Sumário
-
 ### Deixando a sua marca: como ser um criador constrói o seu legado
 
 Quase todo mundo, em algum momento, se pega pensando no que vai ficar depois. Não no sentido dramático, mas no sentido simples: *o que eu deixei que fez diferença para alguém?* A resposta raramente está no cargo, no salário ou no tempo de casa. Ela costuma estar naquilo que você **criou**, algo que saiu de você e passou a resolver o problema de outra pessoa.

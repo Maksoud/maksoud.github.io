@@ -1,5 +1,3 @@
-### Sumário
-
 # Projeto: Sistema de Registro e Monitoramento de Estratégias em Criptomoedas
 
 ## 🎯 Objetivos Principais:

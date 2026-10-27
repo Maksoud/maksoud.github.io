@@ -1,5 +1,3 @@
-### Sumário
-
 ### A Importância de Manter-se Competitivo no Mercado de Trabalho em TI
 
 O mercado de tecnologia da informação (TI) está em constante evolução, moldado por novas tendências, tecnologias emergentes e padrões que redefinem como trabalhamos e entregamos valor. Nesse cenário dinâmico, manter-se competitivo não é apenas uma vantagem, mas uma necessidade para quem deseja prosperar na área. Isso envolve um compromisso contínuo com o aprendizado, o desenvolvimento de habilidades e a busca por excelência em sua posição atual, enquanto se prepara para oportunidades futuras.

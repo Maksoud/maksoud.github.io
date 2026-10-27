@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📊 Simulação de Mercado  
 `/Documentação Técnica/06 Testes/Simulação de Mercado.md`  
 

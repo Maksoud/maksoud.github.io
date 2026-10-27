@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📊 Regras do Canal de Preços
 
 `/Documentação Técnica/03 Estratégia/Regras do Canal de Preços.md`

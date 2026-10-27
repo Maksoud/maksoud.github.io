@@ -1,5 +1,3 @@
-### Sumário
-
 # Diferença entre prompt engineering, fine-tuning e embeddings
 
 *Entenda as principais abordagens para personalizar e melhorar os resultados de um LLM como o ChatGPT para empresas e negócios.*

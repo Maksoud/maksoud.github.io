@@ -1,5 +1,3 @@
-### Sumário
-
 **Entender o problema, estruturar a solução, alinhar pessoas, conduzir entregas e gerar resultado.**
 
 **Habilidades Desenvolvidas:**

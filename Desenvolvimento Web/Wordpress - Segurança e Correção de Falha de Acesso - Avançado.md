@@ -1,5 +1,3 @@
-### Sumário
-
 # Wordpress - Segurança e Correção de Falha de Acesso - Avançado
 
 Nesse artigo eu vou apresentar uma possível solução para a falha *"The requested URL was not found on this server"*. Esse artigo também irá apresentar soluções de segurança dos seus arquivos, ajudando a prevenir invasões e alterações dos seus arquivos na sua instalação do **Wordpress**,

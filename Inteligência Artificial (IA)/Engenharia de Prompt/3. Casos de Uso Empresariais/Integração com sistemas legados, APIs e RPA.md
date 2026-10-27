@@ -1,5 +1,3 @@
-### Sumário
-
 # Integração com Sistemas Legados, APIs e RPA usando LLMs
 
 

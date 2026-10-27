@@ -1,5 +1,3 @@
-### Sumário
-
 ### Questions for Section 4.1: Service Value System Overview
 
 1. What are the key inputs to the ITIL Service Value System (SVS)?

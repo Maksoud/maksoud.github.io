@@ -1,5 +1,3 @@
-### Sumário
-
 # 📚 **Sumário da Documentação Técnica - Criptoren**
 
 Um sistema de negociação automatizada de criptomoedas com estratégia baseada em canal de preço, controle de capital e vendas programadas com lucro.

@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 The "Key Concepts of Service Management" chapter in ITIL 4 lays the foundational principles and terminologies essential for understanding and implementing effective service management. These concepts are crucial for creating value and achieving organizational goals through well-managed services.
 
 ### Key Concepts of Service Management

@@ -1,4 +1,3 @@
-### Sumário
 # Os 12 princípios do Manifesto Ágil
 
 1. **Satisfação do Cliente**:

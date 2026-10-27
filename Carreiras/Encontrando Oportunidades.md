@@ -1,5 +1,3 @@
-### Sumário
-
 ### Encontrando Oportunidades
 
 Encontrar ferramentas gratuitas e oportunidades para aprimorar habilidades de comunicação, especialmente em um contexto internacional e técnico, pode ser extremamente valioso. Aqui estão algumas estratégias e recursos para ajudá-lo a encontrar hackathons, meetups, trabalhos voluntários e freelance em equipes:

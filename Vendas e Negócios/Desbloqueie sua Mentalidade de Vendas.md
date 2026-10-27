@@ -1,5 +1,3 @@
-### Sumário
-
 # **Desbloqueie sua Mentalidade de Vendas**
 
 Algumas pessoas parecem ter nascido com o dom das vendas. São aquelas que, com naturalidade, convencem, encantam e fecham negócios com um simples sorriso e uma boa conversa. Mas e quanto a quem trava só de pensar em oferecer algo? A verdade é que **vender é uma habilidade treinável, e não um talento reservado a poucos**.

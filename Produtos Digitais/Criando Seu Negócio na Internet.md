@@ -1,5 +1,3 @@
-### Sumário
-
 # Criando Seu Negócio na Internet
 
 Você sabia que é possível criar seu próprio negócio online com baixo investimento e gerar renda de forma estável em poucos meses? Neste artigo, vamos te mostrar passo a passo como fazer isso, mesmo começando do zero.

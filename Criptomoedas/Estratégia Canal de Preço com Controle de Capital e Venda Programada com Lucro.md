@@ -1,5 +1,3 @@
-### Sumário
-
 # 📌 Estratégia Inicial: Canal de Preço com Controle de Capital e Venda Programada com Lucro
 
 

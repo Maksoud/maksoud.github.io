@@ -1,5 +1,3 @@
-### Sumário
-
 # Certificação CSPO
 
 O curso preparatório CSPO (Certified Scrum Product Owner) é projetado para capacitar profissionais a desempenharem eficazmente o papel de Product Owner em equipes que utilizam a metodologia Scrum. Este curso fornece um entendimento profundo das responsabilidades do Product Owner, das práticas de gerenciamento de produtos e de como maximizar o valor entregue por uma equipe Scrum.

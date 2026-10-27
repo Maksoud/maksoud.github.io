@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📊 KPIs Estratégicos  
-
 
 ## 1. Métricas Fundamentais  
 ### 1.1 Tabela de Indicadores-Chave  

@@ -1,5 +1,3 @@
-### Sumário
-
 # Argumentação vs. Discussão: quando a conversa deixa de avançar
 
 É comum ver pessoas dizendo que estão “argumentando”, quando na prática estão apenas **discutindo**, no sentido improdutivo da palavra: falando para **estabelecer uma opinião**, não para **investigar um tema**. O resultado costuma ser previsível: a conversa não flui, ninguém aprende nada e, no fim, sobra só desgaste.

@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📈 Performance por Estratégia  
-
 
 ## 1. Métricas Principais  
 ### 1.1. Indicadores-Chave  

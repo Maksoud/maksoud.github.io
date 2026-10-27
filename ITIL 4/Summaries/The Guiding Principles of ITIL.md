@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 The Guiding Principles of ITIL 4 are fundamental recommendations that can guide an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure. These principles embody the core messages of ITIL and service management in general, providing a basis for organizations to integrate good practices into their operations.
 
 ### The Seven Guiding Principles

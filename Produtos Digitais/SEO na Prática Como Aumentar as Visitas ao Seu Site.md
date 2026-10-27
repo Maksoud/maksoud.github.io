@@ -1,5 +1,3 @@
-### Sumário
-
 # SEO na Prática: Como Aumentar as Visitas ao Seu Site
 
 Ter um site bonito e funcional não é suficiente se ele não for encontrado por quem mais precisa do seu conteúdo, serviço ou produto. O SEO (Search Engine Optimization) é a estratégia que melhora a visibilidade do seu site nos mecanismos de busca, especialmente o Google. Neste artigo, você vai aprender como aplicar ações práticas de SEO para atrair mais visitantes de forma orgânica.

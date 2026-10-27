@@ -1,5 +1,3 @@
-### Sumário
-
 ### A Armadilha da Expectativa Não Dita
 
 Recentemente, numa corporação de grande porte com processos complexos, observei um padrão. Gestores evitam promessas diretas, mas criam um ar de mistério e expectativa. Não há palavras concretas, apenas sugestões.

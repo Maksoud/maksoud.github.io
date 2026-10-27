@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 💱 Integração Binance  
 `/Documentação Técnica/04 Desenvolvimento Técnico/Integração Binance.md`  
 

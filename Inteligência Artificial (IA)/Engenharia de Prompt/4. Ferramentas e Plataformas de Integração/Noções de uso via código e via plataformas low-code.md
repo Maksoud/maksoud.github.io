@@ -1,5 +1,3 @@
-### Sumário
-
 # Noções de Uso de LLMs via Código (Python/JavaScript) e Plataformas Low-code (n8n, Zapier, Make)
 
 

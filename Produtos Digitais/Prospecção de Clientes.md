@@ -1,5 +1,3 @@
-### Sumário
-
 # Prospecção de Clientes – Como Converter Leads em Vendas com Landing Pages Estratégicas
 
 A prospecção de clientes mudou. Se antes dependíamos apenas de indicações ou contatos frios, hoje temos à disposição ferramentas digitais que atraem interessados (os **leads**) prontos para ouvir o que temos a dizer.

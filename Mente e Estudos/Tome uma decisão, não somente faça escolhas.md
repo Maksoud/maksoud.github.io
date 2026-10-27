@@ -1,5 +1,3 @@
-### Sumário
-
 ### Tome uma decisão, não somente faça escolhas
 
 > Durante a visita a um hospital psiquiátrico, um dos visitantes perguntou ao diretor:

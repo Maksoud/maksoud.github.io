@@ -1,5 +1,3 @@
-### Sumário
-
 # Requisitos para Vendas: Precificação e Pitch
 
 > Base para a conversa comercial: quanto o mercado cobra, como estruturar o preço, o que falar e em que ordem.

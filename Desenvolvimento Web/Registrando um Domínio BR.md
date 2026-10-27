@@ -1,5 +1,3 @@
-### Sumário
-
 # Registrando um Domínio (.com.br)
 
 O [Registro BR](<https://registro.br/>) é o **órgão oficial responsável pelo registro de domínios com final `.br` no Brasil**. Ele é operado pelo **NIC.br** (Núcleo de Informação e Coordenação do Ponto BR), que é vinculado ao Comitê Gestor da Internet no Brasil (CGI.br).

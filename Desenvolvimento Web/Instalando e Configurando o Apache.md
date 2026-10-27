@@ -1,5 +1,3 @@
-### Sumário
-
 # Instalando e Configurando o Apache no CentOS
 
 #### 1. Atualizar pacotes:

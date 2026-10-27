@@ -1,5 +1,3 @@
-### Sumário > Modelos de Inteligência Artificial
-
 # Modelo Discriminativo
 
 Um **modelo discriminativo** é um tipo de modelo de aprendizado de máquina que se concentra em **aprender as fronteiras de decisão** que separam diferentes classes de dados ou em prever um valor de saída com base em variáveis de entrada. Esses modelos trabalham diretamente com a **probabilidade condicional \( P(Y|X) \)**, onde:

@@ -1,5 +1,3 @@
-### Sumário
-
 # Custos de Infraestrutura: Mapa e Endereços
 
 > Os dois custos variáveis que decidem a margem de uma plataforma de rastreamento são **exibir o mapa** e **transformar coordenada em endereço**. Ambos crescem com a base de veículos, e é onde quem não planeja perde dinheiro.

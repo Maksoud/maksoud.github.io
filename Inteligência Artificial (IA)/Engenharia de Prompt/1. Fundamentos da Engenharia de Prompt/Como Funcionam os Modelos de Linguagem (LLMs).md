@@ -1,5 +1,3 @@
-### Sumário
-
 # **Como Funcionam os Modelos de Linguagem (LLMs)**
 
 ### **Objetivo de Aprendizado**

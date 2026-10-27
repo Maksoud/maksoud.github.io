@@ -1,5 +1,3 @@
-### Sumário
-
 # Modelos de Inteligência Artificial
 
 #### **[Modelo Generativo](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Modelo%20Generativo) (Generative Models):**

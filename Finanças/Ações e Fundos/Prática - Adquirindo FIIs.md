@@ -1,5 +1,3 @@
-### Sumário
-
 # Prática: Adquirindo FIIs
 
 ## 1) Estrutura da sua carteira (6 FIIs, 50/50)

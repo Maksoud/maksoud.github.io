@@ -1,5 +1,3 @@
-### Sumário
-
 # Prompt como Programação Natural: Princípios de Clareza, Contexto e Objetivo
 
 

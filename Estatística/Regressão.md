@@ -1,5 +1,3 @@
-### Sumário
-
 A regressão é uma técnica estatística usada para modelar e analisar a relação entre uma variável dependente e uma ou mais variáveis independentes. É amplamente utilizada em ciência de dados e análise de dados para prever valores, identificar tendências e entender as relações entre variáveis.
 
 ### Tipos de Regressão

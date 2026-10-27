@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # **📌 Objetivo do Sistema**
 
 `/Criptomoedas/Documentação Técnica/01 Visão Geral/Objetivos do Sistema.md`  

@@ -1,5 +1,3 @@
-### Sumário
-
 # 🧠 **Resumo: O Transformer Ilustrado (Jay Alammar)**
 
 🔗 [Artigo original](https://jalammar.github.io/illustrated-transformer/)

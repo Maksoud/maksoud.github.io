@@ -1,5 +1,3 @@
-### Sumário
-
 # **Média (Média Aritmética)**
 
 A média, também conhecida como média aritmética, é uma medida de tendência central que representa o valor médio de um conjunto de dados. Ela é calculada somando todos os valores e dividindo pelo número total de valores.

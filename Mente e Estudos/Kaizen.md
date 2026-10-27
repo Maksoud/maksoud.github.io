@@ -1,5 +1,3 @@
-### Sumário > Conceitos Japoneses de Vida
-
 # **Kaizen (改善): “Melhoria contínua”**
 
 **Kaizen** é um conceito japonês que significa “melhoria contínua”. A palavra é composta por “kai” (mudança) e “zen” (melhor), traduzindo-se como “mudança para melhor”. É uma filosofia que busca aperfeiçoamentos constantes, graduais e sustentáveis em todos os aspectos da vida, pessoal, profissional e organizacional.

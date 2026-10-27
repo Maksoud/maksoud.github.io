@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # ⚙️ Requisitos Técnicos - Configurações e Parâmetros da Estratégia
 
 Este documento descreve os requisitos necessários para gerenciar de forma dinâmica e persistente as configurações operacionais das estratégias utilizadas no sistema Criptoren.

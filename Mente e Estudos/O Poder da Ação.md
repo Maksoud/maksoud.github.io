@@ -1,4 +1,3 @@
-### Sumário
 # O Poder da Ação
 ### Planejar é Importante, Executar é Essencial
 

@@ -1,5 +1,3 @@
-### Sumário
-
 # Tipos de prompts: simples, compostos, estruturados
 
 _Como escolher o melhor tipo de prompt para cada situação empresarial._

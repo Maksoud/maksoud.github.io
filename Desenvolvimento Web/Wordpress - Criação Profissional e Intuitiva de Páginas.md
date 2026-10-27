@@ -1,5 +1,3 @@
-### Sumário
-
 # Wordpress - Criação Profissional e Intuitiva de Páginas
 
 O Elementor PRO é um dos construtores de páginas mais populares e completos para WordPress. Com sua interface intuitiva, recursos avançados e liberdade de personalização, ele transformou a forma como desenvolvedores, designers e empreendedores constroem sites e landing pages de alta conversão, sem precisar escrever uma única linha de código.

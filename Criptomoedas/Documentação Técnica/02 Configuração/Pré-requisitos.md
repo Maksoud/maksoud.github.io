@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📋 Pré-requisitos Técnicos
 `/Documentação Técnica/02 Configuração/Pré-requisitos.md`
 

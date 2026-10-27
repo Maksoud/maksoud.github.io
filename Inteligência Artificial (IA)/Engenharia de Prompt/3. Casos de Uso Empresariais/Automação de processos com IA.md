@@ -1,5 +1,3 @@
-### Sumário
-
 # Automação de Processos com IA (LLMs)
 
 

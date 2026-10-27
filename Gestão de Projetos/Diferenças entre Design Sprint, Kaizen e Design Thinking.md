@@ -1,5 +1,3 @@
-### Sumário
-
 ## 📌 Diferenças entre **Design Sprint**, **Kaizen** e **Design Thinking**
 
 |Método|O que é|Objetivo|Duração típica|Foco|

@@ -1,5 +1,3 @@
-### Sumário
-
 ### A Importância do Aprendizado Contínuo
 
 No mundo acelerado e em constante transformação de hoje, permanecer estagnado não é uma opção. O aprendizado contínuo e a evolução das habilidades são fundamentais não apenas para o avanço profissional, mas também para o crescimento pessoal e a realização. Entenda por que continuar aprendendo é essencial e como isso pode causar um impacto significativo em sua vida.

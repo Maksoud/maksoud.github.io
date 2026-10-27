@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 # ITIL Infrastructure And Platform Management
 
 [Blog](https://purplegriffon.com/blog) > [IT Service Management - ITIL®](https://purplegriffon.com/blog/it-service-management) > [ITIL Infrastructure And Platform Management](https://purplegriffon.com/blog/itil-infrastructure-and-platform-management)

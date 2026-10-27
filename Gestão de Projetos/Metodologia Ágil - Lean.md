@@ -1,5 +1,3 @@
-### Sumário
-
 ### A Combinação do Lean e Ágil em Projetos de TI
 
 No ambiente dinâmico da tecnologia da informação (TI), a busca por eficiência e entrega de valor é constante. Nesse contexto, as metodologias **Lean** e **Ágil** surgem como abordagens complementares que, quando combinadas, oferecem um poderoso framework para gerenciar projetos de maneira eficiente e adaptável.

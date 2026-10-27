@@ -1,5 +1,3 @@
-### Sumário
-
 # 🧠 Como Funciona o ChatGPT – OpenAI
 
 _Entenda o que acontece nos bastidores de uma das inteligências artificiais mais poderosas do mundo._

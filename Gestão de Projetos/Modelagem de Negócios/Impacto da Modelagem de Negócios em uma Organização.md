@@ -1,5 +1,3 @@
-### Sumário
-
 ### **Impacto da Modelagem de Negócios na Eficiência Organizacional**
 
 1. **Clareza de processos e responsabilidades**  

@@ -1,5 +1,3 @@
-### Sumário
-
 # Ferramentas e Plataformas de Integração: OpenAI API (ChatGPT, Assistants, GPTs)
 
 

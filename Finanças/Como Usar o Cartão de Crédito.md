@@ -1,5 +1,3 @@
-### Sumário
-
 # Como Usar o Cartão de Crédito
 
 O cartão de crédito é uma ferramenta poderosa quando usada com inteligência. Ele pode gerar benefícios como milhas para viagens, ajudar no controle do orçamento e até ser um aliado em emergências. No entanto, se for mal utilizado, também pode se tornar uma grande armadilha financeira. Neste artigo, vamos explicar como aproveitar ao máximo o seu cartão de crédito, entendendo o funcionamento das milhas, o melhor dia de compra e, acima de tudo, como usá-lo de forma responsável.

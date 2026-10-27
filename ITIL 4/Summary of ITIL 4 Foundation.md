@@ -1,5 +1,3 @@
-### Sumário
-
 **1 Introduction 1**
 
 1.1 IT service management in the modern world 2

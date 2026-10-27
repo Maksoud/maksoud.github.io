@@ -1,5 +1,3 @@
-### Sumário
-
 ### **Mês 01**
 
 **Semana 1-2: Autoavaliação e Definição de Metas**

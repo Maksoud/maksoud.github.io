@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 🗃️ Modelagem de Dados  
 `/Documentação Técnica/04 Desenvolvimento Técnico/Modelagem de Dados.md`  
 

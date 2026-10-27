@@ -1,5 +1,3 @@
-### Sumário
-
 [[Desvio Padrão]]
 [[Média (Média Aritmética) e Mediana]]
 [[Score-Z (Z-Score)]]

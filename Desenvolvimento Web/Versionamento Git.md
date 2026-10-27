@@ -1,5 +1,3 @@
-### Sumário
-
 # Versionamento Git
 
 #### Criando uma nova chave SSH

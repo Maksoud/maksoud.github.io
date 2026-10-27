@@ -1,5 +1,3 @@
-### Sumário
-
 # Conceitos Japoneses de Vida
 
 | Conceito                                                                               | Tradução Livre        | Essência                                  |

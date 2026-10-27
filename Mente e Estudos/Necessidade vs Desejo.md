@@ -1,5 +1,3 @@
-### Sumário
-
 ### Necessidade vs. Desejo
 
 No caminho para o sucesso, frequentemente enfrentamos o desafio de distinguir entre o que realmente precisamos e o que apenas desejamos. Essa diferença, embora sutil, é crucial para manter o foco em nossos objetivos de longo prazo. Enquanto os desejos são intensos e frequentemente motivados por impulsos momentâneos, as necessidades são indispensáveis e permanecem relevantes ao longo do tempo.

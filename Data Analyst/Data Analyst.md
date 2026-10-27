@@ -1,5 +1,3 @@
-### Sumário
-
 ### Qual é a diferença entre Analista de Dados e Analista BI?
 ![[data-analyst-vs-bi-analyst.png]]
 

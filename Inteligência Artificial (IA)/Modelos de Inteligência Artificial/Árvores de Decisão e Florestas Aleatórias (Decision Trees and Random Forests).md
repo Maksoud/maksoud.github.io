@@ -1,5 +1,3 @@
-### Sumário > Modelos de Inteligência Artificial
-
 # Árvores de Decisão e Florestas Aleatórias (Decision Trees and Random Forests)
 
 **Árvores de Decisão** e **Florestas Aleatórias** são métodos populares de aprendizado supervisionado usados para tarefas de **classificação** e **regressão**. Elas se destacam por sua capacidade de interpretar dados complexos de forma intuitiva e robusta, e são amplamente utilizadas em muitos campos, como **ciências de dados**, **diagnósticos médicos**, e **análise financeira**.

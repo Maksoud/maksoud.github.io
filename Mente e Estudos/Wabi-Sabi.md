@@ -1,5 +1,3 @@
-### Sumário > Conceitos Japoneses de Vida
-
 # **Wabi-Sabi (侘寂): “Beleza na imperfeição e na impermanência”**
 
 **Wabi-Sabi** (侘寂) é um conceito estético e filosófico japonês que celebra a beleza da imperfeição, da transitoriedade e da simplicidade. Ele convida à aceitação das marcas do tempo, da natureza e da incompletude como fontes autênticas de beleza e significado.

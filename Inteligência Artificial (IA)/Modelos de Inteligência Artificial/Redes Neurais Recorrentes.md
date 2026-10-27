@@ -1,5 +1,3 @@
-### Sumário > Modelos de Inteligência Artificial
-
 # Redes Neurais Recorrentes
 
 As **Redes Neurais Recorrentes (Recurrent Neural Networks - RNNs)** são um tipo de rede neural projetada para lidar com **dados sequenciais** ou **temporais**, o que as torna ideais para tarefas que envolvem séries temporais, como processamento de linguagem natural, tradução de texto, e previsão de séries temporais.

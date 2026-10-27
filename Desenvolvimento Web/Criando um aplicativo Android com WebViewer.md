@@ -1,5 +1,3 @@
-### Sumário
-
 # Criando um aplicativo Android com WebViewer
 
 ## Introdução ao Android Studio

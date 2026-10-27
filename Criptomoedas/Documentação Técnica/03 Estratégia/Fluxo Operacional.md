@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 🔄 Fluxo Operacional  
 `/Documentação Técnica/03 Estratégia/Fluxo Operacional.md`  
 

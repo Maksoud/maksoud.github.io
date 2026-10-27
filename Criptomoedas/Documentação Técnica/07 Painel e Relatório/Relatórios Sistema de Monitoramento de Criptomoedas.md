@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📈 Relatórios Esperados – Sistema de Monitoramento de Criptomoedas
-
 
 ## Relatórios de Performance por Estratégia
 

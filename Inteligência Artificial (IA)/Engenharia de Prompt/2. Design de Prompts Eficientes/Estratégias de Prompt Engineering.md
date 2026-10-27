@@ -1,5 +1,3 @@
-### Sumário
-
 # Estratégias de Prompt Engineering: Chain of Thought, Zero-Shot, Few-Shot e Instruções Aninhadas
 
 ## 📌 Introdução

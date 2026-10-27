@@ -1,5 +1,3 @@
-### Sumário
-
 # Trabalho vs Renda
 
 A ideia de que trabalhar mais automaticamente resulta em maior renda é um equívoco comum. Profissões como gari ou servente de pedreiro demandam esforço físico intenso, mas, em geral, oferecem rendimentos limitados. Em contrapartida, atividades como investimento na bolsa de valores ou liderança de equipe de vendas podem gerar maior renda com menos esforço físico, evidenciando que o tipo de trabalho e as estratégias utilizadas são mais determinantes do que a quantidade de horas trabalhadas.

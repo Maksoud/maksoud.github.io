@@ -1,5 +1,3 @@
-### Sumário
-
 # Metodologia de Estudos
 
 Estudar é uma habilidade essencial para superar desafios, como provas e certificações, e para adquirir novas competências. Porém, encontrar a metodologia ideal para o seu perfil é tão importante quanto o conteúdo a ser aprendido. Enquanto cada pessoa tem suas preferências e estilos, algumas práticas são universalmente eficazes e podem ser adaptadas para qualquer tipo de aprendizado.

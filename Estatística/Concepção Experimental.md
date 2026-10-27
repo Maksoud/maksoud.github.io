@@ -1,5 +1,3 @@
-### Sumário
-
 ## Concepção Experimental
 
 A concepção experimental é o planejamento cuidadoso de um experimento para garantir que os resultados sejam válidos, confiáveis e possam ser usados para inferir conclusões sobre a população ou processo de interesse. É fundamental na ciência de dados e análise de dados, pois permite testar hipóteses de forma controlada e sistemática.

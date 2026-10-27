@@ -1,5 +1,3 @@
-### Sumário
-
 # Hospedando um Site - Avançado
 
 Relacionei a lista de comandos e uma breve explicação da função do comando. Essa configuração foi realizada no **Linux Ubuntu** no servidor da **DigitalOcean** para adicionar novos sites (domínios) em uma máquina virtual contratada.

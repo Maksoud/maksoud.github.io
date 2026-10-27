@@ -1,5 +1,3 @@
-### Sumário
-
 ### Ser humano no mundo corporativo
 
 Sou um novato no mundo corporativo. Antes, minhas experiências foram em empresas onde essa dinâmica não era tão evidente para mim, ou talvez eu simplesmente não estivesse pronto para perceber o que acontecia ao meu redor.

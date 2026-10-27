@@ -1,5 +1,3 @@
-### Sumário
-
 ### A Importância de Não se Comparar
 
 Em um mundo onde a comparação é quase inevitável, especialmente com a presença constante das redes sociais, é crucial lembrar que a verdadeira competição deve ser consigo mesmo. A exposição contínua às conquistas e vidas alheias pode nos levar a medir nosso valor pelo sucesso dos outros, o que pode ser prejudicial para o nosso bem-estar e progresso pessoal. Em vez de nos compararmos com os outros, devemos focar em traçar metas pessoais para os próximos meses e nos comprometer com o crescimento intelectual.

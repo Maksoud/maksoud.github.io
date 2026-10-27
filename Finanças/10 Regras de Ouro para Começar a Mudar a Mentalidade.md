@@ -1,5 +1,3 @@
-### Sumário
-
 # 10 Regras de Ouro para Começar a Mudar a Mentalidade
 
 Fábio Lopes - Podcast UH Hinode no Spotify - outubro de 2024

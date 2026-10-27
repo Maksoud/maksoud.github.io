@@ -1,4 +1,3 @@
-### Sumário
 # Como Falar com Clientes de Forma Clara e Eficiente
 
 Ao apresentar uma solução para um cliente, nosso principal objetivo não é provar que somos especialistas, é mostrar, com clareza, como podemos resolver o problema dele.

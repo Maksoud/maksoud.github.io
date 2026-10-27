@@ -1,5 +1,3 @@
-### Sumário
-
 ### Auto responsabilização: o poder de assumir seus erros e transformar a própria vida
 
 Vivemos em uma sociedade acostumada a apontar dedos. Sempre que algo dá errado, a tendência natural é procurar um culpado, o chefe exigente, o governo, os pais, o parceiro, a crise, o tempo, o azar. Raramente olhamos para dentro. Raramente perguntamos: _qual foi minha parte nisso?_

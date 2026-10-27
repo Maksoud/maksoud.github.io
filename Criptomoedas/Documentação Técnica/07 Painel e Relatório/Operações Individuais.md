@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📝 Operações Individuais  
-
 
 ## 1. Estrutura do Registro  
 ### 1.1 Campos Obrigatórios  

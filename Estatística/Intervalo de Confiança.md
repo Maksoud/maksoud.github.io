@@ -1,5 +1,3 @@
-### Sumário
-
 Um intervalo de confiança é uma faixa de valores, derivada de dados amostrais, que se estima conter o valor verdadeiro de um parâmetro da população com uma determinada probabilidade. Em outras palavras, um intervalo de confiança fornece uma estimativa do parâmetro populacional e uma margem de erro associada.
 ## **Componentes do Intervalo de Confiança**
 

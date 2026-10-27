@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 Gostaria de fazer um sistema para operação de criptomoedas. Algo que eu possa ter várias contas da corretora Binance operando em diversas estratégias configuráveis para compra e venda de criptoativos. Negociando assim vários pares e gravando todas as operações em um banco de dados onde eu possa acompanhar relatórios de desempenho. Penso em colocar a estratégia para rodar em modo demonstrativo e assim me ajudar a escolher uma estratégia mais segura para operar com o meu capital da corretor. 
 
 Já fiz um documento com o detalhamento do que preciso para a primeira estratégia, onde eu vou comprar na baixa e vender na alta em um determinado canal. Para isso, será necessário acompanhar a valorização e desvalorização do marcado para marcar o preço de compra e preço de venda, garantindo assim um maior ganho nas negociações. 

@@ -1,5 +1,3 @@
-### Sumário
-
 # Como se Organizar Financeiramente de Maneira Estratégica
 
 A organização financeira é um passo essencial para alcançar estabilidade e independência financeira. No livro _Pai Rico, Pai Pobre_ de Robert Kiyosaki, o autor aborda conceitos importantes como a "corrida dos ratos", em que estamos presos a um ciclo constante de trabalhar, ganhar dinheiro e pagar contas. Ele também ensina sobre a diferença entre ativos e passivos e destaca que estar endividado não é necessariamente ruim, desde que seja com as coisas certas. Mas como aplicar essas lições na nossa realidade?

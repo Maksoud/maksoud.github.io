@@ -1,5 +1,3 @@
-### Sumário
-
 # 📚 Recursos Recomendados por Etapa – Engenharia de Prompt para Negócios de Tecnologia
 
 

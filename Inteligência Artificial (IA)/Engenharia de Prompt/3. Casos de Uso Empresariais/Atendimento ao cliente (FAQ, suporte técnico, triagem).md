@@ -1,5 +1,3 @@
-### Sumário
-
 # Atendimento ao Cliente com LLMs (FAQ, Suporte Técnico, Triagem)
 
 

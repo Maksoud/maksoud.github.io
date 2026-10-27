@@ -1,5 +1,3 @@
-### Sumário
-
 # Entendendo o Valor do Meu Trabalho
 
 ### Como Compreender Seu Papel Transforma Resultados

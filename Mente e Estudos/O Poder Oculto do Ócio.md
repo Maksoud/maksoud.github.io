@@ -1,5 +1,3 @@
-### Sumário
-
 ## O Poder Oculto do Ócio: Por Que Desacelerar Acelera Você
 
 Vivemos num mundo onde a informação nunca para e os prazos são sempre apertados. É comum ver pessoas entrando nessa corrida sem fim, acreditando que a disponibilidade constante e a busca incessante por atender expectativas cada vez mais altas são o caminho para promoções ou cargos melhores.

@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # Primeiros Passos no Desenvolvimento
 Atualizado em 13/08/2025
 

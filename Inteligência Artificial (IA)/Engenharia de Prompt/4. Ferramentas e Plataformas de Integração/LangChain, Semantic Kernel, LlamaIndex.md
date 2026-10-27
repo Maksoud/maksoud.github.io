@@ -1,5 +1,3 @@
-### Sumário
-
 # Ferramentas e Plataformas de Integração: LangChain, Semantic Kernel, LlamaIndex
 
 

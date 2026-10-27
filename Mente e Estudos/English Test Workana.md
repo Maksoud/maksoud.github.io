@@ -1,5 +1,3 @@
-### Sumário
-
 # English Test Workana
 
 1) "The sentence below is divided into three parts. Identify where the error lies. If there is no error, select the option ‘no error’. I am happy to had been of assistance." to had been X no error of assistance I am happy "There are two sentences. Each sentence has a blank in it. Four options are given below the sentence pair. Choose the option that fits both the blanks. 1. There is no hope ........ her heart. 2. He is .........his office today." 

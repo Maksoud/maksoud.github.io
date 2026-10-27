@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # Revisão do esquema SQL: Bot de Trading Binance (PostgreSQL)
 Atualizado em 13/08/2025
 

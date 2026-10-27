@@ -1,5 +1,3 @@
-### Sumário
-
 Não foque apenas nos problemas para que os dias de glória não sejam apagados das nossas memórias.
 
 

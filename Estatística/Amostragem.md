@@ -1,5 +1,3 @@
-### Sumário
-
 A amostragem é o processo de selecionar uma parte de uma população para analisar e inferir sobre a população inteira. É uma técnica essencial na estatística, ciência de dados e análise de dados, pois permite obter informações sobre uma população sem a necessidade de investigar todos os seus elementos.
 ## **Tipos de Amostragem**
 

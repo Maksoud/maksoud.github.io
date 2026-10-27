@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 ![[Pasted image 20240608130215.png]]
 
 

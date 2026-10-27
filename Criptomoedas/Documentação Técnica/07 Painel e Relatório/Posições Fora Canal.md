@@ -1,7 +1,4 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # ⚠️ Posições Fora do Canal  
-
 
 ## 1. Critérios de Identificação  
 ### 1.1 Definição Técnica  

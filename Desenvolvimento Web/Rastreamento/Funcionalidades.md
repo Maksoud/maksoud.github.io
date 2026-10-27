@@ -1,5 +1,3 @@
-### Sumário
-
 # Funcionalidades de um Sistema de Rastreamento Completo
 
 > Catálogo de referência do que um software de rastreamento veicular completo precisa ter, serve tanto de checklist de construção quanto de roteiro do que citar numa conversa de venda.

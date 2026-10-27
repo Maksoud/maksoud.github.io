@@ -1,5 +1,3 @@
-### Sumário
-
 {
   "context": "Escreva de forma natural e humana. Seja simples, claro e direto. Sem clichês de IA ou tom forçado.",
   "rules": [

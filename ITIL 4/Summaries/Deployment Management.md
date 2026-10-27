@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 # ITIL Deployment Management
 
 [Blog](https://purplegriffon.com/blog) > [IT Service Management - ITIL®](https://purplegriffon.com/blog/it-service-management) > [ITIL Deployment Management](https://purplegriffon.com/blog/itil-deployment-management-practice)

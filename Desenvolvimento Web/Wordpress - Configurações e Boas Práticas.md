@@ -1,5 +1,3 @@
-### Sumário
-
 # Wordpress - Configurações e Boas Práticas
 
 Após concluir a instalação do WordPress, é fundamental aplicar medidas básicas de segurança para proteger seu site contra acessos indevidos e vulnerabilidades comuns. Abaixo, listamos algumas boas práticas recomendadas:

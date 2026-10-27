@@ -1,5 +1,3 @@
-### Sumário
-
 O arquivo `settings.json` precisa de algumas tags para ajudar nas permissões automáticas, assim como o método `ctrl+tab` no Claude Code faz.
 
 Segue exemplo de arquivo:

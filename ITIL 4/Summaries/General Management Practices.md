@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 The "General Management Practices" chapter in ITIL 4 encompasses a range of practices derived from general business management, which are essential for service management. These practices provide foundational management principles that support the effective governance and operation of IT services within an organization.
 
 ### Key General Management Practices

@@ -1,5 +1,3 @@
-### Sumário
-
 # Analisando Fundos Imobiliários
 ## 1) Onde olhar (fluxo simples em 3 abas)
 

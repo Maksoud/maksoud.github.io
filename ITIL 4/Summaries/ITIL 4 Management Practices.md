@@ -1,5 +1,3 @@
-### Sumário > ITIL 4
-
 The ITIL 4 framework introduces a comprehensive set of management practices designed to help organizations effectively manage and deliver IT services. These practices are grouped into three categories: General Management Practices, Service Management Practices, and Technical Management Practices.
 
 ### **General Management Practices**

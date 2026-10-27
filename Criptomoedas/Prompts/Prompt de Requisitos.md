@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 ## 🛠️ 1. Estruturação do Ambiente
 
 #### **🐍 Python & Bibliotecas Principais**

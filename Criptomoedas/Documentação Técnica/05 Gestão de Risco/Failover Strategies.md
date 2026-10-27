@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 🚨 Failover Strategies  
 `/Documentação Técnica/05 Gestão de Risco/Failover Strategies.md`  
 

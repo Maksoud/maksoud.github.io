@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📡 API Reference  
 `/Documentação Técnica/04 Desenvolvimento Técnico/API Reference.md`  
 

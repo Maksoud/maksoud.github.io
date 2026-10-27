@@ -1,5 +1,3 @@
-### Sumário > Projeto de Gestão de Criptomoedas
-
 # 📌 Detalhamento Técnico - Estratégia Operacional
 
 Este documento contém a descrição técnica dos requisitos relacionados à execução da estratégia "Canal de Preço com Controle de Capital e Venda Programada com Lucro". Ele serve como guia para o desenvolvimento progressivo da lógica de negociação automatizada no Criptoren.

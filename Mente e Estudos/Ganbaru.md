@@ -1,5 +1,3 @@
-### Sumário > Conceitos Japoneses de Vida
-
 # **Ganbaru (頑張る): “Perseverança e esforço com dedicação”**
 
 **Ganbaru** (頑張る) é um conceito japonês que representa a ideia de persistir, esforçar-se com dedicação e fazer o melhor possível, independentemente das dificuldades. Embora não haja uma tradução direta exata, pode ser entendido como “dar o seu melhor”, “não desistir” ou “lutar até o fim”.

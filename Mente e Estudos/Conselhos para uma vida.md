@@ -1,5 +1,3 @@
-### Sumário
-
 ### Conselhos para uma vida
 
 O amadurecimento vem com o tempo. Para alguns, ele chega ainda na juventude; para muitos outros, apenas na vida adulta; e, para tantos outros, só se manifesta após a aposentadoria.

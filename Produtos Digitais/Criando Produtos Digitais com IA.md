@@ -1,5 +1,3 @@
-### Sumário
-
 ## Sites Usados
 [Gamma App](https://gamma.app/pt-br)
 [Claude AI](https://code.claude.com/docs)
