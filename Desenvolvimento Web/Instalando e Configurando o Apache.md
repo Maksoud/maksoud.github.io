@@ -59,6 +59,53 @@ sudo systemctl status httpd --no-pager -l
 sudo ss -tulpn | grep :80
 ```
 
+### Arquivo de configuração de segurança (.htaccess)
+Coloque esse arquivo na raiz do seu site para proteger de acessos indevidos e manter seu código seguro.
+
+```
+# index.html primeiro: o PHP-FPM responde "File not found" para index.php inexistente
+DirectoryIndex index.html index.php
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	## 1. BLOQUEIOS (sempre primeiro) ##
+	# Dotfiles e dotdirs (.env, .git, .svn, .hg, .htaccess...), exceto .well-known (SSL/ACME)
+	RewriteRule (^|/)\.(?!well-known/) - [F,L]
+	# Extensões sensíveis
+	RewriteRule \.(sql|gz|zip|tar|rar|7z|xlsx|md|lock|log|bak|ini|sh)$ - [F,L,NC]
+	# Manifestos e código do servidor Node
+	RewriteRule (^|/)(package(-lock)?|composer)\.json$ - [F,L,NC]
+	RewriteRule (^|/)(src|node_modules|vendor)(/|$) - [F,L,NC]
+	RewriteRule ^js/index\.js$ - [F,L,NC]
+
+	## 2. BASE AUTOMÁTICA (localhost/seu-site ou raiz) ##
+	RewriteCond %{REQUEST_URI}::$1 ^(.*?/)(.*)::\2$
+	RewriteRule ^(.*)$ - [E=MKP_BASE:%1]
+
+	## 3. URL SEM .php (/contato -> contato.php) ##
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME}.php -f
+	RewriteRule ^(.+?)/?$ $1.php [L]
+
+	## 4. FRONT CONTROLLER ##
+	RewriteRule ^index\.php$ - [L]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule . %{ENV:MKP_BASE}index.php [L]
+</IfModule>
+
+# Camada independente do mod_rewrite (Apache 2.4+)
+<FilesMatch "(^\.|\.(sql|gz|zip|tar|rar|7z|xlsx|md|lock|log|bak|ini|sh)$|^(package(-lock)?|composer)\.json$)">
+	Require all denied
+</FilesMatch>
+
+# Fallback para dotdirs se mod_rewrite não estiver ativo
+<IfModule !mod_rewrite.c>
+	RedirectMatch 404 /\.(git|svn|hg|env)(/|$)
+</IfModule>
+```
 
 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/desenvolvimento-web/instalando-e-configurando-o-apache/)
