@@ -16,6 +16,8 @@
 * [Ser humano no mundo corporativo](https://correiarodrigues.com.br/notas/carreiras/ser-humano-no-mundo-corporativo/) - *2025-03-03*
 * [Trabalho vs Renda](https://correiarodrigues.com.br/notas/carreiras/trabalho-vs-renda/) - *2024-11-15*
 * [Definindo prioridades como um analista de TI](https://correiarodrigues.com.br/notas/carreiras/definindo-prioridades-como-um-analista-de-ti/) - *2025-11-02*
+* [Avaliação de Desempenho Profissional - 2023](https://correiarodrigues.com.br/notas/carreiras/avaliacao-de-desempenho-profissional-2023/) - *2024-09-19*
+* [Habilidades Competitivas](https://correiarodrigues.com.br/notas/carreiras/habilidades-competitivas/) - *2026-03-15*
 
 
 ---
@@ -31,6 +33,11 @@
 * [Wordpress - Segurança e Correção de Falha de Acesso - Avançado](https://correiarodrigues.com.br/notas/desenvolvimento-web/wordpress-seguranca-e-correcao-de-falha-de-acesso-avancado/) - *2025-04-20*
 * [Wordpress - Elementor PRO: Criação Profissional e Intuitiva de Páginas](https://correiarodrigues.com.br/notas/desenvolvimento-web/wordpress-criacao-profissional-e-intuitiva-de-paginas/) - *2025-04-21*
 * [Wordpress - Geração de Política SELinux](https://correiarodrigues.com.br/notas/desenvolvimento-web/wordpress-geracao-de-politica-selinux/) - *2025-09-06*
+* **Rastreamento**
+	* [Custos de Infraestrutura](https://correiarodrigues.com.br/notas/desenvolvimento-web/rastreamento/custos-de-infraestrutura/) - *2026-07-26*
+	* [Estrutura](https://correiarodrigues.com.br/notas/desenvolvimento-web/rastreamento/estrutura/) - *2026-07-26*
+	* [Funcionalidades](https://correiarodrigues.com.br/notas/desenvolvimento-web/rastreamento/funcionalidades/) - *2026-07-26*
+	* [Requisitos para vendas](https://correiarodrigues.com.br/notas/desenvolvimento-web/rastreamento/requisitos-para-vendas/) - *2026-07-26*
 
 
 ---
@@ -40,6 +47,11 @@
 * [Como Usar o Cartão de Crédito](https://correiarodrigues.com.br/notas/financas/como-usar-o-cartao-de-credito/) - *2025-05-18*
 * [Livro: O homem mais rico da Babilônia](https://correiarodrigues.com.br/notas/financas/o-homem-mais-rico-da-babilonia/) - *2026-01-12*
 * [As 5 leis do ouro: O homem mais rico da Babilônia](https://correiarodrigues.com.br/notas/mente-e-estudos/as-5-leis-do-ouro/) - *2026-01-14*
+* [Documentação Reiniciando](https://correiarodrigues.com.br/notas/financas/documentacao-reiniciando/) - *2026-07-08*
+* [Encontrando oportunidades](https://correiarodrigues.com.br/notas/financas/encontrando-oportunidades/) - *2025-04-14*
+* **Ações e Fundos**
+	* [Analisando Fundos Imobiliários](https://correiarodrigues.com.br/notas/financas/acoes-e-fundos/analisando-fundos-imobiliarios/) - *2026-03-15*
+	* [Prática - Adquirindo FIIs](https://correiarodrigues.com.br/notas/financas/acoes-e-fundos/pratica-adquirindo-fiis/) - *2026-03-15*
 
 
 ---
@@ -47,6 +59,11 @@
 * [Aprendizado Contínuo](https://correiarodrigues.com.br/notas/mente-e-estudos/aprendizado-continuo/) - *2024-11-24*
 * [Auto Responsabilização](https://correiarodrigues.com.br/notas/mente-e-estudos/auto-responsabilizacao/) - *2025-06-02*
 * [Conceitos Japoneses de Vida](https://correiarodrigues.com.br/notas/mente-e-estudos/conceitos-japoneses-de-vida/) - *2025-05-21*
+	* [Ganbaru](https://correiarodrigues.com.br/notas/mente-e-estudos/ganbaru/) - *2025-05-21*
+	* [Hara Hachi Bu](https://correiarodrigues.com.br/notas/mente-e-estudos/hara-hachi-bu/) - *2025-05-21*
+	* [Kaizen](https://correiarodrigues.com.br/notas/mente-e-estudos/kaizen/) - *2025-05-21*
+	* [Shoshin](https://correiarodrigues.com.br/notas/mente-e-estudos/shoshin/) - *2025-05-21*
+	* [Wabi-Sabi](https://correiarodrigues.com.br/notas/mente-e-estudos/wabi-sabi/) - *2025-05-21*
 * [Conselhos para uma vida](https://correiarodrigues.com.br/notas/mente-e-estudos/conselhos-para-uma-vida/) - *2025-03-03*
 * [Método Hard de Estudos](https://correiarodrigues.com.br/notas/mente-e-estudos/metodo-hard-de-estudos/) - *2024-07-28*
 * [Seja um Produtor](https://correiarodrigues.com.br/notas/mente-e-estudos/seja-um-produtor-de-conteudo/) - *2024-11-24*
@@ -59,6 +76,8 @@
 * [Argumentação vs. Discussão](https://correiarodrigues.com.br/notas/mente-e-estudos/argumentacao-vs-discussao/) - *2026-03-23*
 * [A importância do trabalho manual](https://correiarodrigues.com.br/notas/mente-e-estudos/a-importancia-do-trabalho-manual/) - *2026-07-26*
 * [Tome uma decisão, não somente faça escolhas](https://correiarodrigues.com.br/notas/mente-e-estudos/tome-uma-decisao-nao-somente-faca-escolhas/) - *2026-09-21*
+* [English Test Workana](https://correiarodrigues.com.br/notas/mente-e-estudos/english-test-workana/) - *2025-05-18*
+* [IKIGAI](https://correiarodrigues.com.br/notas/mente-e-estudos/ikigai/) - *2024-07-28*
 
 
 ---
@@ -69,22 +88,32 @@
 * [SEO na Prática: Como Aumentar as Visitas ao Seu Site](https://correiarodrigues.com.br/notas/produtos-digitais/seo-na-pratica-como-aumentar-as-visitas-ao-seu-site/) - *2025-04-21*
 * [Prospecção de Clientes](https://correiarodrigues.com.br/notas/produtos-digitais/prospeccao-de-clientes/) - *2025-04-21*
 * [Business Model Canvas: Um Guia Prático para o seu Negócio](https://correiarodrigues.com.br/notas/produtos-digitais/business-model-canvas-um-guia-pratico-para-o-seu-negocio/) - *2025-11-24*
+* [Criando Produtos Digitais com IA](https://correiarodrigues.com.br/notas/produtos-digitais/criando-produtos-digitais-com-ia/) - *2026-07-08*
+* [Produto Digital com Estratégia](https://correiarodrigues.com.br/notas/produtos-digitais/produto-digital-com-estrategia/) - *2026-07-08*
 
 
 ---
 ### Inteligência Artificial
 * [Guia de Uso e Configuração de um modelo PROMPT](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/guia-de-uso-e-configuracao-de-um-modelo-prompt/) - *2024-07-27*
+	* [PROMPT - Analista de Dados](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-analista-de-dados/) - *2024-07-27*
+	* [PROMPT - Analista de TI](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-analista-de-ti/) - *2024-07-27*
+	* [PROMPT - Inglês para negócios](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-ingles-para-negocios/) - *2024-07-27*
+	* [PROMPT - Linguagem Natural](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-linguagem-natural/) - *2025-08-19*
+	* [PROMPT - Marketing Digital](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-marketing-digital/) - *2024-07-27*
+	* [PROMPT - Product Owner](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-product-owner/) - *2024-07-27*
+	* [PROMPT - SCRUM Master](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-prompts/prompt-scrum-master/) - *2024-07-27*
 * [Modelos de Inteligência Artificial](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial-2/) - *2024-10-13*
-	* [Árvores de Decisão e Florestas Aleatórias](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Árvores%20de%20Decisão%20e%20Florestas%20Aleatórias%20(Decision%20Trees%20and%20Random%20Forests)) - *2024-10-13* · [Modelo Discriminativo](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Modelo%20Discriminativo) - *2024-10-13*
-	* [Modelo Generativo](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Modelo%20Generativo) - *2024-10-13*
-	* [Modelos Bayesianos](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Modelos%20Bayesianos) - *2024-10-13*
-	* [Máquinas de Vetores de Suporte (SVM)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Máquinas%20de%20Vetores%20de%20Suporte%20(Support%20Vector%20Machines%20-%20SVM)) - *2024-10-13*
-	* [Redes Geradoras Adversárias](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Redes%20Geradoras%20Adversárias) - *2024-10-13*
-	* [Redes Neurais Convolucionais](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Redes%20Neurais%20Convolucionais) - *2024-10-13*
-	* [Redes Neurais Profundas](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Redes%20Neurais%20Profundas) - *2024-10-13*
-	* [Redes Neurais Recorrentes](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Redes%20Neurais%20Recorrentes) - *2024-10-13*
-	* [Transformers](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Transformers) - *2024-10-13*
-	* [Técnica Dropout](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/)/Modelos%20de%20Inteligência%20Artificial/Técnica%20Dropout) - *2024-10-13*
+	* [Modelo Discriminativo](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/modelo-discriminativo/) - *2024-10-13*
+	* [Modelo Generativo](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/modelo-generativo/) - *2024-10-13*
+	* [Modelos Bayesianos](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/modelos-bayesianos/) - *2024-10-13*
+	* [Máquinas de Vetores de Suporte (Support Vector Machines - SVM)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/maquinas-de-vetores-de-suporte-support-vector-machines-svm/) - *2024-10-13*
+	* [Redes Geradoras Adversárias](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/redes-geradoras-adversarias/) - *2024-10-13*
+	* [Redes Neurais Convolucionais](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/redes-neurais-convolucionais/) - *2024-10-13*
+	* [Redes Neurais Profundas](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/redes-neurais-profundas/) - *2024-10-13*
+	* [Redes Neurais Recorrentes](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/redes-neurais-recorrentes/) - *2024-10-13*
+	* [Transformers](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/transformers/) - *2024-10-13*
+	* [Técnica Dropout](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/tecnica-dropout/) - *2024-10-13*
+	* [Árvores de Decisão e Florestas Aleatórias (Decision Trees and Random Forests)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/modelos-de-inteligencia-artificial/arvores-de-decisao-e-florestas-aleatorias-decision-trees-and-random-forests/) - *2024-10-13*
 * **Engenharia de Prompt**
 	* [Como Funcionam os Modelos de Linguagem (LLMs)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/como-funcionam-os-modelos-de-linguagem-llms/) - *2025-06-09*
 	* [Como Funciona o ChatGPT – OpenAI](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/como-funciona-o-chatgpt-openai/) - *2025-06-09*
@@ -92,6 +121,28 @@
 	* [Plano de Estudos para Engenharia de Prompt](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/plano-de-estudos-para-engenharia-de-prompt/) - *2025-06-09*
 		* [Cronograma de Estudos](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/cronograma-de-estudos-engenharia-de-prompt/) - *2025-06-09*
 		* [Recursos Recomendados](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/recursos-recomendados-engenharia-de-prompt/) - *2025-06-09*
+	* **1. Fundamentos da Engenharia de Prompt**
+		* [Conhecendo os principais modelos](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/conhecendo-os-principais-modelos/) - *2025-06-16*
+		* [Diferença entre prompt engineering, fine-tuning e embeddings](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/diferenca-entre-prompt-engineering-fine-tuning-e-embeddings/) - *2025-06-16*
+		* [Limitações e potencial dos LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/1-fundamentos-da-engenharia-de-prompt/limitacoes-e-potencial-dos-llms/) - *2025-06-16*
+	* **2. Design de Prompts Eficientes**
+		* [Boas práticas de escrita de prompts](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/boas-praticas-de-escrita-de-prompts/) - *2025-06-16*
+		* [Estratégias de Prompt Engineering](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/estrategias-de-prompt-engineering/) - *2025-06-17*
+		* [Prompt como programação natural](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/prompt-como-programacao-natural/) - *2025-06-17*
+		* [Tipos de prompts simples, compostos, estruturados](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/2-design-de-prompts-eficientes/tipos-de-prompts-simples-compostos-estruturados/) - *2025-06-16*
+	* **3. Casos de Uso Empresariais**
+		* [Análise de dados e BI com LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/analise-de-dados-e-bi-com-llms/) - *2025-06-17*
+		* [Atendimento ao cliente (FAQ, suporte técnico, triagem)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/atendimento-ao-cliente-faq-suporte-tecnico-triagem/) - *2025-06-17*
+		* [Automação de processos com IA](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/automacao-de-processos-com-ia/) - *2025-06-17*
+		* [Geração de conteúdo (marketing, landing pages, email, SEO)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/geracao-de-conteudo-marketing-landing-pages-email-seo/) - *2025-06-17*
+		* [Integração com sistemas legados, APIs e RPA](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/3-casos-de-uso-empresariais/integracao-com-sistemas-legados-apis-e-rpa/) - *2025-06-17*
+	* **4. Ferramentas e Plataformas de Integração**
+		* [Automação com n8n, Zapier e Make](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/automacao-com-n8n-zapier-e-make/) - *2025-06-17*
+		* [LangChain, Semantic Kernel, LlamaIndex](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/langchain-semantic-kernel-llamaindex/) - *2025-06-17*
+		* [Noções de uso via código e via plataformas low-code](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/nocoes-de-uso-via-codigo-e-via-plataformas-low-code/) - *2025-06-17*
+		* [OpenAI API (ChatGPT, Assistants, GPTs)](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/engenharia-de-prompt/4-ferramentas-e-plataformas-de-integracao/openai-api-chatgpt-assistants-gpts/) - *2025-06-17*
+* **Gemini**
+	* [Configurações Globais de Preferências](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/gemini/configuracoes-globais-de-preferencias/) - *2026-09-12*
 
 
 ---
@@ -106,6 +157,11 @@
 * [Processo de criação de valor de produtos digitais](https://correiarodrigues.com.br/notas/gestao-de-projetos/processo-de-criacao-de-valor-de-produtos-digitais/) - *2025-03-21*
 * [5W2H: transformando intenção em plano de ação](https://correiarodrigues.com.br/notas/gestao-de-projetos/5w2h/) - *2026-08-22*
 * [Governança de TI: um guia para quem está começando](https://correiarodrigues.com.br/notas/gestao-de-projetos/governanca-de-ti-para-iniciantes/) - *2026-08-22*
+* [Fundamentos Ágeis](https://correiarodrigues.com.br/notas/gestao-de-projetos/fundamentos-ageis/) - *2024-12-31*
+* [Planejamento Ágil](https://correiarodrigues.com.br/notas/gestao-de-projetos/planejamento-agil/) - *2024-07-27*
+* [Técnicas Avançadas de SCRUM](https://correiarodrigues.com.br/notas/gestao-de-projetos/tecnicas-avancadas-de-scrum/) - *2024-07-27*
+* **Modelagem de Negócios**
+	* [Impacto da Modelagem de Negócios em uma Organização](https://correiarodrigues.com.br/notas/gestao-de-projetos/modelagem-de-negocios/impacto-da-modelagem-de-negocios-em-uma-organizacao/) - *2025-04-19*
 
 
 ---
@@ -117,3 +173,132 @@
 ---
 ### Pensamentos e Frases
 - [Deixando a sua marca: como ser um criador constrói o seu legado](https://correiarodrigues.com.br/notas/pensamentos-e-frases/deixando-a-sua-marca/) - *2026-08-22*
+* [A experiência](https://correiarodrigues.com.br/notas/pensamentos-e-frases/a-experiencia/) - *2026-05-03*
+* [Agir e Esperar](https://correiarodrigues.com.br/notas/pensamentos-e-frases/agir-e-esperar/) - *2026-05-03*
+* [Comece](https://correiarodrigues.com.br/notas/pensamentos-e-frases/comece/) - *2026-05-03*
+* [Conquistas](https://correiarodrigues.com.br/notas/pensamentos-e-frases/conquistas/) - *2026-05-03*
+* [Fazer o Certo](https://correiarodrigues.com.br/notas/pensamentos-e-frases/fazer-o-certo/) - *2026-05-03*
+* [Importante](https://correiarodrigues.com.br/notas/pensamentos-e-frases/importante/) - *2026-05-03*
+* [Lei de Falklands](https://correiarodrigues.com.br/notas/pensamentos-e-frases/lei-de-falklands/) - *2026-05-03*
+* [Lei de Wilson](https://correiarodrigues.com.br/notas/pensamentos-e-frases/lei-de-wilson/) - *2026-05-03*
+* [Motivação](https://correiarodrigues.com.br/notas/pensamentos-e-frases/motivacao/) - *2026-05-03*
+* [Objetivos vs Desejos](https://correiarodrigues.com.br/notas/pensamentos-e-frases/objetivos-vs-desejos/) - *2026-05-03*
+* [Problemas](https://correiarodrigues.com.br/notas/pensamentos-e-frases/problemas/) - *2026-05-03*
+* [Segredos](https://correiarodrigues.com.br/notas/pensamentos-e-frases/segredos/) - *2026-05-03*
+* [WorkHard](https://correiarodrigues.com.br/notas/pensamentos-e-frases/workhard/) - *2026-05-03*
+
+
+---
+### Criptomoedas
+* [Projeto de Gestão de Criptomoedas](https://correiarodrigues.com.br/notas/criptomoedas/projeto-de-gestao-de-criptomoedas/) - *2025-06-22*
+	* [Estratégia Canal de Preço com Controle de Capital e Venda Programada com Lucro](https://correiarodrigues.com.br/notas/criptomoedas/estrategia-canal-de-preco-com-controle-de-capital-e-venda-programada-com-lucro/) - *2025-06-24*
+	* [Sumário da Documentação Técnica](https://correiarodrigues.com.br/notas/criptomoedas/sumario-da-documentacao-tecnica/) - *2025-07-07*
+	* [Backlog de Produto - Criptoren](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/backlog-de-produto-criptoren/) - *2025-07-07*
+	* **01 Visão Geral**
+		* [Arquitetura](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/arquitetura/) - *2025-07-07*
+		* [Esquema SQL](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/esquema-sql/) - *2025-08-13*
+		* [Objetivos do Sistema](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/objetivos-do-sistema/) - *2025-07-08*
+		* [Primeiros Passos no Desenvolvimento](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/01-visao-geral/primeiros-passos-no-desenvolvimento/) - *2025-06-23*
+	* **02 Configuração**
+		* [Pré-requisitos](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/pre-requisitos/) - *2025-07-09*
+		* [Setup Inicial](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/02-configuracao/setup-inicial/) - *2025-07-08*
+	* **03 Estratégia**
+		* [Detalhamento Técnico - Estratégia Operacional](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/detalhamento-tecnico-estrategia-operacional/) - *2025-07-07*
+		* [Fluxo Operacional](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/fluxo-operacional/) - *2025-07-09*
+		* [Regras do Canal de Preços](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/regras-do-canal-de-precos/) - *2025-07-09*
+		* [Requisitos Técnicos - Configurações e Parâmetros da Estratégia](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/03-estrategia/requisitos-tecnicos-configuracoes-e-parametros-da-estrategia/) - *2025-07-07*
+	* **04 Desenvolvimento Técnico**
+		* [API Reference](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/api-reference/) - *2025-07-09*
+		* [Integração Binance](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/integracao-binance/) - *2025-07-09*
+		* [Modelagem de Dados](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/04-desenvolvimento-tecnico/modelagem-de-dados/) - *2025-07-09*
+	* **05 Gestão de Risco**
+		* [Controle de Capital](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/controle-de-capital/) - *2025-07-09*
+		* [Failover Strategies](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/05-gestao-de-risco/failover-strategies/) - *2025-07-09*
+	* **06 Testes**
+		* [Requisitos Técnicos - Logs e Auditoria](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-logs-e-auditoria/) - *2025-07-07*
+		* [Requisitos Técnicos - Testes Automatizados](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/requisitos-tecnicos-testes-automatizados/) - *2025-07-07*
+		* [Simulação de Mercado](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/simulacao-de-mercado/) - *2025-07-09*
+		* [Testes Unitários](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/06-testes/testes-unitarios/) - *2025-07-09*
+	* **07 Painel e Relatório**
+		* [Comparativo Estratégias](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/comparativo-estrategias/) - *2025-07-09*
+		* [Evolução Temporal](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/evolucao-temporal/) - *2025-07-09*
+		* [Impacto Taxas](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/impacto-taxas/) - *2025-07-09*
+		* [KPIs](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/kpis/) - *2025-07-09*
+		* [Lucro Par Moedas](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/lucro-par-moedas/) - *2025-07-09*
+		* [Operações Individuais](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/operacoes-individuais/) - *2025-07-09*
+		* [Performance por Estratégia](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/performance-por-estrategia/) - *2025-07-09*
+		* [Posições Abertas](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/posicoes-abertas/) - *2025-07-09*
+		* [Posições Fora Canal](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/posicoes-fora-canal/) - *2025-07-09*
+		* [Relatórios Sistema de Monitoramento de Criptomoedas](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/relatorios-sistema-de-monitoramento-de-criptomoedas/) - *2025-06-24*
+		* [Requisitos Técnicos - Painel e Visualização](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/requisitos-tecnicos-painel-e-visualizacao/) - *2025-07-07*
+		* [Requisitos Técnicos - Relatórios Estratégicos e Analíticos](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/requisitos-tecnicos-relatorios-estrategicos-e-analiticos/) - *2025-07-07*
+		* [Riscos Exposições](https://correiarodrigues.com.br/notas/criptomoedas/documentacao-tecnica/07-painel-e-relatorio/riscos-exposicoes/) - *2025-07-09*
+	* **Prompts**
+		* [Prompt Inicial](https://correiarodrigues.com.br/notas/criptomoedas/prompts/prompt-inicial/) - *2025-08-12*
+		* [Prompt de Requisitos](https://correiarodrigues.com.br/notas/criptomoedas/prompts/prompt-de-requisitos/) - *2025-08-13*
+
+
+---
+### Data Analyst
+* [Data Analyst](https://correiarodrigues.com.br/notas/data-analyst/data-analyst/) - *2024-07-27*
+	* [Excel Avançado](https://correiarodrigues.com.br/notas/data-analyst/excel-avancado/) - *2024-07-27*
+	* [Modelos](https://correiarodrigues.com.br/notas/data-analyst/modelos/) - *2024-07-27*
+	* [Áreas afins - Engenharia, Análise e Ciência](https://correiarodrigues.com.br/notas/data-analyst/areas-afins-engenharia-analise-e-ciencia/) - *2024-07-28*
+
+
+---
+### Estatística
+* [Estatística](https://correiarodrigues.com.br/notas/estatistica/estatistica/) - *2024-07-27*
+	* [Amostragem](https://correiarodrigues.com.br/notas/estatistica/amostragem/) - *2024-07-27*
+	* [Concepção Experimental](https://correiarodrigues.com.br/notas/estatistica/concepcao-experimental/) - *2024-07-27*
+	* [Desvio Padrão](https://correiarodrigues.com.br/notas/estatistica/desvio-padrao/) - *2024-07-27*
+	* [Intervalo de Confiança](https://correiarodrigues.com.br/notas/estatistica/intervalo-de-confianca/) - *2024-07-27*
+	* [Modelos de Probabilidades](https://correiarodrigues.com.br/notas/estatistica/modelos-de-probabilidades/) - *2024-07-27*
+	* [Média (Média Aritmética) e Mediana](https://correiarodrigues.com.br/notas/estatistica/media-media-aritmetica-e-mediana/) - *2024-07-27*
+	* [Regressão](https://correiarodrigues.com.br/notas/estatistica/regressao/) - *2024-07-27*
+	* [Score-Z (Z-Score)](https://correiarodrigues.com.br/notas/estatistica/score-z-z-score/) - *2024-07-27*
+	* [Teste de Hipóteses](https://correiarodrigues.com.br/notas/estatistica/teste-de-hipoteses/) - *2024-07-27*
+
+
+---
+### ITIL 4
+* [ITIL 4](https://correiarodrigues.com.br/notas/itil-4/itil-4/) - *2024-07-27*
+	* [Q&A - ITIL 4 Foundation - Exam preparation](https://correiarodrigues.com.br/notas/itil-4/qa-itil-4-foundation-exam-preparation/) - *2024-07-27*
+	* [Summary of ITIL 4 Foundation](https://correiarodrigues.com.br/notas/itil-4/summary-of-itil-4-foundation/) - *2024-07-27*
+	* **Chapters**
+		* [2.1 Value and value co-creation](https://correiarodrigues.com.br/notas/itil-4/chapters/2-1-value-and-value-co-creation/) - *2024-07-27*
+		* [2.2 Organizations, service providers, service consumers, and other stakeholders](https://correiarodrigues.com.br/notas/itil-4/chapters/2-2-organizations-service-providers-service-consumers-and-other-stakeholders/) - *2024-07-27*
+		* [2.3 Products and services](https://correiarodrigues.com.br/notas/itil-4/chapters/2-3-products-and-services/) - *2024-07-27*
+		* [2.4 Service relationships](https://correiarodrigues.com.br/notas/itil-4/chapters/2-4-service-relationships/) - *2024-07-27*
+		* [2.5 Value outcomes, costs, and risks](https://correiarodrigues.com.br/notas/itil-4/chapters/2-5-value-outcomes-costs-and-risks/) - *2024-07-27*
+		* [4.1 Service value system overview](https://correiarodrigues.com.br/notas/itil-4/chapters/4-1-service-value-system-overview/) - *2024-07-27*
+		* [4.2 Opportunity, demand, and value](https://correiarodrigues.com.br/notas/itil-4/chapters/4-2-opportunity-demand-and-value/) - *2024-07-27*
+		* [4.3 The ITIL guiding principles](https://correiarodrigues.com.br/notas/itil-4/chapters/4-3-the-itil-guiding-principles/) - *2024-07-27*
+		* [4.4 Governance](https://correiarodrigues.com.br/notas/itil-4/chapters/4-4-governance/) - *2024-07-27*
+		* [4.5 Service value chain](https://correiarodrigues.com.br/notas/itil-4/chapters/4-5-service-value-chain/) - *2024-07-27*
+		* [4.6 Continual improvement](https://correiarodrigues.com.br/notas/itil-4/chapters/4-6-continual-improvement/) - *2024-07-27*
+		* [5. ITIL management practices](https://correiarodrigues.com.br/notas/itil-4/chapters/5-itil-management-practices/) - *2024-07-27*
+		* [5.1 General management practices](https://correiarodrigues.com.br/notas/itil-4/chapters/5-1-general-management-practices/) - *2024-07-27*
+		* [5.2 Service management practices](https://correiarodrigues.com.br/notas/itil-4/chapters/5-2-service-management-practices/) - *2024-07-27*
+		* [5.3 Technical management practices](https://correiarodrigues.com.br/notas/itil-4/chapters/5-3-technical-management-practices/) - *2024-07-27*
+	* **Summaries**
+		* [Deployment Management](https://correiarodrigues.com.br/notas/itil-4/summaries/deployment-management/) - *2024-07-27*
+		* [General Management Practices](https://correiarodrigues.com.br/notas/itil-4/summaries/general-management-practices/) - *2024-07-27*
+		* [ITIL 4 Management Practices](https://correiarodrigues.com.br/notas/itil-4/summaries/itil-4-management-practices/) - *2024-07-27*
+		* [Infrastructure and Platform Management](https://correiarodrigues.com.br/notas/itil-4/summaries/infrastructure-and-platform-management/) - *2024-07-27*
+		* [Introduction to ITIL 4](https://correiarodrigues.com.br/notas/itil-4/summaries/introduction-to-itil-4/) - *2024-07-27*
+		* [Key Concepts of Service Management](https://correiarodrigues.com.br/notas/itil-4/summaries/key-concepts-of-service-management/) - *2024-07-27*
+		* [Service Management Practices](https://correiarodrigues.com.br/notas/itil-4/summaries/service-management-practices/) - *2024-07-27*
+		* [Software Development and Management](https://correiarodrigues.com.br/notas/itil-4/summaries/software-development-and-management/) - *2024-07-27*
+		* [Technical Management Practices](https://correiarodrigues.com.br/notas/itil-4/summaries/technical-management-practices/) - *2024-07-27*
+		* [The Four Dimensions of Service Management](https://correiarodrigues.com.br/notas/itil-4/summaries/the-four-dimensions-of-service-management/) - *2024-07-27*
+		* [The Guiding Principles of ITIL](https://correiarodrigues.com.br/notas/itil-4/summaries/the-guiding-principles-of-itil/) - *2024-07-27*
+		* [The ITIL Service Value Chain](https://correiarodrigues.com.br/notas/itil-4/summaries/the-itil-service-value-chain/) - *2024-07-27*
+		* [The ITIL Service Value System (SVS)](https://correiarodrigues.com.br/notas/itil-4/summaries/the-itil-service-value-system-svs/) - *2024-07-27*
+
+
+---
+### Job Prep
+* [Career Path - Data Analyst](https://correiarodrigues.com.br/notas/job-prep/career-path-data-analyst/) - *2024-07-27*
+* [Perguntas e Respostas - Job Interview](https://correiarodrigues.com.br/notas/job-prep/perguntas-e-respostas-job-interview/) - *2024-07-27*
+* [Planejamento Semestral - Mercado Internacional](https://correiarodrigues.com.br/notas/job-prep/planejamento-semestral-mercado-internacional/) - *2024-07-27*
