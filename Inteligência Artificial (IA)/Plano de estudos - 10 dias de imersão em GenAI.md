@@ -1253,4 +1253,6 @@ E, em paralelo, construiria **um único projeto de portfólio**, em vez de cinco
 
 Isso também conversa muito bem com a evolução atual do campo: a formação de agentes da Hugging Face, por exemplo, já trata LLMs, tools, ciclos de ação/observação, frameworks e depois Agentic RAG como uma progressão natural. [Hugging Face](https://huggingface.co/learn/agents-course/unit1/introduction?utm_source=chatgpt.com)
 
-**Se você quiser fazer isso de forma realmente estruturada, o próximo passo que eu recomendo é montarmos o seu “Day 0”: uma trilha de estudos com os links exatos para vídeos, cursos, documentação e exercícios de cada um desses 10 dias — em ordem, com o que assistir, o que ler, o que anotar e o que implementar em cada sessão.** Isso evita que você perca suas férias procurando aleatoriamente por “melhores cursos de RAG”.
+<sup><sub>
+Renée Maksoud - outubro de 2026
+</sub></sup>
