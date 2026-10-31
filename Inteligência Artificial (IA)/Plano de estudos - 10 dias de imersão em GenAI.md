@@ -659,7 +659,7 @@ E, em paralelo, construiria **um único projeto de portfólio**, em vez de cinco
 
 Isso também conversa muito bem com a evolução atual do campo: a formação de agentes da Hugging Face, por exemplo, já trata LLMs, tools, ciclos de ação/observação, frameworks e depois Agentic RAG como uma progressão natural. [Hugging Face](https://huggingface.co/learn/agents-course/unit1/introduction?utm_source=chatgpt.com)
 
-[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/)
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai-2/)
 
 <sup><sub>
 Renée Maksoud - outubro de 2026
