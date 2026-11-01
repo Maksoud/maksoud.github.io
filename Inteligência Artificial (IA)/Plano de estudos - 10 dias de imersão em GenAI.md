@@ -533,7 +533,7 @@ Esse tipo de discussão vai te ajudar muito em entrevistas.
 
 Isso é tão importante quanto o que estudar.
 
-Durante essas férias, **não mergulharia profundamente em**:
+O que não mergulharia profundamente agora:
 - matemática de Transformers;
 - treinamento de LLM do zero;
 - CUDA;
@@ -550,7 +550,7 @@ São assuntos válidos, mas **não são a melhor utilização dos seus próximos
 
 ---
 
-# Seu objetivo ao final das férias
+# Seu objetivo ao final
 
 Eu colocaria uma espécie de prova final.
 
@@ -606,13 +606,12 @@ Se você conseguir responder essas perguntas **com exemplos e arquitetura**, já
 
 ## E eu faria uma adaptação importante para você
 
-Como seu objetivo não é simplesmente aprender por curiosidade, mas **se preparar para uma vaga**, eu transformaria esses 10 dias em um pequeno **bootcamp pessoal**, com:
-
-**Dia 1–3 → fundamentos**  
-**Dia 4–6 → RAG**  
-**Dia 7–8 → agentes**  
-**Dia 9 → arquitetura/frameworks**  
-**Dia 10 → avaliação + segurança + entrevista**
+Como seu objetivo não é simplesmente aprender por curiosidade, mas **se preparar**, eu transformaria esses 10 dias em um pequeno **bootcamp pessoal**, com:
+	**Dia 1–3 → fundamentos**  
+	**Dia 4–6 → RAG**  
+	**Dia 7–8 → agentes**  
+	**Dia 9 → arquitetura/frameworks**  
+	**Dia 10 → avaliação + segurança + entrevista**
 
 E, em paralelo, construiria **um único projeto de portfólio**, em vez de cinco projetos superficiais.
 
