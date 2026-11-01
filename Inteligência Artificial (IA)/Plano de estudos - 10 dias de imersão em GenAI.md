@@ -11,162 +11,6 @@ E há uma regra importante:
 > **Não estude apenas assistindo conteúdo. A cada conceito novo, você precisa conseguir explicar e/ou implementar alguma coisa.**
 
 ---
-# Sumário — Plano de Estudos em IA Generativa
-
-1. **Fundamentos de LLMs**
-    - LLMs, Transformers e atenção
-    - Tokens e tokenização
-    - Embeddings
-    - Context window
-    - Treinamento vs. inferência
-    - Temperature, top-p e geração
-    - Hallucinations
-    - Instruction tuning, RLHF e modelos de raciocínio
-
-2. **Engenharia de Prompt**
-    - Zero-shot e few-shot
-    - System instructions
-    - Structured outputs / JSON
-    - Prompt decomposition e chaining
-    - Context management
-    - Instruction hierarchy
-    - Prompt injection e jailbreaks
-    - Grounding e guardrails
-    - Prompt engineering aplicado a RAG
-
-3. **Embeddings e Busca Semântica**
-    - Embeddings e representação vetorial
-    - Similaridade semântica
-    - Cosine similarity
-    - Vector databases
-    - Semantic search
-    - Sparse vs. dense retrieval
-    - BM25
-
-4. **RAG — Retrieval-Augmented Generation**
-    - Conceito e arquitetura
-    - Ingestion de documentos
-    - Parsing e cleaning
-    - Chunking e chunk overlap
-    - Embeddings e indexing
-    - Retrieval e top-k
-    - Metadata filtering
-    - Reranking
-    - Contexto e geração
-    - RAG vs. conhecimento paramétrico
-
-5. **Construção de um Sistema RAG**
-    - Preparação de documentos
-    - Criação dos chunks
-    - Geração de embeddings
-    - Vector database
-    - Pipeline de retrieval
-    - Integração com LLM
-    - Testes e análise dos resultados
-
-6. **RAG Avançado**
-    - Hybrid search
-    - Query rewriting
-    - Query expansion
-    - Semantic chunking
-    - Parent-child retrieval
-    - Context compression
-    - Agentic RAG
-    - GraphRAG
-    - Multimodal RAG
-    - Contextual Retrieval
-    - Corrective RAG / Self-RAG
-
-7. **Agentes de IA**
-    - AI agents vs. chatbots
-    - Agentic AI
-    - Tool/function calling
-    - Tools e actions
-    - Planning
-    - Agent loop
-    - State e memory
-    - Orchestration
-    - Human-in-the-loop
-    - Multi-agent systems
-
-8. **Construção de um Agente**
-    - Definição do objetivo
-    - Ferramentas
-    - Retrieval
-    - APIs externas
-    - Fluxo de decisão
-    - Execução de múltiplas etapas
-    - Projeto prático de agente para análise de vagas
-
-9. **Frameworks e Arquitetura**
-    - LangChain
-    - LangGraph
-    - LlamaIndex
-    - Hugging Face
-    - Workflows vs. agents
-    - State, nodes e edges
-    - Escolha de frameworks conforme o problema
-
-10. **Avaliação de Sistemas LLM/RAG**
-    - Evaluation datasets
-    - Benchmarks
-    - Relevance
-    - Faithfulness
-    - Groundedness
-    - Precision e recall
-    - LLM-as-a-judge
-    - Avaliação humana
-    - Retrieval quality vs. generation quality
-
-11. **Segurança em GenAI**
-    - Prompt injection
-    - Indirect prompt injection
-    - Jailbreaks
-    - Data leakage
-    - Excessive agency
-    - Insecure tool use
-    - Controle de acesso
-    - Segurança em RAG
-
-12. **Conceitos que precisam ser diferenciados**
-    - Prompt Engineering × RAG
-    - RAG × Fine-tuning
-    - RAG × Tool Calling
-    - Workflow × Agent
-    - Retrieval × Generation
-    - Embedding × Vector Database
-
-13. **Projeto Final de Portfólio**
-    - AI Career Research Agent
-    - Base de conhecimento pessoal
-    - RAG sobre currículo e experiências
-    - Análise de vagas
-    - Identificação de gaps
-    - Uso de ferramentas
-    - Pesquisa externa
-    - Geração de plano de estudos e preparação para entrevistas
-
-14. **Preparação para Entrevista**
-    - Explicar LLMs
-    - Explicar RAG
-    - Explicar embeddings
-    - Diagnosticar problemas de retrieval
-    - Explicar reranking
-    - Projetar prompts
-    - Explicar agentes e tool calling
-    - Escolher RAG vs. fine-tuning
-    - Identificar vulnerabilidades
-    - Avaliar qualidade de um sistema GenAI
-
-15. **Fontes e Estratégia de Estudo**
-    - Documentação oficial
-    - Cursos especializados
-    - Vídeos técnicos
-    - Podcasts e conteúdo em áudio
-    - Preferência por fontes em inglês para aprofundamento
-    - Teoria + prática + projeto como método principal
-
----
 # Mapa do que você precisa dominar
 
 Antes do cronograma, quero te mostrar a árvore de conhecimento.
@@ -203,83 +47,201 @@ Essa estrutura é importante porque **RAG e agentes não são simplesmente “no
 
 ---
 
-# Dia 1: LLMs de verdade
+# Plano de Estudos
+
+## Dia 1: LLMs de verdade
 
 Entender o que é de fato um LLM: tokens, embeddings, atenção, janela de contexto, inferência e por que ele alucina.
 
 [Ver detalhes do Dia 1](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-01-llms-de-verdade/)
 
+Termos do dia:
+- [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), [Transformers](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-transformer/) e [atenção](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-attention/) ([self-attention](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-self-attention/))
+- [Tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) e [tokenização](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-tokenization/)
+- [Embeddings](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-embedding/)
+- [Context window](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-window/)
+- Treinamento ([pretrained model](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-pretrained-model/), [parameters](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-parameters/)) vs. [inferência](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-inference/)
+- [Temperature](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-temperature/), [top-p](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-top-p/) e geração
+- [Hallucinations](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-hallucination/)
+- [Instruction tuning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-instruction-tuning/), [RLHF](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rlhf/) e [modelos de raciocínio](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-reasoning-models/)
+
 ---
 
-# Dia 2: Prompt Engineering 2.0
+## Dia 2: Prompt Engineering 2.0
 
 Ver prompt engineering como projeto de uma interface confiável entre usuário, modelo, contexto e sistema, incluindo prompts para RAG.
 
 [Ver detalhes do Dia 2](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-02-prompt-engineering-2-0/)
 
+Termos do dia:
+- [Zero-shot](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-zero-shot-prompting/) e [few-shot](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-few-shot-prompting/)
+- [System instructions](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-system-instructions/)
+- [Role prompting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-role-prompting/)
+- [Structured outputs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-structured-output/) / [JSON](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-json-schema/)
+- [Chain-of-thought](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-chain-of-thought/) e [reasoning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-reasoning/)
+- [Prompt decomposition](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-decomposition/) e [chaining](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-chaining/)
+- [Context management](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-context-management/)
+- [Instruction hierarchy](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-instruction-hierarchy/)
+- [Prompt injection](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-injection/) e [jailbreaks](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-jailbreak/)
+- [Grounding](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-grounding/) e [guardrails](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-guardrails/)
+- [Tool instructions](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-tool-instructions/)
+- [Prompt engineering aplicado a RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-para-rag/)
+
 ---
 
-# Dia 3: Embeddings
+## Dia 3: Embeddings
 
 Compreender embeddings, similaridade semântica e bancos vetoriais, a base para o RAG fazer sentido.
 
 [Ver detalhes do Dia 3](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-03-embeddings/)
 
+Termos do dia:
+- Embeddings e representação vetorial
+- Similaridade semântica
+- Cosine similarity
+- Vector databases
+- Semantic search
+- Sparse vs. dense retrieval
+- BM25
+
 ---
 
-# Dia 4: RAG finalmente
+## Dia 4: RAG finalmente
 
 Estudar o RAG em camadas: ingestão, chunking, embeddings, indexação, retrieval, reranking e geração.
 
 [Ver detalhes do Dia 4](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
 
+Termos do dia:
+- Conceito e arquitetura
+- Ingestion de documentos
+- Parsing e cleaning
+- Chunking e chunk overlap
+- Embeddings e indexing
+- Retrieval e top-k
+- Metadata filtering
+- Reranking
+- Contexto e geração
+- RAG vs. conhecimento paramétrico
+
 ---
 
-# Dia 5: Construir seu primeiro RAG
+## Dia 5: Construir seu primeiro RAG
 
 Pausa na teoria para construir um primeiro "chat com meus documentos", entendendo cada etapa do pipeline.
 
 [Ver detalhes do Dia 5](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-05-construir-seu-primeiro-rag/)
 
+Termos do dia:
+- Preparação de documentos
+- Criação dos chunks
+- Geração de embeddings
+- Vector database
+- Pipeline de retrieval
+- Integração com LLM
+- Testes e análise dos resultados
+
 ---
 
-# Dia 6: RAG avançado
+## Dia 6: RAG avançado
 
 Conhecer técnicas avançadas de retrieval, reranking, chunking e contexto, além de Agentic RAG, GraphRAG e outras variações.
 
 [Ver detalhes do Dia 6](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-06-rag-avancado/)
 
+Termos do dia:
+- Hybrid search
+- Query rewriting
+- Query expansion
+- Semantic chunking
+- Parent-child retrieval
+- Context compression
+- Agentic RAG
+- GraphRAG
+- Multimodal RAG
+- Contextual Retrieval
+- Corrective RAG / Self-RAG
+
 ---
 
-# Dia 7: Agentes
+## Dia 7: Agentes
 
 Entender agentes como LLM + ferramentas + estado + loop de decisão, com tool calling, planejamento e memória.
 
 [Ver detalhes do Dia 7](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-07-agentes/)
 
+Termos do dia:
+- AI agents vs. chatbots
+- Agentic AI
+- Tool/function calling
+- Tools e actions
+- Planning
+- Agent loop
+- State e memory
+- Orchestration
+- Human-in-the-loop
+- Multi-agent systems
+
 ---
 
-# Dia 8: Construir um agente
+## Dia 8: Construir um agente
 
 Construir um pequeno agente de análise de vagas que combina RAG, busca e ferramentas.
 
 [Ver detalhes do Dia 8](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-08-construir-um-agente/)
 
+Termos do dia:
+- Definição do objetivo
+- Ferramentas
+- Retrieval
+- APIs externas
+- Fluxo de decisão
+- Execução de múltiplas etapas
+- Projeto prático de agente para análise de vagas
+
 ---
 
-# Dia 9: Frameworks + arquitetura
+## Dia 9: Frameworks + arquitetura
 
 Conhecer o ecossistema (LangChain, LangGraph, LlamaIndex, Hugging Face) para escolher a ferramenta certa para cada problema.
 
 [Ver detalhes do Dia 9](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-09-frameworks-arquitetura/)
 
+Termos do dia:
+- LangChain
+- LangGraph
+- LlamaIndex
+- Hugging Face
+- Workflows vs. agents
+- State, nodes e edges
+- Escolha de frameworks conforme o problema
+
 ---
 
-# Dia 10: Avaliação, segurança e produção
+## Dia 10: Avaliação, segurança e produção
 
 Avaliar sistemas LLM/RAG separando qualidade de retrieval e de geração, e estudar segurança, como prompt injection.
 
 [Ver detalhes do Dia 10](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-10-avaliacao-seguranca-e-producao/)
+
+Termos do dia:
+- Evaluation datasets
+- Benchmarks
+- Relevance
+- Faithfulness
+- Groundedness
+- Precision e recall
+- LLM-as-a-judge
+- Avaliação humana
+- Retrieval quality vs. generation quality
+- [Prompt injection](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-injection/)
+- Indirect prompt injection
+- [Jailbreaks](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-jailbreak/)
+- Data leakage
+- Excessive agency
+- Insecure tool use
+- Controle de acesso
+- Segurança em RAG
 
 ---
 
