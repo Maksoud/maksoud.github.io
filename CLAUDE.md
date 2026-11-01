@@ -14,6 +14,7 @@ Content is organized into top-level folders by subject area: `Carreiras`, `Concu
 
 - **Language**: Write and edit notes in Brazilian Portuguese to match existing content. Folder and file names are also in Portuguese.
 - **No em dashes**: Never use "—" (or "–") as punctuation in note text, titles or the Sumário. Use a comma, colon, parentheses or a separate sentence instead. The author considers dashes a sign of AI-written text.
+- **No blank line before lists**: When a line ends with a colon (":") and is followed by a "-" list, the list starts on the very next line, with no blank line in between. Check this as strictly as the dash rule (all notes were normalized in commit c42b6a8).
 - **Format**: Notes use Obsidian-flavored Markdown. `Markdown Instructions.md` documents the conventions used here, including Obsidian extras like `==highlight==` (marcado), `~~~lang` fenced code blocks, and image sizing syntax `![alt|250x65](url)`.
 - **Images**: Store per-topic images in an `imgs/` subfolder within each subject folder (e.g. `Data Analyst/imgs/1.png`) and reference them with relative paths.
 
