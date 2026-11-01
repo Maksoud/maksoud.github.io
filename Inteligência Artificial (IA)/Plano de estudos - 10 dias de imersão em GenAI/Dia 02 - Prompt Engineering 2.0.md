@@ -16,23 +16,23 @@ Pense em:
 
 ### Estude
 
-- zero-shot prompting
-- few-shot prompting
-- system instructions
-- role prompting
-- structured output
-- JSON schema
-- chain-of-thought
-- reasoning
-- prompt decomposition
-- prompt chaining
-- context management
-- instruction hierarchy
-- guardrails
-- prompt injection
-- jailbreak
-- grounding
-- tool instructions
+- Zero-shot Prompting
+- Few-shot Prompting
+- System Instructions
+- Role Prompting
+- Structured Output
+- JSON Schema
+- Chain-of-thought
+- Reasoning
+- Prompt Decomposition
+- Prompt Chaining
+- Context Management
+- Instruction Hierarchy
+- Guardrails
+- Prompt Injection
+- Jailbreak
+- Grounding
+- Tool Instructions
 
 Também estude:
 

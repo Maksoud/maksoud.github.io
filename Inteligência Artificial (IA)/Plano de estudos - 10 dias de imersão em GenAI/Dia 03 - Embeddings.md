@@ -7,16 +7,16 @@ Esse será um dos dias mais importantes para você.
 Se você entender embeddings, **RAG começa a fazer sentido**.
 
 ### Pesquise:
-- embedding
-- vector embedding
-- semantic similarity
-- cosine similarity
-- vector database
-- vector search
-- nearest neighbor
-- semantic search
-- dense retrieval
-- sparse retrieval
+- Embedding
+- Vector Embedding
+- Semantic Similarity
+- Cosine Similarity
+- Vector Database
+- Vector Search
+- Nearest Neighbor
+- Semantic Search
+- Dense Retrieval
+- Sparse Retrieval
 - BM25
 
 A Anthropic explica o pipeline básico de RAG de maneira bastante clara: documentos são divididos em chunks, transformados em embeddings, armazenados e posteriormente recuperados por similaridade semântica. [Anthropic](https://www.anthropic.com/research/contextual-retrieval?utm_source=chatgpt.com)
