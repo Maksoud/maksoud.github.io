@@ -176,7 +176,6 @@ In ITIL 4, Infrastructure and Platform Management roles and responsibilities are
 ### IT Infrastructure Manager:
 
 The IT Infrastructure Manager oversees the entire IT infrastructure and platform management function. Their responsibilities include:
-
 - Defining the overall strategy and roadmap for managing infrastructure and platforms.
 - Ensuring alignment of infrastructure and platform initiatives with business objectives.
 - Establishing and managing budgets for infrastructure projects and ongoing operations.
@@ -187,7 +186,6 @@ The IT Infrastructure Manager oversees the entire IT infrastructure and platform
 ### Infrastructure Architects:
 
 Infrastructure architects are responsible for designing and planning the organisation's IT infrastructure. Their responsibilities include:
-
 - Creating blueprints for technology infrastructure and platform components.
 - Identifying hardware, software, and networking requirements to support business needs.
 - Ensuring that infrastructure designs align with industry best practices and security standards.
@@ -196,7 +194,6 @@ Infrastructure architects are responsible for designing and planning the organis
 ### IT Operations Manager:
 
 The IT Operations Manager oversees the day-to-day operations of the IT infrastructure and platforms. Their responsibilities include:
-
 - Monitoring the performance and health of IT infrastructure and platforms.
 - Implementing incident, problem, and change management processes to address issues.
 - Coordinating with IT support teams to resolve incidents and minimise service disruptions.
@@ -205,7 +202,6 @@ The IT Operations Manager oversees the day-to-day operations of the IT infrastru
 ### Platform Administrators:
 
 Platform administrators are responsible for managing specific technology platforms and services. Their responsibilities include:
-
 - Configuring and maintaining software applications and platforms.
 - Applying patches and updates to keep platforms secure and up-to-date.
 - Monitoring platform performance and identifying potential issues.
@@ -214,7 +210,6 @@ Platform administrators are responsible for managing specific technology platfor
 ### Security and Compliance Specialists:
 
 These specialists focus on security and compliance aspects related to infrastructure and platforms. Their responsibilities include:
-
 - Implementing security measures to safeguard IT infrastructure and data.
 - Conducting risk assessments and vulnerability scans to identify security gaps.
 - Ensuring compliance with relevant regulations, industry standards, and organisational policies.
@@ -223,7 +218,6 @@ These specialists focus on security and compliance aspects related to infrastruc
 ### Service Desk and Incident Management Team:
 
 The service desk and incident management team handle incoming incidents and service requests related to infrastructure and platforms. Their responsibilities include:
-
 - Logging and categorising incidents reported by users.
 - Providing initial support and troubleshooting for infrastructure-related issues.
 - Escalating complex incidents to appropriate teams for resolution.

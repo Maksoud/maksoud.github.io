@@ -7,7 +7,6 @@ Um **modelo discriminativo** é um tipo de modelo de aprendizado de máquina que
 ### Diferença entre Modelos Discriminativos e Generativos
 
 A principal diferença entre modelos discriminativos e generativos está no que eles aprendem:
-
 - **Modelos Generativos:** Aprendem a **distribuição conjunta** \( P(X, Y) \), ou seja, como os dados \( X \) e os rótulos \( Y \) são gerados. Isso permite que eles também possam gerar novos dados \( X \).
 - **Modelos Discriminativos:** Focam exclusivamente em aprender \( P(Y|X) \), que é a probabilidade de \( Y \) dado \( X \), para prever a classe ou saída correta com base nas características de entrada.
 

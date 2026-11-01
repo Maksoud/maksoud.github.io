@@ -5,13 +5,11 @@ A gestão de projetos envolve uma série de decisões estratégicas para garanti
 ## O que é a Matriz GUT?
 
 Criada por Charles Kepner e Benjamin Tregoe, a Matriz GUT é uma ferramenta de priorização que ajuda a organizar demandas de acordo com:
-
 - **Gravidade (G)**: Qual o impacto do problema ou da situação se nada for feito?
 - **Urgência (U)**: Qual o prazo para que essa situação seja resolvida? Pode esperar?
 - **Tendência (T)**: Essa situação tende a piorar com o tempo?
 
 Cada um desses critérios recebe uma nota de 1 a 5, sendo:
-
 - **1**: impacto ou risco **baixo**
 - **5**: impacto ou risco **altíssimo**
 
@@ -49,7 +47,6 @@ Organize os itens do maior para o menor resultado e foque nos mais críticos pri
 ## Qual a importância da Matriz GUT na gestão de projetos?
 
 A Matriz GUT é fundamental para:
-
 - **Tomar decisões mais racionais**, baseadas em critérios objetivos;
 - **Evitar que tarefas urgentes mas não importantes roubem foco**;
 - **Identificar riscos críticos** que podem comprometer o sucesso do projeto;

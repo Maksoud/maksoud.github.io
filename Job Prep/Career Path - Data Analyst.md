@@ -1,7 +1,6 @@
 ## Switching carrer path
 
 Switching to a career in data science is an exciting move! Here's a breakdown of what you should focus on to prepare:
-
 - First, solidify your understanding of **mathematics and statistics**. These are foundational to data science, especially in areas like probability, linear algebra, and statistical methods.
 - Next, learn to code, focusing on languages commonly used in data science. **Python** is the most popular, but **R** is also valuable, especially for statistical analysis. Get comfortable with libraries and frameworks such as **Pandas**, **NumPy**, **scikit-learn**, and **TensorFlow**.
 - Understand and practice **data manipulation and cleaning**. You'll spend a lot of time preparing data, so skills in handling missing data, transforming variables, and normalizing datasets are crucial. **SQL** is essential for database management and query.

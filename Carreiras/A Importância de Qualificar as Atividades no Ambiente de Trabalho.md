@@ -9,7 +9,6 @@ Imagine-se no papel de recrutador, analisando dezenas de currículos para uma va
 ### Como Qualificar Suas Atividades?
 
 Para destacar suas contribuições de forma eficaz, é necessário ir além do óbvio. Listar tarefas rotineiras não é suficiente; é preciso contextualizar o impacto das suas ações dentro do fluxo de trabalho. Pense em como suas atividades diárias contribuíram para o sucesso da equipe ou do negócio. Por exemplo:
-
 - **Resultados Obtidos:** Cite melhorias que você gerou, como aumento de eficiência, redução de custos ou incremento na produtividade.
 - **Soluções Propostas:** Destaque iniciativas que resolveram problemas ou otimizaram processos.
 - **Impacto no Negócio:** Explique como suas ações influenciaram etapas posteriores do fluxo de trabalho, como entregas mais rápidas, maior satisfação do cliente ou cumprimento de metas.

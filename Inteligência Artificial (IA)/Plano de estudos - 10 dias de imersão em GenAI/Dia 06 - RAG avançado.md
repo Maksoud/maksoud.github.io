@@ -39,7 +39,6 @@ Estude:
 ### RAG avançado
 
 Comece a conhecer:
-
 - Agentic RAG
 - GraphRAG
 - multimodal RAG

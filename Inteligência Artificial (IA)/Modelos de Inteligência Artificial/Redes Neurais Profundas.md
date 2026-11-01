@@ -41,7 +41,6 @@ O treinamento de uma rede neural profunda é feito por meio de um processo chama
 ### Funções de Ativação
 
 As DNNs utilizam **funções de ativação** para introduzir não-linearidade nos dados, permitindo que a rede aprenda padrões mais complexos. Algumas das funções de ativação mais utilizadas são:
-
 - **ReLU (Rectified Linear Unit):**
   \[
   f(x) = \max(0, x)

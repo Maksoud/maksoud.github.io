@@ -6,7 +6,6 @@
 Use **Status Invest** (principal) e, se quiser comparar, **ClubeFII** (secundário).
 
 O que você busca aqui:
-
 - **histórico mensal de rendimentos (24–36 meses)**
 - **P/VP**, **liquidez**, **vacância** (se for tijolo)
 - evolução de **patrimônio/cotas** (se cresceu por emissão, se diluiu etc.)
@@ -14,12 +13,10 @@ O que você busca aqui:
 ### B) “Documentos que importam” (confirmação)
 
 Use **Funds Explorer** para achar fácil os links de documentos e ir para:
-
 - **site do fundo / da gestora / do administrador**
 - baixar o **relatório gerencial** e os **fatos relevantes**
 
 O que você busca aqui:
-
 - se o rendimento é **recorrente** (não “pico”)
 - se houve **evento** (venda de ativo, amortização, reestruturação)
 - detalhes de **carteira** e **riscos**
@@ -69,7 +66,6 @@ Use **B3 + CVM** (só quando necessário) para conferir fatos relevantes/comunic
 ### 3.1 Se for **tijolo** (logística, shopping, lajes etc.)
 
 Olhe no relatório:
-
 - **vacância física e financeira**
 - **WAULT** (prazo médio dos contratos)
 - **reajustes** (IPCA/IGP-M) e revisões
@@ -81,7 +77,6 @@ Sinal amarelo típico: vacância baixa hoje, mas contratos vencendo logo e alta 
 ### 3.2 Se for **papel/CRI**
 
 Olhe no relatório:
-
 - **indexador** (CDI/IPCA) e spreads médios
 - **qualidade do crédito** (ratings, garantias, LTV quando houver)
 - **inadimplência / eventos de crédito**
@@ -93,7 +88,6 @@ Sinal amarelo típico: DY alto com concentração grande em poucos CRIs ou com h
 ### 3.3 Se for **híbrido/misto**
 
 Seu trabalho aqui é: entender o **mix real** (quanto é tijolo vs papel vs FII) e aplicar os critérios correspondentes para cada pedaço. Híbrido “bom” geralmente tem:
-
 - mix claro
 - justificativa do gestor para a alocação
 - risco controlado (não é “vale tudo para pagar DY”)
@@ -103,7 +97,6 @@ Seu trabalho aqui é: entender o **mix real** (quanto é tijolo vs papel vs FII)
 ## 4) Como montar diversificação sem pulverizar (modelo simples)
 
 Para começar do zero e pensar em “confiáveis para anos”, eu gosto de um arranjo com **poucas posições, mas bem escolhidas**:
-
 - **4 a 6 FIIs** no total
 - **2 de tijolo + 2 de papel + 0–2 híbridos** (opcional)
 - **peso alvo**: 15% a 30% por FII (para não virar “20 fundos com 2% cada”)
@@ -111,7 +104,6 @@ Para começar do zero e pensar em “confiáveis para anos”, eu gosto de um ar
 ### Regra de aporte (para automatizar a decisão)
 
 Todo mês, aporte + dividendos vão para:
-
 - o(s) FII(s) que estiver(em) **abaixo do peso-alvo**, desde que **não estejam em situação claramente esticada** (aí você usa P/VP e/ou DY como trava).
 
 Isso cria disciplina, diversifica e evita pulverização.

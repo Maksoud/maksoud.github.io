@@ -60,7 +60,6 @@ Dê uma nota simples: **0 = ruim / 1 = ok / 2 = bom**.
 ### 4.1 Para FIIs de **Tijolo** (3 fundos)
 
 No relatório, preencha:
-
 - **Vacância física e financeira**
     - tendência (melhorando, estável, piorando)
 - **WAULT** (prazo médio dos contratos)
@@ -85,7 +84,6 @@ No relatório, preencha:
 ### 4.2 Para FIIs de **Papel/CRI** (3 fundos)
 
 No relatório, preencha:
-
 - **Indexador** (CDI/IPCA) e **mix**
     - você quer 50/50 no total, mas aqui pode querer mix dentro do papel também
 - **Spread médio** e qualidade do retorno (sem “milagre”)
@@ -116,7 +114,6 @@ No relatório, preencha:
 ### Regra 2: Aporte mensal + dividendos
 
 Compre:
-
 - primeiro, o **tipo** (tijolo ou papel) que estiver abaixo de 50%
 - depois, dentro do tipo, compre o FII que estiver **mais abaixo do peso alvo**
 - **trava de preço simples**: só compra se não estiver em um extremo (ex.: P/VP muito alto sem justificativa)

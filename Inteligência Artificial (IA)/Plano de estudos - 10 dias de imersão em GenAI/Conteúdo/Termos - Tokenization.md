@@ -57,7 +57,6 @@ Isso também explica por que uma palavra em português pode consumir uma quantid
 ### 4. Por que é importante?
 
 Porque a tokenização determina, entre outras coisas:
-
 - **quanto texto cabe no contexto do modelo**;
 - **quanto uma requisição pode custar**;
 - **quantos tokens serão processados na entrada e na saída**;

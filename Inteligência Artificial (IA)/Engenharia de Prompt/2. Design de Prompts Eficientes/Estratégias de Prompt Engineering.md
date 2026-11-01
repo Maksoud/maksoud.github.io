@@ -5,7 +5,6 @@
 Além de escrever prompts claros, o engenheiro de prompt pode aplicar **estratégias avançadas de prompting** para melhorar a qualidade das respostas de um LLM.
 
 Essas estratégias ajudam o modelo a:
-
 - Raciocinar melhor
 - Generalizar melhor para tarefas novas
 - Responder com mais contexto
@@ -155,7 +154,6 @@ Requer testes e refinamento
 ## ✅ Conclusão:
 
 Como engenheiro de prompt, sua habilidade será **saber escolher e combinar essas estratégias** conforme o contexto da aplicação empresarial:
-
 - Para tarefas rápidas: Zero-shot
 - Para formatação e estilo: Few-shot
 - Para lógica: Chain of Thought

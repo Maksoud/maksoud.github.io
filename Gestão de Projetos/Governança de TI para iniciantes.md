@@ -76,7 +76,6 @@ PMBOK/PMI e PRINCE2 cuidam da governança de projetos; a ponte com análise de n
 ### Regulatório brasileiro: o diferencial que quase ninguém estuda
 
 Este é o bloco que separa um candidato genérico de um candidato preparado para o mercado local:
-
 - **SOX (Lei Sarbanes-Oxley)** e os controles **ITGC**, obrigatórios em empresas de capital aberto nos EUA e em suas subsidiárias brasileiras. Quem trabalha em multinacional convive com auditoria de ITGC todo ano.
 - **Resolução BACEN nº 4.893/2021**: política de segurança cibernética e contratação de serviços em nuvem para instituições financeiras.
 - **Normas setoriais**: SUSEP (seguros), ANS (saúde suplementar), ANEEL (energia).
@@ -140,7 +139,6 @@ Para priorizar o que tratar primeiro, a [[Matriz GUT]] (Gravidade, Urgência, Te
 ### Controles de acesso
 
 Três conceitos que caem em prova e em entrevista:
-
 - **Menor privilégio**: cada pessoa recebe o mínimo de acesso necessário para o trabalho.
 - **Segregação de funções (SoD)**: ninguém deve controlar sozinho um ciclo inteiro. Quem cadastra o fornecedor não pode ser quem aprova o pagamento; quem desenvolve não pode ser quem publica em produção.
 - **Revisão periódica de acessos**: recertificação trimestral ou semestral em que cada gestor confirma quem ainda precisa de quê.

@@ -18,7 +18,6 @@
     - **Exemplo**: "Feito isso, agora você melhora. Troca X, faz Y, adiciona tal."
 
 ### Dicas para Utilizar o Modelo PROMPT Eficientemente:
-
 - **Seja Claro e Específico**: Quanto mais detalhes você fornecer, melhor será a resposta do ChatGPT. Evite ambiguidades.
 - **Contextualize**: Dê ao ChatGPT todas as informações relevantes que ele precisa para entender completamente a tarefa.
 - **Estruture a Informação**: Organize seus pedidos e informações de forma lógica e fácil de seguir. Utilize listas ou tópicos, se necessário.

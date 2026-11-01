@@ -42,7 +42,6 @@ curl -I http://127.0.0.1
 ```
 
 ### Observações rápidas:
-
 - Se você usa o Firewall da Vultr (além do firewalld do servidor), libere também as portas 80 e 443 lá.
 - Se “yum” não existir na sua imagem, use “dnf” (veja equivalentes abaixo).
 

@@ -298,7 +298,6 @@ Uma descrição de vaga.
 ### Knowledge base
 
 Documentos contendo:
-
 - seu currículo;
 - experiências;
 - projetos;
@@ -484,7 +483,6 @@ Esses materiais são melhores para construir sua **base conceitual**.
 ### 🥈 Nível 2 — Cursos
 
 Procure conteúdos de:
-
 - DeepLearning.AI
 - Hugging Face
 - Stanford
@@ -574,7 +572,6 @@ Esse tipo de discussão vai te ajudar muito em entrevistas.
 Isso é tão importante quanto o que estudar.
 
 Durante essas férias, **não mergulharia profundamente em**:
-
 - matemática de Transformers;
 - treinamento de LLM do zero;
 - CUDA;

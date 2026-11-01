@@ -17,7 +17,6 @@ Detalhe técnico importante para a sua conta: o "map load" é cobrado **por inic
 Este é o custo escondido que derruba quem não planeja. O rastreador manda só lat/lng; o "Antares, Maceió – AL" do seu mockup exige uma chamada de geocoding. No Google, são 10.000 requisições gratuitas/mês e US$ 5 por 1.000 depois disso. [Woosmap](https://www.woosmap.com/blog/is-google-maps-api-free) · [Woosmap](https://www.woosmap.com/blog/google-maps-api-key-free)
 
 A matemática que importa: 200 veículos reportando a cada 30 segundos geram mais de meio milhão de posições por dia. Geocodificar cada posição recebida seria financeiramente absurdo em qualquer provedor pago. A arquitetura correta é:
-
 - **Geocodificar sob demanda**: só quando alguém está olhando a tela, não a cada pacote recebido.
 - **Cachear agressivamente**: veículo parado ou andando na mesma rua não precisa de nova consulta, só geocodifique quando a posição mudar mais que ~200 m do último endereço resolvido.
 - **Provedor barato ou próprio**: LocationIQ dá 5.000 consultas/dia no plano gratuito, ou você sobe um **Nominatim self-hosted** (o geocoder do OSM) só com os dados do Brasil no seu VPS, custo marginal zero, que é o que várias plataformas de rastreamento fazem.

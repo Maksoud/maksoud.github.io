@@ -6,7 +6,6 @@
 O **Atendimento ao Cliente** é uma das áreas mais impactadas pelo uso de **Modelos de Linguagem de Grande Escala (LLMs)** como o ChatGPT, Claude ou Gemini.
 
 Empresas de tecnologia estão usando LLMs para:
-
 - Reduzir o volume de tickets manuais
 - Melhorar a experiência do usuário
 - Agilizar a triagem e priorização de chamados
@@ -24,7 +23,6 @@ Como engenheiro de prompt, sua função será **criar prompts que conduzam o mod
 Automatizar respostas para dúvidas recorrentes.
 
 ### Exemplos de FAQ:
-
 - Como alterar minha senha?
 - Qual o prazo de entrega?
 - Como cancelar um serviço?
@@ -35,7 +33,6 @@ Automatizar respostas para dúvidas recorrentes.
 > _"Você é um assistente de suporte técnico. Responda a pergunta do cliente de forma objetiva, amigável e com um passo a passo, quando necessário. Pergunta: 'Como faço para resetar minha senha?'"_
 
 ### Boas práticas:
-
 - Fornecer contexto sobre os serviços da empresa
 - Definir tom (formal, casual, técnico)
 - Limitar a resposta a 100-150 palavras para manter objetividade
@@ -48,7 +45,6 @@ Automatizar respostas para dúvidas recorrentes.
 Ajudar o cliente a solucionar problemas simples antes de abrir um chamado técnico.
 
 ### Exemplos de Problemas:
-
 - Erros de login
 - Problemas de conexão
 - Dúvidas sobre configuração inicial
@@ -59,7 +55,6 @@ Ajudar o cliente a solucionar problemas simples antes de abrir um chamado técni
 > _"Você é um agente de suporte técnico de uma empresa de software SaaS. Ajude o usuário a resolver problemas de login. Responda com uma lista numerada de soluções possíveis, começando pelas mais comuns. Inclua instruções claras e links úteis."_
 
 ### Boas práticas:
-
 - Usar linguagem clara e sem jargões técnicos
 - Fornecer múltiplas soluções possíveis (solução 1, 2, 3…)
 - Incluir avisos de quando o usuário deve abrir um chamado (ex: _“Se nenhuma das opções resolver, por favor abra um ticket”_)
@@ -86,7 +81,6 @@ Analisar a solicitação inicial do cliente e **classificar automaticamente o ti
 ```
 
 ### Boas práticas:
-
 - Definir categorias fixas
 - Criar prompts com exemplos de classificação (few-shot)
 - Padronizar o formato de saída (ex: JSON para integração com Help Desk)
@@ -116,7 +110,6 @@ Analisar a solicitação inicial do cliente e **classificar automaticamente o ti
 O uso de LLMs para **FAQ, Suporte Técnico e Triagem** já está gerando **economia de tempo e custos** em empresas de tecnologia.
 
 Como engenheiro de prompt, o seu diferencial será:
-
 - Criar prompts que gerem **respostas objetivas e seguras**
 - Garantir **consistência de tom e formato**
 - Testar diferentes versões de prompts para encontrar o equilíbrio entre custo (tokens) e qualidade de atendimento

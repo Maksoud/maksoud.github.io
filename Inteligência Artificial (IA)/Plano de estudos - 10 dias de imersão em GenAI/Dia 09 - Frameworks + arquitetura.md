@@ -11,7 +11,6 @@ Estude:
 ### LangChain
 
 Entenda:
-
 - chains
 - retrievers
 - tools
@@ -23,7 +22,6 @@ Entenda:
 Muito importante para agentes mais complexos.
 
 Estude:
-
 - graph
 - nodes
 - edges
@@ -35,7 +33,6 @@ Estude:
 ### LlamaIndex
 
 Principalmente:
-
 - document ingestion
 - indexing
 - retrieval
@@ -45,7 +42,6 @@ Principalmente:
 ### Hugging Face
 
 Entenda:
-
 - Transformers
 - models
 - datasets

@@ -58,7 +58,6 @@ Enquanto busca crescimento profissional, é fundamental continuar entregando exc
 #### O Impacto do Interesse Contínuo
 
 Manter-se competitivo não significa apenas aprender novas tecnologias, mas também cultivar um interesse genuíno por oportunidades que permitam seu crescimento. Isso envolve:
-
 - **Buscar empresas que incentivem o aprendizado contínuo;**
 - **Participar de projetos desafiadores que ampliem sua experiência;**
 - **Estar aberto a mudanças e novas responsabilidades que aprimorem sua carreira.**

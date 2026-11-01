@@ -354,7 +354,6 @@ def paper_order(ctx, side, qty, price):
 ### Banco de dados: migração inicial (Alembic)
 
 Estruturas mínimas:
-
 - `accounts(id, name, api_key_enc, api_secret_enc, testnet)`
 - `strategies(id, name, account_id, market, config, enabled)`
 - `orders(id, strategy_id, side, qty, price, fee, demo, ts)`

@@ -93,13 +93,11 @@ Evita a exposição indefinida de capital em posições que saíram do canal sem
 ## 🧩 Monitoramento de Posições Abertas
 
 Toda compra realizada será registrada com:
-
 - Par de moeda, quantidade, preço, taxas, data/hora
 - Estratégia vinculada
 - Status da operação: `Aberta`, `Venda Programada`, ou `Encerrada`
 
 ### Quando o preço sair do canal:
-
 - A posição **não será encerrada imediatamente**
 - O sistema agendará uma **venda futura programada com lucro mínimo esperado**
 

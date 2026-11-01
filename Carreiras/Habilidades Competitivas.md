@@ -37,7 +37,6 @@ líder de operações e projetos de TI que usa IA e automação para reduzir esf
 Esse é, na minha visão, o melhor caminho para começar.
 
 Você não venderia “horas soltas”. Venderia algo com começo, meio e fim. Exemplo:
-
 - diagnóstico de gargalos operacionais
 - mapeamento de fluxo
 - desenho de automações com IA
@@ -149,7 +148,6 @@ Quando você diz que tem experiência em várias áreas, isso mostra repertório
 **O mercado compra melhor quem parece resolver um problema claro.**
 
 Então sua comunicação precisa sair de:
-
 - “tenho experiência em várias áreas de tecnologia”
 
 para algo mais como:

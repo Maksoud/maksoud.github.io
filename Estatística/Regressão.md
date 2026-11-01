@@ -16,7 +16,6 @@ A regressão linear simples modela a relação entre duas variáveis: uma depend
 ![[48.png]]
 
 Onde:
-
 - _y_ é a variável dependente,
 - 𝑥 é a variável independente,
 - 𝛽0 é o intercepto,
@@ -33,7 +32,6 @@ A regressão linear múltipla estende a regressão linear simples para incluir d
 ![[49.png]]
 
 Onde:
-
 - _y_ é a variável dependente,
 - 𝑥1,𝑥2,…,𝑥𝑛 são as variáveis independentes,
 - 𝛽0 é o intercepto,
@@ -50,7 +48,6 @@ A regressão logística é usada quando a variável dependente é categórica, g
 ![[50.png]]
 
 Onde:
-
 - _p_ é a probabilidade do evento ocorrer,
 - 𝑥1,𝑥2,…,𝑥𝑛 são as variáveis independentes,
 - 𝛽0,𝛽1,𝛽2,…,𝛽𝑛 são os coeficientes das variáveis independentes.
@@ -65,7 +62,6 @@ A regressão polinomial é usada quando a relação entre a variável dependente
 ![[51.png]]
 
 Onde:
-
 - _y_ é a variável dependente,
 - 𝑥 é a variável independente,
 - 𝛽0,𝛽1,𝛽2,…,𝛽𝑛 são os coeficientes,

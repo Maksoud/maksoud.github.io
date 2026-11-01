@@ -7,7 +7,6 @@ Esse será um dos dias mais importantes para você.
 Se você entender embeddings, **RAG começa a fazer sentido**.
 
 ### Pesquise:
-
 - embedding
 - vector embedding
 - semantic similarity

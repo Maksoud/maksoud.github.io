@@ -72,7 +72,6 @@ Por isso, **número de palavras ≠ número de tokens**.
 Porque praticamente tudo em LLMs está relacionado a tokens.
 
 Quando você ouvir:
-
 - **context window de 128k tokens**
 - **custo de X dólares por milhão de tokens**
 - **input tokens / output tokens**

@@ -46,7 +46,6 @@ e:
 > "João colocou o livro sobre a mesa porque **ele** estava cansado."
 
 O Transformer consegue usar o contexto para determinar que:
-
 - **ela** provavelmente se refere à mesa;
 - **ele** provavelmente se refere a João.
 

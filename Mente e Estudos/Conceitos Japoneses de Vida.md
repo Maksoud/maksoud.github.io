@@ -18,7 +18,6 @@ Em um mundo que constantemente estimula o excesso, a pressa e a produtividade a 
 #### Por que são importantes juntos?
 
 Cada conceito atua em uma dimensão diferente da experiência humana:
-
 - **Ikigai** responde ao _porquê_ da existência.
 - **Kaizen** orienta o _como melhorar_ a cada dia.
 - **Ganbaru** oferece a força para _seguir em frente_ com dedicação.
@@ -31,7 +30,6 @@ Juntos, eles formam um alicerce para o bem-estar físico, emocional, mental e es
 ### Influência do Zen, do Confucionismo e da natureza
 
 A origem desses conceitos remonta a influências centrais da formação da cultura japonesa:
-
 - **Zen Budismo**: Introduzido no Japão no século XII, promove o silêncio interior, a atenção plena, a aceitação da impermanência e a prática diária como caminho espiritual. É base para conceitos como _**Wabi-Sabi**_ e _**Shoshin**_.
 - **Confucionismo**: Chegado da China, valoriza o autocontrole, a harmonia social e o dever. Influenciou diretamente ideias como _**Kaizen**_ (melhoria contínua) e _**Hara Hachi Bu**_ (moderação).
 - **Bushidō e o espírito samurai**: A ética dos guerreiros japoneses reforça ideais como _**Ganbaru**_, que valoriza honra, esforço e perseverança mesmo diante das adversidades.

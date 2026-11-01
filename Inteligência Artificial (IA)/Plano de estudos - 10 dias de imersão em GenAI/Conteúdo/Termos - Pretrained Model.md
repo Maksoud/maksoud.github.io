@@ -33,7 +33,6 @@ Uma visão simplificada seria:
 Imagine um modelo que foi pré-treinado com uma enorme quantidade de textos.
 
 Esse modelo pode ter conhecimento geral de:
-
 - linguagem
 - gramática
 - programação

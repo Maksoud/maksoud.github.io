@@ -14,7 +14,6 @@ Estudar de forma eficiente não é apenas uma questão de tempo, mas de consist�
 #### 3. Entenda o Propósito do Seu Estudo
 
 Saber o _porquê_ você está estudando é tão importante quanto saber _o que_ estudar. Estabeleça metas claras e entenda como o conteúdo aprendido será útil para o seu futuro. Pergunte a si mesmo:
-
 - Como isso se aplica aos meus objetivos?
 - O que eu ganho ao dominar esse tema?
 
@@ -32,7 +31,6 @@ Estudos mostram que a prática de exercícios também melhora a memória, facili
 #### 5. Defina Metas, Prazos e Etapas
 
 Uma boa metodologia de estudos inclui um planejamento claro, com metas específicas e prazos bem definidos. Isso evita a procrastinação e dá direção ao seu aprendizado. Para isso:
-
 - Divida o conteúdo em blocos menores e gerenciáveis.
 - Estabeleça prazos para cada etapa, mas mantenha-se flexível para ajustes, caso necessário.
 - Não planeje em excesso. Um planejamento mínimo e bem pensado já é suficiente para começar. Lembre-se: o mais importante é executar.

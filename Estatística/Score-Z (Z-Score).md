@@ -5,7 +5,6 @@ A fórmula para calcular o score-Z de um valor 𝑥 é:
 ![[16.png]]
 
 Onde:
-
 - 𝑍 é o score-Z,
 - 𝑥 é o valor individual,
 - 𝜇 é a média do conjunto de dados,

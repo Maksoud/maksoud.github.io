@@ -9,7 +9,6 @@ Para uma amostra:
 ![[maksoud.github.io/Estatística/imgs/2.png]]
 
 Onde:
-
 - _σ_ é o desvio padrão da população,
 - 𝑠 é o desvio padrão da amostra,
 - 𝑁 é o número total de observações na população,

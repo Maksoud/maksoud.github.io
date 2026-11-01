@@ -10,7 +10,6 @@
 
 
 ### 📌 Princípios Operacionais para Proteção de Capital:
-
 - Nunca vender no prejuízo só por evento de mercado (como saída de canal).
 - Toda venda deve ser sempre **com lucro mínimo garantido após taxas**.
 - O sistema deve sinalizar e acompanhar operações fora do canal, mas não forçar liquidação no prejuízo.
@@ -18,7 +17,6 @@
 
 
 ## 🛠️ Tecnologias sugeridas:
-
 - **Linguagem Backend:** Python (com Flask ou FastAPI) ou PHP (Laravel)
 - **Banco de Dados:** MySQL ou PostgreSQL
 - **Frontend:** React ou Vue.js (ou Blade/Laravel caso queira começar mais simples)
@@ -30,7 +28,6 @@
 ## 🧱 Estrutura do Banco de Dados (Exemplo Simplificado)
 
 ### Tabelas Principais:
-
 - **moedas**  
     (Pares operados: BTC/USDT, ETH/USDT, etc.)
 - **estrategias**  
@@ -54,7 +51,6 @@
 
 
 ## 📈 Funcionalidades Desejáveis (Fase 2) – Estratégias e Análise:
-
 - Cadastro e ajuste de estratégias (ex.: canal de teto/base, controle de capital)
 - Simulação de estratégias em tempo real com base nos preços da Binance
 - Separação de lucro realizado e capital alocado
@@ -79,7 +75,6 @@ Para garantir o correto funcionamento do sistema e a integridade dos registros d
 ### Verificações de Integridade das Operações
 
 O sistema deverá executar um **check automático diário** com os seguintes critérios:
-
 - ✅ **Toda compra registrada deve ter uma venda futura programada**, sempre que a estratégia exigir uma saída obrigatória (como no caso das posições fora do canal com lucro mínimo programado).
 - ✅ **Toda venda registrada deve ter uma compra correspondente**, garantindo que não existam registros de vendas "órfãs" ou operações inconsistentes.
 - ✅ **Nenhuma posição pode permanecer com status indefinido**.  
@@ -90,7 +85,6 @@ O sistema deverá executar um **check automático diário** com os seguintes cri
 Como o sistema depende diretamente da **API da Binance para consultas de cotações em tempo real**, será implementado um mecanismo de **tolerância a falhas de conexão**.
 
 Em caso de falha na consulta da cotação:
-
 - ✅ O sistema deverá realizar **até X tentativas consecutivas de reconexão**, com um intervalo progressivo entre as tentativas (exemplo: estratégia de retry exponencial ou com backoff).
 - ✅ Se todas as tentativas falharem, a posição que estiver em monitoramento ativo (ou aguardando venda programada) deverá ser **marcada com o status: "Monitoramento Suspenso Temporário"**.
 - ✅ Além disso, o sistema deverá **disparar um alerta para o operador**, informando o motivo da suspensão e solicitando que o acompanhamento manual seja iniciado até a normalização da API.
@@ -99,7 +93,6 @@ Em caso de falha na consulta da cotação:
 ### Finalidade dessa Estrutura
 
 Essas funcionalidades têm o objetivo de:
-
 - **Garantir a disponibilidade contínua das operações**, mesmo em cenários de falha temporária da API externa.
 - **Preservar a integridade dos dados**, evitando registros incompletos ou incoerentes.
 - **Minimizar riscos operacionais** causados por falhas de comunicação, interrupções na API da Binance ou erros de execução de estratégia.

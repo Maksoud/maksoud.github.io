@@ -5,7 +5,6 @@ Sua tarefa é realizar uma **auditoria de segurança completa deste projeto PHP*
 ## OBJETIVO
 
 Identificar vulnerabilidades reais, falhas de implementação, configurações inseguras e riscos que possam permitir:
-
 - acesso não autorizado;
 - vazamento de informações;
 - comprometimento de contas;
@@ -26,7 +25,6 @@ Analise o projeto como se ele fosse ser publicado em **ambiente de produção ac
 # 1. RECONHECIMENTO DA APLICAÇÃO
 
 Antes de procurar vulnerabilidades, identifique:
-
 - versão do PHP;
 - framework utilizado;
 - arquitetura do projeto;
@@ -63,7 +61,6 @@ Crie primeiro um pequeno **mapa da superfície de ataque** da aplicação.
 Analise todas as operações envolvendo banco de dados.
 
 Procure por:
-
 - SQL construído através de concatenação de strings;
 - parâmetros inseridos diretamente em queries;
 - uso incorreto de PDO;
@@ -83,13 +80,11 @@ Para cada ocorrência suspeita, determine se existe realmente possibilidade de S
 # 3. XSS
 
 Procure vulnerabilidades de:
-
 - Stored XSS;
 - Reflected XSS;
 - DOM XSS, caso exista JavaScript no projeto.
 
 Analise dados vindos de:
-
 - GET;
 - POST;
 - cookies;
@@ -103,7 +98,6 @@ Analise dados vindos de:
 Verifique se a saída HTML está sendo escapada corretamente.
 
 Analise especialmente:
-
 - echo;
 - print;
 - printf;
@@ -122,7 +116,6 @@ Não considere apenas a entrada do dado. Analise principalmente **onde o dado é
 Analise completamente o sistema de login.
 
 Verifique:
-
 - armazenamento de senhas;
 - password_hash();
 - password_verify();
@@ -144,7 +137,6 @@ Verifique:
 - autenticação de APIs.
 
 Procure maneiras pelas quais um atacante poderia:
-
 - entrar sem senha;
 - assumir uma conta;
 - reutilizar token;
@@ -159,7 +151,6 @@ Procure maneiras pelas quais um atacante poderia:
 Esta parte deve receber atenção especial.
 
 Procure:
-
 - IDOR / BOLA;
 - Broken Access Control;
 - falta de verificação de propriedade do recurso;
@@ -194,7 +185,6 @@ E:
 Analise todas as operações que alteram estado.
 
 Exemplos:
-
 - criar;
 - editar;
 - excluir;
@@ -217,7 +207,6 @@ Considere também cookies SameSite.
 Faça uma análise rigorosa de qualquer funcionalidade de upload.
 
 Verifique:
-
 - extensão;
 - MIME type;
 - conteúdo real do arquivo;
@@ -236,7 +225,6 @@ Verifique:
 - arquivos executáveis.
 
 Determine:
-
 - onde os arquivos são armazenados;
 - se ficam dentro do webroot;
 - se podem ser executados;
@@ -251,7 +239,6 @@ Avalie explicitamente risco de **Remote Code Execution através de upload**.
 # 8. FILE INCLUSION E PATH TRAVERSAL
 
 Procure dados controlados pelo usuário chegando a:
-
 - include;
 - include_once;
 - require;
@@ -267,7 +254,6 @@ Procure dados controlados pelo usuário chegando a:
 - manipulação de caminhos.
 
 Procure:
-
 - LFI;
 - RFI;
 - directory traversal;
@@ -280,7 +266,6 @@ Procure:
 # 9. COMMAND INJECTION / RCE
 
 Procure utilização de:
-
 - exec();
 - shell_exec();
 - system();
@@ -305,7 +290,6 @@ Determine se algum input controlável externamente pode alcançar essas funçõe
 Procure funcionalidades que realizem requisições HTTP baseadas em parâmetros externos.
 
 Exemplos:
-
 - cURL;
 - file_get_contents() com URL;
 - Guzzle;
@@ -317,7 +301,6 @@ Exemplos:
 - APIs proxy.
 
 Avalie se um atacante poderia acessar:
-
 - localhost;
 - 127.0.0.1;
 - serviços internos;
@@ -331,7 +314,6 @@ Avalie se um atacante poderia acessar:
 # 11. SESSÕES E COOKIES
 
 Analise:
-
 - session_start;
 - regeneração de session ID;
 - session fixation;
@@ -342,7 +324,6 @@ Analise:
 - cookies.
 
 Verifique os atributos:
-
 - HttpOnly;
 - Secure;
 - SameSite.
@@ -354,7 +335,6 @@ Verifique também se informações sensíveis são armazenadas indevidamente em 
 # 12. JWT E TOKENS
 
 Caso existam JWTs ou outros tokens, analise:
-
 - algoritmo;
 - assinatura;
 - segredo;
@@ -369,7 +349,6 @@ Caso existam JWTs ou outros tokens, analise:
 - armazenamento.
 
 Procure também possibilidade de:
-
 - token forgery;
 - token replay;
 - algoritmo inadequado;
@@ -381,7 +360,6 @@ Procure também possibilidade de:
 # 13. DESSERIALIZAÇÃO
 
 Procure:
-
 - unserialize();
 - objetos serializados;
 - dados serializados armazenados em cookies;
@@ -398,7 +376,6 @@ Avalie risco de PHP Object Injection e gadget chains.
 Analise endpoints de criação e atualização.
 
 Procure código semelhante a:
-
 - preencher objetos diretamente com $_POST;
 - update($request->all());
 - create($request->all());
@@ -406,7 +383,6 @@ Procure código semelhante a:
 - atribuição dinâmica de propriedades.
 
 Verifique se campos sensíveis poderiam ser modificados, como:
-
 - role;
 - admin;
 - permissions;
@@ -424,7 +400,6 @@ Verifique se campos sensíveis poderiam ser modificados, como:
 # 15. API SECURITY
 
 Analise todas as APIs quanto a:
-
 - autenticação;
 - autorização;
 - BOLA;
@@ -447,7 +422,6 @@ Mapeie endpoints particularmente críticos.
 # 16. CORS
 
 Analise:
-
 - Access-Control-Allow-Origin;
 - Access-Control-Allow-Credentials;
 - origens dinâmicas;
@@ -462,7 +436,6 @@ Identifique configurações que permitam sites externos abusarem da sessão do u
 # 17. HEADERS HTTP
 
 Verifique se a aplicação deveria implementar ou melhorar:
-
 - Content-Security-Policy;
 - X-Content-Type-Options;
 - Referrer-Policy;
@@ -477,7 +450,6 @@ Considere o funcionamento real da aplicação antes de recomendar políticas exc
 # 18. EXPOSIÇÃO DE INFORMAÇÕES
 
 Procure exposição de:
-
 - stack traces;
 - erros PHP;
 - phpinfo();
@@ -498,7 +470,6 @@ Procure exposição de:
 # 19. SEGREDOS E CREDENCIAIS
 
 Procure por:
-
 - senhas;
 - tokens;
 - API keys;
@@ -511,7 +482,6 @@ Procure por:
 - webhook secrets.
 
 Analise:
-
 - arquivos PHP;
 - .env;
 - configs;
@@ -529,7 +499,6 @@ Analise:
 # 20. ARQUIVOS SENSÍVEIS PUBLICAMENTE ACESSÍVEIS
 
 Procure riscos relacionados a:
-
 - .env;
 - .git;
 - composer.json;
@@ -555,7 +524,6 @@ Determine quais deles poderiam estar dentro do diretório público.
 # 21. CONFIGURAÇÃO PHP
 
 Analise configurações relevantes como:
-
 - display_errors;
 - error_reporting;
 - expose_php;
@@ -575,12 +543,10 @@ Não classifique uma configuração como vulnerabilidade sem explicar o impacto 
 # 22. DEPENDÊNCIAS
 
 Analise:
-
 - composer.json;
 - composer.lock.
 
 Identifique:
-
 - bibliotecas desatualizadas;
 - bibliotecas abandonadas;
 - versões potencialmente vulneráveis;
@@ -598,7 +564,6 @@ Não invente CVEs.
 # 23. CRIPTOGRAFIA
 
 Procure:
-
 - MD5;
 - SHA1 para senhas;
 - criptografia caseira;
@@ -610,7 +575,6 @@ Procure:
 - mt_rand() em contextos de segurança.
 
 Prefira:
-
 - random_bytes();
 - random_int();
 - password_hash();
@@ -625,7 +589,6 @@ quando aplicável.
 Verifique se ações críticas deixam registros adequados.
 
 Exemplos:
-
 - login;
 - falhas de login;
 - reset de senha;
@@ -637,7 +600,6 @@ Exemplos:
 - mudanças de configuração.
 
 Também verifique se os logs armazenam indevidamente:
-
 - senhas;
 - tokens;
 - cookies;
@@ -654,7 +616,6 @@ Não procure apenas vulnerabilidades técnicas.
 Analise também possíveis abusos de lógica.
 
 Exemplos:
-
 - alterar preço enviado pelo frontend;
 - alterar quantidade;
 - reutilizar cupom;
@@ -674,7 +635,6 @@ Considere cenários em que um usuário legítimo tenta manipular o funcionamento
 # 26. RACE CONDITIONS
 
 Identifique operações críticas que possam ser executadas simultaneamente e causar:
-
 - duplicação;
 - saldo negativo;
 - uso repetido de benefício;
@@ -687,7 +647,6 @@ Identifique operações críticas que possam ser executadas simultaneamente e ca
 # 27. WEBHOOKS
 
 Caso existam webhooks, analise:
-
 - autenticação;
 - assinatura;
 - segredo;
@@ -703,7 +662,6 @@ Caso existam webhooks, analise:
 # 28. REDIRECTS
 
 Procure open redirects em parâmetros como:
-
 - redirect;
 - return;
 - return_url;
@@ -717,7 +675,6 @@ Procure open redirects em parâmetros como:
 # 29. OWASP
 
 Compare os resultados principalmente com categorias relevantes do:
-
 - OWASP Top 10;
 - OWASP API Security;
 - CWE.
@@ -767,7 +724,6 @@ Melhoria recomendada sem vulnerabilidade diretamente explorável demonstrada.
 # NÍVEL DE CONFIANÇA
 
 Para cada achado informe também:
-
 - **CONFIRMADO**
 - **ALTA PROBABILIDADE**
 - **NECESSITA VALIDAÇÃO**
@@ -844,7 +800,6 @@ Produza:
 ## 1. RESUMO EXECUTIVO
 
 Informe:
-
 - quantidade de vulnerabilidades críticas;
 - altas;
 - médias;
@@ -859,7 +814,6 @@ Liste os dez problemas que devem receber prioridade.
 ## 3. SUPERFÍCIES MAIS CRÍTICAS
 
 Exemplo:
-
 - autenticação;
 - painel administrativo;
 - API;

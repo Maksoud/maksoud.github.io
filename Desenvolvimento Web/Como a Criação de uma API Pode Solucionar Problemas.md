@@ -22,13 +22,11 @@ Muitas empresas utilizam sistemas diferentes para controlar vendas, estoque, fin
 #### A solução com API:
 
 Uma API atua como **ponte entre esses sistemas**, permitindo que dados fluam automaticamente entre eles. Por exemplo, ao registrar uma venda no sistema comercial, a API pode automaticamente:
-
 - Atualizar o estoque;
 - Gerar uma nota fiscal no sistema fiscal;
 - Inserir o valor no sistema financeiro.
 
 #### Benefícios:
-
 - Diminuição de erros;
 - Economia de tempo;
 - Processos mais fluidos e sincronizados.
@@ -42,12 +40,10 @@ Empresas que precisam fornecer dados ou funcionalidades para terceiros (como for
 #### A solução com API:
 
 Com uma API bem estruturada e autenticada (com tokens, por exemplo), é possível **fornecer acesso limitado e monitorado** a determinados dados ou ações do sistema. Exemplo:
-
 - Um marketplace acessa, via API, o catálogo de produtos de várias lojas parceiras, com estoque e preços atualizados em tempo real.
 - Uma seguradora consulta dados de um cliente diretamente no sistema do parceiro.
 
 #### Benefícios:
-
 - Compartilhamento padronizado e controlado;
 - Segurança de dados com autenticação e permissões;
 - Facilidade de escalabilidade para novos parceiros.
@@ -65,7 +61,6 @@ Ao expor os dados e funcionalidades por meio de uma API, a empresa pode construi
 #### Exemplo prático:
 
 Uma empresa de delivery pode ter:
-
 - Um app para clientes;
 - Um painel web para restaurantes;
 - Um app para entregadores.
@@ -73,7 +68,6 @@ Uma empresa de delivery pode ter:
 Tudo isso se comunicando com a **mesma API central**.
 
 #### Benefícios:
-
 - Facilidade de manutenção e evolução;
 - Padronização das regras de negócio;
 - Desenvolvimento simultâneo de múltiplas plataformas.
@@ -87,12 +81,10 @@ Tarefas manuais como envio de relatórios, sincronização de dados ou geração
 #### A solução com API:
 
 APIs permitem criar **scripts automatizados** que executam essas ações em horários programados ou sob demanda. Exemplo:
-
 - Um relatório de vendas diário é gerado automaticamente e enviado para o e-mail do gerente.
 - Um sistema de CRM integra-se a uma plataforma de e-mails e dispara mensagens automáticas quando novos leads entram.
 
 #### Benefícios:
-
 - Redução de esforço manual;
 - Aumento da produtividade;
 - Operações mais rápidas e sem interrupções.
@@ -108,12 +100,10 @@ Sistemas monolíticos e sem padronização têm dificuldade de crescer. Qualquer
 APIs tornam o sistema mais **modular**, permitindo que novas funcionalidades sejam adicionadas sem impactar o núcleo. Além disso, se a API for pública, ela permite que terceiros desenvolvam soluções complementares (ex: integrações, plugins, extensões).
 
 #### Exemplo:
-
 - Uma fintech lança uma API pública para que startups criem aplicativos que ajudam o usuário a visualizar gastos ou simular investimentos.
 - Um sistema ERP permite que desenvolvedores criem módulos personalizados sem tocar no código principal.
 
 #### Benefícios:
-
 - Facilidade de inovação;
 - Possibilidade de abrir um ecossistema de desenvolvedores;
 - Maior controle e estabilidade no crescimento do sistema.
@@ -122,7 +112,6 @@ APIs tornam o sistema mais **modular**, permitindo que novas funcionalidades sej
 ## Usos e Aplicações Práticas de uma API
 
 As APIs estão por toda parte. Veja alguns exemplos de aplicações práticas:
-
 - **E-commerce**: integração com sistemas de pagamento (ex: Mercado Pago, Stripe), transporte (ex: Correios, Loggi) ou ERP.
 - **Aplicativos de mobilidade**: consumo de APIs de geolocalização (Google Maps), clima (OpenWeather) ou rotas.
 - **Redes sociais**: publicação automática de conteúdos, integração com Instagram, Facebook, WhatsApp ou Twitter.
@@ -157,7 +146,6 @@ Essa requisição poderia retornar os dados do cliente com ID 123 em formato JSO
 O termo **RESTful** é usado para descrever uma **API que segue completamente os princípios REST**. Ou seja, toda API RESTful é REST, mas nem toda API que diz ser REST está, de fato, seguindo as boas práticas e restrições definidas por REST.
 
 Uma API **verdadeiramente RESTful** deve:
-
 - Ser **stateless** (sem estado entre requisições);
 - Usar corretamente os **verbos HTTP**;
 - Ter **recursos identificáveis por URIs**;

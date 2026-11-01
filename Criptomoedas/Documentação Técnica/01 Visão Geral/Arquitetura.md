@@ -44,7 +44,6 @@ Define as credenciais de conexão com banco PostgreSQL. A conexão é ajustada d
 ### `routes.py`
 
 Rotas disponíveis:
-
 - `/start` → inicia o monitoramento
 - `/stop` → encerra o monitoramento
 - `/status` → verifica status da conexão
@@ -54,7 +53,6 @@ Rotas disponíveis:
 ### `models.py`
 
 Define as tabelas principais:
-
 - `Operacao`: operação realizada (compra ou venda)
 - `Estrategia`: configurações da estratégia utilizada
 - `Log`: eventos e status registrados

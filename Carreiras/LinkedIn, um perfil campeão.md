@@ -82,7 +82,6 @@ Essa técnica é chamada de **otimização de perfil por palavras-chave**, e ela
 #### **🔎 Passo 1 – Escolha 3 a 5 vagas ideais**
 
 Acesse o LinkedIn e procure pelas vagas dos seus sonhos. Filtre por:
-
 - Cargo (ex: Desenvolvedor Backend, Data Analyst, Product Owner)
 - Localização (se aplicável)
 - Nível (Júnior, Pleno, Sênior)
@@ -138,14 +137,12 @@ Agora, use essas palavras estrategicamente nos seguintes pontos do seu perfil:
 ### 💡 Dica bônus:
 
 Você pode usar ferramentas como:
-
 - [Jobscan.co](https://www.jobscan.co/) – compara seu perfil com descrições de vaga e aponta o que falta.
 - Notion ou Google Docs – para copiar e colar as palavras de cada vaga e fazer um “mapa de palavras-chave”.
 
 ### 🎯 Resultado: você será encontrado mais facilmente
 
 Ao seguir esse processo:
-
 - Seu perfil será melhor ranqueado nas buscas do LinkedIn.
 - Recrutadores verão rapidamente que você **fala a mesma linguagem da vaga**.
 - Suas experiências e competências terão **coerência com as expectativas do mercado**.

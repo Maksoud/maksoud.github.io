@@ -41,7 +41,6 @@ Ao modelar um negócio, algumas informações são cruciais para garantir repres
 ### **Referência BABOK v3**
 
 O BABOK (Guia de Conhecimento em Análise de Negócios) trata a modelagem de negócios como parte fundamental da **"Business Architecture"**, especialmente nas áreas de:
-
 - **Estratégia de Negócio (Strategy Analysis)**
 - **Análise de Requisitos e Definição de Soluções (Requirements Analysis and Design Definition)**
 

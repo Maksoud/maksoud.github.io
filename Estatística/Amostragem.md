@@ -48,7 +48,6 @@ A amostragem por conglomerados envolve a divisão da população em subgrupos he
 ## **Importância da Amostragem**
 
 A amostragem é crucial para várias razões:
-
 - **Custo e Tempo**: Analisar toda a população pode ser caro e demorado. A amostragem permite obter resultados precisos com menos recursos.
 - **Precisão**: Métodos de amostragem bem planejados podem fornecer estimativas precisas e confiáveis da população.
 - **Viabilidade**: Em muitos casos, é impraticável ou impossível coletar dados de toda a população.

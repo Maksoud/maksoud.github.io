@@ -29,7 +29,6 @@ Attention(Q, K, V) = softmax(Q × Kᵗ / √dₖ) × V
 ```
 
 Onde:
-
 - **Q (Query)**: O que estamos procurando
 - **K (Key)**: As palavras disponíveis
 - **V (Value)**: A informação a ser usada
@@ -51,7 +50,6 @@ Cada etapa tem uma **normalização** (layer norm) e uma **conexão residual** (
 ### 🔹 **Arquitetura Geral**
 
 O Transformer completo é formado por dois blocos principais:
-
 - **Codificador (Encoder)**: Lê o texto de entrada
 - **Decodificador (Decoder)**: Gera o texto de saída
 
@@ -60,7 +58,6 @@ No caso do GPT, **apenas o decodificador é usado**, pois ele é treinado para p
 ### 🔹 **Aplicações**
 
 O Transformer é a base de modelos como:
-
 - **BERT** (usa só o encoder)
 - **GPT-2 / GPT-3 / GPT-4** (usam só o decoder)
 - **T5, BART** (usam encoder + decoder)

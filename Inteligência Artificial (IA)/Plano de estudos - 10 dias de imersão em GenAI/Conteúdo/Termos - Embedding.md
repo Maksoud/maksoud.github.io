@@ -83,7 +83,6 @@ mesmo que as palavras **não sejam exatamente iguais**.
 ### 4. Por que é importante?
 
 Embeddings são fundamentais em aplicações como:
-
 - **RAG**
 - busca semântica
 - sistemas de recomendação

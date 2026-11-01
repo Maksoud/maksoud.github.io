@@ -58,7 +58,6 @@ Vamos configurar o **Apache2** para garantir a segurança dos seus arquivos. Par
 ```
 
 ### O que significa:
-
 - **`<Directory />`**: Refere-se ao diretório **raiz do sistema (`/`)**. É uma **medida de segurança** para garantir que ninguém consiga acessar a raiz `/` do sistema via web.
 - O diretório **`/usr/share`** pode conter arquivos públicos, como documentações, páginas de exemplo etc. É um local padrão em algumas distros Linux para arquivos estáticos.
 - **`Options None`**: Remove _todas_ as permissões, inclusive `FollowSymLinks`, para ser ainda mais restritivo.
@@ -73,7 +72,6 @@ Vamos configurar o **Apache2** para garantir a segurança dos seus arquivos. Par
 - **`Require all denied`**: **Nega acesso total** a esse diretório para qualquer visitante.
 
 Esse é o **diretório onde seu WordPress está instalado** (ex: `/var/www/html/`). Essa configuração garante que:
-
 - O Apache vai **ler o `.htaccess`** (que o WordPress usa para redirecionamentos, rewrites etc.);
 - O acesso ao site via navegador será permitido.
 

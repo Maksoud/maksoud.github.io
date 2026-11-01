@@ -21,7 +21,6 @@ Exemplo:
 **Resposta esperada:** "azul"
 
 Durante esse treinamento:
-
 - O modelo **não sabe nada** sobre o mundo.
 - Ele apenas **aprende padrões linguísticos** com base estatística.
 - Os dados não são buscados em tempo real, ele não "procura no Google".
@@ -32,7 +31,6 @@ Durante esse treinamento:
 Após o pré-treinamento, o modelo passa por um processo de ajuste supervisionado com a ajuda de **humanos especializados**, que ensinam o modelo a dar **respostas úteis, educadas e seguras.**
 
 Neste processo, entram:
-
 - Respostas exemplares preparadas por humanos
 - Definições de boas práticas de diálogo (cortesia, clareza, neutralidade)
 - Aprendizado por reforço com feedback humano (RLHF)
@@ -81,7 +79,6 @@ Processo:
 ## Conclusão
 
 O ChatGPT é uma aplicação de IA que simula conversas humanas com base em padrões linguísticos aprendidos. Seu funcionamento depende de:
-
 - Um treinamento massivo com textos
 - Arquitetura Transformer
 - Mecanismos de atenção

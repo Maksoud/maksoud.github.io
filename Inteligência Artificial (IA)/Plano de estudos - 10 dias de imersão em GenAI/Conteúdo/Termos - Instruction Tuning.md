@@ -59,7 +59,6 @@ O modelo ajustado para seguir instruções entende que deve **executar a tarefa 
 Instruction tuning foi fundamental para transformar LLMs de modelos que simplesmente aprendem e geram texto em modelos muito mais úteis como **assistentes**.
 
 Ele ajuda o modelo a:
-
 - seguir comandos;
 - responder perguntas;
 - resumir textos;

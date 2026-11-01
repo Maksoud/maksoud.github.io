@@ -1,5 +1,4 @@
 Capítulos sugeridos (40-50 páginas total):
-
 - Introdução: Por que finanças pessoais falha
 - Cap 1: Visão geral do sistema de controle (conceitual)
 - Cap 2: Passo-a-passo: suas primeiras transações
@@ -8,14 +7,12 @@ Capítulos sugeridos (40-50 páginas total):
 - Conclusão: Próximos passos (upsell suave para SaaS)
 
 **Design e publicação** (Semana 2-3):
-
 - Capa + formatação em Canva (30 min)
 - PDF compilado (você já sabe fazer isso)
 - Upload em Kiwify (15 min configuração)
 - Preço: **R$ 97** (psicológico, não R$ 67)
 
 **Marketing** (Semana 3-4, ongoing):
-
 - Tweet a cada 2 dias com insight do e-book
 - Email para contatos antigos (colegas, ex-clientes)
 - Post em grupos de TI/Finanças no LinkedIn
@@ -23,7 +20,6 @@ Capítulos sugeridos (40-50 páginas total):
 - Meta mínima: 50 vendas = **R$ 4,850** bruto
 
 **Upsell para SaaS** (automático após compra):
-
 - E-mail automático no Kiwify: "Gostou? Veja a versão full"
 - Landing page do SaaS link no e-book
 - Taxa de conversão conservadora: 10% = 5 clientes em potencial (não garantido, mas possível)

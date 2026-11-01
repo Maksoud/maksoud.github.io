@@ -13,7 +13,6 @@ O Elementor oferece um editor _drag-and-drop_ (arrastar e soltar) onde todas as 
 ### 2. **Widgets Avançados**
 
 A versão PRO inclui widgets poderosos como:
-
 - Formulários personalizados
 - Slides, carrosséis e animações
 - Tabelas de preços
@@ -78,7 +77,6 @@ Dica de estrutura para uma landing page eficaz:
 6. **CTA final com botão de ação**
 
 Você pode usar widgets como:
-
 - **Título**, **Imagem**, **Botão**, **Vídeo**
 - **Formulário de contato** (PRO)
 - **Accordion** para FAQs

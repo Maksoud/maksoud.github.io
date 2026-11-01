@@ -16,7 +16,6 @@ O Apache organiza os sites hospedados em seu servidor através de arquivos chama
 ```
 
 Dois dos arquivos mais comuns nesse diretório são:
-
 - **`000-default.conf`**: responsável pelas configurações do **acesso via HTTP (porta 80)**;
 - **`000-default-le-ssl.conf`**: criado automaticamente pelo Certbot, responsável pelas configurações do **acesso via HTTPS (porta 443)** com certificado SSL do Let's Encrypt.
 
@@ -145,7 +144,6 @@ sudo certbot --apache -d [dominio.com.br] -d www.[dominio.com.br]
 ```
 
 Este comando:
-
 - Realiza a verificação de propriedade do domínio;    
 - Ajusta automaticamente os arquivos de configuração do Apache;
 - Instala o certificado SSL e configura o redirecionamento para HTTPS.
@@ -161,7 +159,6 @@ Após a emissão, os certificados ficam armazenados em:
 ```
 
 Este diretório contém:
-
 - `fullchain.pem`: o certificado completo (incluindo o certificado da autoridade).
 - `privkey.pem`: a chave privada associada ao certificado.
 
@@ -220,7 +217,6 @@ Essa instrução envia todas as conexões HTTP diretamente para o HTTPS correspo
 O Apache, por padrão, utiliza o diretório `/var/www/html/` como **raiz dos arquivos públicos da web**. Isso significa que todos os arquivos do seu site devem estar organizados dentro dessa pasta, em subdiretórios que representem cada domínio ou subdomínio configurado.
 
 Para uma estrutura clara e organizada, é recomendável criar uma **pasta para cada site**, nomeando-a com base no domínio correspondente. Por exemplo:
-
 - O site `site-exemplo.com.br` deve ter seus arquivos em:  
     `/var/www/html/site-exemplo.com.br/`
 - Já `site-exemplo2.com.br` deve estar em:  
@@ -248,7 +244,6 @@ sudo find /var/www/html/site-exemplo.com.br -type f -exec chmod 644 {} \;
 ```
 
 Essas permissões garantem que:
-
 - O Apache possa **ler e executar os diretórios**;
 - Os arquivos estejam **seguros contra modificações não autorizadas**;
 - Os conteúdos estejam acessíveis via navegador, sem comprometer a segurança do servidor.
@@ -257,7 +252,6 @@ Essas permissões garantem que:
 ### Ativando os arquivos de sites (Virtual Hosts)
 
 O Apache separa os sites disponíveis em dois diretórios:
-
 - **`sites-available`**: onde ficam todos os arquivos `.conf` com configurações de sites;
 - **`sites-enabled`**: onde ficam os links simbólicos para os sites que realmente estão **ativos** no servidor.
 

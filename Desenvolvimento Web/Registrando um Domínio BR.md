@@ -85,7 +85,6 @@ O **Google Domains**, acessível via cloud.google.com, é uma **solução confi�
 Além do **registro.br** (para domínios `.com.br`) e do **Google Domains/Cloud** (para domínios `.com`), existem diversas plataformas que oferecem uma experiência simplificada tanto para o **registro de domínios** quanto para a **hospedagem de sites**.
 
 Provedores como **Hostinger**, **KingHost** e **HostGator** são amplamente utilizados por iniciantes e pequenos empreendedores por oferecerem:
-
 - **Registro de domínio integrado** com planos de hospedagem;
 - **Instalação com um clique do WordPress** e outras plataformas populares;
 - Interfaces intuitivas e painéis de controle amigáveis;

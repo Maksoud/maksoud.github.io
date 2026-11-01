@@ -68,7 +68,6 @@ O RLHF ajuda o sistema a aprender esse tipo de preferência:
 RLHF ajudou a tornar os LLMs muito mais adequados para interação com humanos.
 
 Ele pode melhorar aspectos como:
-
 - seguir instruções;
 - ser útil;
 - ser mais claro;

@@ -58,7 +58,6 @@ Aqui entra uma ideia importante para aplicações de IA: **dar ao modelo acesso 
 Hallucination é um dos principais problemas de aplicações baseadas em LLMs, especialmente quando a resposta precisa ser factual.
 
 Ela pode causar problemas em:
-
 - atendimento ao cliente
 - análise jurídica
 - medicina
@@ -68,7 +67,6 @@ Ela pode causar problemas em:
 - sistemas corporativos
 
 Por isso, aplicações profissionais utilizam estratégias para **reduzir e detectar alucinações**, como:
-
 - fornecer contexto confiável ao modelo
 - usar **RAG** para buscar informações antes da geração
 - exigir citações ou fontes

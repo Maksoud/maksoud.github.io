@@ -47,7 +47,6 @@ Essa distinção é fundamental. A documentação da OpenAI destaca exatamente e
 # Segurança
 
 Pesquise:
-
 - prompt injection
 - indirect prompt injection
 - data leakage

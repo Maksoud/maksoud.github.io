@@ -50,7 +50,6 @@ Considere:
 > João tem o dobro da idade de Maria. Daqui a 5 anos, a soma das idades será 40. Quantos anos eles têm hoje?
 
 Um modelo precisa estabelecer relações:
-
 - João = 2 × Maria
 - daqui a 5 anos, João + Maria = 40
 - resolver as equações

@@ -10,7 +10,6 @@ As oportunidades estão por toda parte: plataformas como **Freelancer.com, Worka
 #### 1. Organização e Gestão de Tempo
 
 Trabalhar por conta própria exige organização. Para manter o crescimento de forma estruturada, é essencial criar uma rotina que contemple todas as áreas do seu negócio. Defina blocos de tempo específicos para cada tipo de atividade:
-
 - **Criação de conteúdo**: reserve horários semanais para planejar, produzir e agendar postagens para redes sociais, blog ou newsletter. Isso ajuda a manter a consistência sem comprometer os horários operacionais.
 - **Atendimento ao cliente**: estipule períodos do dia para responder mensagens, fazer reuniões e enviar orçamentos. Evite responder fora desses horários para manter seu foco nas demais tarefas.
 - **Desenvolvimento de projetos**: dedique blocos mais longos e sem interrupções para a construção dos sites, páginas ou serviços que você oferece. Aqui, técnicas como Pomodoro e time blocking são fundamentais.
@@ -24,7 +23,6 @@ Utilize ferramentas como [Google Agenda](<https://calendar.google.com/>), [Trell
 Antes de qualquer coisa, é hora de definir **quais serviços você irá oferecer**. Isso pode parecer simples, mas exige reflexão. Pense nas suas habilidades atuais, nos seus interesses e nas demandas do mercado.
 
 Os serviços que serão ofertados neste projeto são:
-
 - **Criação de páginas na web para captura de leads (landing pages);**
 - **Desenvolvimento de sites institucionais;**
 - **Oferta de planos de hospedagem e criação de e-mails comerciais personalizados.**
@@ -32,13 +30,11 @@ Os serviços que serão ofertados neste projeto são:
 Esses serviços têm como foco atender **pequenos negócios que desejam apresentar seus serviços de forma mais profissional ao público**, criando uma presença digital sólida, com conteúdo informativo e um canal direto de contato com clientes.
 
 O objetivo dessas páginas é permitir que os visitantes encontrem facilmente:
-
 - Os serviços ofertados;
 - A localização do negócio;
 - Um formulário ou botão de contato, integrando o WhatsApp e o e-mail, possibilitando o envio de mensagens e o recebimento de promoções e informações futuras por e-mail marketing.
 
 A partir dessa definição, você irá:
-
 - Escolher o **nome da sua marca ou empresa**;
 - Criar uma **identidade visual (logotipo, cores, fontes)**;
 - Desenvolver o seu **site ou landing page de apresentação de serviços**;
@@ -109,13 +105,11 @@ Essas ferramentas permitem que você **alcance exatamente o tipo de cliente que 
 No artigo [SEO na Prática: Como Aumentar as Visitas ao Seu Site](https://correiarodrigues.com.br/notas/produtos-digitais/seo-na-pratica-como-aumentar-as-visitas-ao-seu-site/) eu abordo sobre técnicas relevantes para uma boa avaliação do seu site, garantindo uma classificação entre os primeiros sites no Google.
 
 #### Vantagens do Google Ads:
-
 - Seus serviços podem aparecer nos primeiros resultados de busca quando alguém procura por "criação de site profissional" ou "landing page para negócios".
 - Você só paga quando alguém clica no anúncio (modelo CPC);
 - Ideal para captar clientes que já estão com uma intenção clara de compra.
 
 #### Vantagens do Facebook e Instagram Ads:
-
 - Excelente para apresentar sua marca e atrair a atenção de novos públicos;
 - Permite criar anúncios visuais com vídeos e imagens para mostrar seu portfólio;
 - Segmentação detalhada para alcançar empreendedores, pequenos comércios, profissionais liberais, entre outros perfis ideais para seus serviços.
@@ -132,7 +126,6 @@ Esses anúncios também podem direcionar os visitantes diretamente para sua land
 Nos artigos [Abordagem de Clientes e Técnicas de Persuasão](https://correiarodrigues.com.br/notas/produtos-digitais/abordagem-de-clientes-e-tecnicas-de-persuasao/) e [Prospecção de Clientes](https://correiarodrigues.com.br/notas/produtos-digitais/prospeccao-de-clientes/), eu trago alguns pontos relevantes sobre técnicas de abordagem de clientes que podem ser úteis na prospecção de novos clientes e formas de converter seus contatos em vendas. 
 
 Com sua marca criada e sua presença digital divulgada, o próximo passo é entender como transformar isso em **renda real e sustentável**. A monetização acontece de várias formas:
-
 - **Cobrança por projeto:** criação de landing pages, sites institucionais ou pacotes completos;
 - **Planos mensais de manutenção:** para atualização de conteúdo, hospedagem ou suporte técnico;
 - **Venda de serviços recorrentes:** como hospedagem e e-mails comerciais com planos mensais ou anuais;
@@ -148,7 +141,6 @@ A precificação correta é fundamental para garantir que seu trabalho seja valo
 Evite basear seus preços apenas na concorrência ou em comparações com plataformas que oferecem soluções genéricas e automatizadas. Em vez disso, foque em demonstrar o valor real que você entrega e crie uma proposta clara que destaque seus diferenciais.
 
 Com o tempo e a consolidação do seu portfólio, é possível escalar seus serviços oferecendo **pacotes mais robustos**, com serviços complementares como:
-
 - **Identidade visual e branding básico**;
 - **Criação de campanhas integradas para redes sociais**;
 - **Consultoria digital personalizada**;
@@ -160,7 +152,6 @@ Esses diferenciais permitem que você atenda melhor seu cliente, aumente seu tic
 #### 7. Cuidados essenciais na hora do atendimento
 
 A maneira como você atende o cliente pode ser tão importante quanto o serviço prestado. Alguns pontos fazem toda a diferença:
-
 - **Deixe claro o seu horário de atendimento** (ex: segunda a sexta, das 9h às 18h);
 - **Defina um prazo médio de resposta** (ex: respondemos em até 24h úteis);
 - **Tenha um layout de resposta profissional** para e-mails e WhatsApp, com saudação, identificação, descrição do serviço e chamada para ação;
@@ -178,7 +169,6 @@ No artigo [Como Falar com Clientes de Forma Clara e Eficiente](https://correiaro
 Depois de alcançar os primeiros resultados, o desafio passa a ser **crescer com equilíbrio e consistência**. O crescimento sustentável acontece quando você estrutura sua operação de forma que ela possa evoluir sem perder qualidade, identidade e controle.
 
 #### Algumas estratégias para manter esse ritmo:
-
 - **Acompanhe seus resultados com regularidade**: número de acessos, taxa de conversão, retorno sobre anúncios e satisfação dos clientes;
 - **Solicite feedbacks após a entrega de cada serviço**: isso te ajuda a melhorar, ajustar processos e identificar pontos de destaque;
 - **Ofereça bônus ou condições especiais para clientes que indicarem novos negócios**: essa estratégia fortalece sua base e gera confiança;
@@ -187,7 +177,6 @@ Depois de alcançar os primeiros resultados, o desafio passa a ser **crescer com
 #### Fidelizar também é crescer
 
 Você não precisa viver na corrida constante por novos clientes. Às vezes, **cuidar bem de quem já comprou** pode gerar mais retorno do que conquistar alguém novo. Para isso:
-
 - Crie uma lista de clientes e mantenha um canal de relacionamento ativo (e-mail marketing ou lista de transmissão no WhatsApp);
 - Ofereça atualizações ou serviços complementares ao que já foi vendido;
 - Envie conteúdos úteis, lembretes e novidades com moderação e intenção.
@@ -202,7 +191,6 @@ Crescer de forma sustentável é construir uma base sólida, e não depender ape
 Conectar-se com outros profissionais e empreendedores pode abrir portas valiosas para o seu negócio. Participe de **eventos locais de empreendedorismo**, **feiras de negócios**, **rodadas de networking** e **capacitações oferecidas por instituições como o SESI, Sebrae ou associações comerciais da sua cidade**.
 
 O **SESI**, em especial, oferece não apenas cursos e treinamentos voltados à profissionalização, mas também oportunidades de integração com outras empresas e empreendedores locais. Através do SESI, você pode:
-
 - Acessar programas de capacitação e desenvolvimento de competências;
 - Participar de encontros de negócios, oficinas e consultorias;
 - Descobrir oportunidades de fomento e apoio ao pequeno empreendedor;

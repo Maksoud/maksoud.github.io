@@ -5,7 +5,6 @@ A organização financeira é um passo essencial para alcançar estabilidade e i
 #### 1. **Entenda Suas Finanças e Identifique Seus Gastos**
 
 Pense no seu salário como uma grande pizza que será dividida em fatias, representando suas despesas. O primeiro passo é listar seus **gastos fixos**, como:
-
 - Investimentos (sim, isso deve ser prioridade);
 - Moradia;
 - Plano de saúde;

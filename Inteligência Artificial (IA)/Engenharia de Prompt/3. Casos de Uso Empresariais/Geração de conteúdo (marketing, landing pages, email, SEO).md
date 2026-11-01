@@ -18,7 +18,6 @@ Como engenheiro de prompt, o seu papel será criar instruções que **maximizem 
 
 > **Prompt:**  
 > *"Você é um especialista em marketing digital. Crie uma postagem de blog com:
-
 - Título atrativo
 - Introdução cativante
 - 3 tópicos com subtítulos

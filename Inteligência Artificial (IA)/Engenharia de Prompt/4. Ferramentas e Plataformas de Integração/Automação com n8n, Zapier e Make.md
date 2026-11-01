@@ -95,7 +95,6 @@ Como engenheiro de prompt, seu papel é **criar os prompts certos para cada etap
 Ao combinar **n8n**, **Zapier** ou **Make** com LLMs como ChatGPT, você amplia o poder das automações empresariais, criando **soluções inteligentes, escaláveis e com baixo tempo de implementação**.
 
 Como engenheiro de prompt, sua responsabilidade será:
-
 - **Projetar prompts bem estruturados para cada etapa**
 - **Garantir que a IA interaja corretamente com os dados**
 - **Otimizar o custo (tokens) e a performance**

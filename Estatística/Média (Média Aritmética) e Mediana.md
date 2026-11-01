@@ -8,7 +8,6 @@ Para um conjunto de dados 𝑥1,𝑥2,…,𝑥𝑛:
 ![[12.png]]
 
 Onde:
-
 - 𝑥ˉ é a média aritmética,
 - 𝑛 é o número de observações,
 - 𝑥𝑖 são os valores individuais.

@@ -22,7 +22,6 @@ O trabalho braçal tem três características que o trabalho de escritório quas
 ### O que dá para fazer com as próprias mãos
 
 Não é preciso ser profissional. Boa parte das tarefas domésticas é acessível a qualquer pessoa disposta a aprender e a errar um pouco no começo:
-
 - **Jardim**: podar, transplantar, adubar, acompanhar uma planta pegar. É o trabalho manual mais lento de todos, e por isso mesmo o mais terapêutico: o resultado leva semanas, e você aprende a esperar.
 - **Hidráulica simples**: trocar o sifão da pia, vedar uma conexão que goteja, ajustar ou substituir o reparo da caixa acoplada da descarga. São peças baratas e o serviço é ensinado em qualquer vídeo.
 - **Elétrica básica**: trocar um interruptor com mau contato, substituir uma tomada, instalar um chuveiro novo. Aqui vale a regra de ouro: **desligue o disjuntor antes**, confira com uma chave de teste e respeite a bitola do fio. Se a instalação for antiga ou você tiver qualquer dúvida, chame um eletricista, coragem não substitui segurança.
@@ -46,7 +45,6 @@ E é exatamente aqui que entra o contraste.
 As redes sociais aprenderam a imitar essa sensação de recompensa sem exigir nada em troca. Você rola o feed, vê alguém construindo, alguém consertando, alguém viajando, alguém conquistando, e seu cérebro recebe pequenas doses da mesma química que receberia se **você** tivesse feito algo. Só que você não fez. Você assistiu.
 
 O problema é que o corpo cobra a conta. Duas, três horas depois, você levanta do sofá:
-
 - mais cansado do que quando sentou;
 - sem lembrar direito de metade do que viu;
 - com a sensação incômoda de que o dia escorreu entre os dedos;
@@ -67,7 +65,6 @@ Comece pequeno e por algo que já te incomoda: aquela torneira que pinga, o inte
 Vai levar mais tempo do que levaria um profissional. Você provavelmente vai precisar voltar à loja porque comprou a medida errada. Faz parte, e o erro aqui também ensina, porque ele é imediato e concreto, não uma nota de rodapé num relatório.
 
 O que você ganha vai muito além do serviço pronto:
-
 - **Autonomia**: deixar de depender de terceiros para coisas simples.
 - **Economia**: o valor da mão de obra que você não pagou.
 - **Presença**: durante um reparo é impossível ficar no celular; as mãos estão ocupadas. É atenção plena sem precisar chamar de meditação.

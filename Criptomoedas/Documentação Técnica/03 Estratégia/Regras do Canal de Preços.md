@@ -26,12 +26,10 @@ def calcular_canal(symbol):
 ### Critérios Obrigatórios:
 
 ✅ **Valorização a partir da base**:
-
 - `preço_atual ≥ base * (1 + X%)`
 - Onde `X` é configurável (padrão: 1-2%)
 
 ✅ **Volume compatível**:
-
 - Volume das últimas 4 velas ≥ Média 20 períodos
 
 ```mermaid
@@ -54,7 +52,6 @@ graph TD
 ## 4. Exemplo Prático
 
 **Dados**:
-
 - Base: 100,489 USDT
 - Teto: 110,626 USDT
 - Config: +1.5% compra / -1.8% venda
@@ -112,7 +109,6 @@ graph TD
 ```
 
 **Legenda**:
-
 - **X%**: Threshold de compra (ex: 1-2%)
 - **Y%**: Threshold de venda (ex: 1-2%)
 - **Z%**: Lucro mínimo (ex: 0.5%)

@@ -57,7 +57,6 @@ Chunking
 ### 2. Chunking
 
 Estude:
-
 - fixed-size chunking
 - semantic chunking
 - recursive chunking
@@ -79,7 +78,6 @@ vector
 Onde armazenamos os vetores?
 
 Pesquise:
-
 - FAISS
 - Chroma
 - Pinecone
@@ -96,7 +94,6 @@ Para seu primeiro projeto, eu escolheria **Chroma ou FAISS**, porque você quer 
 ### 5. Retrieval
 
 Pesquise:
-
 - top-k
 - similarity search
 - semantic search

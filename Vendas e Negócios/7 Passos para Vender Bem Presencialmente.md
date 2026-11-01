@@ -80,7 +80,6 @@ Quer levar sua excelência em vendas a um outro nível? Recompense o cliente que
 💡 **Dica de ouro:** grife com caneta vermelha a data e o valor no print. Isso cria um gatilho visual de destaque e urgência.
 
 Esse gesto:
-
 - **Gera prova social real**
 - **Estimula novos clientes a indicarem também**
 - **Cria uma cultura de recomendação contínua**
@@ -109,7 +108,6 @@ Agora que você conhece os 7 passos e o pulo do gato da **Venda com Excelência*
 Você aprendeu que vender bem presencialmente vai muito além de simpatia ou sorte. Envolve preparo, postura, conexão, técnica e (principalmente) **intencionalidade**. Desde o primeiro contato até o pós-venda, cada detalhe importa.
 
 Você também viu que:
-
 - A excelência começa com você se posicionando com confiança;
 - A melhor hora para pedir indicações é logo após o fechamento;
 - E que **recompensar quem te indica é uma estratégia inteligente**, que gera credibilidade e movimento constante.

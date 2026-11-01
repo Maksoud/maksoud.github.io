@@ -153,7 +153,6 @@ Onde:
 ### Escolha da Métrica
 
 A escolha da métrica de verificação de precisão depende do contexto e dos objetivos específicos da previsão:
-
 - **MAPE:** Útil para interpretar erros relativos em porcentagens.
 - **MAE:** Facilmente interpretável e útil para compreender o erro médio absoluto.
 - **MSE e RMSE:** Penalizam erros maiores de forma mais severa e são úteis quando grandes erros são especialmente indesejados.

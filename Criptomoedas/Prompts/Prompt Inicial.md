@@ -107,7 +107,6 @@ Use esta estrutura sempre (reduz ruído e duplicação):
 **Formato da resposta:** (ex.: “código + testes + instruções de execução”)
 
 Exemplo de **critérios de aceite** bons:
-
 - “`get_klines(symbol, timeframe, since)` retorna `List[Candle]` sem buracos de tempo; reconecta na falha; limita 1200 req/min.”
 - “Migração Alembic cria PK composta em `candles` (symbol,timeframe,ts).”
 - “Teste unitário cobre fee e slippage.”
@@ -187,7 +186,6 @@ Exemplo de **critérios de aceite** bons:
 ## Quer que eu já entregue o esqueleto?
 
 Posso gerar agora:
-
 - `pyproject.toml` + `requirements.txt`
 - árvore de pastas
 - migração Alembic inicial

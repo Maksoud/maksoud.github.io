@@ -282,7 +282,6 @@ Melhorar seu site para SEO envolve uma combinação de ajustes técnicos, conte�
 ### 🔧 **9.1 Faça uma Auditoria Técnica**
 
 Use ferramentas como **Google Search Console**, **Screaming Frog** ou **Ahrefs** para identificar erros no site, como:
-
 - Páginas com erro 404;
 - Links quebrados;
 - Problemas de redirecionamento;
@@ -291,7 +290,6 @@ Use ferramentas como **Google Search Console**, **Screaming Frog** ou **Ahrefs**
 ### 🧩 **9.2 Organize a Estrutura do Site**
 
 Garanta que a navegação seja intuitiva e que o conteúdo esteja organizado em categorias lógicas:
-
 - Use menus claros;
 - Crie uma hierarquia de títulos (H1, H2, H3);
 - Utilize breadcrumbs (trilha de navegação).
@@ -299,7 +297,6 @@ Garanta que a navegação seja intuitiva e que o conteúdo esteja organizado em 
 ### 🚀 **9.3 Melhore a Experiência do Usuário (UX)**
 
 Google valoriza sites fáceis de navegar e agradáveis para o usuário:
-
 - Utilize boas fontes e espaçamento;
 - Destaque os CTAs (botões de ação);
 - Evite pop-ups intrusivos.
@@ -307,14 +304,12 @@ Google valoriza sites fáceis de navegar e agradáveis para o usuário:
 ### 📱 **9.4 Torne o Site Responsivo**
 
 Um site que se adapta a celulares e tablets tem mais chances de ranquear bem:
-
 - Use media queries no CSS;
 - Teste seu site com o **Google Mobile-Friendly Test**.
 
 ### 📊 **9.5 Instale Ferramentas de Análise**
 
 Monitore o desempenho com:
-
 - **Google Analytics** – comportamento dos usuários;
 - **Google Search Console** – palavras-chave, erros e cobertura.
 

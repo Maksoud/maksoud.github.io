@@ -54,7 +54,6 @@ Assumindo a rota Traccar, o esforço se distribui assim:
 ## Escopo do MVP
 
 O corte mínimo que já sustenta um cliente pagante:
-
 - Traccar no ar com os dispositivos migrados;
 - login próprio com vínculo cliente → veículos;
 - portal consumindo posição real (mapa + endereço);

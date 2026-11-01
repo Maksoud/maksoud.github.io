@@ -7,7 +7,6 @@ No contexto da transformação digital, a criação de produtos digitais deixou 
 Um produto digital é qualquer solução baseada em tecnologia que busca resolver problemas reais dos usuários, como aplicativos, plataformas, sistemas e serviços digitais. No entanto, para que ele seja realmente relevante, precisa ir além da entrega técnica: é preciso **entregar valor**.
 
 Valor, nesse contexto, pode significar:
-
 - **Para o negócio:** aumento da receita, redução de custos, ganho de eficiência, posicionamento estratégico;
 - **Para o cliente/usuário:** resolução de dores reais, facilidade de uso, economia de tempo, experiência positiva;
 - **Para os stakeholders:** retorno sobre o investimento, redução de riscos, impacto social, visibilidade.
@@ -15,7 +14,6 @@ Valor, nesse contexto, pode significar:
 ### **Identificação de Stakeholders e o Papel da Empatia**
 
 Um dos primeiros passos na criação de um produto digital é a **identificação dos stakeholders**, todas as pessoas, grupos ou entidades impactadas direta ou indiretamente pelo produto. Isso inclui:
-
 - **Clientes/usuários finais;**
 - **Investidores e patrocinadores;**
 - **Equipes técnicas e de design;**
@@ -27,7 +25,6 @@ Compreender os objetivos, dores, interesses e expectativas de cada stakeholder �
 ### **Boas Práticas de Projetos Aplicadas à Criação de Produtos**
 
 A gestão de projetos desempenha um papel central na entrega de produtos digitais com qualidade, prazo e alinhamento estratégico. Entre as boas práticas que devem ser incorporadas ao processo estão:
-
 - **Definição clara do escopo** com base nas necessidades reais identificadas nos stakeholders;
 - **Priorização de funcionalidades** com foco no valor entregue (ex: técnicas como MoSCoW, Kano ou WSJF);
 - **Uso de metodologias ágeis**, como Scrum ou Kanban, para fomentar entregas incrementais e iterativas;
@@ -39,7 +36,6 @@ A gestão de projetos desempenha um papel central na entrega de produtos digitai
 A **comunicação entre as partes envolvidas** é um dos maiores diferenciais em projetos de sucesso. Projetos falham, em grande parte, por falhas de comunicação, expectativas não alinhadas, informações incompletas ou ausentes, feedbacks ignorados.
 
 Algumas boas práticas de comunicação incluem:
-
 - Estabelecer **rituais regulares** de alinhamento (dailies, reviews, reuniões de planejamento);
 - Usar ferramentas visuais e acessíveis, como roadmaps, protótipos e painéis de acompanhamento;
 - Garantir que a **linguagem seja compreensível** para todos os perfis de stakeholder;
@@ -48,7 +44,6 @@ Algumas boas práticas de comunicação incluem:
 ### **Como Criar e Medir Valor**
 
 A criação de valor deve ser **planejada, validada e medida** ao longo de todo o ciclo de vida do produto. Algumas perguntas chave que podem guiar esse processo:
-
 - Este produto resolve um problema real e relevante?
 - Como ele contribui para os objetivos estratégicos da organização?
 - Quais métricas representam valor para cada stakeholder?

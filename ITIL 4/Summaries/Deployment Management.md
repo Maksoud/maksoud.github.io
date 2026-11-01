@@ -255,7 +255,6 @@ Upon receiving a trigger for deployment, typically through procurement or the ch
 #### Verification of the service components
 
 Upon completing the plan, the service provider checks the competence of all assets, including:
-
 - Inventory
 - Documentation
 - Quality checks
@@ -314,7 +313,6 @@ In ITIL 4, there is a difference between release management and deployment manag
 Release management in ITIL 4 focuses on the planning, coordination, and governance of the overall release of services and service components. It involves managing the transition of new or changed services and ensuring that they are successfully delivered into the live environment. Release management encompasses the entire lifecycle of a release, from initial planning and design to overseeing testing, deployment, and evaluation. It aims to maximise the value of releases while minimising disruption and risk.
 
 #### Key aspects of ITIL 4 Release Management include:
-
 - Planning and coordination of releases.
 - Communication and stakeholder management.
 - Managing the release pipeline and release packages.
@@ -327,7 +325,6 @@ Release management in ITIL 4 focuses on the planning, coordination, and governan
 Deployment management, on the other hand focuses on the implementation and movement of new or changed hardware, software, applications, or infrastructure components into the live environment. Deployment management is responsible for executing the planned deployment activities, ensuring that the right components are installed, configured, and integrated correctly.
 
 #### Key aspects of ITIL 4 Deployment Management include:
-
 - Execution of deployment plans and activities.
 - Verification and validation of release components during deployment.
 - Coordinating with various stakeholders for successful deployment.

@@ -43,7 +43,6 @@ Objetivo: assegurar que a solução entregue realmente contribua para os resulta
 ## Competências Essenciais
 
 O BABOK também descreve um conjunto de habilidades que o analista de negócios deve desenvolver para atuar com eficácia. Essas competências incluem:
-
 - Comunicação verbal e escrita
 - Pensamento analítico e crítico
 - Conhecimento organizacional
@@ -56,7 +55,6 @@ Essas competências são transversais a todas as áreas de conhecimento e influe
 ## Técnicas de Análise de Negócios
 
 O guia apresenta 50 técnicas que podem ser aplicadas nas diversas tarefas da análise de negócios. Algumas das mais utilizadas incluem:
-
 - Análise SWOT
 - Diagrama de causa e efeito
 - Histórias de usuário
@@ -71,7 +69,6 @@ Essas técnicas ajudam o analista a estruturar melhor a informação, apoiar dec
 ## Perspectivas
 
 O BABOK reconhece que a análise de negócios pode ser aplicada em diferentes contextos. Por isso, apresenta cinco perspectivas específicas:
-
 - **Ágil (Agile):** adapta os princípios da análise para ambientes de desenvolvimento ágil.
 - **TI (Information Technology):** foca em soluções tecnológicas.
 - **Business Intelligence (BI):** voltada para análise de dados e apoio à decisão.

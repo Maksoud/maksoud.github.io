@@ -92,7 +92,6 @@ Apenas dois planos ativos:
 Os planos 2 (Simples) e 4 (Limitado) foram descontinuados. Os IDs não foram renumerados.
 
 O plano do perfil é determinado pelo campo `Parameters.plans_id`. Durante o `beforeFilter` de cada request, `SystemFunctionsComponent::validatePlans()` verifica o plano e toma as seguintes ações:
-
 - **Plano Pessoal (1):** redireciona as actions `index`, `add`, `edit`, `view`, `editBaixado`, `low` e `reportForm` dos módulos financeiros para suas variantes `*Simple` (`indexSimple`, `addSimple`, etc.), que renderizam templates em `Template/<Modulo>/simple/`.
 - **Plano Empresa (3):** não acessa telas `*Simple`. Se uma URL `*Simple` for acessada diretamente, é redirecionada para a versão completa equivalente.
 
@@ -104,7 +103,6 @@ Nomenclaturas que diferem entre planos:
 | `boxes` | Carteira | Caixa |
 
 **Restrições de controller por plano** (checagem pelo `validatePlanController`, válida inclusive para o Super). Os dois planos usam modelos opostos:
-
 - **Plano Pessoal (1), allowlist (`planControllers[1]`), modelo *default-deny*:** só pode acessar os controllers explicitamente listados; **todo controller fora da lista é bloqueado** e redirecionado ao dashboard. Controllers próprios do Pessoal:
 
   `Moviments`, `MovimentBanks`, `MovimentBoxes`, `MovimentCards`, `Transfers`, `Costs`, `Banks`, `Boxes`, `Cards`, `Plannings`
@@ -330,7 +328,6 @@ A coluna `moviments.competencia` (tipo `DATE`, gravada sempre como o **1º dia d
 **Movimentos vinculados (`moviment_mergeds`):** permitem associar um pagamento parcial a um título em aberto, ou agregar vários lançamentos em uma única baixa. Campos relevantes (valor, status) estão em `moviments`, não em `moviment_mergeds`. Ver seção de Particularidades para a armadilha de alias ORM.
 
 **Tipo de Documento, dois flags de comportamento (`document_types`):** cada tipo de documento tem dois flags `S`/`N` independentes que mudam o comportamento dos lançamentos daquele tipo:
-
 - **`duplicadoc` (controle de duplicidade):** com `duplicadoc='N'`, `MovimentRegistrationService::validaDocumento()` impede lançar dois títulos com o mesmo `documento` para o mesmo fornecedor (`providers_id`) ou cliente (`customers_id`), retorna o `ordem` do lançamento já existente para avisar o usuário.
 - **`vinculapgto` (agregador / "fatura"):** com `vinculapgto='S'`, um título desse tipo funciona como **agregador**, uma fatura que vincula vários outros títulos e permite **baixar todos em um único lançamento** (simula uma fatura de cartão para qualquer fornecedor/cliente). Detalhado no tópico "Agregador de títulos" abaixo.
 
@@ -800,7 +797,6 @@ Os campos de data (`data`, `vencimento`, `dtbaixa`) aceitam entrada em `d/m/Y`. 
 ### Dicas Financeiras e "Análise com IA" (dashboard Pessoal): sem IA no backend
 
 O dashboard do plano Pessoal (`home-plan1.ctp`) tem dois recursos analíticos que, apesar do rótulo, **não fazem chamada a nenhum serviço de IA/LLM** no servidor:
-
 - **Dicas Financeiras:** carrossel rotativo de textos analíticos gerados por **regras** em `FinancialAnalyticsComponent::getDicas()` (variação de receitas/despesas ao longo do ano, proporção de despesas variáveis, contas em atraso, concentração em categoria não essencial, meta de reserva de emergência, saldo em aplicações vs. consumo de cartão, previsão anual etc.). O PHP monta a lista e o front apenas alterna as dicas na tela (`#dicasFinanceiras`).
 - **Botão "Análise com IA":** o link `#btnCopyYearDashboardData` monta um **texto-resumo da análise anual** (receitas, despesas, investimentos, saldos) e o **copia para a área de transferência** do usuário (`navigator.clipboard`, com fallback `execCommand('copy')`). Não há processamento de IA embutido, o texto é preparado para o usuário **colar em uma ferramenta de IA externa** de sua preferência.
 
@@ -999,14 +995,12 @@ Fluxo "Esqueci minha senha" via token de 8 caracteres, TTL de 10 minutos. Armaze
 ### Endurecimento anti-bot dos formulários públicos
 
 Todos os formulários acessíveis sem autenticação (**login**, **cadastro** (`cadastrar`), **esqueci minha senha** (`rememberPassword`, que dispara o envio do código) e **redefinição de senha** (`recuperaSenha`)) recebem a mesma dupla camada anti-bot:
-
 - **Honeypot**: campo isca invisível ao usuário (`website`). Se vier preenchido, é bot, a requisição é descartada em silêncio (sem pista de que foi detectada) e, no login, o IP já é bloqueado (`IpBlockerService::forceBlockIpManually`), pois é tentativa inequívoca.
 - **Google reCAPTCHA v3**: token validado server-side em `PagesController::verificaRecaptcha()` (chaves em `config/app.php` > `Recaptcha.siteKey`/`secretKey`/`minScore`/`action`). Score abaixo do mínimo, action divergente ou token ausente/inválido barram a operação. **Fail-open** enquanto as chaves não estiverem configuradas e em `localhost` (a siteKey só vale no domínio de produção), para não travar desenvolvimento.
 
 ### Throttle de login (LoginThrottleService)
 
 Proteção anti-força-bruta / credential stuffing da tela de login, por IP, usando as tabelas `login_attempts` e `login_blocks`:
-
 - A cada **4 falhas consecutivas** (`MAX_CONSECUTIVE_FAILS`) → **bloqueio temporário de 20 minutos** (`TEMP_BLOCK_MINUTES`, tabela `login_blocks`) + alerta por e-mail ao operador (`Cron.alertEmail`, template `login_bloqueio`).
 - **Reincidência no mesmo dia** (novo estouro do limite após já ter sido bloqueado hoje) → **bloqueio definitivo**, reaproveitando `IpBlockerService` (`blocked_ips` + middleware, que passa a responder 403 direto).
 - O IP em bloqueio temporário é barrado **antes** de tentar autenticar (`blockedUntil()`); login bem-sucedido zera o contador (`clearFailures()`).
@@ -1059,7 +1053,6 @@ O Super visualiza todos os usuários do sistema, independente do perfil ativo. N
 `IpBlockerController::viewIpBlockerLog` exibe o log de acessos bloqueados. A action `clearLogs` permite limpar o arquivo de log (requer função `admin`, portanto o Super também acessa). A gestão de IPs bloqueados na tabela `blocked_ips` é feita via interface exclusiva.
 
 **Throttle de login (força bruta / credential stuffing), `LoginThrottleService`:** o login também alimenta o bloqueio de IPs. A cada **4 falhas consecutivas** (`MAX_CONSECUTIVE_FAILS`) do mesmo IP, aplica-se um **bloqueio temporário de 20 minutos** (`TEMP_BLOCK_MINUTES`), registrado na tabela `login_blocks` (as tentativas ficam em `login_attempts`). Se o **mesmo IP** voltar a estourar o limite **no mesmo dia** (reincidência), escala para **bloqueio definitivo**, reaproveitando a infraestrutura do IpBlocker (`IpBlockerService::forceBlockIpManually` grava em `blocked_ips` e o middleware passa a responder **403 direto**). Fluxo no `PagesController::login`:
-
 - Antes de autenticar, `blockedUntil()` barra o POST cedo se o IP estiver em bloqueio temporário vigente (o definitivo nem chega aqui, já é 403 no middleware).
 - Login bem-sucedido chama `clearFailures()` (zera o contador do IP).
 - Cada falha chama `registerFailure()`, que retorna `none`/`temp`/`permanent`; em `temp`/`permanent` dispara e-mail de alerta ao operador (`Cron.alertEmail`, evento `login_bloqueio`).
@@ -1075,7 +1068,6 @@ O serviço é **fail-open**: toda operação de banco é protegida por `try/catc
 ### Backups
 
 `BackupsController` gerencia os dumps `.sql` do banco, gravados em `BACKUP_DIR` (`ROOT/backups/`, fora do `webroot`). Actions:
-
 - **`index`**: lista os backups locais (nome, data de modificação e tamanho em MB, ordenados do mais recente para o mais antigo) e permite a **exclusão em lote** dos selecionados (POST com `record[]`). Após excluir, chama `updateSizeAlert()` para recalcular o uso de disco (o alerta do super some se a limpeza trouxe a pasta de volta para dentro do limite).
 - **`download($file)`**: baixa um arquivo de backup; exige função **`admin`** (ou superior).
 - **`delete($file)`**: exclui um único backup (POST/DELETE via `postLink`); exige função **`super`**. Também recalcula `updateSizeAlert()`.

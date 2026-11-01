@@ -13,7 +13,6 @@ Então, o ciclo se reinicia. Em novas reuniões, o gestor menciona "novos insigh
 **Por Que Essa Dinâmica Acontece?**
 
 Geralmente, essa "não-promessa" surge por alguns motivos:
-
 - **Falta de Soluções:** O gestor pode não ter poder ou recursos para resolver problemas.
 - **Pressão:** Há uma necessidade de manter a equipe calma, evitar atritos, enquanto se busca alternativas.
 - **Cultura:** A empresa pode ter uma cultura de "otimismo forçado", onde a transparência é evitada para não desmotivar.
@@ -22,7 +21,6 @@ Geralmente, essa "não-promessa" surge por alguns motivos:
 **O Custo Real da Falsa Esperança**
 
 O impacto dessa dinâmica é maior do que parece:
-
 - **Desengajamento:** A equipe perde o entusiasmo, fazendo o mínimo.
 - **Perda de Confiança:** A credibilidade da liderança é abalada.
 - **Rotatividade Oculta:** Talentos buscam outras portas, mesmo sem pedir demissão formalmente.

@@ -5,7 +5,6 @@ Em um mundo onde a comparação é quase inevitável, especialmente com a presen
 #### Crescimento Intelectual Acima de Tudo
 
 O desenvolvimento intelectual não apenas enriquece nossa mente, mas também nos prepara para enfrentar os desafios de maneira mais eficaz e criativa. Investir em aprendizado é um dos recursos mais valiosos que temos, pois conhecimento é algo que ninguém pode nos tirar. Aqui estão alguns motivos para priorizar o crescimento intelectual:
-
 - **Autoconfiança:** Ao aprender e dominar novos conhecimentos, fortalecemos nossa autoconfiança e a capacidade de tomar decisões informadas. Isso nos dá segurança para enfrentar situações desconhecidas e assumir responsabilidades maiores.
 
 - **Adaptabilidade:** O conhecimento nos torna mais adaptáveis às mudanças constantes do mundo moderno. Estar bem informado e atualizado nos prepara para oportunidades inesperadas e nos permite navegar por diferentes cenários com facilidade.
@@ -15,7 +14,6 @@ O desenvolvimento intelectual não apenas enriquece nossa mente, mas também nos
 #### Procrastinação, Depressão e Frustração
 
 A procrastinação pode parecer inofensiva em curto prazo, mas está intimamente ligada à depressão e à frustração. Quando adiamos nossos objetivos e responsabilidades, podemos sentir que estamos estagnados, o que leva a um ciclo de negatividade e insatisfação pessoal. Para combater esse sentimento:
-
 - **Priorize suas tarefas:** Identifique o que é realmente importante e urgente. Concentre-se nas atividades que têm maior impacto em seus objetivos de longo prazo.
 
 - **Faça uso eficaz do tempo:** Tempo é um recurso não renovável. Utilize-o sabiamente para evitar a sensação de tempo perdido, o que pode aumentar a frustração e o estresse.

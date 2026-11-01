@@ -5,7 +5,6 @@ Toda empresa, seja nova ou consolidada, precisa saber como continuar entregando 
 ### O que é o Business Model Canvas?
 
 O Business Model Canvas, ou Canvas do Modelo de Negócio, é uma ferramenta estratégica. Ele permite que você visualize, desenvolva e inove modelos de negócio. Não é só para startups. O BMC ajuda em muitas situações:
-
 - Criar um negócio do zero.
 - Analisar novas aplicações dentro da empresa.
 - Conceber um novo produto.
@@ -29,7 +28,6 @@ O BMC é composto por nove blocos interligados. Eles cobrem as áreas chave de u
 ### Como Preencher Cada Bloco do Canvas
 
 Preencher cada bloco do Canvas requer foco e clareza. Pense em cada item como uma pergunta direta sobre seu negócio:
-
 - **Segmento de Clientes:**
     - Defina quem são seus **clientes principais**.
     - Pense em seus **arquétipos e características** mais relevantes.
@@ -83,7 +81,6 @@ Ao preencher, o objetivo é ter uma visão clara e concisa de cada aspecto do se
 ### Como o BMC se Diferencia de Outras Ferramentas?
 
 O Business Model Canvas se destaca por algumas características. Ele não é um plano de negócios tradicional, que pode ser longo e complexo. O BMC é diferente por ser:
-
 - **Visual e Compacto:** Ele resume tudo em uma única página. Isso facilita a visualização rápida e a compreensão de todo o modelo. Diferente de documentos extensos, o BMC é direto.
 - **Holístico:** Aborda todos os nove pontos essenciais de um negócio de forma integrada. Você vê como cada parte se conecta e impacta as outras.
 - **Simples e Acessível:** Não exige conhecimento profundo em gestão para começar a usar. A linguagem é clara e os blocos são intuitivos. Isso o torna útil para qualquer pessoa na equipe.
@@ -95,7 +92,6 @@ Ele oferece uma visão rápida e completa, que é ideal para o ambiente de negó
 ### Como o BMC Ajuda no Dia a Dia?
 
 Usar o BMC traz clareza e foco. Ele auxilia o seu dia a dia ao:
-
 - **Apoiar visualmente:** Métricas e ideias ficam à vista, facilitando a compreensão.
 - **Eliminar barreiras:** Ajuda a identificar gargalos e pontos de melhoria.
 - **Planejamento:** Oferece uma base sólida para planejar estratégias futuras.

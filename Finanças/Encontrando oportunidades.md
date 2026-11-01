@@ -56,7 +56,6 @@ O objetivo inicial não é enriquecer, mas **criar tração**.
 ##### **Meta numérica:**
 
 Alcance, até o final do 6º mês, uma renda extra correspondente a **10% da sua renda atual mensal**. Por exemplo:
-
 - Se você ganha R$ 3.000, sua meta é gerar R$ 300/mês de forma consistente até o final do período.
 
 Esse valor é **mais simbólico do que financeiro**, ele representa que o caminho funciona e que há demanda. A partir daí, é hora de pensar em expansão e multiplicação.
@@ -71,7 +70,6 @@ Depois de validar sua ideia e começar a gerar uma renda extra, é hora de **dar
 Use parte da renda conquistada para fazer **cursos profissionalizantes e treinamentos específicos**. Capacitação é fundamental para que você desenvolva **propriedade sobre o que está fazendo e segurança para assumir desafios maiores**.
 
 **Mas atenção:** não escolha qualquer curso apenas pelo modismo ou pela promessa de dinheiro fácil. Pergunte-se:
-
 - Esse conhecimento se aplica diretamente ao que eu já estou fazendo?
 - Vai me ajudar a **melhorar meu serviço, atender mais pessoas ou cobrar mais?**
 - Essa formação é reconhecida? Tem boa reputação?
@@ -80,7 +78,6 @@ Antes de se matricular, **pesquise bem a instituição, compare com outras opç�
 #### **Estruture sua presença como profissional**
 
 Agora que você está mais preparado(a), pense como alguém que está construindo um negócio, mesmo que pequeno. Isso inclui:
-
 - **Criar um portfólio** com registros dos serviços já prestados (prints, fotos, depoimentos);
 - Usar **redes sociais estrategicamente**, mostrando o que você faz com clareza e frequência;
 - Criar um canal de contato profissional (como um e-mail dedicado, WhatsApp Business ou perfil no LinkedIn);
@@ -89,7 +86,6 @@ Agora que você está mais preparado(a), pense como alguém que está construind
 #### **Estabeleça metas de crescimento**
 
 Com mais preparo e estrutura, defina metas mais ousadas, como:
-
 - Aumentar a quantidade de atendimentos ou vendas mensais;
 - Criar novos pacotes de serviços ou produtos com valores maiores;
 - Expandir para outro público ou região.
@@ -116,14 +112,12 @@ Essa etapa exige mais do que esforço: exige **aprendizado e estratégia**. Agor
 #### **Educação financeira é sua maior aliada**
 
 Antes de sair investindo por aí, dedique-se a estudar. Entenda os conceitos essenciais:
-
 - **Rentabilidade x Risco**: todo investimento envolve esses dois fatores. Rentabilidade alta demais, sem explicação clara, geralmente esconde armadilhas.
 - **Liquidez**: é a facilidade de transformar o investimento em dinheiro disponível. Isso afeta o seu acesso ao valor investido.
 - **Tributação e taxas**: muitos iniciantes esquecem de calcular o impacto do **IR, IOF e taxas bancárias**. Isso pode corroer parte do que você ganha.
 - **Perfil de investidor**: descubra se você é mais conservador, moderado ou arrojado, e **não invista acima do seu nível de conhecimento e tolerância emocional**.
 
 Existem várias fontes confiáveis e gratuitas para começar:
-
 - **Tesouro Direto**, com títulos públicos de baixo risco;
 - **CDBs, LCIs e LCAs**, com boa rentabilidade e garantia do FGC (Fundo Garantidor de Crédito);
 - **Fundos imobiliários (FIIs)** e ações de empresas sólidas com distribuição de dividendos;
@@ -136,7 +130,6 @@ Você pode começar com **valores pequenos, mas com consistência**. O foco não
 Neste ponto da jornada, **é comum surgirem promessas tentadoras de alta rentabilidade, ganhos rápidos e “oportunidades imperdíveis”**. Justamente quando você começa a acumular algum capital, essas propostas aparecem, e muitas vezes são golpes disfarçados de investimento.
 
 Promessas do tipo:
-
 - “Ganhe 5% ao dia sem fazer nada”;
 - “Triplique seu dinheiro em uma semana”;
 - “Essa oportunidade é secreta, só para poucos.”
@@ -168,14 +161,12 @@ Essa frase resume um dos maiores perigos na vida financeira: caminhar sem rumo. 
 Metas não servem para te aprisionar, servem para **guiar** suas ações, **focar sua energia** e permitir que você **mensure suas conquistas**. Sem metas, qualquer esforço parece pouco, qualquer resultado parece insuficiente, e o desânimo vem mais rápido do que deveria.
 
 E isso não é só no campo pessoal. Toda grande empresa trabalha com metas:
-
 - **Meta de produtividade** para manter a equipe focada;
 - **Meta de vendas** para manter o crescimento;
 - **Meta de redução de custos** para otimizar recursos;
 - **Meta de expansão**, de inovação, de impacto.
 
 Você também pode (e deve) aplicar isso à sua realidade. Trace **metas realistas, mas desafiadoras**, que te tirem da zona de conforto sem te colocar em risco. Elas podem ser mensais, trimestrais ou anuais, mas precisam ser:
-
 - **Claras** (o quê);
 - **Quantificáveis** (quanto);
 - **Temporais** (quando);
@@ -190,7 +181,6 @@ Exemplo:
 Ter metas desafiadoras é importante, mas tão essencial quanto é acreditar que **você pode aprender o que for preciso para alcançá-las**. Isso se chama **mentalidade de crescimento**.
 
 Pessoas com essa mentalidade não se assustam com dificuldades. Elas veem cada obstáculo como uma oportunidade de:
-
 - Aprender algo novo;
 - Melhorar uma habilidade;
 - Refazer uma estratégia com mais inteligência.
@@ -207,7 +197,6 @@ Metas são importantes. Mas mais importante ainda é criar **um sistema de peque
 # *"Ter metas sem um plano de ação é como colocar o destino no GPS e desligar o carro."*
 
 Então:
-
 - Divida metas grandes em **etapas menores**;
 - Celebre **cada progresso**;
 - Reavalie constantemente o caminho.
@@ -234,7 +223,6 @@ Isso não significa que o esforço desaparece. Significa que ele começa a ser *
 Buscar excelência na entrega deve ser um valor constante. Aprimorar seu serviço, ouvir o cliente, entregar mais do que o esperado… tudo isso **gera confiança e fideliza pessoas**. Porém, é importante entender que **você nunca vai agradar a todos, e tudo bem com isso**.
 
 **Nem todo elogio será verdadeiro e nem toda crítica será justa.** Alguns vão te elogiar sem ter de fato experimentado o que você oferece. Outros vão criticar por questões que não dependem de você. Por isso, **mantenha os pés no chão**:
-
 - Use os elogios para reforçar o que está funcionando.
 - Use as críticas como filtro: veja o que é construtivo, ignore o que for mal-intencionado.
 - Não mude seu posicionamento a cada feedback. Tenha um norte claro, e ajuste o percurso com equilíbrio.

@@ -62,7 +62,6 @@ Procure a opinião de quem não te conhece. Gente distante avalia o que você fe
 ### Onde encontrar o problema que você sabe resolver
 
 A matéria-prima está espalhada e é pública. Basta olhar para os lugares onde as pessoas reclamam e pedem ajuda:
-
 - **Fóruns e comunidades**: Reddit, grupos de Facebook, Discord, comunidades de nicho. Pergunta repetida é dor confirmada.
 - **Seções de comentários e avaliações**: comentários em vídeos e avaliações negativas de produtos e livros dizem exatamente o que faltou.
 - **Buscas e sugestões automáticas**: o que as pessoas digitam no Google e no YouTube é um mapa direto do que elas não sabem.

@@ -1,30 +1,24 @@
 **1. Persona**:
-
 - **Definição**: Descreva quem o ChatGPT deve ser para fornecer a melhor resposta possível.
 - **Exemplo**: "Você é um consultor de carreira em TI com experiência em infraestrutura e suporte técnico."
 
 **2. Roteiro**:
-
 - **Definição**: Explique claramente o que você deseja obter do ChatGPT.
 - **Exemplo**: "Quero entender quais são as funções e os requisitos para a posição de analista de TI."
 
 **3. Objetivo**:
-
 - **Definição**: Declare o objetivo final da tarefa ou do conteúdo solicitado.
 - **Exemplo**: "O objetivo é saber quais conhecimentos técnicos são essenciais e quais certificações podem melhorar minhas chances de conseguir um emprego nessa área."
 
 **4. Modelo**:
-
 - **Definição**: Especifique o formato e a estrutura desejada para a resposta.
 - **Exemplo**: "Preciso da resposta estruturada em quatro partes: Requisitos Técnicos, Certificações Recomendadas, Principais Funções, e Oportunidades de Carreira."
 
 **5. Panorama**:
-
 - **Definição**: Ofereça contexto ou antecedentes sobre a situação ou o problema a ser abordado.
 - **Exemplo**: "Sou recém-formado em Sistemas de Informação e tenho interesse em trabalhar com suporte técnico e administração de redes."
 
 **6. Transformar**:
-
 - **Definição**: Indique a ação desejada ou a transformação esperada após a implementação das sugestões.
 - **Exemplo**: "Pretendo me inscrever em cursos de certificação em redes e segurança da informação e procurar vagas de analista de TI."
 

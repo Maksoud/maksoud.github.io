@@ -18,7 +18,6 @@ O ikigai é utilizado como uma ferramenta de autoajuda para descobrir o propósi
 O ponto central onde esses quatro elementos se encontram é o Ikigai, que representa a razão de ser ou propósito de vida.
 
 Aqui está uma descrição detalhada de cada área e suas intersecções:
-
 - **Paixão**: A interseção entre o que você ama e no que você é bom. Refere-se às atividades que trazem alegria e realização pessoal.
 - **Missão**: A interseção entre o que você ama e o que o mundo precisa. Relaciona-se com o trabalho que traz significado e contribui para o bem-estar dos outros.
 - **Profissão**: A interseção entre no que você é bom e pelo que você pode ser pago. Envolve atividades que utilizam suas habilidades e geram sustento financeiro.
@@ -26,7 +25,6 @@ Aqui está uma descrição detalhada de cada área e suas intersecções:
 
 ![[Diagrama Venn - Ikigai.png]]
 As intersecções adicionais formam áreas que combinam dois desses elementos:
-
 - **Satisfação, mas sensação de inutilidade**: Quando você faz algo que ama e é bom nisso, mas não vê utilidade ou não é pago por isso.
 - **Excitação e delírio, mas incerteza**: Quando você ama o que faz e o mundo precisa disso, mas você não é necessariamente bom ou não é pago por isso.
 - **Conforto, mas sensação de vazio**: Quando você é bom em algo e é pago por isso, mas não ama o que faz ou não vê como isso beneficia o mundo.
@@ -37,7 +35,6 @@ O objetivo do Ikigai é encontrar um equilíbrio entre todos esses aspectos, pro
 ### Técnicas Semelhantes
 
 Existem outras técnicas e filosofias semelhantes ao ikigai em diversas culturas, focadas na descoberta do propósito de vida e no equilíbrio pessoal:
-
 - **Logoterapia:** Desenvolvida pelo psiquiatra austríaco Viktor Frankl, a logoterapia é uma abordagem terapêutica que se concentra na busca de sentido na vida como uma força motivadora primária.
 - **Hygge:** Um conceito dinamarquês que envolve criar uma atmosfera de aconchego e bem-estar, valorizando as pequenas coisas que trazem felicidade.
 - **Filosofia Estoica:** Originada na Grécia Antiga, essa filosofia ensina a aceitar as coisas que não podemos controlar e focar no desenvolvimento pessoal e na virtude.

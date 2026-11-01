@@ -49,7 +49,6 @@ Quando quiser um estilo específico, **dê exemplos dentro do prompt**.
 
 **Exemplo:**  
 *"Exemplo de saída esperada:
-
 - Título: …
 - Corpo: …  
     Agora, gere um novo exemplo sobre o tema X."*

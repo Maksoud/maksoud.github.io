@@ -11,7 +11,6 @@ Você vai construir.
 Pegue **10: 30 documentos reais**.
 
 Pode ser:
-
 - documentação técnica;
 - PDFs;
 - artigos;

@@ -10,7 +10,6 @@ Para uma média amostral, o intervalo de confiança pode ser calculado da seguin
 ![[38.png]]
 
 Onde:
-
 - 𝑥ˉ é a média amostral,
 - 𝑍𝛼/2 é o valor crítico da distribuição normal padrão para o nível de confiança desejado,
 - 𝜎 é o desvio padrão da população (ou o desvio padrão amostral se _σ_ não for conhecido),

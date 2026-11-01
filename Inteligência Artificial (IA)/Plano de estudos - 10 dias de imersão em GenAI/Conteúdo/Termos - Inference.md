@@ -89,7 +89,6 @@ O modelo **não está sendo treinado novamente** enquanto responde.
 Porque inference é a etapa que efetivamente **consome o modelo em produção**.
 
 Isso traz questões práticas como:
-
 - **Latência**: Quanto tempo o modelo leva para responder?
 - **Custo**: Quanto processamento é necessário para gerar a resposta?
 - **Throughput**: Quantas requisições o sistema consegue processar?

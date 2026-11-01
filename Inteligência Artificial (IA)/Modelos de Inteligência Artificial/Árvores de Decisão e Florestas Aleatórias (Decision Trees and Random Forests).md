@@ -15,7 +15,6 @@ Uma **árvore de decisão** é um modelo de aprendizado baseado em uma estrutura
 #### Critérios para a Divisão (Split)
 
 A principal tarefa ao construir uma árvore de decisão é escolher a melhor divisão (split) para cada nó. Alguns critérios comuns são:
-
 - **Gini Impurity (Impureza de Gini):** Um critério que mede o grau de impureza de um nó. A impureza de Gini é mínima (0) quando todos os exemplos pertencem à mesma classe.
 - **Entropia e Ganho de Informação:** A **entropia** mede a desordem ou incerteza nos dados. O **ganho de informação** é calculado como a redução da entropia após a divisão.
 - **Erro Quadrático Médio (MSE):** Usado em tarefas de regressão, o MSE mede o erro quadrático entre as predições e os valores reais.

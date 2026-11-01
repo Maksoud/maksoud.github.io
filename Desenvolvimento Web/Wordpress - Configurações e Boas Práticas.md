@@ -18,7 +18,6 @@ Alguns arquivos padrões vêm com a instalação do WordPress e **não são mais
 ## 2. Renomear ou proteger o arquivo `wp-config.php`
 
 Esse arquivo contém **informações sensíveis de banco de dados e configurações do site**. Algumas ações recomendadas:
-
 - Mova o `wp-config.php` um diretório acima da raiz (se seu servidor permitir).   
 - Aplique permissões restritas:
 ```
@@ -46,7 +45,6 @@ Atualizações corrigem falhas de segurança. **Ative as atualizações automát
 ## 6. Alterar a rota para o WP-Admin
 
 A URL padrão é amplamente conhecida por bots e scripts maliciosos. Ao alterá-la, você:
-
 - **Reduz a exposição** a ataques automatizados;
 - **Evita sobrecarga no servidor** por requisições indevidas;
 - Adiciona uma **camada extra de proteção** (não substitui o uso de senhas fortes ou autenticação 2FA, mas complementa).
@@ -63,7 +61,6 @@ Uma forma de realizar essa alteração é através do plugin **WPS Hide Login** 
 **Você pode mudar a URL a qualquer momento**, basta atualizar o campo nas configurações.
 
 ### ⚠️ Atenção:
-
 - **Nunca apague ou renomeie arquivos do core como `wp-login.php` manualmente**, pois isso **quebra o WordPress**.
 - Sempre **anote a nova URL** para não perder o acesso.
 - Considere combinar essa prática com **2FA** e **limitação de tentativas de login**.

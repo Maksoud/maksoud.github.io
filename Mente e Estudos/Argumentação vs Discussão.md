@@ -7,7 +7,6 @@ A diferença não é “ser calmo” versus “ser intenso”. A diferença real
 ## O que é argumentar (de verdade)
 
 **Argumentar** é tentar chegar a uma conclusão melhor (seja uma decisão, um entendimento ou um consenso mínimo) usando **razões** que possam ser analisadas. Uma boa argumentação tem três pilares:
-
 - **Tese clara**: “Eu penso X.”
 - **Justificativa**: “Eu penso X por causa de Y.”
 - **Critério de validação**: “Se Z for verdade, eu mudo ou ajusto X.”
@@ -15,7 +14,6 @@ A diferença não é “ser calmo” versus “ser intenso”. A diferença real
 Ou seja: argumentar envolve **responsabilidade** pelo que se diz. Não basta ter opinião; é preciso mostrar o caminho que levou até ela.
 
 Na prática, quem argumenta costuma:
-
 - Explicitar **premissas** (“estou assumindo que…”)
 - Separar **fato, interpretação e preferência**
 - Usar **exemplos verificáveis** e dados quando existirem
@@ -29,7 +27,6 @@ Argumentação é uma forma de cooperação intelectual. Pode ter firmeza, pode 
 A discussão improdutiva não tem como meta a clareza. Ela tem como meta a **vitória**: ganhar a conversa, impor uma narrativa, manter status, “não ficar por baixo”, provar que o outro está errado, mesmo que isso custe a verdade.
 
 O problema é que, quando a prioridade vira vencer, o diálogo se transforma em um jogo onde vale quase tudo:
-
 - **achismo** como se fosse evidência
 - **certeza alta** com **base baixa**
 - mudança de assunto quando o ponto aperta
@@ -52,7 +49,6 @@ Quando não há fatos (ou pelo menos sinais concretos), a conversa pode até ser
 ## Os sinais mais comuns de uma conversa que virou disputa
 
 Alguns padrões aparecem com frequência quando alguém acredita estar “argumentando”, mas está apenas discutindo:
-
 - **Generalizações absolutas**: “sempre”, “nunca”, “todo mundo sabe”
 - **Autoridade vazia**: “eu sei porque eu sei”, “confia em mim”
 - **Provas impossíveis**: “me prova que não é assim”
@@ -65,7 +61,6 @@ Nada disso ajuda a pensar melhor. Ajuda a ganhar tempo, pressionar, confundir, m
 ## Como “puxar” a conversa para o modo argumentação (sem brigar)
 
 Nem sempre você precisa confrontar. Muitas vezes, você só precisa **mudar o trilho** da conversa com perguntas que pedem estrutura. Aqui vão algumas que funcionam bem:
-
 - “Qual é exatamente a **conclusão** que você está defendendo?”
 - “Quais são os **fatos** que sustentam isso?”
 - “O que seria um **bom critério** para decidir entre A e B?”

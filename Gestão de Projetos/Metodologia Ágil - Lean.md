@@ -5,7 +5,6 @@ No ambiente dinâmico da tecnologia da informação (TI), a busca por eficiênci
 #### O Que É Lean?
 
 O Lean nasceu na indústria manufatureira, com o sistema de produção da Toyota, e foca na eliminação de desperdícios, na entrega de valor ao cliente e na melhoria contínua. Os principais princípios do Lean são:
-
 - **Eliminar desperdícios:** Identificar e remover atividades que não agregam valor.
 - **Fluxo contínuo:** Garantir que o trabalho flua sem interrupções.
 - **Valor para o cliente:** Priorizar atividades que atendam às necessidades do cliente.
@@ -15,7 +14,6 @@ No contexto de TI, o Lean ajuda a reduzir gargalos, melhorar processos de desenv
 #### O Que É Ágil?
 
 O Ágil é uma abordagem centrada na entrega incremental e iterativa de valor, que prioriza a colaboração entre equipes, a adaptação às mudanças e a entrega frequente de resultados utilizáveis. Alguns dos princípios fundamentais do Ágil incluem:
-
 - **Indivíduos e interações acima de processos e ferramentas;**
 - **Respostas rápidas a mudanças em vez de seguir planos rígidos;**
 - **Entrega contínua de valor ao cliente.**
@@ -59,7 +57,6 @@ Embora tenham origens e focos distintos, Lean e Ágil compartilham valores e obj
 #### Benefícios da Combinação
 
 A combinação do Lean e Ágil traz diversos benefícios para projetos de TI:
-
 - **Redução de desperdícios:** Mais eficiência nos processos e menor custo.
 - **Entrega rápida de valor:** Clientes recebem soluções funcionais em ciclos mais curtos.
 - **Adaptabilidade:** Capacidade de reagir rapidamente às mudanças do mercado ou requisitos do cliente.

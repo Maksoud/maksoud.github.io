@@ -3,7 +3,6 @@
 ### **Objetivo de Aprendizado**
 
 Compreender os conceitos fundamentais por trás de modelos como o GPT, como eles aprendem, operam e geram texto. Isso inclui:
-
 - Tokens e embeddings
 - Arquitetura Transformer
 - Ajuste fino (fine-tuning) vs. engenharia de prompt

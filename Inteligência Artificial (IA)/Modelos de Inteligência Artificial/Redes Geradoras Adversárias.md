@@ -30,7 +30,6 @@ Esse jogo adversarial continua até que o **gerador produza dados suficientement
 ### Funções de Custo
 
 As GANs são treinadas usando funções de custo que refletem o jogo adversarial entre o gerador e o discriminador:
-
 - A função de custo do **discriminador** pode ser expressa como:
   \[
   \mathcal{L}_D = - \mathbb{E}_{x \sim p_{data}} [\log D(x)] - \mathbb{E}_{z \sim p_z} [\log (1 - D(G(z)))]
