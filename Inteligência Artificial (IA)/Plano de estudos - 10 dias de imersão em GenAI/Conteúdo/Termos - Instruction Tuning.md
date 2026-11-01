@@ -2,7 +2,7 @@
 
 # Instruction Tuning
 
-### 1. O que é
+## O que é?
 
 **Instruction Tuning** é uma técnica usada para **adaptar um [modelo pré-treinado](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-pretrained-model/) para seguir instruções dadas por humanos**.
 
@@ -13,7 +13,7 @@ Em termos simples:
 > **Pretraining:** aprende linguagem e padrões.  
 > **Instruction tuning:** aprende a seguir instruções.
 
-### 2. Como funciona, de forma intuitiva
+## Como funciona, de forma intuitiva
 
 Depois do pré-treinamento, podemos apresentar ao modelo muitos exemplos no formato:
 
@@ -33,7 +33,7 @@ Com isso, os [parâmetros](https://correiarodrigues.com.br/notas/inteligencia-ar
 
 Isso é diferente do pré-treinamento, no qual o objetivo principal é aprender padrões da linguagem a partir dos dados.
 
-### 3. Um exemplo
+## Um exemplo
 
 Um modelo pré-treinado pode receber:
 
@@ -54,7 +54,7 @@ O modelo ajustado para seguir instruções entende que deve **executar a tarefa 
 
 > "O tempo está bonito hoje."
 
-### 4. Por que é importante
+## Por que é importante
 
 Instruction tuning foi fundamental para transformar [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) de modelos que simplesmente aprendem e geram texto em modelos muito mais úteis como **assistentes**.
 

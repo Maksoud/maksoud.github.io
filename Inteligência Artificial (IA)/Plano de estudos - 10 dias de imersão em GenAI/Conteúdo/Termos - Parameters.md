@@ -2,7 +2,7 @@
 
 # Parameters
 
-### 1. O que é?
+## O que é?
 
 Em um [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), **parameters são os valores numéricos que o modelo aprende durante o treinamento.** Eles determinam como o modelo transforma os dados de entrada em previsões. [Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/journey/llm-fundamentals?utm_source=chatgpt.com)
 
@@ -20,7 +20,7 @@ Modelo 405B
 
 o número indica aproximadamente a quantidade de **bilhões de parâmetros** do modelo.
 
-### 2. Como funciona?
+## Como funciona?
 
 Durante o treinamento, o modelo recebe muitos exemplos e tenta prever os próximos [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/).
 
@@ -48,7 +48,7 @@ Esse processo acontece repetidamente em uma quantidade enorme de exemplos.
 
 Ao final, os parâmetros armazenam **padrões estatísticos aprendidos durante o treinamento**. Eles não são uma coleção de documentos ou fatos armazenados individualmente. [Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/journey/llm-fundamentals?utm_source=chatgpt.com)
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Imagine uma rede neural muito pequena com apenas três parâmetros:
 
@@ -68,7 +68,7 @@ Um LLM real possui **bilhões desses valores**, distribuídos pelas diferentes p
 
 Isso significa que existem aproximadamente **70 bilhões de valores aprendidos dentro da rede**.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 O número de parâmetros é uma indicação da **capacidade e do tamanho do modelo**, mas não significa automaticamente que um modelo maior seja melhor.
 

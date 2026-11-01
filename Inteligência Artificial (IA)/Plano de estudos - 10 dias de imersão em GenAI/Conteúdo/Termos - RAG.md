@@ -2,7 +2,7 @@
 
 # RAG
 
-### 1. O que é
+## O que é?
 
 **RAG** significa **Retrieval-Augmented Generation**, ou **Geração Aumentada por Recuperação**.
 
@@ -14,7 +14,7 @@ A ideia central é:
 
 > **Em vez de depender apenas do que o modelo aprendeu durante o treinamento, buscamos informações relevantes no momento da pergunta e entregamos esse contexto ao modelo.**
 
-### 2. Como funciona, de forma intuitiva
+## Como funciona, de forma intuitiva
 
 Imagine que você tenha uma empresa com milhares de documentos internos:
 - manuais;
@@ -45,7 +45,7 @@ LLM gera a resposta
 
 Assim, o modelo não precisa ter aprendido a política durante seu treinamento.
 
-### 3. Um exemplo
+## Um exemplo
 
 Imagine uma empresa com um documento:
 
@@ -63,7 +63,7 @@ O LLM então pode responder:
 
 O modelo **não precisou memorizar essa informação durante o treinamento**. Ele recebeu a informação relevante no momento da consulta.
 
-### 4. Por que é importante
+## Por que é importante
 
 RAG é extremamente importante em aplicações corporativas porque permite trabalhar com **informações específicas, privadas e que mudam frequentemente**.
 

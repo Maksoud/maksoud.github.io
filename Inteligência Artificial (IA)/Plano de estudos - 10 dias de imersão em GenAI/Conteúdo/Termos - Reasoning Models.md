@@ -2,7 +2,7 @@
 
 # Reasoning Models
 
-### 1. O que é
+## O que é?
 
 **Reasoning Models**, ou **modelos de raciocínio**, são modelos de IA projetados ou treinados para lidar melhor com problemas que exigem **várias etapas de raciocínio antes de chegar a uma resposta**.
 
@@ -16,7 +16,7 @@ Isso é especialmente útil em:
 - análise de problemas complexos;
 - tomada de decisão com várias etapas.
 
-### 2. Como funciona, de forma intuitiva
+## Como funciona, de forma intuitiva
 
 Imagine a diferença entre estas duas perguntas:
 
@@ -43,7 +43,7 @@ Uma forma simplificada de visualizar:
 
 O ponto importante é que **o modelo pode gastar mais computação para resolver o problema antes de produzir a resposta final**.
 
-### 3. Um exemplo
+## Um exemplo
 
 Considere:
 
@@ -57,7 +57,7 @@ Um modelo precisa estabelecer relações:
 
 Um modelo de raciocínio tende a ser mais adequado para esse tipo de problema porque foi otimizado para **resolver problemas em múltiplas etapas**, não apenas para produzir uma continuação linguisticamente provável.
 
-### 4. Por que é importante
+## Por que é importante
 
 Reasoning models são importantes porque ampliam o tipo de tarefa que os LLMs conseguem realizar de maneira confiável.
 

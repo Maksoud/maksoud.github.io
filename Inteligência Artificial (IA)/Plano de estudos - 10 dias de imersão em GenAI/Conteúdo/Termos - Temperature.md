@@ -2,7 +2,7 @@
 
 # Hyperparameters Temperature
 
-### 1. O que é?
+## O que é?
 
 **Temperature** é um parâmetro usado durante a geração de texto para controlar o **grau de aleatoriedade na escolha dos próximos [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)**.
 
@@ -12,7 +12,7 @@ De forma intuitiva:
 
 Ela não altera o conhecimento que o modelo possui nem seus [parâmetros](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-parameters/) aprendidos.
 
-### 2. Como funciona?
+## Como funciona?
 
 O [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) calcula probabilidades para os possíveis próximos tokens.
 
@@ -49,7 +49,7 @@ Central   → ██
 
 Isso aumenta a possibilidade de o modelo escolher alternativas menos prováveis.
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Imagine pedir:
 
@@ -77,7 +77,7 @@ Menos previsibilidade
 
 Isso não significa que **temperature alta = melhor criatividade** em qualquer situação. Existe um ponto em que aumentar a aleatoriedade pode simplesmente produzir respostas menos coerentes.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Temperature é importante porque permite adaptar a geração ao tipo de tarefa.
 

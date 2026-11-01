@@ -1,7 +1,7 @@
 [← Voltar para o Dia 1: LLMs de verdade](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-01-llms-de-verdade/)
 
 # Transformer
-### 1. O que é?
+## O que é?
 
 **Transformer** é uma **arquitetura de rede neural** criada para trabalhar especialmente bem com dados sequenciais, como texto.
 
@@ -11,7 +11,7 @@ Uma distinção importante:
 
 > **LLM é o modelo/aplicação de linguagem em grande escala. Transformer é a arquitetura que pode ser usada para construir esse modelo.**
 
-### 2. Como funciona?
+## Como funciona?
 
 O grande diferencial do Transformer é o mecanismo chamado **[Attention](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-attention/) (atenção)**.
 
@@ -35,7 +35,7 @@ De forma simplificada:
 
 Isso é muito poderoso porque o modelo consegue analisar **relações entre diferentes partes do texto**, inclusive quando estão distantes umas das outras.
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Compare:
 
@@ -51,7 +51,7 @@ O Transformer consegue usar o contexto para determinar que:
 
 Não é simplesmente uma busca pela palavra mais próxima. A **atenção permite considerar o contexto**.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque o Transformer é uma das principais peças que permitiram o avanço dos LLMs modernos.
 

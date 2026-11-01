@@ -2,13 +2,13 @@
 
 # Tokenization
 
-### 1. O que é?
+## O que é?
 
 **Tokenization (tokenização)** é o processo de **dividir um texto em [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)** para que o [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) consiga processá-lo.
 
 Se **token** é a unidade, **tokenização** é o processo de transformar o texto nessas unidades.
 
-### 2. Como funciona?
+## Como funciona?
 
 De forma simplificada:
 
@@ -38,7 +38,7 @@ Cada token recebe então um **ID numérico** que o modelo consegue processar.
 
 Importante: **a tokenização depende do modelo**. Dois LLMs podem dividir exatamente o mesmo texto de maneiras diferentes.
 
-### 3. Um exemplo
+## Um exemplo
 
 Considere:
 
@@ -54,7 +54,7 @@ Enquanto uma palavra muito comum poderia permanecer como um único token.
 
 Isso também explica por que uma palavra em português pode consumir uma quantidade de tokens diferente da mesma palavra em inglês.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque a tokenização determina, entre outras coisas:
 - **quanto texto cabe no contexto do modelo**;

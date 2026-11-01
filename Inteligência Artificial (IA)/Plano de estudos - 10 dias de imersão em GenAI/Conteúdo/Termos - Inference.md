@@ -2,7 +2,7 @@
 
 # Inference
 
-### 1. O que é?
+## O que é?
 
 **Inference (inferência)** é o processo de **usar um modelo já treinado para produzir uma saída a partir de uma entrada**.
 
@@ -12,7 +12,7 @@ A distinção fundamental é:
 
 > **Training ensina o modelo. Inference utiliza o que ele aprendeu.**
 
-### 2. Como funciona?
+## Como funciona?
 
 De forma simplificada:
 
@@ -52,7 +52,7 @@ Por exemplo:
 
 Depois de gerar "França", o modelo pode continuar a sequência, dependendo do que foi solicitado.
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Imagine que você tenha um modelo treinado.
 
@@ -84,7 +84,7 @@ Resposta
 
 O modelo **não está sendo treinado novamente** enquanto responde.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque inference é a etapa que efetivamente **consome o modelo em produção**.
 

@@ -2,7 +2,7 @@
 
 # RLHF
 
-### 1. O que é
+## O que é?
 
 **RLHF** significa **Reinforcement Learning from Human Feedback**, ou **Aprendizado por Reforço a partir de Feedback Humano**.
 
@@ -10,7 +10,7 @@
 
 Enquanto o **[Instruction Tuning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-instruction-tuning/)** ensina o modelo a seguir instruções usando exemplos, o RLHF busca ensinar **quais respostas são melhores ou piores segundo avaliações humanas**.
 
-### 2. Como funciona, de forma intuitiva
+## Como funciona, de forma intuitiva
 
 Imagine que fazemos uma pergunta ao modelo:
 
@@ -45,7 +45,7 @@ Modelo de recompensa aprende essas preferências
 Reinforcement Learning ajusta o modelo
 ```
 
-### 3. Um exemplo
+## Um exemplo
 
 Imagine que o usuário pergunte:
 
@@ -63,7 +63,7 @@ O RLHF ajuda o sistema a aprender esse tipo de preferência:
 
 > **Não basta produzir uma resposta possível. Queremos produzir uma resposta que seja útil, adequada e alinhada ao que as pessoas esperam.**
 
-### 4. Por que é importante
+## Por que é importante
 
 RLHF ajudou a tornar os [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) muito mais adequados para interação com humanos.
 

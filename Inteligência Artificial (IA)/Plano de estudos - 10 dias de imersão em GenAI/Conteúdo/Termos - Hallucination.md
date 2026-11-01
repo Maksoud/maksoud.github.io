@@ -2,13 +2,13 @@
 
 # Hallucination
 
-### 1. O que é
+## O que é?
 
 **Hallucination**, ou **alucinação**, acontece quando um modelo de IA gera uma informação **falsa, imprecisa ou inventada**, mas apresenta essa informação de maneira que parece verdadeira.
 
 O ponto importante é que o modelo não está necessariamente "mentindo". Ele está gerando uma resposta com base nos padrões que aprendeu e nas informações disponíveis no contexto, mesmo quando não possui evidência suficiente para responder corretamente.
 
-### 2. Como funciona, de forma intuitiva
+## Como funciona, de forma intuitiva
 
 Um [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) funciona essencialmente prevendo quais [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) são mais prováveis de aparecer em seguida.
 
@@ -33,7 +33,7 @@ Uma forma simples de pensar:
 **LLM:** "Qual resposta parece mais provável neste contexto?"  
 **Não necessariamente:** "Qual resposta foi comprovadamente verdadeira?"
 
-### 3. Um exemplo
+## Um exemplo
 
 Imagine um chatbot conectado a uma empresa.
 
@@ -53,7 +53,7 @@ Em um sistema bem projetado, o chatbot deveria dizer algo como:
 
 Aqui entra uma ideia importante para aplicações de IA: **dar ao modelo acesso às informações necessárias antes de pedir que ele responda**.
 
-### 4. Por que é importante
+## Por que é importante
 
 Hallucination é um dos principais problemas de aplicações baseadas em LLMs, especialmente quando a resposta precisa ser factual.
 

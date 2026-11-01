@@ -2,13 +2,13 @@
 
 # Pretrained Model
 
-### 1. O que é
+## O que é?
 
 **Pretrained Model**, ou **modelo pré-treinado**, é um modelo de IA que **já passou por uma etapa inicial de treinamento com uma grande quantidade de dados** antes de ser disponibilizado para uso ou para receber um treinamento adicional.
 
 No contexto de [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), é o modelo que já aprendeu padrões de linguagem, estruturas, relações entre palavras e outros padrões presentes nos dados utilizados durante o treinamento.
 
-### 2. Como funciona, de forma intuitiva
+## Como funciona, de forma intuitiva
 
 Imagine que queremos criar um modelo capaz de trabalhar com linguagem.
 
@@ -28,7 +28,7 @@ Uma visão simplificada seria:
 
 **Dados → Pré-treinamento → Pretrained Model → Adaptação/uso → Aplicação**
 
-### 3. Um exemplo
+## Um exemplo
 
 Imagine um modelo que foi pré-treinado com uma enorme quantidade de textos.
 
@@ -46,7 +46,7 @@ Podemos então adaptá-lo para, por exemplo, **seguir instruções**, responder 
 
 É aqui que aparecem conceitos como **fine-tuning** e **[instruction tuning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-instruction-tuning/)**, que são formas de adaptar um modelo pré-treinado.
 
-### 4. Por que é importante
+## Por que é importante
 
 O conceito é importante porque **treinar um LLM do zero é extremamente caro e complexo**.
 

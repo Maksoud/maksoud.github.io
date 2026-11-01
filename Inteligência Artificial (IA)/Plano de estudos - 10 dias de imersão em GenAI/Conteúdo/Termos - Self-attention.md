@@ -2,7 +2,7 @@
 
 # Self-attention
 
-### 1. O que é?
+## O que é?
 
 **Self-Attention** é um mecanismo pelo qual cada [token](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) de uma sequência pode **analisar a relação com os outros tokens da própria sequência**.
 
@@ -10,7 +10,7 @@ O termo _self_ vem justamente daí. A atenção acontece dentro da própria sequ
 
 O conceito foi central na arquitetura [Transformer](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-transformer/) apresentada no artigo _Attention Is All You Need_, de 2017. [Google Pesquisa](https://research.google/pubs/attention-is-all-you-need/?utm_source=chatgpt.com)
 
-### 2. Como funciona?
+## Como funciona?
 
 Imagine:
 
@@ -35,7 +35,7 @@ Os valores de atenção são calculados matematicamente. O resultado é uma nova
 
 Uma característica importante é que isso permite capturar relações entre tokens que estão **distantes entre si**. [Attention Is All You Need](https://attentionisallyouneed.uk/?utm_source=chatgpt.com)
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Considere:
 
@@ -71,7 +71,7 @@ praça
 
 Portanto, o significado representado pelo modelo depende do contexto.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 O Self-Attention é uma das principais características que tornam o Transformer tão eficiente para trabalhar com linguagem. A arquitetura consegue relacionar diferentes posições de uma sequência diretamente, em vez de depender de um processamento necessariamente sequencial como nas arquiteturas recorrentes anteriores. [Google Pesquisa](https://research.google/pubs/attention-is-all-you-need/?utm_source=chatgpt.com)
 

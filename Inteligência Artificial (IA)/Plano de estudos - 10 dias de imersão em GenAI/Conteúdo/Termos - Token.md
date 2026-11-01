@@ -1,7 +1,7 @@
 [← Voltar para o Dia 1: LLMs de verdade](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-01-llms-de-verdade/)
 
 # Token
-### 1. O que é?
+## O que é?
 
 **Token** é uma unidade de texto que o [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) consegue processar.
 
@@ -19,7 +19,7 @@ poderia ser dividida aproximadamente em:
 
 A divisão exata depende do **tokenizador** utilizado pelo modelo.
 
-### 2. Como funciona?
+## Como funciona?
 
 Antes de o LLM processar seu texto, ele passa por um processo chamado **[tokenização](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-tokenization/)**:
 
@@ -47,7 +47,7 @@ Por exemplo:
 
 O modelo não trabalha diretamente com as palavras como nós as enxergamos. Ele trabalha com **representações numéricas desses tokens**.
 
-### 3. Um exemplo interessante
+## Um exemplo interessante
 
 Uma palavra pouco comum pode ser dividida em vários tokens.
 
@@ -67,7 +67,7 @@ Enquanto uma palavra muito comum pode ser um único token.
 
 Por isso, **número de palavras ≠ número de tokens**.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque praticamente tudo em LLMs está relacionado a tokens.
 

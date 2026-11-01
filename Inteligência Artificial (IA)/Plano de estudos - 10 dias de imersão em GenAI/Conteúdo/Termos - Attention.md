@@ -2,7 +2,7 @@
 
 # Attention
 
-### 1. O que é?
+## O que é?
 
 **Attention (atenção)** é um mecanismo que permite ao modelo **determinar quais partes de uma entrada são mais relevantes para interpretar cada parte do texto**.
 
@@ -14,7 +14,7 @@ A ideia intuitiva é:
 
 ---
 
-### 2. Como funciona?
+## Como funciona?
 
 Considere:
 
@@ -50,7 +50,7 @@ Os números acima são apenas ilustrativos.
 
 ---
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Veja duas frases:
 
@@ -94,7 +94,7 @@ olha para o contexto
 
 ---
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque a attention é uma das principais razões pelas quais os **Transformers conseguem lidar tão bem com contexto e relações entre tokens**.
 
@@ -150,7 +150,7 @@ Attention(Q, K, V) = softmax(Q · Kᵀ / √d) · V
 
 O "√d" só serve para manter os números em uma escala estável.
 
-Um detalhe importante: Query, Key e Value **não precisam vir da mesma sequência**. Na tradução, por exemplo, a Query vem da frase que está sendo gerada e as Keys e Values vêm da frase original (isso se chama **Cross-Attention**). Quando os três vêm da mesma sequência, temos o **Self-Attention**.
+Um detalhe importante: Query, Key e Value **não precisam vir da mesma sequência**. Na tradução, por exemplo, a Query vem da frase que está sendo gerada e as Keys e Values vêm da frase original (isso se chama **Cross-Attention**). Quando os três vêm da mesma sequência, temos o **Self-Attention.**
 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-attention/)
 

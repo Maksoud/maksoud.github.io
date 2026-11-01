@@ -1,7 +1,7 @@
 [← Voltar para o Dia 1: LLMs de verdade](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-01-llms-de-verdade/)
 
 # LLM
-### 1. O que é?
+## O que é?
 
 **LLM** significa **Large Language Model**, ou **Modelo de Linguagem de Grande Escala**.
 
@@ -9,7 +9,7 @@
 
 Exemplos conhecidos incluem modelos da família GPT, Claude, Gemini e Llama.
 
-### 2. Como funciona?
+## Como funciona?
 
 De forma simplificada:
 
@@ -41,7 +41,7 @@ o modelo não está simplesmente procurando essa frase em um banco de dados. Ele
 
 Tecnicamente, ele faz isso trabalhando com **[tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)** e calculando probabilidades sobre o que deve vir a seguir.
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Imagine que você escreva:
 
@@ -60,7 +60,7 @@ Ele então seleciona um token e continua o processo.
 
 É dessa repetição que surge uma resposta aparentemente complexa.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque **LLM é a base de grande parte da IA generativa atual voltada para linguagem**.
 

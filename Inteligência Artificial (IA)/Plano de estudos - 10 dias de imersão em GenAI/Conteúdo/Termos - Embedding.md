@@ -2,7 +2,7 @@
 
 # Embedding
 
-### 1. O que é?
+## O que é?
 
 **Embedding** é uma **representação numérica de um conteúdo**, como uma palavra, frase, documento ou imagem, em forma de um **vetor de números**.
 
@@ -18,7 +18,7 @@ em algo como:
 
 Esse vetor representa características semânticas daquele conteúdo.
 
-### 2. Como funciona?
+## Como funciona?
 
 Imagine que temos:
 
@@ -54,7 +54,7 @@ Visualmente, podemos imaginar:
 
 Essa proximidade permite trabalhar matematicamente com **similaridade semântica**.
 
-### 3. Um exemplo prático
+## Um exemplo prático
 
 Imagine uma busca:
 
@@ -80,7 +80,7 @@ mesmo que as palavras **não sejam exatamente iguais**.
 
 É justamente essa característica que torna embeddings muito importantes para **busca semântica**.
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Embeddings são fundamentais em aplicações como:
 - **[RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/)**

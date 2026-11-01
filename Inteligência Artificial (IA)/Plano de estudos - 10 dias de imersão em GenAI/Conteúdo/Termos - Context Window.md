@@ -2,7 +2,7 @@
 
 # Context Window
 
-### 1. O que é?
+## O que é?
 
 **Context Window**, ou **janela de contexto**, é a quantidade máxima de **[tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) que um modelo consegue considerar dentro de uma interação**. [Claude Platform](https://platform.claude.com/docs/pt-BR/build-with-claude/context-windows?utm_source=chatgpt.com)
 
@@ -10,7 +10,7 @@ Pense nela como a **memória de trabalho do [LLM](https://correiarodrigues.com.b
 
 Não é a quantidade de informação que o modelo aprendeu durante o treinamento. É a quantidade de informação que ele consegue **ter disponível naquele momento** para produzir uma resposta. [Claude Platform](https://platform.claude.com/docs/pt-BR/build-with-claude/context-windows?utm_source=chatgpt.com)
 
-### 2. Como funciona?
+## Como funciona?
 
 Imagine que um modelo tenha uma janela de contexto de **100.000 tokens**.
 
@@ -33,7 +33,7 @@ Tudo isso precisa caber no limite do modelo. [Microsoft Learn](https://learn.mic
 
 Por isso, **context window é medido em tokens, não em palavras**.
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Imagine uma conversa muito longa.
 
@@ -58,7 +58,7 @@ O contexto vai ficando maior.
 
 Se a quantidade de tokens ultrapassar a capacidade da janela, o sistema precisa **reduzir ou administrar o contexto**, por exemplo resumindo partes anteriores, removendo informações antigas ou recuperando apenas informações relevantes. [Claude Platform](https://platform.claude.com/docs/pt-BR/build-with-claude/context-windows?utm_source=chatgpt.com)
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Porque o tamanho da janela influencia diretamente o tipo de tarefa que podemos fazer.
 
