@@ -6,7 +6,7 @@
 
 **Pretrained Model**, ou **modelo pré-treinado**, é um modelo de IA que **já passou por uma etapa inicial de treinamento com uma grande quantidade de dados** antes de ser disponibilizado para uso ou para receber um treinamento adicional.
 
-No contexto de LLMs, é o modelo que já aprendeu padrões de linguagem, estruturas, relações entre palavras e outros padrões presentes nos dados utilizados durante o treinamento.
+No contexto de [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), é o modelo que já aprendeu padrões de linguagem, estruturas, relações entre palavras e outros padrões presentes nos dados utilizados durante o treinamento.
 
 ### 2. Como funciona, de forma intuitiva
 
@@ -18,7 +18,7 @@ Primeiro, fornecemos enormes quantidades de textos durante o treinamento. O mode
 
 provavelmente será seguido por algo relacionado à localização geográfica.
 
-Ele não está simplesmente armazenando frases. Durante o treinamento, seus **parâmetros** são ajustados para aprender padrões presentes nos dados.
+Ele não está simplesmente armazenando frases. Durante o treinamento, seus **[parâmetros](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-parameters/)** são ajustados para aprender padrões presentes nos dados.
 
 Ao final dessa etapa, temos um **pretrained model**.
 
@@ -44,7 +44,7 @@ Mas isso não significa que ele esteja necessariamente otimizado para uma tarefa
 
 Podemos então adaptá-lo para, por exemplo, **seguir instruções**, responder perguntas ou atuar como assistente.
 
-É aqui que aparecem conceitos como **fine-tuning** e **instruction tuning**, que são formas de adaptar um modelo pré-treinado.
+É aqui que aparecem conceitos como **fine-tuning** e **[instruction tuning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-instruction-tuning/)**, que são formas de adaptar um modelo pré-treinado.
 
 ### 4. Por que é importante
 
@@ -58,7 +58,7 @@ Por exemplo:
 
 ou:
 
-> **Modelo pré-treinado → RAG → aplicação com conhecimento específico**
+> **Modelo pré-treinado → [RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/) → aplicação com conhecimento específico**
 
 Isso é uma das razões pelas quais os modelos pré-treinados são tão importantes no ecossistema de IA generativa.
 

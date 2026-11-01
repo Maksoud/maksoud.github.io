@@ -83,7 +83,7 @@ mesmo que as palavras **não sejam exatamente iguais**.
 ### 4. Por que é importante?
 
 Embeddings são fundamentais em aplicações como:
-- **RAG**
+- **[RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/)**
 - busca semântica
 - sistemas de recomendação
 - classificação
@@ -112,7 +112,7 @@ LLM
 
 ### Uma distinção importante
 
-**Token e embedding não são a mesma coisa.**
+**[Token](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) e embedding não são a mesma coisa.**
 
 ```
 Texto

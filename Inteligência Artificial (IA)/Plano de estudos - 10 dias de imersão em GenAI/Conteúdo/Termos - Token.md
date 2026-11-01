@@ -3,7 +3,7 @@
 # Token
 ### 1. O que é?
 
-**Token** é uma unidade de texto que o LLM consegue processar.
+**Token** é uma unidade de texto que o [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) consegue processar.
 
 Um token **não é necessariamente uma palavra**. Dependendo do texto, pode ser uma palavra inteira, parte de uma palavra, pontuação ou até um espaço associado a caracteres.
 
@@ -21,7 +21,7 @@ A divisão exata depende do **tokenizador** utilizado pelo modelo.
 
 ### 2. Como funciona?
 
-Antes de o LLM processar seu texto, ele passa por um processo chamado **tokenização**:
+Antes de o LLM processar seu texto, ele passa por um processo chamado **[tokenização](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-tokenization/)**:
 
 ```
 Texto
@@ -72,7 +72,7 @@ Por isso, **número de palavras ≠ número de tokens**.
 Porque praticamente tudo em LLMs está relacionado a tokens.
 
 Quando você ouvir:
-- **context window de 128k tokens**
+- **[context window](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-window/) de 128k tokens**
 - **custo de X dólares por milhão de tokens**
 - **input tokens / output tokens**
 - **token limit**
@@ -82,7 +82,7 @@ todos estão falando dessa unidade.
 
 E existe uma consequência prática importante:
 
-> **Quanto mais tokens você coloca no contexto, mais informação o modelo precisa processar e, em geral, maior pode ser o custo e o tempo de inferência.**
+> **Quanto mais tokens você coloca no contexto, mais informação o modelo precisa processar e, em geral, maior pode ser o custo e o tempo de [inferência](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-inference/).**
 
 Uma forma simples de guardar:
 

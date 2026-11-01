@@ -10,7 +10,7 @@ O ponto importante é que o modelo não está necessariamente "mentindo". Ele es
 
 ### 2. Como funciona, de forma intuitiva
 
-Um LLM funciona essencialmente prevendo quais tokens são mais prováveis de aparecer em seguida.
+Um [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) funciona essencialmente prevendo quais [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) são mais prováveis de aparecer em seguida.
 
 Isso significa que ele não possui, por padrão, um mecanismo interno que funcione como:
 
@@ -68,7 +68,7 @@ Ela pode causar problemas em:
 
 Por isso, aplicações profissionais utilizam estratégias para **reduzir e detectar alucinações**, como:
 - fornecer contexto confiável ao modelo
-- usar **RAG** para buscar informações antes da geração
+- usar **[RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/)** para buscar informações antes da geração
 - exigir citações ou fontes
 - validar a resposta posteriormente
 - limitar o modelo a informações disponíveis

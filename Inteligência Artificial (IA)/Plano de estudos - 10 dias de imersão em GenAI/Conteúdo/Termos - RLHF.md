@@ -8,7 +8,7 @@
 
 É uma técnica usada para **alinhar o comportamento de um modelo de IA às preferências humanas**.
 
-Enquanto o **Instruction Tuning** ensina o modelo a seguir instruções usando exemplos, o RLHF busca ensinar **quais respostas são melhores ou piores segundo avaliações humanas**.
+Enquanto o **[Instruction Tuning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-instruction-tuning/)** ensina o modelo a seguir instruções usando exemplos, o RLHF busca ensinar **quais respostas são melhores ou piores segundo avaliações humanas**.
 
 ### 2. Como funciona, de forma intuitiva
 
@@ -65,7 +65,7 @@ O RLHF ajuda o sistema a aprender esse tipo de preferência:
 
 ### 4. Por que é importante
 
-RLHF ajudou a tornar os LLMs muito mais adequados para interação com humanos.
+RLHF ajudou a tornar os [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) muito mais adequados para interação com humanos.
 
 Ele pode melhorar aspectos como:
 - seguir instruções;
@@ -88,7 +88,7 @@ Ele pode melhorar aspectos como:
 **RLHF:**  
 "Aprenda quais tipos de respostas os humanos tendem a preferir."
 
-Essa sequência ajuda bastante a entender como um LLM passa de um **modelo pré-treinado** para um **assistente conversacional**.
+Essa sequência ajuda bastante a entender como um LLM passa de um **[modelo pré-treinado](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-pretrained-model/)** para um **assistente conversacional**.
 
 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rlhf/)

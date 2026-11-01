@@ -4,7 +4,7 @@
 
 ### 1. O que é?
 
-**Tokenization (tokenização)** é o processo de **dividir um texto em tokens** para que o LLM consiga processá-lo.
+**Tokenization (tokenização)** é o processo de **dividir um texto em [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)** para que o [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) consiga processá-lo.
 
 Se **token** é a unidade, **tokenização** é o processo de transformar o texto nessas unidades.
 

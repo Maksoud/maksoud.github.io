@@ -4,11 +4,11 @@
 
 ### 1. O que é?
 
-**Self-Attention** é um mecanismo pelo qual cada token de uma sequência pode **analisar a relação com os outros tokens da própria sequência**.
+**Self-Attention** é um mecanismo pelo qual cada [token](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) de uma sequência pode **analisar a relação com os outros tokens da própria sequência**.
 
 O termo _self_ vem justamente daí. A atenção acontece dentro da própria sequência.
 
-O conceito foi central na arquitetura Transformer apresentada no artigo _Attention Is All You Need_, de 2017. [Google Pesquisa](https://research.google/pubs/attention-is-all-you-need/?utm_source=chatgpt.com)
+O conceito foi central na arquitetura [Transformer](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-transformer/) apresentada no artigo _Attention Is All You Need_, de 2017. [Google Pesquisa](https://research.google/pubs/attention-is-all-you-need/?utm_source=chatgpt.com)
 
 ### 2. Como funciona?
 
@@ -77,49 +77,48 @@ O Self-Attention é uma das principais características que tornam o Transformer
 
 Uma forma boa de guardar:
 
-> **Attention é o mecanismo de atenção. Self-Attention é quando essa atenção relaciona os elementos dentro da própria sequência.**
+> **[Attention](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-attention/) é o mecanismo de atenção. Self-Attention é quando essa atenção relaciona os elementos dentro da própria sequência.**
 
 E um detalhe que será útil quando chegarmos aos próximos conceitos: **Self-Attention utiliza as chamadas Query, Key e Value para calcular essas relações**. 
 
 ---
-### Complemento: Query, Key e Value
+### Complemento: Query, Key e Value no Self-Attention
 
-Para realizar essa operação, o Transformer transforma cada token em três representações:
+O que define o Self-Attention é que **Query, Key e Value saem da mesma sequência**. Cada token gera os três ao mesmo tempo:
+- **Query (Q)**: o que este token precisa entender a partir do resto da frase.
+- **Key (K)**: como este token se apresenta para os outros tokens.
+- **Value (V)**: o que este token tem a contribuir se for considerado relevante.
 
-**Query (Q)**  
-Representa o que o token está procurando ou tentando entender.
+Assim, cada token faz uma pergunta para todos os outros (e para si mesmo) da própria frase. Veja um exemplo:
 
-**Key (K)**  
-Representa quais características aquele token oferece para ser encontrado.
-
-**Value (V)**  
-Representa a informação que será utilizada caso aquele token seja considerado relevante.
-
-Uma analogia simples seria uma busca:
+> "O gato subiu no telhado porque **ele** estava com medo."
 
 ```
-Query
-"Que informação é relevante para mim?"
+Query de "ele"
+"A quem eu me refiro?"
 
         ↓
 
-Keys
-"Eu tenho esta informação."
-"Eu tenho aquela informação."
-"Eu tenho outra informação."
+Keys da mesma frase
+"O" → artigo
+"gato" → animal, sujeito
+"telhado" → lugar
+"medo" → sentimento
 
         ↓
 
-Attention
-"Qual delas é mais relevante?"
+Comparação
+"gato" combina muito, "telhado" pouco
 
         ↓
 
 Values
-"Então vou utilizar esta informação."
+A nova representação de "ele" recebe principalmente a informação de "gato"
 ```
 
-O cálculo de attention determina o quanto cada **Key** combina com uma **Query** e usa esses resultados para combinar os **Values**.
+E isso acontece **para todos os tokens ao mesmo tempo**: "subiu" também consulta a frase e descobre que quem subiu foi o gato, "medo" se relaciona com "ele", e assim por diante. No final, cada token deixa de ter um significado isolado e passa a carregar o contexto da frase inteira.
+
+Em modelos que geram texto, como o GPT, existe uma restrição extra: cada token só pode consultar os tokens **anteriores** a ele, nunca os futuros (isso se chama **Masked** ou **Causal Self-Attention**). Afinal, o modelo não pode "espiar" a palavra que ainda vai prever.
 
 Você não precisa decorar as fórmulas agora. Para o seu material, basta guardar:
 

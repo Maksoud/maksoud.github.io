@@ -4,17 +4,17 @@
 
 ### 1. O que é?
 
-**Temperature** é um parâmetro usado durante a geração de texto para controlar o **grau de aleatoriedade na escolha dos próximos tokens**.
+**Temperature** é um parâmetro usado durante a geração de texto para controlar o **grau de aleatoriedade na escolha dos próximos [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)**.
 
 De forma intuitiva:
 
 > **Temperature baixa tende a tornar a resposta mais previsível. Temperature alta tende a aumentar a variedade das respostas.**
 
-Ela não altera o conhecimento que o modelo possui nem seus parâmetros aprendidos.
+Ela não altera o conhecimento que o modelo possui nem seus [parâmetros](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-parameters/) aprendidos.
 
 ### 2. Como funciona?
 
-O LLM calcula probabilidades para os possíveis próximos tokens.
+O [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) calcula probabilidades para os possíveis próximos tokens.
 
 Por exemplo:
 
@@ -87,7 +87,7 @@ Para tarefas em que você quer **explorar diferentes possibilidades**, uma confi
 
 Um ponto importante para guardar:
 
-> **Temperature atua na distribuição de probabilidade dos próximos tokens durante a inferência. Ela não modifica os parâmetros aprendidos pelo modelo.**
+> **Temperature atua na distribuição de probabilidade dos próximos tokens durante a [inferência](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-inference/). Ela não modifica os parâmetros aprendidos pelo modelo.**
 
 E isso conecta diretamente com os conceitos anteriores:
 

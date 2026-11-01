@@ -4,9 +4,9 @@
 
 ### 1. O que é?
 
-**Context Window**, ou **janela de contexto**, é a quantidade máxima de **tokens que um modelo consegue considerar dentro de uma interação**. [Claude Platform](https://platform.claude.com/docs/pt-BR/build-with-claude/context-windows?utm_source=chatgpt.com)
+**Context Window**, ou **janela de contexto**, é a quantidade máxima de **[tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) que um modelo consegue considerar dentro de uma interação**. [Claude Platform](https://platform.claude.com/docs/pt-BR/build-with-claude/context-windows?utm_source=chatgpt.com)
 
-Pense nela como a **memória de trabalho do LLM durante aquela requisição**.
+Pense nela como a **memória de trabalho do [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) durante aquela requisição**.
 
 Não é a quantidade de informação que o modelo aprendeu durante o treinamento. É a quantidade de informação que ele consegue **ter disponível naquele momento** para produzir uma resposta. [Claude Platform](https://platform.claude.com/docs/pt-BR/build-with-claude/context-windows?utm_source=chatgpt.com)
 
@@ -80,7 +80,7 @@ Histórico extenso
 LLM
 ```
 
-**Mais contexto em RAG**
+**Mais contexto em [RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/)**
 
 ```
 Pergunta

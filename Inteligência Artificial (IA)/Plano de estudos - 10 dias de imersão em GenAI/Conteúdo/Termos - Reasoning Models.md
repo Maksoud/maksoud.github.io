@@ -6,7 +6,7 @@
 
 **Reasoning Models**, ou **modelos de raciocínio**, são modelos de IA projetados ou treinados para lidar melhor com problemas que exigem **várias etapas de raciocínio antes de chegar a uma resposta**.
 
-Enquanto um LLM tradicional pode responder principalmente com base nos padrões aprendidos, um reasoning model é otimizado para dedicar mais processamento à resolução de problemas complexos.
+Enquanto um [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) tradicional pode responder principalmente com base nos padrões aprendidos, um reasoning model é otimizado para dedicar mais processamento à resolução de problemas complexos.
 
 Isso é especialmente útil em:
 - matemática;
@@ -73,7 +73,7 @@ A principal diferença conceitual é:
 
 Isso não significa que reasoning models sejam infalíveis. Eles também podem cometer erros ou até produzir conclusões incorretas.
 
-Outro ponto importante: **reasoning model não significa necessariamente que o modelo tenha uma "mente" ou consciência que raciocina como um ser humano**. É uma categoria de modelos e técnicas de treinamento/inferência voltadas para melhorar a resolução de problemas complexos.
+Outro ponto importante: **reasoning model não significa necessariamente que o modelo tenha uma "mente" ou consciência que raciocina como um ser humano**. É uma categoria de modelos e técnicas de treinamento/[inferência](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-inference/) voltadas para melhorar a resolução de problemas complexos.
 
 ### Um conceito complementar
 

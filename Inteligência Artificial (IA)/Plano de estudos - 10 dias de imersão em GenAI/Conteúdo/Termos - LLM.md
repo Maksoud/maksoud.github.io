@@ -39,7 +39,7 @@ o modelo não está simplesmente procurando essa frase em um banco de dados. Ele
 
 > "A capital da França é Paris."
 
-Tecnicamente, ele faz isso trabalhando com **tokens** e calculando probabilidades sobre o que deve vir a seguir.
+Tecnicamente, ele faz isso trabalhando com **[tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)** e calculando probabilidades sobre o que deve vir a seguir.
 
 ### 3. Um exemplo simples
 
@@ -64,7 +64,7 @@ Ele então seleciona um token e continua o processo.
 
 Porque **LLM é a base de grande parte da IA generativa atual voltada para linguagem**.
 
-Quando você ouvir termos como **RAG, agentes, prompt engineering, tool calling, fine-tuning**, normalmente existe um LLM no centro desse sistema.
+Quando você ouvir termos como **[RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/), agentes, prompt engineering, tool calling, fine-tuning**, normalmente existe um LLM no centro desse sistema.
 
 Mas um detalhe importante: **LLM não é sinônimo de ChatGPT**.
 

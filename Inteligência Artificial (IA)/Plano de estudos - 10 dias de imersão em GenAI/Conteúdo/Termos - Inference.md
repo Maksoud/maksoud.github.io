@@ -6,7 +6,7 @@
 
 **Inference (inferência)** é o processo de **usar um modelo já treinado para produzir uma saída a partir de uma entrada**.
 
-No contexto de LLMs, é o momento em que você faz uma pergunta e o modelo gera uma resposta.
+No contexto de [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), é o momento em que você faz uma pergunta e o modelo gera uma resposta.
 
 A distinção fundamental é:
 
@@ -38,7 +38,7 @@ Próximo token
 Resposta
 ```
 
-O modelo utiliza os **parâmetros aprendidos durante o treinamento** para calcular quais tokens são mais prováveis de aparecer em seguida.
+O modelo utiliza os **[parâmetros](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-parameters/) aprendidos durante o treinamento** para calcular quais [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) são mais prováveis de aparecer em seguida.
 
 Por exemplo:
 
@@ -68,7 +68,7 @@ Parâmetros ajustados
 
 Depois, você pergunta:
 
-> "Explique o que é RAG."
+> "Explique o que é [RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/)."
 
 Isso é **inference**:
 

@@ -4,9 +4,9 @@
 
 ### 1. O que é?
 
-**Top-p**, também chamado de **nucleus sampling**, é um parâmetro usado durante a geração para controlar **quais tokens podem ser considerados na escolha do próximo token**.
+**Top-p**, também chamado de **nucleus sampling**, é um parâmetro usado durante a geração para controlar **quais [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) podem ser considerados na escolha do próximo token**.
 
-A diferença fundamental em relação à Temperature é:
+A diferença fundamental em relação à [Temperature](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-temperature/) é:
 
 > **Temperature altera as probabilidades. Top-p limita o conjunto de opções consideradas.**
 

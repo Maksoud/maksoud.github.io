@@ -4,7 +4,7 @@
 
 ### 1. O que é?
 
-Em um LLM, **parameters são os valores numéricos que o modelo aprende durante o treinamento.** Eles determinam como o modelo transforma os dados de entrada em previsões. [Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/journey/llm-fundamentals?utm_source=chatgpt.com)
+Em um [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), **parameters são os valores numéricos que o modelo aprende durante o treinamento.** Eles determinam como o modelo transforma os dados de entrada em previsões. [Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/journey/llm-fundamentals?utm_source=chatgpt.com)
 
 Uma forma intuitiva de pensar:
 
@@ -22,7 +22,7 @@ o número indica aproximadamente a quantidade de **bilhões de parâmetros** do 
 
 ### 2. Como funciona?
 
-Durante o treinamento, o modelo recebe muitos exemplos e tenta prever os próximos tokens.
+Durante o treinamento, o modelo recebe muitos exemplos e tenta prever os próximos [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/).
 
 Quando erra, um processo de otimização ajusta seus parâmetros para reduzir o erro.
 
@@ -60,7 +60,7 @@ Parâmetro C = -0,4
 
 Esses números influenciam os cálculos realizados pelo modelo.
 
-Um LLM real possui **bilhões desses valores**, distribuídos pelas diferentes partes da arquitetura Transformer. [BfDI](https://www.bfdi.bund.de/SharedDocs/Downloads/EN/Berlin-Group/20241206-WP-LLMs.pdf?__blob=publicationFile&v=2&utm_source=chatgpt.com)
+Um LLM real possui **bilhões desses valores**, distribuídos pelas diferentes partes da arquitetura [Transformer](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-transformer/). [BfDI](https://www.bfdi.bund.de/SharedDocs/Downloads/EN/Berlin-Group/20241206-WP-LLMs.pdf?__blob=publicationFile&v=2&utm_source=chatgpt.com)
 
 É por isso que você verá expressões como:
 
@@ -80,7 +80,7 @@ Existe ainda uma distinção importante para sua lista:
 
 Parâmetros são aprendidos pelo modelo durante o treinamento.
 
-Hyperparameters são configurações definidas para controlar aspectos do treinamento ou da geração. **Temperature** e **top-p**, por exemplo, são hyperparameters utilizados na inferência. [IBM](https://www.ibm.com/think/topics/llm-parameters?trk=article-ssr-frontend-pulse_little-text-block&utm_source=chatgpt.com)
+Hyperparameters são configurações definidas para controlar aspectos do treinamento ou da geração. **[Temperature](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-temperature/)** e **[top-p](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-top-p/)**, por exemplo, são hyperparameters utilizados na [inferência](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-inference/). [IBM](https://www.ibm.com/think/topics/llm-parameters?trk=article-ssr-frontend-pulse_little-text-block&utm_source=chatgpt.com)
 
 ### Para guardar
 

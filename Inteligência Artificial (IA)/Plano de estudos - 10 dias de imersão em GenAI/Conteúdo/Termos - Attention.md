@@ -6,7 +6,7 @@
 
 **Attention (atenção)** é um mecanismo que permite ao modelo **determinar quais partes de uma entrada são mais relevantes para interpretar cada parte do texto**.
 
-É um dos conceitos mais importantes da arquitetura **Transformer**.
+É um dos conceitos mais importantes da arquitetura **[Transformer](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-transformer/)**.
 
 A ideia intuitiva é:
 
@@ -62,7 +62,7 @@ A palavra **"banco"** tem significados diferentes.
 
 O contexto ao redor ajuda o modelo a determinar qual significado faz sentido.
 
-No Transformer, a attention permite que cada token considere **outros tokens do contexto** para construir uma representação mais adequada.
+No Transformer, a attention permite que cada [token](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) considere **outros tokens do contexto** para construir uma representação mais adequada.
 
 Por isso, podemos pensar:
 
@@ -98,7 +98,7 @@ olha para o contexto
 
 Porque a attention é uma das principais razões pelas quais os **Transformers conseguem lidar tão bem com contexto e relações entre tokens**.
 
-Ela é fundamental para entender como funcionam os LLMs modernos.
+Ela é fundamental para entender como funcionam os [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) modernos.
 
 A relação entre os conceitos que você já viu começa a ficar assim:
 
@@ -120,52 +120,37 @@ Predição de próximos tokens
 
 ### Uma observação importante
 
-Você provavelmente vai encontrar daqui para frente os termos **Self-Attention**, **Query (Q)**, **Key (K)** e **Value (V)**.
+Você provavelmente vai encontrar daqui para frente os termos **[Self-Attention](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-self-attention/)**, **Query (Q)**, **Key (K)** e **Value (V)**.
 
 ---
 ### Complemento: Query, Key e Value
 
-Para realizar essa operação, o Transformer transforma cada token em três representações:
+Attention funciona como uma **busca por relevância**. Para isso, a informação é organizada em três papéis:
+- **Query (Q)**: a pergunta. O que este ponto da sequência precisa saber agora?
+- **Key (K)**: a etiqueta. O que cada elemento disponível oferece?
+- **Value (V)**: o conteúdo. A informação que de fato será entregue.
 
-**Query (Q)**  
-Representa o que o token está procurando ou tentando entender.
+Uma analogia é a busca em uma biblioteca:
+- A **Query** é o assunto que você procura ("receitas com chocolate").
+- As **Keys** são os títulos e etiquetas dos livros na estante.
+- Os **Values** são o conteúdo dos livros.
 
-**Key (K)**  
-Representa quais características aquele token oferece para ser encontrado.
+Você compara o seu assunto com as etiquetas, percebe quais livros combinam mais e lê principalmente esses, sem ignorar totalmente os outros.
 
-**Value (V)**  
-Representa a informação que será utilizada caso aquele token seja considerado relevante.
+O cálculo segue três passos:
+- **Comparar**: a Query é comparada com cada Key, gerando uma pontuação de compatibilidade.
+- **Normalizar**: as pontuações viram pesos que somam 100% (função softmax).
+- **Combinar**: os Values são misturados de acordo com esses pesos. Quem pontuou mais contribui mais.
 
-Uma analogia simples seria uma busca:
+Na notação do artigo "Attention Is All You Need" (2017):
 
 ```
-Query
-"Que informação é relevante para mim?"
-
-        ↓
-
-Keys
-"Eu tenho esta informação."
-"Eu tenho aquela informação."
-"Eu tenho outra informação."
-
-        ↓
-
-Attention
-"Qual delas é mais relevante?"
-
-        ↓
-
-Values
-"Então vou utilizar esta informação."
+Attention(Q, K, V) = softmax(Q · Kᵀ / √d) · V
 ```
 
-O cálculo de attention determina o quanto cada **Key** combina com uma **Query** e usa esses resultados para combinar os **Values**.
+O "√d" só serve para manter os números em uma escala estável.
 
-Você não precisa decorar as fórmulas agora. Para o seu material, basta guardar:
-
-> **Self-Attention permite que cada token considere os outros tokens da sequência, enquanto Query, Key e Value são as representações usadas para calcular e aplicar essas relações.**
-
+Um detalhe importante: Query, Key e Value **não precisam vir da mesma sequência**. Na tradução, por exemplo, a Query vem da frase que está sendo gerada e as Keys e Values vêm da frase original (isso se chama **Cross-Attention**). Quando os três vêm da mesma sequência, temos o **Self-Attention**.
 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-attention/)
 

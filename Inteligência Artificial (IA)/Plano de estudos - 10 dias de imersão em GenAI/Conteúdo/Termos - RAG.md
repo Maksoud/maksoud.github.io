@@ -8,7 +8,7 @@
 
 É uma arquitetura que combina duas coisas:
 1. **Retrieval:** buscar informações relevantes em uma fonte externa.
-2. **Generation:** fornecer essas informações ao LLM para que ele gere a resposta.
+2. **Generation:** fornecer essas informações ao [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) para que ele gere a resposta.
 
 A ideia central é:
 
@@ -76,7 +76,7 @@ Por exemplo:
 - dados de clientes;
 - políticas atualizadas.
 
-Também ajuda a reduzir **hallucinations**, porque o modelo recebe informações relevantes para fundamentar sua resposta. Porém, **RAG não elimina alucinações**. Se a busca recuperar informação errada ou insuficiente, o modelo ainda pode produzir uma resposta incorreta.
+Também ajuda a reduzir **[hallucinations](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-hallucination/)**, porque o modelo recebe informações relevantes para fundamentar sua resposta. Porém, **RAG não elimina alucinações**. Se a busca recuperar informação errada ou insuficiente, o modelo ainda pode produzir uma resposta incorreta.
 
 ### A arquitetura básica
 
@@ -84,7 +84,7 @@ Uma aplicação RAG geralmente possui duas etapas principais:
 
 **Antes da pergunta:**
 
-Documentos → divisão em partes → embeddings → armazenamento/indexação
+Documentos → divisão em partes → [embeddings](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-embedding/) → armazenamento/indexação
 
 **Quando o usuário pergunta:**
 
