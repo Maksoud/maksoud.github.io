@@ -8,7 +8,7 @@
 
 O ponto importante é que o modelo não está necessariamente "mentindo". Ele está gerando uma resposta com base nos padrões que aprendeu e nas informações disponíveis no contexto, mesmo quando não possui evidência suficiente para responder corretamente.
 
-## Como funciona, de forma intuitiva
+## Como funciona
 
 Um [LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/) funciona essencialmente prevendo quais [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) são mais prováveis de aparecer em seguida.
 

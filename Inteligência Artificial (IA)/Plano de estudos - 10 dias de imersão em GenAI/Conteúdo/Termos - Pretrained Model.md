@@ -8,7 +8,7 @@
 
 No contexto de [LLMs](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/), é o modelo que já aprendeu padrões de linguagem, estruturas, relações entre palavras e outros padrões presentes nos dados utilizados durante o treinamento.
 
-## Como funciona, de forma intuitiva
+## Como funciona
 
 Imagine que queremos criar um modelo capaz de trabalhar com linguagem.
 

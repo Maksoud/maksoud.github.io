@@ -16,7 +16,7 @@ Isso é especialmente útil em:
 - análise de problemas complexos;
 - tomada de decisão com várias etapas.
 
-## Como funciona, de forma intuitiva
+## Como funciona
 
 Imagine a diferença entre estas duas perguntas:
 

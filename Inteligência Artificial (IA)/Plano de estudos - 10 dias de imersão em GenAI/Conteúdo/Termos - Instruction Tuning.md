@@ -13,7 +13,7 @@ Em termos simples:
 > **Pretraining:** aprende linguagem e padrões.  
 > **Instruction tuning:** aprende a seguir instruções.
 
-## Como funciona, de forma intuitiva
+## Como funciona
 
 Depois do pré-treinamento, podemos apresentar ao modelo muitos exemplos no formato:
 

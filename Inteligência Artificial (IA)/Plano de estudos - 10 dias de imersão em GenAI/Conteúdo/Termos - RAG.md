@@ -14,7 +14,7 @@ A ideia central é:
 
 > **Em vez de depender apenas do que o modelo aprendeu durante o treinamento, buscamos informações relevantes no momento da pergunta e entregamos esse contexto ao modelo.**
 
-## Como funciona, de forma intuitiva
+## Como funciona
 
 Imagine que você tenha uma empresa com milhares de documentos internos:
 - manuais;
