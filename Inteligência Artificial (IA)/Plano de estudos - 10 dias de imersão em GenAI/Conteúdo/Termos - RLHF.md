@@ -10,7 +10,7 @@
 
 Enquanto o **[Instruction Tuning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-instruction-tuning/)** ensina o modelo a seguir instruções usando exemplos, o RLHF busca ensinar **quais respostas são melhores ou piores segundo avaliações humanas**.
 
-## Como funciona, de forma intuitiva
+## Como funciona
 
 Imagine que fazemos uma pergunta ao modelo:
 
