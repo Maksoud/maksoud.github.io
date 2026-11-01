@@ -2,7 +2,7 @@
 
 # Hyperparameters Top-p
 
-### 1. O que é?
+## O que é?
 
 **Top-p**, também chamado de **nucleus sampling**, é um parâmetro usado durante a geração para controlar **quais [tokens](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/) podem ser considerados na escolha do próximo token**.
 
@@ -10,7 +10,7 @@ A diferença fundamental em relação à [Temperature](https://correiarodrigues.
 
 > **Temperature altera as probabilidades. Top-p limita o conjunto de opções consideradas.**
 
-### 2. Como funciona?
+## Como funciona?
 
 Imagine que o modelo calculou estas probabilidades:
 
@@ -47,7 +47,7 @@ Os demais tokens ficam fora daquela escolha.
 
 Por isso o nome **nucleus sampling**. O modelo seleciona um "núcleo" de tokens cuja probabilidade acumulada atinge o valor de `p`.
 
-### 3. Um exemplo simples
+## Um exemplo simples
 
 Imagine que você peça:
 
@@ -84,7 +84,7 @@ Mais opções
 Mais variedade
 ```
 
-### 4. Por que é importante?
+## Por que é importante?
 
 Top-p permite controlar a **diversidade da geração** sem simplesmente escolher sempre o token mais provável.
 

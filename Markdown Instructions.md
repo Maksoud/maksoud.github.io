@@ -136,3 +136,8 @@ _itálico_
 > Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. \- Doug Engelbart, 1961
 
 
+## Fórmulas
+Para uma fórmula em uma linha própria, use dois sinais de dólar $$ antes e depois:
+$$
+m=\frac{y_2-y_1}{x_2-x_1}
+$$
