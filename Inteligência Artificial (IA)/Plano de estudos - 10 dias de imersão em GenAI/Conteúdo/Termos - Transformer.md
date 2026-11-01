@@ -79,7 +79,7 @@ Não precisamos entrar ainda em **[Self-Attention](https://correiarodrigues.com.
 ---
 ### Complemento: Query, Key e Value na arquitetura
 
-Dentro do Transformer, Query, Key e Value não são dados novos: são **três versões de cada token**, geradas a partir do seu embedding por três matrizes de pesos que o modelo aprende no treinamento:
+Dentro do Transformer, Query, Key e Value não são dados novos: são **três versões de cada [token](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-token/)**, geradas a partir do seu [embedding](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-embedding/) por três matrizes de pesos que o modelo aprende no treinamento:
 - **Query (Q)**: a versão do token usada para "perguntar" o que importa para ele.
 - **Key (K)**: a versão do token usada para ser comparada com as perguntas dos outros.
 - **Value (V)**: a versão do token que carrega o conteúdo que será repassado adiante.

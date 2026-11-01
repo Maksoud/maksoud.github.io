@@ -16,27 +16,27 @@ Pense em:
 
 ### Estude
 
-- Zero-shot Prompting
-- Few-shot Prompting
-- System Instructions
-- Role Prompting
-- Structured Output
-- JSON Schema
-- Chain-of-thought
-- Reasoning
-- Prompt Decomposition
-- Prompt Chaining
-- Context Management
-- Instruction Hierarchy
-- Guardrails
-- Prompt Injection
-- Jailbreak
-- Grounding
-- Tool Instructions
+- [Zero-shot Prompting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-zero-shot-prompting/)
+- [Few-shot Prompting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-few-shot-prompting/)
+- [System Instructions](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-system-instructions/)
+- [Role Prompting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-role-prompting/)
+- [Structured Output](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-structured-output/)
+- [JSON Schema](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-json-schema/)
+- [Chain-of-thought](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-chain-of-thought/)
+- [Reasoning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-reasoning/)
+- [Prompt Decomposition](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-decomposition/)
+- [Prompt Chaining](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-chaining/)
+- [Context Management](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-context-management/)
+- [Instruction Hierarchy](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-instruction-hierarchy/)
+- [Guardrails](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-guardrails/)
+- [Prompt Injection](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-prompt-injection/)
+- [Jailbreak](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-jailbreak/)
+- [Grounding](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-grounding/)
+- [Tool Instructions](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-tool-instructions/)
 
 Também estude:
 
-**Prompt engineering para RAG**
+**[Prompt engineering para RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/prompt-engineering-para-rag/)**
 
 porque é diferente do prompt tradicional.
 
