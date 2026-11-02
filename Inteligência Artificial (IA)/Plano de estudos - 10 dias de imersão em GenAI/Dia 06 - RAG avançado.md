@@ -6,45 +6,45 @@ Agora você volta para a teoria.
 
 Estude:
 
-### Retrieval
+### [Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval/)
 
-- semantic search
-- keyword search
-- hybrid search
-- BM25
-- metadata filtering
-- query expansion
-- query rewriting
+- [Semantic Search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-semantic-search/)
+- [Keyword Search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-keyword-search/)
+- [Hybrid Search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-hybrid-search/)
+- [BM25](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-bm25/)
+- [Metadata Filtering](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-metadata-filtering/)
+- [Query Expansion](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-query-expansion/)
+- [Query Rewriting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-query-rewriting/)
 
-### Reranking
+### [Reranking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking/)
 
-- cross encoder
-- reranker
-- relevance score
+- [Cross Encoder](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking-cross-encoder/)
+- [Reranker](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking-reranker/)
+- [Relevance Score](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking-relevance-score/)
 
-### Chunking
+### [Chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking/)
 
-- chunk size
-- overlap
-- semantic chunking
-- parent-child retrieval
+- [Chunk Size](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-chunk-size/)
+- [Overlap](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-overlap/)
+- [Semantic Chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-semantic-chunking/)
+- [Parent-child Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-parent-child-retrieval/)
 
 ### Context
 
-- context window
-- context compression
-- lost in the middle
-- context relevance
+- [Context Window](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-window/)
+- [Context Compression](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-compression/)
+- [Lost in the Middle](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-lost-in-the-middle/)
+- [Context Relevance](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-relevance/)
 
 ### RAG avançado
 
 Comece a conhecer:
 - Agentic RAG
 - GraphRAG
-- multimodal RAG
-- contextual retrieval
-- corrective RAG
-- self-RAG
+- Multimodal RAG
+- Contextual Retrieval
+- Corrective RAG
+- Self-RAG
 
 **Não tente implementar tudo.**
 

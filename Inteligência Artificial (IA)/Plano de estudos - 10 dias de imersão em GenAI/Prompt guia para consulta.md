@@ -61,7 +61,6 @@ Priorize a compreensão do funcionamento em vez de apenas descrever característ
 ### Um exemplo
 
 Crie um exemplo prático, preferencialmente relacionado a:
-
 - RAG
 - LLMs
 - documentos
@@ -84,7 +83,6 @@ Sempre que fizer sentido, conecte o conceito aos termos estudados anteriormente.
 Escreva em **português brasileiro**.
 
 O texto deve ser:
-
 - didático;
 - claro;
 - técnico sem ser excessivamente acadêmico;
