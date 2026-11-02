@@ -7,17 +7,17 @@ Esse será um dos dias mais importantes para você.
 Se você entender embeddings, **RAG começa a fazer sentido**.
 
 ### Pesquise:
-- Embedding
-- Vector Embedding
-- Semantic Similarity
-- Cosine Similarity
-- Vector Database
-- Vector Search
-- Nearest Neighbor
-- Semantic Search
-- Dense Retrieval
-- Sparse Retrieval
-- BM25
+- [Embedding](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings/)
+- [Vector Embedding](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-vector-embedding/)
+- [Semantic Similarity](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-semantic-similarity/)
+- [Cosine Similarity](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-cosine-similarity/)
+- [Vector Database](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-vector-database/)
+- [Vector Search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-vector-search/)
+- [Nearest Neighbor](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-nearest-neighbor/)
+- [Semantic Search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-semantic-search/)
+- [Dense Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-dense-retrieval/)
+- [Sparse Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-sparse-retrieval/)
+- [BM25](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-bm25/)
 
 A Anthropic explica o pipeline básico de RAG de maneira bastante clara: documentos são divididos em chunks, transformados em embeddings, armazenados e posteriormente recuperados por similaridade semântica. [Anthropic](https://www.anthropic.com/research/contextual-retrieval?utm_source=chatgpt.com)
 
