@@ -113,16 +113,16 @@ Estudar o RAG em camadas: ingestão, chunking, embeddings, indexação, retrieva
 [Ver detalhes do Dia 4](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
 
 Termos do dia:
-- Conceito e arquitetura
-- Ingestion de documentos
-- Parsing e cleaning
-- Chunking e chunk overlap
-- Embeddings e indexing
-- Retrieval e top-k
-- Metadata filtering
-- Reranking
-- Contexto e geração
-- RAG vs. conhecimento paramétrico
+- [Conceito e arquitetura](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag/)
+- [Ingestion](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion/) de documentos
+- [Parsing](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion-parsing/) e [cleaning](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion-cleaning/)
+- [Chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking/) e [chunk overlap](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-overlap/)
+- [Embeddings](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings/) e [indexing](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing/)
+- [Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval/) e [top-k](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-top-k/)
+- [Metadata filtering](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-metadata-filtering/)
+- [Reranking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking/)
+- [Contexto](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-window/) e [geração](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-generation/)
+- [RAG vs. conhecimento paramétrico](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-rag-vs-conhecimento-parametrico/)
 
 ---
 
@@ -133,12 +133,12 @@ Pausa na teoria para construir um primeiro "chat com meus documentos", entendend
 [Ver detalhes do Dia 5](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-05-construir-seu-primeiro-rag/)
 
 Termos do dia:
-- Preparação de documentos
-- Criação dos chunks
-- Geração de embeddings
-- Vector database
-- Pipeline de retrieval
-- Integração com LLM
+- [Preparação de documentos](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion/)
+- [Criação dos chunks](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking/)
+- [Geração de embeddings](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings/)
+- [Vector database](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-vector-database/)
+- [Pipeline de retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval/)
+- [Integração com LLM](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-llm/)
 - Testes e análise dos resultados
 
 ---
@@ -150,17 +150,17 @@ Conhecer técnicas avançadas de retrieval, reranking, chunking e contexto, alé
 [Ver detalhes do Dia 6](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-06-rag-avancado/)
 
 Termos do dia:
-- Hybrid search
-- Query rewriting
-- Query expansion
-- Semantic chunking
-- Parent-child retrieval
-- Context compression
-- Agentic RAG
-- GraphRAG
-- Multimodal RAG
-- Contextual Retrieval
-- Corrective RAG / Self-RAG
+- [Hybrid search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-hybrid-search/)
+- [Query rewriting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-query-rewriting/)
+- [Query expansion](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-query-expansion/)
+- [Semantic chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-semantic-chunking/)
+- [Parent-child retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-parent-child-retrieval/)
+- [Context compression](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-context-compression/)
+- [Agentic RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-agentic-rag/)
+- [GraphRAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-graphrag/)
+- [Multimodal RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-multimodal-rag/)
+- [Contextual Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-contextual-retrieval/)
+- [Corrective RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-corrective-rag/) / [Self-RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-self-rag/)
 
 ---
 

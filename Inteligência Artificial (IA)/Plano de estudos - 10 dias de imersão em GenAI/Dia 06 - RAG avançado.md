@@ -39,12 +39,12 @@ Estude:
 ### RAG avançado
 
 Comece a conhecer:
-- Agentic RAG
-- GraphRAG
-- Multimodal RAG
-- Contextual Retrieval
-- Corrective RAG
-- Self-RAG
+- [Agentic RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-agentic-rag/)
+- [GraphRAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-graphrag/)
+- [Multimodal RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-multimodal-rag/)
+- [Contextual Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-contextual-retrieval/)
+- [Corrective RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-corrective-rag/)
+- [Self-RAG](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/rag-avancado-self-rag/)
 
 **Não tente implementar tudo.**
 
