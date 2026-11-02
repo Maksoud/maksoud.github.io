@@ -1,4 +1,7 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Pinecone
+
 ## O que é
 
 **Pinecone** é uma plataforma de banco de dados vetorial voltada para armazenar, indexar e pesquisar embeddings em aplicações de IA.
@@ -227,3 +230,9 @@ Resposta
 ```
 
 O ponto central é: **Pinecone é uma plataforma especializada em armazenamento e busca vetorial que pode manter os embeddings e seus metadados indexados, permitindo que sistemas RAG recuperem rapidamente os chunks mais relevantes para uma consulta.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-pinecone/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

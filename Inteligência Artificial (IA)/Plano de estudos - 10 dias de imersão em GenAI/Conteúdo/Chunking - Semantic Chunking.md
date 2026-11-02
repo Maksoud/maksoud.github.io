@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Semantic Chunking
 
 ## O que é
@@ -160,3 +162,9 @@ Semantic Chunking
 Na prática, essas estratégias podem até ser combinadas. Um sistema pode usar critérios semânticos para encontrar pontos naturais de divisão e, ao mesmo tempo, impor um tamanho máximo para evitar chunks excessivamente grandes.
 
 O ponto central é: **Semantic Chunking busca transformar um documento em unidades de significado coerentes, fazendo com que as fronteiras entre chunks acompanhem mudanças de assunto em vez de depender apenas do tamanho do texto.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-semantic-chunking/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

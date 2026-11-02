@@ -1,4 +1,7 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Indexing FAISS
+
 ## O que é
 
 **FAISS**, sigla para _Facebook AI Similarity Search_, é uma biblioteca desenvolvida pela Meta para realizar **busca eficiente por similaridade entre vetores**.
@@ -180,3 +183,9 @@ Outro conceito importante é que o FAISS oferece diferentes estratégias de inde
 Isso introduz uma ideia importante para os próximos conceitos: **Approximate Nearest Neighbor (ANN)**, em que o sistema procura os vizinhos mais próximos de maneira aproximada para obter uma busca muito mais eficiente em grandes bases.
 
 O ponto central é: **FAISS é uma biblioteca especializada em indexação e busca por similaridade vetorial, permitindo que sistemas como RAG encontrem rapidamente os embeddings mais próximos de uma consulta.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-faiss/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Similarity Search
 
 ## O que é
@@ -234,3 +236,9 @@ LLM
 ```
 
 A ideia central é: **Similarity Search encontra, dentro de uma coleção de representações, os conteúdos mais próximos de uma consulta segundo uma métrica de similaridade ou distância. Em RAG, ele é uma das principais formas de transformar uma pergunta em um conjunto de informações candidatas para o LLM.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-similarity-search/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

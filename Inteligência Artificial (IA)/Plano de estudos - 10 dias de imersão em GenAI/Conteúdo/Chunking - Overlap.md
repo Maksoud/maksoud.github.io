@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Chunking Overlap
 
 ## O que é
@@ -199,3 +201,9 @@ transforma os chunks em vetores
 ```
 
 O ponto central é: **Chunking Overlap mantém uma pequena parte do contexto entre chunks consecutivos, reduzindo o risco de que informações relacionadas sejam separadas de forma prejudicial durante a divisão do documento.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-overlap/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

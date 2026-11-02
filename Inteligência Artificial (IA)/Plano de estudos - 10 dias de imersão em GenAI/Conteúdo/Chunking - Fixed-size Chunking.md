@@ -1,4 +1,7 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Fixed-size Chunking
+
 ## O que é
 
 **Fixed-size Chunking** é uma estratégia de chunking em que o conteúdo é dividido em partes com tamanho predefinido.
@@ -132,3 +135,9 @@ Divide considerando significado e estrutura
 ```
 
 O ponto central é: **Fixed-size Chunking transforma um documento em chunks de tamanho controlado, mas não necessariamente em unidades completas de significado.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-fixed-size-chunking/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

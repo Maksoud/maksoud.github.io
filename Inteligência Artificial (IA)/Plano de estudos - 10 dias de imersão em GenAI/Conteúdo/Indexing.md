@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Indexing
 
 ## O que é
@@ -181,3 +183,9 @@ Retrieval
 Portanto, o Indexing fica entre a preparação dos dados e a recuperação eficiente dessas informações. Ele não é o conteúdo em si nem a busca realizada pelo usuário. É a **estrutura que torna a busca viável e eficiente em grandes volumes de dados**.
 
 O ponto central é: **Indexing é o processo de criar estruturas organizadas que permitem localizar informações de forma eficiente, sendo fundamental para que o retrieval consiga encontrar rapidamente os chunks relevantes em uma base de conhecimento.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

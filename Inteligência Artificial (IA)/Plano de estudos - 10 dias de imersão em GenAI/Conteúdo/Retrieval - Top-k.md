@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Top-k
 
 ## O que é
@@ -235,3 +237,9 @@ LLM
 ```
 
 A ideia central é: **Top-k define quantos dos resultados mais relevantes serão selecionados durante o Retrieval. O valor de** `**k**` **controla o equilíbrio entre cobertura da informação, quantidade de contexto e custo computacional.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-top-k/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Ingestion Cleaning
 
 ## O que é
@@ -283,3 +285,9 @@ Vector Database
 Essa ordem não é obrigatória em todos os sistemas, pois pipelines reais podem ter etapas adicionais ou diferentes, mas ela representa bem a lógica geral.
 
 A ideia central é: **Ingestion Cleaning prepara o conteúdo coletado para as etapas seguintes do RAG, removendo ruídos e problemas de formatação sem eliminar informações necessárias para preservar o significado original.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion-cleaning/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Query Rewriting
 
 ## O que é
@@ -245,3 +247,9 @@ Também podemos relacioná-lo aos conceitos anteriores:
 |Reranking|Reordena os resultados recuperados|
 
 A ideia central é: **Query Rewriting transforma a pergunta original em uma consulta mais adequada ao mecanismo de Retrieval, preservando sua intenção e aumentando a possibilidade de encontrar as informações relevantes.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-query-rewriting/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

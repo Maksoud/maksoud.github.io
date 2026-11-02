@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Ingestion Parsing
 
 ## O que é
@@ -276,3 +278,9 @@ Essa sequência ajuda a entender uma distinção importante:
 **Embedding** transforma essas unidades em representações vetoriais.
 
 A ideia central é: **Ingestion Parsing é a etapa que interpreta os dados recebidos e transforma sua estrutura original em uma representação que o pipeline de RAG consiga processar, preservando relações importantes entre os elementos do conteúdo.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion-parsing/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

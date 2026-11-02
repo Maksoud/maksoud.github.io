@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Retrieval
 
 ## O que é
@@ -229,3 +231,9 @@ Retrieval
 ```
 
 A ideia central é: **Retrieval é a etapa do RAG responsável por encontrar e selecionar, a partir da base de conhecimento, as informações mais relevantes para a consulta atual.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

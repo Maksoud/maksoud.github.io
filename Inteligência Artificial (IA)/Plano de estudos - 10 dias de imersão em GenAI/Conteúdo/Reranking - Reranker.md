@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Reranker
 
 ## O que é
@@ -253,3 +255,9 @@ LLM
 ```
 
 A ideia central é: **Reranker é o componente que reavalia os resultados recuperados, atribuindo uma pontuação de relevância mais específica à relação entre a consulta e cada candidato, para produzir um conjunto final de informações mais adequado ao LLM.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking-reranker/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

@@ -1,4 +1,7 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Indexing Qdrant
+
 ## O que é
 
 **Qdrant** é um banco de dados vetorial desenvolvido para armazenar, indexar e pesquisar vetores, sendo utilizado em aplicações como busca semântica, sistemas de recomendação e RAG.
@@ -214,3 +217,9 @@ LLM
 ```
 
 O ponto central é: **Qdrant é um banco de dados vetorial que armazena embeddings e informações associadas, utilizando índices de busca vetorial para encontrar rapidamente os chunks semanticamente mais relevantes para uma consulta.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-qdrant/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

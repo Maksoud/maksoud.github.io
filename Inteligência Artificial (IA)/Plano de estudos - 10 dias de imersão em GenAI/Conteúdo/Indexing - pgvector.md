@@ -1,4 +1,7 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Pgvector
+
 ## O que é
 
 **pgvector** é uma extensão do **PostgreSQL** que permite armazenar, indexar e pesquisar vetores diretamente dentro de um banco de dados relacional.
@@ -189,3 +192,9 @@ LLM
 ```
 
 O ponto central é: **pgvector permite que o PostgreSQL armazene e pesquise embeddings, combinando busca vetorial com os recursos tradicionais de um banco de dados relacional.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-pgvector/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

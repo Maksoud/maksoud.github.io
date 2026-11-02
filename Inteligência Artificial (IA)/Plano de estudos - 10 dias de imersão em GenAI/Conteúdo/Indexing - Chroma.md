@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Indexing Chroma
 
 ## O que é
@@ -198,3 +200,9 @@ Um ponto importante é que **Chroma não é obrigatório para construir RAG**. E
 Assim, quando falamos em **Indexing com Chroma**, estamos essencialmente falando sobre pegar os chunks já preparados e seus embeddings, armazená-los de maneira organizada e disponibilizá-los para consultas eficientes posteriormente.
 
 O ponto central é: **Chroma é uma tecnologia de armazenamento e recuperação vetorial que pode ser utilizada na etapa de Indexing de um sistema RAG, mantendo embeddings, conteúdo e metadados organizados para que os chunks relevantes possam ser encontrados durante o retrieval.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-chroma/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

@@ -36,7 +36,7 @@ Esse é o pipeline básico descrito também pela documentação do Google. [Goog
 
 Você precisa estudar o RAG em camadas:
 
-### 1. Ingestion
+### 1. [Ingestion](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion/)
 
 Como os dados entram?
 
@@ -54,16 +54,16 @@ Cleaning
 Chunking
 ```
 
-### 2. Chunking
+### 2. [Chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking/)
 
 Estude:
-- fixed-size chunking
-- semantic chunking
-- recursive chunking
-- overlap
-- metadata
+- [fixed-size chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-fixed-size-chunking/)
+- [semantic chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-semantic-chunking/)
+- [recursive chunking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-recursive-chunking/)
+- [overlap](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-overlap/)
+- [metadata](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-metadata/)
 
-### 3. Embeddings
+### 3. [Embeddings](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings/)
 
 ```
 chunk
@@ -73,31 +73,31 @@ embedding model
 vector
 ```
 
-### 4. Indexing
+### 4. [Indexing](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing/)
 
 Onde armazenamos os vetores?
 
 Pesquise:
-- FAISS
-- Chroma
-- Pinecone
-- Weaviate
-- Qdrant
-- pgvector
+- [FAISS](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-faiss/)
+- [Chroma](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-chroma/)
+- [Pinecone](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-pinecone/)
+- [Weaviate](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-weaviate/)
+- [Qdrant](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-qdrant/)
+- [pgvector](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-pgvector/)
 
 Para seu primeiro projeto, eu escolheria **Chroma ou FAISS**, porque você quer entender o conceito antes de entrar em infraestrutura.
 
-### 5. Retrieval
+### 5. [Retrieval](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval/)
 
 Pesquise:
-- top-k
-- similarity search
-- semantic search
-- hybrid search
-- metadata filtering
-- query rewriting
+- [top-k](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-top-k/)
+- [similarity search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-similarity-search/)
+- [semantic search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-semantic-search/)
+- [hybrid search](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-hybrid-search/)
+- [metadata filtering](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-metadata-filtering/)
+- [query rewriting](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-query-rewriting/)
 
-### 6. Reranking
+### 6. [Reranking](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking/)
 
 Esse termo é importante.
 
@@ -119,7 +119,7 @@ LLM
 
 Isso é muito mais próximo de um sistema RAG real.
 
-### 7. Generation
+### 7. [Generation](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/termos-generation/)
 
 Finalmente:
 

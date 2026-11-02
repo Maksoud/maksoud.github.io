@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Weaviate
 
 ## O que é
@@ -197,3 +199,9 @@ Ele também ajuda a entender uma distinção importante:
 O Weaviate pode trabalhar com diferentes formas de busca e indexação, incluindo estruturas voltadas para **Approximate Nearest Neighbor**, conceito que será importante para entender como bancos vetoriais conseguem pesquisar grandes quantidades de embeddings sem comparar necessariamente a consulta com todos os vetores.
 
 A ideia central é: **Weaviate é uma infraestrutura de banco de dados vetorial que organiza embeddings e seus metadados para permitir buscas semânticas eficientes, sendo uma das opções que podem ser utilizadas na etapa de indexing de um sistema RAG.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/indexing-weaviate/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

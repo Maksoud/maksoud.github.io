@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Chunking Metadata
 
 ## O que é
@@ -173,3 +175,9 @@ O metadata ajuda a responder **"de onde veio, a que pertence e em quais condiç�
 Assim, no contexto de RAG, os metadados complementam o embedding. O embedding ajuda a encontrar conteúdo semanticamente relevante, enquanto os metadados permitem restringir, organizar e contextualizar essa busca.
 
 O ponto central é: **Chunking Metadata adiciona contexto estruturado aos chunks, permitindo que o sistema saiba não apenas o conteúdo de cada trecho, mas também sua origem, classificação e outras características úteis para a recuperação.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/chunking-metadata/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

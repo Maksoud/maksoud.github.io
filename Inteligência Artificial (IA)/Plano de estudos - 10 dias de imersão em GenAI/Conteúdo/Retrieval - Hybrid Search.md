@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Hybrid Search
 
 ## O que é
@@ -217,3 +219,9 @@ Retrieval
 Assim, **Hybrid Search não substitui o Retrieval**. Ele é uma estratégia utilizada **dentro do Retrieval** para combinar diferentes sinais de relevância.
 
 A ideia central é: **Hybrid Search combina busca por significado com busca por termos para aumentar a probabilidade de recuperar as informações realmente relevantes para a consulta.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-hybrid-search/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

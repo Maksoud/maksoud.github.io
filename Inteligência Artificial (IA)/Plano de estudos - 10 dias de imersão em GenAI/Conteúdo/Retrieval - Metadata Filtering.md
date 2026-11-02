@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Metadata Filtering
 
 ## O que é
@@ -254,3 +256,9 @@ Podemos visualizar a combinação com os conceitos estudados:
 ```
 
 A ideia central é: **Metadata Filtering utiliza informações estruturadas associadas aos chunks para restringir e orientar o Retrieval, permitindo combinar filtros objetivos com busca por relevância.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/retrieval-metadata-filtering/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

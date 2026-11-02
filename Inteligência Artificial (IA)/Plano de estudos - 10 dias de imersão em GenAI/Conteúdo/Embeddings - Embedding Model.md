@@ -1,4 +1,7 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Embedding Model
+
 ## O que é
 
 **Embedding Model** é um modelo de IA especializado em transformar informações, como textos, em **vetores numéricos que representam suas características semânticas**.
@@ -197,3 +200,9 @@ utiliza o contexto para gerar a resposta
 ```
 
 O ponto central é: **o Embedding Model transforma conteúdos em representações vetoriais que permitem ao sistema comparar e recuperar informações com base em significado, sendo uma das peças fundamentais do mecanismo de busca semântica em RAG.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/embeddings-embedding-model/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

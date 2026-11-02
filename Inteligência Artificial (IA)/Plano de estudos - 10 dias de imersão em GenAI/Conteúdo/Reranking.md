@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Reranking
 
 ## O que é
@@ -272,3 +274,9 @@ para determinar sua relevância relativa.
 O Reranking também não precisa necessariamente utilizar o mesmo mecanismo da busca inicial. Um sistema pode, por exemplo, utilizar embeddings para recuperar candidatos e depois utilizar um modelo especializado de Reranking para comparar diretamente a consulta com cada documento.
 
 A ideia central é: **Reranking é uma segunda etapa de avaliação que reorganiza os candidatos recuperados, priorizando aqueles que apresentam maior relevância para a consulta antes que o contexto seja enviado ao LLM.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/reranking/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>

@@ -1,3 +1,5 @@
+[← Voltar para o Dia 4: RAG: finalmente](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/dia-04-rag-finalmente/)
+
 # Ingestion
 
 ## O que é
@@ -243,3 +245,9 @@ A **Ingestion** prepara o conhecimento antes da pergunta existir.
 O **Retrieval** utiliza esse conhecimento quando a pergunta chega.
 
 A ideia central é: **Ingestion é o processo de trazer dados de suas fontes para dentro do pipeline do RAG, extraindo, preparando e organizando essas informações para que possam posteriormente ser indexadas e recuperadas.**
+
+[link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/ingestion/)
+
+<sup><sub>
+Renée Maksoud - novembro de 2026
+</sub></sup>
