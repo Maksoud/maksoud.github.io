@@ -2,7 +2,7 @@
 
 # Dia 4: RAG: finalmente
 
-Aqui começa a parte que provavelmente terá maior retorno para a vaga.
+Aqui começa a parte que provavelmente terá maior retorno para oportunidades de mercado.
 
 ## RAG = Retrieval-Augmented Generation
 
@@ -84,10 +84,6 @@ Pesquise:
 - Weaviate
 - Qdrant
 - pgvector
-
-Não precisa aprender todos.
-
-**Escolha um.**
 
 Para seu primeiro projeto, eu escolheria **Chroma ou FAISS**, porque você quer entender o conceito antes de entrar em infraestrutura.
 
