@@ -142,6 +142,8 @@ print(resposta)
 
 Para o modo simulado, basta trocar a instrução do prompt: "Com base no contexto, crie 3 questões de múltipla escolha com 4 alternativas, indique a correta e explique".
 
+A versão completa (com simulado, avaliação pelo gabarito e modo chat) está na pasta `Projeto/tutor_itil.py`, ao lado destas notas.
+
 #### Experimentos para fazer
 
 - Mudar o tamanho do chunk (por título vs. a cada 500 caracteres) e ver o efeito no gabarito.
