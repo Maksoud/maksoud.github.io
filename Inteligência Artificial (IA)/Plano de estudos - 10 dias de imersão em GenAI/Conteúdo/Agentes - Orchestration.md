@@ -78,7 +78,7 @@ Parte do fluxo é decidida pelo LLM (classificação), parte é fixa (cancelamen
 
 Boa orquestração é o que torna sistemas de IA **confiáveis**. Deixar tudo nas mãos do LLM é flexível, mas imprevisível; fixar tudo em código é previsível, mas rígido.
 
-O trabalho do engenheiro é encontrar o equilíbrio: **determinístico onde dá, agêntico onde precisa**.
+O trabalho do engenheiro é encontrar o equilíbrio: **determinístico onde dá, agêntico onde precisa.**
 
 [link de compartilhamento](https://correiarodrigues.com.br/notas/inteligencia-artificial-ia/plano-de-estudos-10-dias-de-imersao-em-genai/conteudo/agentes-orchestration/)
 

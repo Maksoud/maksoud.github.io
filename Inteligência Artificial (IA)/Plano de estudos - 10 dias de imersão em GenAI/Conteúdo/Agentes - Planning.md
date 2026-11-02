@@ -12,11 +12,11 @@ Ele se relaciona com **Chain-of-thought** e **Prompt Decomposition** (Dia 2), ma
 Objetivo: "Preparar relatório mensal de vendas"
    ↓
 Plano:
-1. Buscar vendas do mês no banco
-2. Comparar com o mês anterior
-3. Gerar gráfico
-4. Escrever resumo
-5. Enviar por e-mail ao gestor
+	1. Buscar vendas do mês no banco
+	2. Comparar com o mês anterior
+	3. Gerar gráfico
+	4. Escrever resumo
+	5. Enviar por e-mail ao gestor
 ```
 
 ## Como funciona
