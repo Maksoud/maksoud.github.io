@@ -77,6 +77,7 @@
 * [A importância do trabalho manual](https://correiarodrigues.com.br/notas/mente-e-estudos/a-importancia-do-trabalho-manual/) - *2026-07-26*
 * [Tome uma decisão, não somente faça escolhas](https://correiarodrigues.com.br/notas/mente-e-estudos/tome-uma-decisao-nao-somente-faca-escolhas/) - *2026-09-21*
 * [Gestão do tempo](https://correiarodrigues.com.br/notas/mente-e-estudos/gestao-do-tempo/) - *2026-10-27*
+* [Desenvolvendo a Antifragilidade e adquirindo Audácia](https://correiarodrigues.com.br/notas/mente-e-estudos/desenvolvendo-a-antifragilidade-e-adquirindo-audacia/) - *2026-11-23*
 * [English Test Workana](https://correiarodrigues.com.br/notas/mente-e-estudos/english-test-workana/) - *2025-05-18*
 * [IKIGAI](https://correiarodrigues.com.br/notas/mente-e-estudos/ikigai/) - *2024-07-28*
 
